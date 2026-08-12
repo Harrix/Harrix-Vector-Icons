@@ -1,0 +1,17 @@
+---
+categories: [it]
+tags: [it, trash, full]
+title: Trash Full
+---
+
+# Trash Full
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![it__trash-full_01](img/it__trash-full_01.svg)
+- ![it__trash-full_02](img/it__trash-full_02.svg)
+- ![it__trash-full_black](img/it__trash-full_black.svg)
+- ![it__trash-full_gray](img/it__trash-full_gray.svg)
+- ![it__trash-full_white](img/it__trash-full_white.svg)

@@ -1,0 +1,21 @@
+---
+categories: [object]
+tags: [object, office, file, folder]
+title: Office File Folder
+---
+
+# Office File Folder
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__office-file-folder_01](img/object__office-file-folder_01.svg)
+- ![object__office-file-folder_02](img/object__office-file-folder_02.svg)
+- ![object__office-file-folder_03](img/object__office-file-folder_03.svg)
+- ![object__office-file-folder_04](img/object__office-file-folder_04.svg)
+- ![object__office-file-folder_05](img/object__office-file-folder_05.svg)
+- ![object__office-file-folder_06](img/object__office-file-folder_06.svg)
+- ![object__office-file-folder_black](img/object__office-file-folder_black.svg)
+- ![object__office-file-folder_gray](img/object__office-file-folder_gray.svg)
+- ![object__office-file-folder_white](img/object__office-file-folder_white.svg)

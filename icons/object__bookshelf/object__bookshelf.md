@@ -1,0 +1,22 @@
+---
+categories: [object]
+tags: [object, bookshelf]
+title: Bookshelf
+---
+
+# Bookshelf
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__bookshelf_01](img/object__bookshelf_01.svg)
+- ![object__bookshelf_02](img/object__bookshelf_02.svg)
+- ![object__bookshelf_03](img/object__bookshelf_03.svg)
+- ![object__bookshelf_04](img/object__bookshelf_04.svg)
+- ![object__bookshelf_black_01](img/object__bookshelf_black_01.svg)
+- ![object__bookshelf_black_02](img/object__bookshelf_black_02.svg)
+- ![object__bookshelf_gray_01](img/object__bookshelf_gray_01.svg)
+- ![object__bookshelf_gray_02](img/object__bookshelf_gray_02.svg)
+- ![object__bookshelf_white_01](img/object__bookshelf_white_01.svg)
+- ![object__bookshelf_white_02](img/object__bookshelf_white_02.svg)

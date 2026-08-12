@@ -1,0 +1,22 @@
+---
+categories: [object]
+tags: [object, toolbox]
+title: Toolbox
+---
+
+# Toolbox
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__toolbox_01](img/object__toolbox_01.svg)
+- ![object__toolbox_02](img/object__toolbox_02.svg)
+- ![object__toolbox_03](img/object__toolbox_03.svg)
+- ![object__toolbox_04](img/object__toolbox_04.svg)
+- ![object__toolbox_black_01](img/object__toolbox_black_01.svg)
+- ![object__toolbox_black_02](img/object__toolbox_black_02.svg)
+- ![object__toolbox_gray_01](img/object__toolbox_gray_01.svg)
+- ![object__toolbox_gray_02](img/object__toolbox_gray_02.svg)
+- ![object__toolbox_white_01](img/object__toolbox_white_01.svg)
+- ![object__toolbox_white_02](img/object__toolbox_white_02.svg)

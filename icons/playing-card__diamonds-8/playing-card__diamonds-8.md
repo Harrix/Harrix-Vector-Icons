@@ -1,0 +1,17 @@
+---
+categories: [playing-card]
+tags: [playing-card, diamonds, 8]
+title: Diamonds 8
+---
+
+# Diamonds 8
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![playing-card__diamonds-8_01](img/playing-card__diamonds-8_01.svg)
+- ![playing-card__diamonds-8_02](img/playing-card__diamonds-8_02.svg)
+- ![playing-card__diamonds-8_black](img/playing-card__diamonds-8_black.svg)
+- ![playing-card__diamonds-8_gray](img/playing-card__diamonds-8_gray.svg)
+- ![playing-card__diamonds-8_white](img/playing-card__diamonds-8_white.svg)

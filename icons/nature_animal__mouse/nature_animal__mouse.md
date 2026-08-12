@@ -1,0 +1,30 @@
+---
+categories: [nature_animal]
+tags: [nature, animal, mouse]
+title: Mouse
+---
+
+# Mouse
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![nature_animal__mouse_01](img/nature_animal__mouse_01.svg)
+- ![nature_animal__mouse_02](img/nature_animal__mouse_02.svg)
+- ![nature_animal__mouse_03](img/nature_animal__mouse_03.svg)
+- ![nature_animal__mouse_04](img/nature_animal__mouse_04.svg)
+- ![nature_animal__mouse_05](img/nature_animal__mouse_05.svg)
+- ![nature_animal__mouse_06](img/nature_animal__mouse_06.svg)
+- ![nature_animal__mouse_black_01](img/nature_animal__mouse_black_01.svg)
+- ![nature_animal__mouse_black_02](img/nature_animal__mouse_black_02.svg)
+- ![nature_animal__mouse_black_03](img/nature_animal__mouse_black_03.svg)
+- ![nature_animal__mouse_black_04](img/nature_animal__mouse_black_04.svg)
+- ![nature_animal__mouse_gray_01](img/nature_animal__mouse_gray_01.svg)
+- ![nature_animal__mouse_gray_02](img/nature_animal__mouse_gray_02.svg)
+- ![nature_animal__mouse_gray_03](img/nature_animal__mouse_gray_03.svg)
+- ![nature_animal__mouse_gray_04](img/nature_animal__mouse_gray_04.svg)
+- ![nature_animal__mouse_white_01](img/nature_animal__mouse_white_01.svg)
+- ![nature_animal__mouse_white_02](img/nature_animal__mouse_white_02.svg)
+- ![nature_animal__mouse_white_03](img/nature_animal__mouse_white_03.svg)
+- ![nature_animal__mouse_white_04](img/nature_animal__mouse_white_04.svg)

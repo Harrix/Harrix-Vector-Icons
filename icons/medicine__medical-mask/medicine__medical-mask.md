@@ -1,0 +1,16 @@
+---
+categories: [medicine]
+tags: [medicine, medical, mask]
+title: Medical Mask
+---
+
+# Medical Mask
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![medicine__medical-mask_02](img/medicine__medical-mask_02.svg)
+- ![medicine__medical-mask_black](img/medicine__medical-mask_black.svg)
+- ![medicine__medical-mask_gray](img/medicine__medical-mask_gray.svg)
+- ![medicine__medical-mask_white](img/medicine__medical-mask_white.svg)

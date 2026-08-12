@@ -1,0 +1,17 @@
+---
+categories: [furniture]
+tags: [furniture, shelf]
+title: Shelf
+---
+
+# Shelf
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![furniture__shelf_01](img/furniture__shelf_01.svg)
+- ![furniture__shelf_02](img/furniture__shelf_02.svg)
+- ![furniture__shelf_black](img/furniture__shelf_black.svg)
+- ![furniture__shelf_gray](img/furniture__shelf_gray.svg)
+- ![furniture__shelf_white](img/furniture__shelf_white.svg)

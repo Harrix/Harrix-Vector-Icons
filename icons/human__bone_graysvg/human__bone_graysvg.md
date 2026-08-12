@@ -1,0 +1,13 @@
+---
+categories: [human]
+tags: [human, bone_graysvg]
+title: Bone Graysvg
+---
+
+# Bone Graysvg
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![human__bone_graysvg](img/human__bone_graysvg.svg)

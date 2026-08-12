@@ -1,0 +1,17 @@
+---
+categories: [object]
+tags: [object, samovar]
+title: Samovar
+---
+
+# Samovar
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__samovar_01](img/object__samovar_01.svg)
+- ![object__samovar_02](img/object__samovar_02.svg)
+- ![object__samovar_black](img/object__samovar_black.svg)
+- ![object__samovar_gray](img/object__samovar_gray.svg)
+- ![object__samovar_white](img/object__samovar_white.svg)

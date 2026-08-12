@@ -1,0 +1,19 @@
+---
+categories: [weapon]
+tags: [weapon, falchion]
+title: Falchion
+---
+
+# Falchion
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![weapon__falchion_01](img/weapon__falchion_01.svg)
+- ![weapon__falchion_02](img/weapon__falchion_02.svg)
+- ![weapon__falchion_03](img/weapon__falchion_03.svg)
+- ![weapon__falchion_04](img/weapon__falchion_04.svg)
+- ![weapon__falchion_black](img/weapon__falchion_black.svg)
+- ![weapon__falchion_gray](img/weapon__falchion_gray.svg)
+- ![weapon__falchion_white](img/weapon__falchion_white.svg)

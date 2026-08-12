@@ -1,0 +1,22 @@
+---
+categories: [clothes]
+tags: [clothes, gangster, hat]
+title: Gangster Hat
+---
+
+# Gangster Hat
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![clothes__gangster-hat_01](img/clothes__gangster-hat_01.svg)
+- ![clothes__gangster-hat_02](img/clothes__gangster-hat_02.svg)
+- ![clothes__gangster-hat_03](img/clothes__gangster-hat_03.svg)
+- ![clothes__gangster-hat_04](img/clothes__gangster-hat_04.svg)
+- ![clothes__gangster-hat_black_01](img/clothes__gangster-hat_black_01.svg)
+- ![clothes__gangster-hat_black_02](img/clothes__gangster-hat_black_02.svg)
+- ![clothes__gangster-hat_gray_01](img/clothes__gangster-hat_gray_01.svg)
+- ![clothes__gangster-hat_gray_02](img/clothes__gangster-hat_gray_02.svg)
+- ![clothes__gangster-hat_white_01](img/clothes__gangster-hat_white_01.svg)
+- ![clothes__gangster-hat_white_02](img/clothes__gangster-hat_white_02.svg)

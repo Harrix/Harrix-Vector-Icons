@@ -1,0 +1,19 @@
+---
+categories: [object]
+tags: [object, scales]
+title: Scales
+---
+
+# Scales
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__scales_01](img/object__scales_01.svg)
+- ![object__scales_02](img/object__scales_02.svg)
+- ![object__scales_03](img/object__scales_03.svg)
+- ![object__scales_04](img/object__scales_04.svg)
+- ![object__scales_black](img/object__scales_black.svg)
+- ![object__scales_gray](img/object__scales_gray.svg)
+- ![object__scales_white](img/object__scales_white.svg)

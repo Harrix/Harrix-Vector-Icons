@@ -1,0 +1,21 @@
+---
+categories: [it]
+tags: [it, cd]
+title: Cd
+---
+
+# Cd
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![it__cd_01](img/it__cd_01.svg)
+- ![it__cd_02](img/it__cd_02.svg)
+- ![it__cd_03](img/it__cd_03.svg)
+- ![it__cd_04](img/it__cd_04.svg)
+- ![it__cd_05](img/it__cd_05.svg)
+- ![it__cd_06](img/it__cd_06.svg)
+- ![it__cd_black](img/it__cd_black.svg)
+- ![it__cd_gray](img/it__cd_gray.svg)
+- ![it__cd_white](img/it__cd_white.svg)

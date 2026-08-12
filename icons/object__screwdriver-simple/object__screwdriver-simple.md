@@ -1,0 +1,27 @@
+---
+categories: [object]
+tags: [object, screwdriver, simple]
+title: Screwdriver Simple
+---
+
+# Screwdriver Simple
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__screwdriver-simple_01](img/object__screwdriver-simple_01.svg)
+- ![object__screwdriver-simple_02](img/object__screwdriver-simple_02.svg)
+- ![object__screwdriver-simple_03](img/object__screwdriver-simple_03.svg)
+- ![object__screwdriver-simple_04](img/object__screwdriver-simple_04.svg)
+- ![object__screwdriver-simple_05](img/object__screwdriver-simple_05.svg)
+- ![object__screwdriver-simple_06](img/object__screwdriver-simple_06.svg)
+- ![object__screwdriver-simple_07](img/object__screwdriver-simple_07.svg)
+- ![object__screwdriver-simple_08](img/object__screwdriver-simple_08.svg)
+- ![object__screwdriver-simple_09](img/object__screwdriver-simple_09.svg)
+- ![object__screwdriver-simple_10](img/object__screwdriver-simple_10.svg)
+- ![object__screwdriver-simple_11](img/object__screwdriver-simple_11.svg)
+- ![object__screwdriver-simple_12](img/object__screwdriver-simple_12.svg)
+- ![object__screwdriver-simple_black](img/object__screwdriver-simple_black.svg)
+- ![object__screwdriver-simple_gray](img/object__screwdriver-simple_gray.svg)
+- ![object__screwdriver-simple_white](img/object__screwdriver-simple_white.svg)

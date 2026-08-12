@@ -1,0 +1,17 @@
+---
+categories: [object]
+tags: [object, table, lamp, led]
+title: Table Lamp Led
+---
+
+# Table Lamp Led
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__table-lamp-led_01](img/object__table-lamp-led_01.svg)
+- ![object__table-lamp-led_02](img/object__table-lamp-led_02.svg)
+- ![object__table-lamp-led_black](img/object__table-lamp-led_black.svg)
+- ![object__table-lamp-led_gray](img/object__table-lamp-led_gray.svg)
+- ![object__table-lamp-led_white](img/object__table-lamp-led_white.svg)

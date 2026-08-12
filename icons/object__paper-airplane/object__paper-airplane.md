@@ -1,0 +1,18 @@
+---
+categories: [object]
+tags: [object, paper, airplane]
+title: Paper Airplane
+---
+
+# Paper Airplane
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__paper-airplane_01](img/object__paper-airplane_01.svg)
+- ![object__paper-airplane_02](img/object__paper-airplane_02.svg)
+- ![object__paper-airplane_03](img/object__paper-airplane_03.svg)
+- ![object__paper-airplane_black](img/object__paper-airplane_black.svg)
+- ![object__paper-airplane_gray](img/object__paper-airplane_gray.svg)
+- ![object__paper-airplane_white](img/object__paper-airplane_white.svg)

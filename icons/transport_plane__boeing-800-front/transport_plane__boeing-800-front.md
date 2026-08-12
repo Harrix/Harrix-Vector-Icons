@@ -1,0 +1,20 @@
+---
+categories: [transport_plane]
+tags: [transport, plane, boeing, 800, front]
+title: Boeing 800 Front
+---
+
+# Boeing 800 Front
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![transport_plane__boeing-800-front_01](img/transport_plane__boeing-800-front_01.svg)
+- ![transport_plane__boeing-800-front_02](img/transport_plane__boeing-800-front_02.svg)
+- ![transport_plane__boeing-800-front_black_01](img/transport_plane__boeing-800-front_black_01.svg)
+- ![transport_plane__boeing-800-front_black_02](img/transport_plane__boeing-800-front_black_02.svg)
+- ![transport_plane__boeing-800-front_gray_01](img/transport_plane__boeing-800-front_gray_01.svg)
+- ![transport_plane__boeing-800-front_gray_02](img/transport_plane__boeing-800-front_gray_02.svg)
+- ![transport_plane__boeing-800-front_white_01](img/transport_plane__boeing-800-front_white_01.svg)
+- ![transport_plane__boeing-800-front_white_02](img/transport_plane__boeing-800-front_white_02.svg)

@@ -1,0 +1,25 @@
+---
+categories: [object]
+tags: [object, office, knife]
+title: Office Knife
+---
+
+# Office Knife
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__office-knife_01](img/object__office-knife_01.svg)
+- ![object__office-knife_02](img/object__office-knife_02.svg)
+- ![object__office-knife_03](img/object__office-knife_03.svg)
+- ![object__office-knife_04](img/object__office-knife_04.svg)
+- ![object__office-knife_black_01](img/object__office-knife_black_01.svg)
+- ![object__office-knife_black_02](img/object__office-knife_black_02.svg)
+- ![object__office-knife_black_03](img/object__office-knife_black_03.svg)
+- ![object__office-knife_gray_01](img/object__office-knife_gray_01.svg)
+- ![object__office-knife_gray_02](img/object__office-knife_gray_02.svg)
+- ![object__office-knife_gray_03](img/object__office-knife_gray_03.svg)
+- ![object__office-knife_white_01](img/object__office-knife_white_01.svg)
+- ![object__office-knife_white_02](img/object__office-knife_white_02.svg)
+- ![object__office-knife_white_03](img/object__office-knife_white_03.svg)

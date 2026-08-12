@@ -1,0 +1,25 @@
+---
+categories: [object]
+tags: [object, table, lamp]
+title: Table Lamp
+---
+
+# Table Lamp
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__table-lamp_01](img/object__table-lamp_01.svg)
+- ![object__table-lamp_02](img/object__table-lamp_02.svg)
+- ![object__table-lamp_03](img/object__table-lamp_03.svg)
+- ![object__table-lamp_04](img/object__table-lamp_04.svg)
+- ![object__table-lamp_05](img/object__table-lamp_05.svg)
+- ![object__table-lamp_06](img/object__table-lamp_06.svg)
+- ![object__table-lamp_07](img/object__table-lamp_07.svg)
+- ![object__table-lamp_08](img/object__table-lamp_08.svg)
+- ![object__table-lamp_09](img/object__table-lamp_09.svg)
+- ![object__table-lamp_10](img/object__table-lamp_10.svg)
+- ![object__table-lamp_black](img/object__table-lamp_black.svg)
+- ![object__table-lamp_gray](img/object__table-lamp_gray.svg)
+- ![object__table-lamp_white](img/object__table-lamp_white.svg)

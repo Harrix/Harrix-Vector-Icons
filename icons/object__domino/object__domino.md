@@ -1,0 +1,22 @@
+---
+categories: [object]
+tags: [object, domino]
+title: Domino
+---
+
+# Domino
+
+![Featured image](featured-image.svg)
+
+## Icons
+
+- ![object__domino_01](img/object__domino_01.svg)
+- ![object__domino_02](img/object__domino_02.svg)
+- ![object__domino_03](img/object__domino_03.svg)
+- ![object__domino_04](img/object__domino_04.svg)
+- ![object__domino_black_01](img/object__domino_black_01.svg)
+- ![object__domino_black_02](img/object__domino_black_02.svg)
+- ![object__domino_gray_01](img/object__domino_gray_01.svg)
+- ![object__domino_gray_02](img/object__domino_gray_02.svg)
+- ![object__domino_white_01](img/object__domino_white_01.svg)
+- ![object__domino_white_02](img/object__domino_white_02.svg)
