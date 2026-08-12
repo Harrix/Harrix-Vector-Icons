@@ -4,10 +4,9 @@
 
 ## Layout
 
-- `dist/` — legacy flat SVG packs (`black/`, `gray/`, `white/`, `color/`, root picks). Kept for rollback.
 - `icons/` — **source of truth**: one note-folder per icon family.
 - `catalog.json` — generated search index for apps (do not edit by hand).
-- `tools/` — migration and catalog scripts.
+- `tools/` — catalog and optional migration scripts.
 
 ### Note-folder format
 
@@ -31,13 +30,19 @@ title: House
 ---
 ```
 
-## Rebuild
+## Rebuild catalog
 
 From the repository root (Python 3.11+):
+
+```text
+python tools/build_catalog.py
+```
+
+`build_catalog.py` writes `catalog.json` with paths and content hashes for each family under `icons/`.
+
+Optional one-time migration from a legacy flat `dist/` tree (if you restore it from backup):
 
 ```text
 python tools/migrate_dist_to_icons.py --clean
 python tools/build_catalog.py
 ```
-
-`migrate_dist_to_icons.py` groups SVGs by family id (strips `_black` / `_gray` / `_white`, `_line-8|16|32`, `_improbable`, `_NN`). `build_catalog.py` writes `catalog.json` with paths and content hashes.
