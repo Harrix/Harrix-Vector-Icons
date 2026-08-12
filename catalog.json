@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T13:02:55Z",
+  "generated_at": "2026-08-12T17:07:44Z",
   "icons": [
     {
       "id": "building__garage",
@@ -1400,26 +1400,10 @@
           "file": "img/fiction__zombie_gray.svg",
           "name": "fiction__zombie_gray",
           "hash": "3a65334dbcf021e801a0824bc91f23ec00129a9a690738d7047184cfe5569d11"
-        }
-      ]
-    },
-    {
-      "id": "fiction__zombie_",
-      "title": "Zombie",
-      "categories": [
-        "fiction"
-      ],
-      "tags": [
-        "fiction",
-        "zombie_"
-      ],
-      "folder": "icons/fiction__zombie_",
-      "featured": "featured-image.svg",
-      "featured_hash": "ad56092e0b18f686f67f5e57e081ba045821f539f59517f71e75d851e0c4d290",
-      "variants": [
+        },
         {
-          "file": "img/fiction__zombie__white.svg",
-          "name": "fiction__zombie__white",
+          "file": "img/fiction__zombie_white.svg",
+          "name": "fiction__zombie_white",
           "hash": "ad56092e0b18f686f67f5e57e081ba045821f539f59517f71e75d851e0c4d290"
         }
       ]

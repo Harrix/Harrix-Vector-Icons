@@ -16,3 +16,4 @@ title: Zombie
 - ![fiction__zombie_04](img/fiction__zombie_04.svg)
 - ![fiction__zombie_black](img/fiction__zombie_black.svg)
 - ![fiction__zombie_gray](img/fiction__zombie_gray.svg)
+- ![fiction__zombie_white](img/fiction__zombie_white.svg)
