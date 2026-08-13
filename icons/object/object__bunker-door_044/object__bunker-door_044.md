@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/object/object__bunker-door_044/object__bunker-door_044.md
+lang: en
 ---
 
 # Bunker Door 044

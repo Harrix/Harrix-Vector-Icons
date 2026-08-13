@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/space/space__earth-america/space__earth-america.md
+lang: en
 ---
 
 # Earth America

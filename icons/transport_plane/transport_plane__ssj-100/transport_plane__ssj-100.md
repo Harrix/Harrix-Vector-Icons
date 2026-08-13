@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/transport_plane/transport_plane__ssj-100/transport_plane__ssj-100.md
+lang: en
 ---
 
 # Ssj 100

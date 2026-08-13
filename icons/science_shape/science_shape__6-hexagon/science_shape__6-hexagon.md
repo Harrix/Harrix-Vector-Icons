@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/science_shape/science_shape__6-hexagon/science_shape__6-hexagon.md
+lang: en
 ---
 
 # 6 Hexagon

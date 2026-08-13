@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/nature/nature__mushroom_gray_white-32/nature__mushroom_gray_white-32.md
+lang: en
 ---
 
 # Mushroom Gray White 32

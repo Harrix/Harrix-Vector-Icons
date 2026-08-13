@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/playing-card/playing-card__ace-of-diamonds/playing-card__ace-of-diamonds.md
+lang: en
 ---
 
 # Ace Of Diamonds

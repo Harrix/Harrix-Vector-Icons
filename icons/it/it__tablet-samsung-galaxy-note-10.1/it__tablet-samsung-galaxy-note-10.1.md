@@ -7,6 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/it/it__tablet-samsung-galaxy-note-10.1/it__tablet-samsung-galaxy-note-10.1.md
+lang: en
 ---
 
 # Tablet Samsung Galaxy Note 10.1
