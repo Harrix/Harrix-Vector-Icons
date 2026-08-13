@@ -4,6 +4,8 @@ categories: [object]
 tags: [object, victory, podium]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # Victory Podium

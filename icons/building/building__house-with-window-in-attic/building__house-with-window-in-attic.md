@@ -4,6 +4,8 @@ categories: [building]
 tags: [building, house, with, window, in, attic]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # House With Window In Attic

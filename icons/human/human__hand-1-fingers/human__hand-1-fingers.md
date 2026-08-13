@@ -4,6 +4,8 @@ categories: [human]
 tags: [human, hand, 1, fingers]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # Hand 1 Fingers

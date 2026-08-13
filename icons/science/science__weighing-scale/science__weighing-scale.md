@@ -4,6 +4,8 @@ categories: [science]
 tags: [science, weighing, scale]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # Weighing Scale

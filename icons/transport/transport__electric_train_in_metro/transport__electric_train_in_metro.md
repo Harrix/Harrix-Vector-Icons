@@ -4,6 +4,8 @@ categories: [transport]
 tags: [transport, electric_train_in_metro]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # Electric Train In Metro

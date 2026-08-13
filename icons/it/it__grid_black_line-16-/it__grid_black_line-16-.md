@@ -4,6 +4,8 @@ categories: [it]
 tags: [it, grid_black_line, 16]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # Grid Black Line 16 

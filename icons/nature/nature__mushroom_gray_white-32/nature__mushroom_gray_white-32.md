@@ -4,6 +4,8 @@ categories: [nature]
 tags: [nature, mushroom_gray_white, 32]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # Mushroom Gray White 32

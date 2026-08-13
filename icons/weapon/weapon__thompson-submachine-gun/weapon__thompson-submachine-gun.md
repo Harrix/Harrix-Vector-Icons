@@ -4,6 +4,8 @@ categories: [weapon]
 tags: [weapon, thompson, submachine, gun]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 ---
 
 # Thompson Submachine Gun
