@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T07:32:13Z",
+  "generated_at": "2026-08-13T08:37:58Z",
   "icons": [
     {
       "id": "building__garage",
@@ -13,7 +13,7 @@
         "building",
         "garage"
       ],
-      "folder": "icons/building__garage",
+      "folder": "icons/building/building__garage",
       "featured": "featured-image.svg",
       "featured_hash": "41055f33d12c05bedc517fe0e259bda73d606928d8a8391a0ebb2b6b2f646b1f",
       "variants": [
@@ -55,7 +55,7 @@
         "building",
         "house"
       ],
-      "folder": "icons/building__house",
+      "folder": "icons/building/building__house",
       "featured": "featured-image.svg",
       "featured_hash": "7270686cc91c91ea9eb9c7bcc4cc1686165ce5f26ca80d3aee6b8570115dacfb",
       "variants": [
@@ -99,7 +99,7 @@
         "with",
         "door"
       ],
-      "folder": "icons/building__house-with-door",
+      "folder": "icons/building/building__house-with-door",
       "featured": "featured-image.svg",
       "featured_hash": "8ef0737a29def79b68a5082d94a9334994fdc290b8c2bd4352934d187a7a4ad5",
       "variants": [
@@ -215,7 +215,7 @@
         "in",
         "attic"
       ],
-      "folder": "icons/building__house-with-window-in-attic",
+      "folder": "icons/building/building__house-with-window-in-attic",
       "featured": "featured-image.svg",
       "featured_hash": "5a90262c7ed4fbf7c8effbd353379dee87627d6055196c2a106665541c498891",
       "variants": [
@@ -274,7 +274,7 @@
         "big",
         "ben"
       ],
-      "folder": "icons/building__krasnoyarsk-big-ben",
+      "folder": "icons/building/building__krasnoyarsk-big-ben",
       "featured": "featured-image.svg",
       "featured_hash": "d5ee846bef8b226f0e968db9a215cd8e326c18c5e01ee37e922ab83caf8fb731",
       "variants": [
@@ -329,7 +329,7 @@
         "ben",
         "full"
       ],
-      "folder": "icons/building__krasnoyarsk-big-ben-full",
+      "folder": "icons/building/building__krasnoyarsk-big-ben-full",
       "featured": "featured-image.svg",
       "featured_hash": "0eda04f2e5914a207fecfe5e7d5b5ee543ad0581a32ffa22cacef8f03c5a5db9",
       "variants": [
@@ -366,7 +366,7 @@
         "building",
         "lighthouse"
       ],
-      "folder": "icons/building__lighthouse",
+      "folder": "icons/building/building__lighthouse",
       "featured": "featured-image.svg",
       "featured_hash": "539427e7a012e5f4ba760cd0b86a0267aa4a6e6d970512e171dc59ef79a57519",
       "variants": [
@@ -419,7 +419,7 @@
         "panel",
         "house"
       ],
-      "folder": "icons/building__panel-house",
+      "folder": "icons/building/building__panel-house",
       "featured": "featured-image.svg",
       "featured_hash": "eec4050a0a13a05bcc918629d8f3876ab6887ad2e9882931e827871b0cbdfd31",
       "variants": [
@@ -527,7 +527,7 @@
         "school",
         "1532"
       ],
-      "folder": "icons/building__school-1532",
+      "folder": "icons/building/building__school-1532",
       "featured": "featured-image.svg",
       "featured_hash": "6bdae00a42c5ca667e13f7dc121cb39a7100abb41741cf7e5ff283a352d2be45",
       "variants": [
@@ -569,7 +569,7 @@
         "building",
         "stall"
       ],
-      "folder": "icons/building__stall",
+      "folder": "icons/building/building__stall",
       "featured": "featured-image.svg",
       "featured_hash": "de164d48abbb7c41ec269fdc4fb81ecf2b72908585de504bb71a19f9961f3b34",
       "variants": [
@@ -611,7 +611,7 @@
         "building",
         "warehouse"
       ],
-      "folder": "icons/building__warehouse",
+      "folder": "icons/building/building__warehouse",
       "featured": "featured-image.svg",
       "featured_hash": "69e25b18733f9766c742ed78d9ea27ec7bbe4d98b88d9da94e2893c951820bec",
       "variants": [
@@ -654,7 +654,7 @@
         "boot",
         "footprint"
       ],
-      "folder": "icons/clothes__boot-footprint",
+      "folder": "icons/clothes/clothes__boot-footprint",
       "featured": "featured-image.svg",
       "featured_hash": "bdab4711a84da3a41f0433e8cb7238dbfb5130c66ebacf3a36f8caad69a8f0c0",
       "variants": [
@@ -712,7 +712,7 @@
         "gangster",
         "hat"
       ],
-      "folder": "icons/clothes__gangster-hat",
+      "folder": "icons/clothes/clothes__gangster-hat",
       "featured": "featured-image.svg",
       "featured_hash": "4e6daf3f88e8ee33bcb8c8a0ca8b4f4de49cd6afd1350d1687b9faf4bfc09266",
       "variants": [
@@ -780,7 +780,7 @@
         "pirate",
         "hat"
       ],
-      "folder": "icons/clothes__pirate-hat",
+      "folder": "icons/clothes/clothes__pirate-hat",
       "featured": "featured-image.svg",
       "featured_hash": "4c27c7b1c2c409f718f62c9ef70971869968bf2ac79db04f42c730d50c7780df",
       "variants": [
@@ -822,7 +822,7 @@
         "clothes",
         "suit"
       ],
-      "folder": "icons/clothes__suit",
+      "folder": "icons/clothes/clothes__suit",
       "featured": "featured-image.svg",
       "featured_hash": "bb5713dc2b9aab0babd2bd0a63ab762d8d66bc1d7816fbccb2ae271f117e3849",
       "variants": [
@@ -889,7 +889,7 @@
         "clothes",
         "tie"
       ],
-      "folder": "icons/clothes__tie",
+      "folder": "icons/clothes/clothes__tie",
       "featured": "featured-image.svg",
       "featured_hash": "9ec0b79538ceea0fcd697216aeb66596e7265634cc6d942d5290eecd414b2cb8",
       "variants": [
@@ -932,7 +932,7 @@
         "top",
         "hat"
       ],
-      "folder": "icons/clothes__top-hat",
+      "folder": "icons/clothes/clothes__top-hat",
       "featured": "featured-image.svg",
       "featured_hash": "6a02d398bee449b8e46b3e02d2363aef675ae0ea94f8b9ee81bde4b43965df40",
       "variants": [
@@ -975,7 +975,7 @@
         "wizards",
         "cap"
       ],
-      "folder": "icons/clothes__wizards-cap",
+      "folder": "icons/clothes/clothes__wizards-cap",
       "featured": "featured-image.svg",
       "featured_hash": "6cf596c597303c1a2af6db24720a5a41b22bc9f94f1af2730933afbe77fcb302",
       "variants": [
@@ -1017,7 +1017,7 @@
         "fiction",
         "alien"
       ],
-      "folder": "icons/fiction__alien",
+      "folder": "icons/fiction/fiction__alien",
       "featured": "featured-image.svg",
       "featured_hash": "8ef40d87de16b4acdfd26c8ccc7cd4f0f22408156eae7902f2c057f85cbe1cd3",
       "variants": [
@@ -1110,7 +1110,7 @@
         "teddy",
         "bear"
       ],
-      "folder": "icons/fiction__teddy-bear",
+      "folder": "icons/fiction/fiction__teddy-bear",
       "featured": "featured-image.svg",
       "featured_hash": "258e4ef5ce1159d96a31531cb6da6c05e4558ae886b70482bad76163f28fcabe",
       "variants": [
@@ -1172,7 +1172,7 @@
         "fiction",
         "ufo"
       ],
-      "folder": "icons/fiction__ufo",
+      "folder": "icons/fiction/fiction__ufo",
       "featured": "featured-image.svg",
       "featured_hash": "651d44625fc43437d947c350f990dd1a6641c03666151d563d183b2e44717f19",
       "variants": [
@@ -1389,7 +1389,7 @@
         "fiction",
         "zombie"
       ],
-      "folder": "icons/fiction__zombie",
+      "folder": "icons/fiction/fiction__zombie",
       "featured": "featured-image.svg",
       "featured_hash": "aec6735db40a61278645f3addd6d2cfae8d9153c85fd41c6eba423475840a08b",
       "variants": [
@@ -1448,7 +1448,7 @@
         "42",
         "Смысл жизни"
       ],
-      "folder": "icons/fiction_robot__marvin",
+      "folder": "icons/fiction_robot/fiction_robot__marvin",
       "featured": "featured-image.svg",
       "featured_hash": "1c109e3c604ae4e2a34fef505676905d2e70dd01d01454c866041322ea1d86b6",
       "variants": [
@@ -1513,7 +1513,7 @@
         "s",
         "head"
       ],
-      "folder": "icons/fiction_robot__marvin-s-head",
+      "folder": "icons/fiction_robot/fiction_robot__marvin-s-head",
       "featured": "featured-image.svg",
       "featured_hash": "d7a67412a1077df2b4628cbdf1a570c7b4e43c997e80eead46c105eafee986e9",
       "variants": [
@@ -1621,7 +1621,7 @@
         "robot",
         "terminator"
       ],
-      "folder": "icons/fiction_robot__terminator",
+      "folder": "icons/fiction_robot/fiction_robot__terminator",
       "featured": "featured-image.svg",
       "featured_hash": "835ad2dd4c62ea5eafaece02d2e5b8ab90c7fe854c63d35460678e90053ae6a5",
       "variants": [
@@ -1729,7 +1729,7 @@
         "spaceship",
         "avalon"
       ],
-      "folder": "icons/fiction_spaceship__avalon",
+      "folder": "icons/fiction_spaceship/fiction_spaceship__avalon",
       "featured": "featured-image.svg",
       "featured_hash": "2333cf128a977ef61e01cd92484af031cc4c0019ed2480d23fff0dfe0fd45758",
       "variants": [
@@ -1776,7 +1776,7 @@
         "flag",
         "russia"
       ],
-      "folder": "icons/flag__russia",
+      "folder": "icons/flag/flag__russia",
       "featured": "featured-image.svg",
       "featured_hash": "1bd317c5b1307caf3c7c000f37d1cf86a440dde6ad06eea5be0056145ff8a3aa",
       "variants": [
@@ -1814,7 +1814,7 @@
         "united",
         "kingdom"
       ],
-      "folder": "icons/flag__united-kingdom",
+      "folder": "icons/flag/flag__united-kingdom",
       "featured": "featured-image.svg",
       "featured_hash": "ed89e722054003daa898bc2ed69cca9be2cd80122e33b8b3214dc7ef419eb4b9",
       "variants": [
@@ -1851,7 +1851,7 @@
         "flag",
         "usa"
       ],
-      "folder": "icons/flag__usa",
+      "folder": "icons/flag/flag__usa",
       "featured": "featured-image.svg",
       "featured_hash": "e2a2aec427bfad35ac42f97a151b54f3ba37cd55f57786ab2ff3e1ca010df513",
       "variants": [
@@ -1888,7 +1888,7 @@
         "food",
         "banana"
       ],
-      "folder": "icons/food__banana",
+      "folder": "icons/food/food__banana",
       "featured": "featured-image.svg",
       "featured_hash": "5afc941be00ff60d44a4c21868c6c89ecbade8f0eff1d35fa99868ac15361c32",
       "variants": [
@@ -1931,7 +1931,7 @@
         "coffee",
         "bean"
       ],
-      "folder": "icons/food__coffee-bean",
+      "folder": "icons/food/food__coffee-bean",
       "featured": "featured-image.svg",
       "featured_hash": "c9becc8ca8d9dcec02609a87af01366c5d8cbe25271717b3c7417d8604751d5c",
       "variants": [
@@ -2018,7 +2018,7 @@
         "food",
         "hamburger"
       ],
-      "folder": "icons/food__hamburger",
+      "folder": "icons/food/food__hamburger",
       "featured": "featured-image.svg",
       "featured_hash": "f5d69dcf81cfd0147813ea206aac679d8df215036179992c12b6f9a5be2a2f47",
       "variants": [
@@ -2060,7 +2060,7 @@
         "food",
         "popcorn"
       ],
-      "folder": "icons/food__popcorn",
+      "folder": "icons/food/food__popcorn",
       "featured": "featured-image.svg",
       "featured_hash": "e6c44d1e502540a9f614bfeace9c67e236caede7a47bc3bd4a37604285dd4dee",
       "variants": [
@@ -2102,7 +2102,7 @@
         "food",
         "strawberry"
       ],
-      "folder": "icons/food__strawberry",
+      "folder": "icons/food/food__strawberry",
       "featured": "featured-image.svg",
       "featured_hash": "1061e42290a21e8e7c9b2f8c2fa17d3602011ab3127803db08d6ab4e93432705",
       "variants": [
@@ -2154,7 +2154,7 @@
         "furniture",
         "bookcase"
       ],
-      "folder": "icons/furniture__bookcase",
+      "folder": "icons/furniture/furniture__bookcase",
       "featured": "featured-image.svg",
       "featured_hash": "fd5f6b67a74729aa8b45a54261d9a9823547cfd13f8cc290569e92b7258bd149",
       "variants": [
@@ -2221,7 +2221,7 @@
         "furniture",
         "chair"
       ],
-      "folder": "icons/furniture__chair",
+      "folder": "icons/furniture/furniture__chair",
       "featured": "featured-image.svg",
       "featured_hash": "ea729b94566e91ef1a29c12b501b53e4281b64f15e86bb93d441e3d3e6bc9af9",
       "variants": [
@@ -2264,7 +2264,7 @@
         "chair",
         "front"
       ],
-      "folder": "icons/furniture__chair-front",
+      "folder": "icons/furniture/furniture__chair-front",
       "featured": "featured-image.svg",
       "featured_hash": "35b27bbdfc954561be051b67381bc641699d65dcf8b3f989a7842267d9500b53",
       "variants": [
@@ -2308,7 +2308,7 @@
         "three",
         "legs"
       ],
-      "folder": "icons/furniture__chair-three-legs",
+      "folder": "icons/furniture/furniture__chair-three-legs",
       "featured": "featured-image.svg",
       "featured_hash": "2f57f1c6abe3c8399eb17ee30d1b55addaaed779838f71f286872c5273b5cae2",
       "variants": [
@@ -2348,7 +2348,7 @@
         "legs",
         "front"
       ],
-      "folder": "icons/furniture__chair-three-legs-front",
+      "folder": "icons/furniture/furniture__chair-three-legs-front",
       "featured": "featured-image.svg",
       "featured_hash": "74c848a052e6ff24ba55fa42aba6eec8733fa0961163d1e87aca96a034a0b4ce",
       "variants": [
@@ -2390,7 +2390,7 @@
         "furniture",
         "commode"
       ],
-      "folder": "icons/furniture__commode",
+      "folder": "icons/furniture/furniture__commode",
       "featured": "featured-image.svg",
       "featured_hash": "cefd0c1df2cdd919cd70bcfe57e89bd9acb9eb5533ec1a2df57fee37752a81d2",
       "variants": [
@@ -2457,7 +2457,7 @@
         "furniture",
         "desk"
       ],
-      "folder": "icons/furniture__desk",
+      "folder": "icons/furniture/furniture__desk",
       "featured": "featured-image.svg",
       "featured_hash": "80a905d1588c1d7df46145f359ab1ae287e2a9cb7c2aea8fc294bd95712fb5a8",
       "variants": [
@@ -2550,7 +2550,7 @@
         "foldable",
         "stool"
       ],
-      "folder": "icons/furniture__foldable-stool",
+      "folder": "icons/furniture/furniture__foldable-stool",
       "featured": "featured-image.svg",
       "featured_hash": "cb997c1c638a2e6f40a90d503a257710f806f0b335d0018f71c7058ea41f2b6b",
       "variants": [
@@ -2592,7 +2592,7 @@
         "furniture",
         "shelf"
       ],
-      "folder": "icons/furniture__shelf",
+      "folder": "icons/furniture/furniture__shelf",
       "featured": "featured-image.svg",
       "featured_hash": "8cfea3cdd9ac047ba3e73fa135d1d9598cf627317ee0202359d33e637c28c639",
       "variants": [
@@ -2634,7 +2634,7 @@
         "furniture",
         "stool"
       ],
-      "folder": "icons/furniture__stool",
+      "folder": "icons/furniture/furniture__stool",
       "featured": "featured-image.svg",
       "featured_hash": "cb3c1c56f956800ae755762941de3b46346ec0b60718ff595a653d90c245c32a",
       "variants": [
@@ -2676,7 +2676,7 @@
         "furniture",
         "wardrobe"
       ],
-      "folder": "icons/furniture__wardrobe",
+      "folder": "icons/furniture/furniture__wardrobe",
       "featured": "featured-image.svg",
       "featured_hash": "3f7aa8ef0ab5ddd9d6b222d07cc98e1a67ed71cda2f6836928247841ae5c48d1",
       "variants": [
@@ -2734,7 +2734,7 @@
         "christmas",
         "tree"
       ],
-      "folder": "icons/holidays__christmas-tree",
+      "folder": "icons/holidays/holidays__christmas-tree",
       "featured": "featured-image.svg",
       "featured_hash": "a10e0fba6f19f8a05d4cffac0369518ac255b6ee2612b3b3d67a80ba805b16da",
       "variants": [
@@ -2807,7 +2807,7 @@
         "santa",
         "claus"
       ],
-      "folder": "icons/holidays__santa-claus",
+      "folder": "icons/holidays/holidays__santa-claus",
       "featured": "featured-image.svg",
       "featured_hash": "875dec92b32a5292ce15f373aad5a2d36e8c0cd6a0942040457c04c9e04476ba",
       "variants": [
@@ -2859,7 +2859,7 @@
         "human",
         "bone"
       ],
-      "folder": "icons/human__bone",
+      "folder": "icons/human/human__bone",
       "featured": "featured-image.svg",
       "featured_hash": "bbd2b03effb5b25a7035d0d7fa5f3e431cbabadb5f82563f823aefba57160331",
       "variants": [
@@ -2956,7 +2956,7 @@
         "human",
         "bone_graysvg"
       ],
-      "folder": "icons/human__bone_graysvg",
+      "folder": "icons/human/human__bone_graysvg",
       "featured": "featured-image.svg",
       "featured_hash": "ceaa53f8f1c213598b3082dd296ab6afd2b79b7f7f4815546c6cdfd99d27566d",
       "variants": [
@@ -2980,7 +2980,7 @@
         "line",
         "8"
       ],
-      "folder": "icons/human__bone_improbable_black-line-8",
+      "folder": "icons/human/human__bone_improbable_black-line-8",
       "featured": "featured-image.svg",
       "featured_hash": "80e4c61e9e1d11ab7f41cf214db25e3597429f11322b8e85f1037c9004f36099",
       "variants": [
@@ -3004,7 +3004,7 @@
         "line",
         "8"
       ],
-      "folder": "icons/human__bone_improbable_white-line-8",
+      "folder": "icons/human/human__bone_improbable_white-line-8",
       "featured": "featured-image.svg",
       "featured_hash": "8e7e6ac2af2670d8ca7f94261059c763dd88c6f12532db2ff0cea09f51dd2251",
       "variants": [
@@ -3026,7 +3026,7 @@
         "human",
         "brain"
       ],
-      "folder": "icons/human__brain",
+      "folder": "icons/human/human__brain",
       "featured": "featured-image.svg",
       "featured_hash": "ad0b056d0ef78c48ab340a908a4eecc199be59429bf1b9a07e1ba3c0613029d7",
       "variants": [
@@ -3168,7 +3168,7 @@
         "human",
         "doctor"
       ],
-      "folder": "icons/human__doctor",
+      "folder": "icons/human/human__doctor",
       "featured": "featured-image.svg",
       "featured_hash": "8e0a39212e5357d9485cbd144278307a2ad372ecfa021364c8b014e7a795b9ad",
       "variants": [
@@ -3230,7 +3230,7 @@
         "human",
         "eye"
       ],
-      "folder": "icons/human__eye",
+      "folder": "icons/human/human__eye",
       "featured": "featured-image.svg",
       "featured_hash": "39fa388746efe9c07f0013a2826a3253475b0117e51ccd272abbcc0a2f76ad4d",
       "variants": [
@@ -3287,7 +3287,7 @@
         "human",
         "femur"
       ],
-      "folder": "icons/human__femur",
+      "folder": "icons/human/human__femur",
       "featured": "featured-image.svg",
       "featured_hash": "63ca66a14d3c89e227636b0567dc24abc916a885eb9ebbd02ae06534975b3ce8",
       "variants": [
@@ -3329,7 +3329,7 @@
         "human",
         "hand"
       ],
-      "folder": "icons/human__hand",
+      "folder": "icons/human/human__hand",
       "featured": "featured-image.svg",
       "featured_hash": "fbb2d3eb261890dab2c66622d2e697d5493d833ffb0a2256fb075229662e1d9b",
       "variants": [
@@ -3413,7 +3413,7 @@
         "1",
         "fingers"
       ],
-      "folder": "icons/human__hand-1-fingers",
+      "folder": "icons/human/human__hand-1-fingers",
       "featured": "featured-image.svg",
       "featured_hash": "d4cb3ddc0ef9a130f3e64dc6e4b3fd18613d94dd8d323d62ecac33d8c0655a13",
       "variants": [
@@ -3457,7 +3457,7 @@
         "2",
         "fingers"
       ],
-      "folder": "icons/human__hand-2-fingers",
+      "folder": "icons/human/human__hand-2-fingers",
       "featured": "featured-image.svg",
       "featured_hash": "064ba7182837e6ae5bb0182b4aa13e1438f16eadf1fdbecea3bfb890afd82b9d",
       "variants": [
@@ -3501,7 +3501,7 @@
         "3",
         "fingers"
       ],
-      "folder": "icons/human__hand-3-fingers",
+      "folder": "icons/human/human__hand-3-fingers",
       "featured": "featured-image.svg",
       "featured_hash": "5758893d70c5d104823f88b9594b92b0777d9aa4f16cf003e155f9a8c54f9e50",
       "variants": [
@@ -3545,7 +3545,7 @@
         "4",
         "fingers"
       ],
-      "folder": "icons/human__hand-4-fingers",
+      "folder": "icons/human/human__hand-4-fingers",
       "featured": "featured-image.svg",
       "featured_hash": "645546c3e55a2348d9fcfb1b3e86bc5838258ca65520a138c474b6fd5679eb3b",
       "variants": [
@@ -3589,7 +3589,7 @@
         "5",
         "fingers"
       ],
-      "folder": "icons/human__hand-5-fingers",
+      "folder": "icons/human/human__hand-5-fingers",
       "featured": "featured-image.svg",
       "featured_hash": "ecb526b46a657539be34a1ff89a11a634dbe57ce8269c403baffd14e8ee55b3e",
       "variants": [
@@ -3634,7 +3634,7 @@
         "fingers",
         "together"
       ],
-      "folder": "icons/human__hand-5-fingers-together",
+      "folder": "icons/human/human__hand-5-fingers-together",
       "featured": "featured-image.svg",
       "featured_hash": "7c46961a5d15848066fb6dcaee1e8a4a04d525037f9582b442a92b5e7107c2ba",
       "variants": [
@@ -3676,7 +3676,7 @@
         "human",
         "heart"
       ],
-      "folder": "icons/human__heart",
+      "folder": "icons/human/human__heart",
       "featured": "featured-image.svg",
       "featured_hash": "be192ad4bdf7f3a8c406f5bc5a58c597487a6ecd298d3aa31e1bccbd4ec49c04",
       "variants": [
@@ -3763,7 +3763,7 @@
         "human",
         "man"
       ],
-      "folder": "icons/human__man",
+      "folder": "icons/human/human__man",
       "featured": "featured-image.svg",
       "featured_hash": "245b2c5d62062e7f9b1e95fe02dcdb8e702503db6633b67ccf810accacab1ac4",
       "variants": [
@@ -3837,7 +3837,7 @@
         "with",
         "beard"
       ],
-      "folder": "icons/human__man-with-beard",
+      "folder": "icons/human/human__man-with-beard",
       "featured": "featured-image.svg",
       "featured_hash": "bd456925b036072e28d208209db9d5a792403293610b490aea430829b14586d8",
       "variants": [
@@ -3899,7 +3899,7 @@
         "human",
         "pirate"
       ],
-      "folder": "icons/human__pirate",
+      "folder": "icons/human/human__pirate",
       "featured": "featured-image.svg",
       "featured_hash": "24fa8d261b9ad5bfa2b9d840fc0758d87de61fa4417e51a0eec5645a89384970",
       "variants": [
@@ -3941,7 +3941,7 @@
         "human",
         "skull"
       ],
-      "folder": "icons/human__skull",
+      "folder": "icons/human/human__skull",
       "featured": "featured-image.svg",
       "featured_hash": "029f3d82b460be723c8373213af46b42ac465b350f34a6e7e0572cc916335d2a",
       "variants": [
@@ -4025,7 +4025,7 @@
         "and",
         "crossbones"
       ],
-      "folder": "icons/human__skull-and-crossbones",
+      "folder": "icons/human/human__skull-and-crossbones",
       "featured": "featured-image.svg",
       "featured_hash": "45a39d96aa5fabd91e1d9bf548e231d87d1cc2d22776f9bed87cb0d2ba85ed85",
       "variants": [
@@ -4092,7 +4092,7 @@
         "human",
         "woman"
       ],
-      "folder": "icons/human__woman",
+      "folder": "icons/human/human__woman",
       "featured": "featured-image.svg",
       "featured_hash": "f341711cd250550d3dc2968d870e38e7f364fa77a12a40aac14cdb13fae41c44",
       "variants": [
@@ -4164,7 +4164,7 @@
         "it",
         "camera"
       ],
-      "folder": "icons/it__camera",
+      "folder": "icons/it/it__camera",
       "featured": "featured-image.svg",
       "featured_hash": "52b05e45928f0dc4733f4f806987041bf42dc9ac6d3bdd928c53e96bcab3e3b9",
       "variants": [
@@ -4217,7 +4217,7 @@
         "camera",
         "back"
       ],
-      "folder": "icons/it__camera-back",
+      "folder": "icons/it/it__camera-back",
       "featured": "featured-image.svg",
       "featured_hash": "7f67681f6119d596b9895bd53c91876dd0001a6243efdafe1066425fa00f199e",
       "variants": [
@@ -4275,7 +4275,7 @@
         "cctv",
         "camera"
       ],
-      "folder": "icons/it__cctv-camera",
+      "folder": "icons/it/it__cctv-camera",
       "featured": "featured-image.svg",
       "featured_hash": "cba7b37e81578db650d6dd87583c0005dfe65dea599269a3df66e3d8874efa0b",
       "variants": [
@@ -4317,7 +4317,7 @@
         "it",
         "cd"
       ],
-      "folder": "icons/it__cd",
+      "folder": "icons/it/it__cd",
       "featured": "featured-image.svg",
       "featured_hash": "40ef70f0265fb76b914e406e853147a16d03fdfdfc822f51fa72be9875277931",
       "variants": [
@@ -4379,7 +4379,7 @@
         "it",
         "chip"
       ],
-      "folder": "icons/it__chip",
+      "folder": "icons/it/it__chip",
       "featured": "featured-image.svg",
       "featured_hash": "c96e584bf1bbd0fd7c2a2a4c79fb2cbd717752e89c99d84c2710b48e890f1fdd",
       "variants": [
@@ -4471,7 +4471,7 @@
         "it",
         "code"
       ],
-      "folder": "icons/it__code",
+      "folder": "icons/it/it__code",
       "featured": "featured-image.svg",
       "featured_hash": "64f2337f287be80a6d686a0bcb0c48c3818ab04482b77b0edc14d08b5f5b1417",
       "variants": [
@@ -4530,7 +4530,7 @@
         "in",
         "console"
       ],
-      "folder": "icons/it__code-in-console",
+      "folder": "icons/it/it__code-in-console",
       "featured": "featured-image.svg",
       "featured_hash": "ec34b5b41092bd0787ed048bb958de0a4d74dca2865a4f4b7390a1b8012dbcbb",
       "variants": [
@@ -4592,7 +4592,7 @@
         "it",
         "console"
       ],
-      "folder": "icons/it__console",
+      "folder": "icons/it/it__console",
       "featured": "featured-image.svg",
       "featured_hash": "9cb14e2f46701aac4718300230c8270a4a48dd5ed6b3cea514853f3954a6c4f4",
       "variants": [
@@ -4674,7 +4674,7 @@
         "it",
         "database"
       ],
-      "folder": "icons/it__database",
+      "folder": "icons/it/it__database",
       "featured": "featured-image.svg",
       "featured_hash": "c8421feb79478b23ad27c8734e9fc69e9273eb688038cbc15159235732e0d61b",
       "variants": [
@@ -4791,7 +4791,7 @@
         "it",
         "file"
       ],
-      "folder": "icons/it__file",
+      "folder": "icons/it/it__file",
       "featured": "featured-image.svg",
       "featured_hash": "2951a4701658c0c50a7f054fed53fe689fa128e83d1ab68bb764c783e6ebe71c",
       "variants": [
@@ -4834,7 +4834,7 @@
         "file",
         "text"
       ],
-      "folder": "icons/it__file-text",
+      "folder": "icons/it/it__file-text",
       "featured": "featured-image.svg",
       "featured_hash": "3e58e55c01cf7caba9dd0ce15c75fbe432fe186a29be0795bb601dd55f64b626",
       "variants": [
@@ -4902,7 +4902,7 @@
         "flash",
         "drive"
       ],
-      "folder": "icons/it__flash-drive",
+      "folder": "icons/it/it__flash-drive",
       "featured": "featured-image.svg",
       "featured_hash": "f15b4e70e2cddb1ff3cd8010cdfb233fcfc59820f4d294e25f7572a28de52481",
       "variants": [
@@ -5092,7 +5092,7 @@
         "type",
         "c"
       ],
-      "folder": "icons/it__flash-drive-type-c",
+      "folder": "icons/it/it__flash-drive-type-c",
       "featured": "featured-image.svg",
       "featured_hash": "b5b48d2458d153368b193b11b09d7f8ba67dbba6020192269e5e625471989978",
       "variants": [
@@ -5233,7 +5233,7 @@
         "c",
         "usb"
       ],
-      "folder": "icons/it__flash-drive-type-c-usb",
+      "folder": "icons/it/it__flash-drive-type-c-usb",
       "featured": "featured-image.svg",
       "featured_hash": "77e5e1e3426a1c68af0225ed01050aedfe4c7e0be0d6c92677fc4fdc151d1b2e",
       "variants": [
@@ -5311,7 +5311,7 @@
         "flight",
         "controller"
       ],
-      "folder": "icons/it__flight-controller",
+      "folder": "icons/it/it__flight-controller",
       "featured": "featured-image.svg",
       "featured_hash": "35cef9797fae7cc214be707a4bf99e31bbf1603e9ffa4acdfa62cf1ceea2df29",
       "variants": [
@@ -5365,7 +5365,7 @@
         "controller",
         "dys"
       ],
-      "folder": "icons/it__flight-controller-dys",
+      "folder": "icons/it/it__flight-controller-dys",
       "featured": "featured-image.svg",
       "featured_hash": "3edf9236db51f63056c828b35debcdfb40c1851c8c4ee2c974b39ca31321ed43",
       "variants": [
@@ -5417,7 +5417,7 @@
         "it",
         "floppy"
       ],
-      "folder": "icons/it__floppy",
+      "folder": "icons/it/it__floppy",
       "featured": "featured-image.svg",
       "featured_hash": "a9a9a7ce7eafeb035a18653a3f4da6008250e4da58517d09fd0779512f4f3bd0",
       "variants": [
@@ -5535,7 +5535,7 @@
         "floppy",
         "5"
       ],
-      "folder": "icons/it__floppy-5",
+      "folder": "icons/it/it__floppy-5",
       "featured": "featured-image.svg",
       "featured_hash": "4685936231b048a0d1d9862aea7bb111105ab380b652d31e68c86bde9b373fb9",
       "variants": [
@@ -5597,7 +5597,7 @@
         "it",
         "folder"
       ],
-      "folder": "icons/it__folder",
+      "folder": "icons/it/it__folder",
       "featured": "featured-image.svg",
       "featured_hash": "6471dc7ed3894fe44ac9365b2be365c364c9aaf4a3e9455a4060375c084e504d",
       "variants": [
@@ -5640,7 +5640,7 @@
         "folder",
         "vertical"
       ],
-      "folder": "icons/it__folder-vertical",
+      "folder": "icons/it/it__folder-vertical",
       "featured": "featured-image.svg",
       "featured_hash": "e367f5b96b0f9dca99dc61f6e9efd5c6f476cb3639f4d729a93c7b464039cc21",
       "variants": [
@@ -5682,7 +5682,7 @@
         "it",
         "grid"
       ],
-      "folder": "icons/it__grid",
+      "folder": "icons/it/it__grid",
       "featured": "featured-image.svg",
       "featured_hash": "efab4ec3f75393f787c5a7ab25b52f92a5751c6652662187e17d22b6f0cc22fd",
       "variants": [
@@ -5770,7 +5770,7 @@
         "grid_black_line",
         "16"
       ],
-      "folder": "icons/it__grid_black_line-16-",
+      "folder": "icons/it/it__grid_black_line-16-",
       "featured": "featured-image.svg",
       "featured_hash": "9c7619562e351d4421867acdf40270d7ff4198c75efc9e88c83877ac87764516",
       "variants": [
@@ -5793,7 +5793,7 @@
         "grid_white_line",
         "16"
       ],
-      "folder": "icons/it__grid_white_line-16-",
+      "folder": "icons/it/it__grid_white_line-16-",
       "featured": "featured-image.svg",
       "featured_hash": "64c15c9725072a14d08518cf7e41a5b9db5af9ae993c008f7307a480c7d92a70",
       "variants": [
@@ -5815,7 +5815,7 @@
         "it",
         "grid_whitek"
       ],
-      "folder": "icons/it__grid_whitek",
+      "folder": "icons/it/it__grid_whitek",
       "featured": "featured-image.svg",
       "featured_hash": "f6b76e7feea1013bd435fc8b14f655fa7fe59811c6ce0f50213e4a1b5a60ddbc",
       "variants": [
@@ -5838,7 +5838,7 @@
         "hard",
         "drive"
       ],
-      "folder": "icons/it__hard-drive",
+      "folder": "icons/it/it__hard-drive",
       "featured": "featured-image.svg",
       "featured_hash": "d1636e394d7bed3623074ba8cf74360adf8d16579e043d2dbca06a9181e6b4a7",
       "variants": [
@@ -5917,7 +5917,7 @@
         "drive",
         "inside"
       ],
-      "folder": "icons/it__hard-drive-inside",
+      "folder": "icons/it/it__hard-drive-inside",
       "featured": "featured-image.svg",
       "featured_hash": "632daecd158b1e09a04498b07d75e6f6bf6f75d6d7711e88ad7c6f60043eb8e6",
       "variants": [
@@ -5959,7 +5959,7 @@
         "it",
         "headphones"
       ],
-      "folder": "icons/it__headphones",
+      "folder": "icons/it/it__headphones",
       "featured": "featured-image.svg",
       "featured_hash": "f68f389d35285b63a99739f264a14776aba2dd807b2da8c0433d5f199da79346",
       "variants": [
@@ -6016,7 +6016,7 @@
         "it",
         "image"
       ],
-      "folder": "icons/it__image",
+      "folder": "icons/it/it__image",
       "featured": "featured-image.svg",
       "featured_hash": "613d897f94ee5a25964d345e8f71b6d0f10d7dbd6ed7d3bdd0a890d10fd1643b",
       "variants": [
@@ -6098,7 +6098,7 @@
         "it",
         "instagram"
       ],
-      "folder": "icons/it__instagram",
+      "folder": "icons/it/it__instagram",
       "featured": "featured-image.svg",
       "featured_hash": "c696ede33d8b2224afe9994ff6e5e5306800f4c224e4846ae0b35f891e64502e",
       "variants": [
@@ -6145,7 +6145,7 @@
         "it",
         "keyboard"
       ],
-      "folder": "icons/it__keyboard",
+      "folder": "icons/it/it__keyboard",
       "featured": "featured-image.svg",
       "featured_hash": "192d1ee0a72c98748a16cf379508178fcf7662caea2431bb57981b719fd0070b",
       "variants": [
@@ -6227,7 +6227,7 @@
         "it",
         "keyboard_small"
       ],
-      "folder": "icons/it__keyboard_small",
+      "folder": "icons/it/it__keyboard_small",
       "featured": "featured-image.svg",
       "featured_hash": "d49d54cc6b1e2dcf66a639a821726832272deee85ba0a3057f808afd724d614d",
       "variants": [
@@ -6274,7 +6274,7 @@
         "it",
         "laptop"
       ],
-      "folder": "icons/it__laptop",
+      "folder": "icons/it/it__laptop",
       "featured": "featured-image.svg",
       "featured_hash": "3f08d4ee8d77d056bf925e2625026d25efb0896c05ad14e4f55ceffa7633c767",
       "variants": [
@@ -6349,7 +6349,7 @@
         "side",
         "view"
       ],
-      "folder": "icons/it__laptop-hp-side-view",
+      "folder": "icons/it/it__laptop-hp-side-view",
       "featured": "featured-image.svg",
       "featured_hash": "eb04703b3b2748f46d631285adb32a7e6829b1025d3a8b4388a7d1def21beace",
       "variants": [
@@ -6384,7 +6384,7 @@
         "side",
         "view_hite"
       ],
-      "folder": "icons/it__laptop-hp-side-view_hite",
+      "folder": "icons/it/it__laptop-hp-side-view_hite",
       "featured": "featured-image.svg",
       "featured_hash": "5c701d511124f10f41888bddfc67b1e4a1a492302fdbe8784fd7bb841922b35f",
       "variants": [
@@ -6407,7 +6407,7 @@
         "laptop",
         "msi"
       ],
-      "folder": "icons/it__laptop-msi",
+      "folder": "icons/it/it__laptop-msi",
       "featured": "featured-image.svg",
       "featured_hash": "70f2ab083affbdb32668d00250d7240289ccb0889160ff32fbf6af2a3ca0cf5c",
       "variants": [
@@ -6480,7 +6480,7 @@
         "laptop",
         "without_keyboard"
       ],
-      "folder": "icons/it__laptop-without_keyboard",
+      "folder": "icons/it/it__laptop-without_keyboard",
       "featured": "featured-image.svg",
       "featured_hash": "4a4c4e746ef7e060f708b2285ff7c6eef621042bfc498daedffc4790eb971495",
       "variants": [
@@ -6552,7 +6552,7 @@
         "it",
         "microsd"
       ],
-      "folder": "icons/it__microsd",
+      "folder": "icons/it/it__microsd",
       "featured": "featured-image.svg",
       "featured_hash": "e620b4124652c157c8d6fec322d9060cc87d6c55d8f230696a70448f9b4d3e98",
       "variants": [
@@ -6614,7 +6614,7 @@
         "it",
         "monitor"
       ],
-      "folder": "icons/it__monitor",
+      "folder": "icons/it/it__monitor",
       "featured": "featured-image.svg",
       "featured_hash": "04e5de35ff9a628afce69026a52d8cb411ade9ec6a18cc18b35fa61a77b4ba9a",
       "variants": [
@@ -6686,7 +6686,7 @@
         "it",
         "mouse"
       ],
-      "folder": "icons/it__mouse",
+      "folder": "icons/it/it__mouse",
       "featured": "featured-image.svg",
       "featured_hash": "9030b05a6c9fa4e447ca356b309504b058a02a71fe4264b5d0eeefe500daba6b",
       "variants": [
@@ -6729,7 +6729,7 @@
         "projector",
         "screen"
       ],
-      "folder": "icons/it__projector-screen",
+      "folder": "icons/it/it__projector-screen",
       "featured": "featured-image.svg",
       "featured_hash": "54732de1afc2564c5bfd3c11c14b407bba6c1ba7965d1510e57ef184df2691b9",
       "variants": [
@@ -6767,7 +6767,7 @@
         "remote",
         "control"
       ],
-      "folder": "icons/it__remote-control",
+      "folder": "icons/it/it__remote-control",
       "featured": "featured-image.svg",
       "featured_hash": "5becc118d7b0a880f8e3018970de72a4e230cca56ab2ac24ab0c19763da5f54a",
       "variants": [
@@ -6819,7 +6819,7 @@
         "it",
         "sd"
       ],
-      "folder": "icons/it__sd",
+      "folder": "icons/it/it__sd",
       "featured": "featured-image.svg",
       "featured_hash": "9f22440e92fe87ffa9e9a8c147ae6bc7b32deeb4abbd6e1975baf302984eaaa8",
       "variants": [
@@ -6941,7 +6941,7 @@
         "it",
         "server"
       ],
-      "folder": "icons/it__server",
+      "folder": "icons/it/it__server",
       "featured": "featured-image.svg",
       "featured_hash": "e4d2de8e46f42a167e1e28cc51f52bbdb3f5f0f721665105b284b479c5c2446e",
       "variants": [
@@ -6983,7 +6983,7 @@
         "it",
         "sim"
       ],
-      "folder": "icons/it__sim",
+      "folder": "icons/it/it__sim",
       "featured": "featured-image.svg",
       "featured_hash": "bc0b09143a940292cbb98a67f1ee7fec58570426988481fbc3705fed66f6e661",
       "variants": [
@@ -7026,7 +7026,7 @@
         "sim",
         "micro"
       ],
-      "folder": "icons/it__sim-micro",
+      "folder": "icons/it/it__sim-micro",
       "featured": "featured-image.svg",
       "featured_hash": "c8545933a9518145869c14012278143628f97c61625da73a0992b846b270e48d",
       "variants": [
@@ -7069,7 +7069,7 @@
         "sim",
         "nano"
       ],
-      "folder": "icons/it__sim-nano",
+      "folder": "icons/it/it__sim-nano",
       "featured": "featured-image.svg",
       "featured_hash": "b4cf62ddd37498b9a80d5c8f8ac9b8c740802690a9d458b8391822df0b86580c",
       "variants": [
@@ -7111,7 +7111,7 @@
         "it",
         "site"
       ],
-      "folder": "icons/it__site",
+      "folder": "icons/it/it__site",
       "featured": "featured-image.svg",
       "featured_hash": "01180c523001c8dece68d42971d425e87837bfa53691b4bd84c35c126e95dd1f",
       "variants": [
@@ -7164,7 +7164,7 @@
         "system",
         "unit"
       ],
-      "folder": "icons/it__system-unit",
+      "folder": "icons/it/it__system-unit",
       "featured": "featured-image.svg",
       "featured_hash": "b0c15fb3d43325455f29a0016da874704513f48f52142adef870ff4061a42a34",
       "variants": [
@@ -7206,7 +7206,7 @@
         "it",
         "table"
       ],
-      "folder": "icons/it__table",
+      "folder": "icons/it/it__table",
       "featured": "featured-image.svg",
       "featured_hash": "e7634aef2f856432455b0376cf8a89ec032e97f1c14dbbd6711f053500606371",
       "variants": [
@@ -7272,7 +7272,7 @@
         "note",
         "10.1"
       ],
-      "folder": "icons/it__tablet-samsung-galaxy-note-10.1",
+      "folder": "icons/it/it__tablet-samsung-galaxy-note-10.1",
       "featured": "featured-image.svg",
       "featured_hash": "6b249d9ebfd763e5d031888b1c0a9191ec4fd5a354ce7e38d9293a4e902a946b",
       "variants": [
@@ -7359,7 +7359,7 @@
         "it",
         "text"
       ],
-      "folder": "icons/it__text",
+      "folder": "icons/it/it__text",
       "featured": "featured-image.svg",
       "featured_hash": "add0c44a64e208f5de1b27f33b122ba195fdda133ee02c020389b0c2585c0329",
       "variants": [
@@ -7476,7 +7476,7 @@
         "it",
         "trash"
       ],
-      "folder": "icons/it__trash",
+      "folder": "icons/it/it__trash",
       "featured": "featured-image.svg",
       "featured_hash": "47a424b2efa767c4eb29ad209ec0af27f7b50888f39939473572a79c6ff09cbc",
       "variants": [
@@ -7564,7 +7564,7 @@
         "trash",
         "full"
       ],
-      "folder": "icons/it__trash-full",
+      "folder": "icons/it/it__trash-full",
       "featured": "featured-image.svg",
       "featured_hash": "07fc8b4dfacb80c8b3eff4eca901e91b5b8f07115978607f4be93d2ec9c651dd",
       "variants": [
@@ -7608,7 +7608,7 @@
         "oneplus",
         "3t"
       ],
-      "folder": "icons/it_phone__oneplus-3t",
+      "folder": "icons/it_phone/it_phone__oneplus-3t",
       "featured": "featured-image.svg",
       "featured_hash": "114fe021d6219ea0d9b4ae705da689d4a5aeaca0ef3ed5392c9d6cf234a17acd",
       "variants": [
@@ -7698,7 +7698,7 @@
         "7",
         "pro"
       ],
-      "folder": "icons/it_phone__oneplus-7-pro",
+      "folder": "icons/it_phone/it_phone__oneplus-7-pro",
       "featured": "featured-image.svg",
       "featured_hash": "23d462dc2f4c5004f605050a042078ace2af0461f920c1b772b85c44390508f4",
       "variants": [
@@ -7787,7 +7787,7 @@
         "pixel",
         "3a"
       ],
-      "folder": "icons/it_phone__pixel-3a",
+      "folder": "icons/it_phone/it_phone__pixel-3a",
       "featured": "featured-image.svg",
       "featured_hash": "eda5525e83cceb74f2d77c0c33de914d6b204038fe477ceeebe0293e7c3c9c9c",
       "variants": [
@@ -7876,7 +7876,7 @@
         "samsung",
         "note10plus"
       ],
-      "folder": "icons/it_phone__samsung-note10plus",
+      "folder": "icons/it_phone/it_phone__samsung-note10plus",
       "featured": "featured-image.svg",
       "featured_hash": "8729e39fd778d385efcc29b1868cda5aa73f95b2a9183bf6490e853a1acd682a",
       "variants": [
@@ -7965,7 +7965,7 @@
         "samsung",
         "s10"
       ],
-      "folder": "icons/it_phone__samsung-s10",
+      "folder": "icons/it_phone/it_phone__samsung-s10",
       "featured": "featured-image.svg",
       "featured_hash": "7bce6f44d66da253d99a52561d231a1de8745ba3a66bab8d53e101e5d3407d6a",
       "variants": [
@@ -8053,7 +8053,7 @@
         "medical",
         "mask"
       ],
-      "folder": "icons/medicine__medical-mask",
+      "folder": "icons/medicine/medicine__medical-mask",
       "featured": "featured-image.svg",
       "featured_hash": "ac44cea7a2c84fd6f224c1bf4a03a8b735a535d624d1b346ccfc52c3948dc0df",
       "variants": [
@@ -8090,7 +8090,7 @@
         "medicine",
         "medical_mask_"
       ],
-      "folder": "icons/medicine__medical_mask_",
+      "folder": "icons/medicine/medicine__medical_mask_",
       "featured": "featured-image.svg",
       "featured_hash": "9bdcb46cd24c42f801a71337831dc63a670b496d890095662a9ef7d321cbfcb4",
       "variants": [
@@ -8112,7 +8112,7 @@
         "microcosm",
         "ciliate"
       ],
-      "folder": "icons/microcosm__ciliate",
+      "folder": "icons/microcosm/microcosm__ciliate",
       "featured": "featured-image.svg",
       "featured_hash": "f0437dfe30c7f770b9f5cdf516d053de7169952b14dd076344308c860045a236",
       "variants": [
@@ -8154,7 +8154,7 @@
         "microcosm",
         "coronavirus"
       ],
-      "folder": "icons/microcosm__coronavirus",
+      "folder": "icons/microcosm/microcosm__coronavirus",
       "featured": "featured-image.svg",
       "featured_hash": "d8719be6496077207db784842f4cf18f59f8c17ddb89b8afa30dac9b9d25c56a",
       "variants": [
@@ -8232,7 +8232,7 @@
         "influenza",
         "virus"
       ],
-      "folder": "icons/microcosm__influenza-virus",
+      "folder": "icons/microcosm/microcosm__influenza-virus",
       "featured": "featured-image.svg",
       "featured_hash": "c958c7f053029858d4917b1e3a0c6e6c39e97d759fd46665a9cfe3621ca5dbe1",
       "variants": [
@@ -8275,7 +8275,7 @@
         "paramecium",
         "caudatum"
       ],
-      "folder": "icons/microcosm__paramecium-caudatum",
+      "folder": "icons/microcosm/microcosm__paramecium-caudatum",
       "featured": "featured-image.svg",
       "featured_hash": "9680e4998548dd90fdf6dc38fca2dbfea9f5af7865cd1180e121f2c6a1dc6abf",
       "variants": [
@@ -8317,7 +8317,7 @@
         "nature",
         "feather"
       ],
-      "folder": "icons/nature__feather",
+      "folder": "icons/nature/nature__feather",
       "featured": "featured-image.svg",
       "featured_hash": "9e591a0a87712b3d689f335285c6113cacd8131392ae3c98032e10915aa85a13",
       "variants": [
@@ -8374,7 +8374,7 @@
         "nature",
         "fir"
       ],
-      "folder": "icons/nature__fir",
+      "folder": "icons/nature/nature__fir",
       "featured": "featured-image.svg",
       "featured_hash": "88dc0db2fa6ac589cb4b1094e68fa1a0507ac4c0e36fdbe470f0847a36f210ba",
       "variants": [
@@ -8427,7 +8427,7 @@
         "fir",
         "3d"
       ],
-      "folder": "icons/nature__fir-3d",
+      "folder": "icons/nature/nature__fir-3d",
       "featured": "featured-image.svg",
       "featured_hash": "cafcba7efac9b026c0642e2a74ae2022aaabeac5c7dc9e1d7e36682dc926d2e5",
       "variants": [
@@ -8479,7 +8479,7 @@
         "nature",
         "mountain"
       ],
-      "folder": "icons/nature__mountain",
+      "folder": "icons/nature/nature__mountain",
       "featured": "featured-image.svg",
       "featured_hash": "5b44457bbb8f8d5da2e3bfe785e037e1789bfd05464e25d0f1d4132e38464a69",
       "variants": [
@@ -8561,7 +8561,7 @@
         "nature",
         "mushroom"
       ],
-      "folder": "icons/nature__mushroom",
+      "folder": "icons/nature/nature__mushroom",
       "featured": "featured-image.svg",
       "featured_hash": "01895500e27020ea53ee5a5ded25779670f6d745f382062b92b5f3d860c377fc",
       "variants": [
@@ -8644,7 +8644,7 @@
         "mushroom_gray_white",
         "32"
       ],
-      "folder": "icons/nature__mushroom_gray_white-32",
+      "folder": "icons/nature/nature__mushroom_gray_white-32",
       "featured": "featured-image.svg",
       "featured_hash": "26279da8b3a2c834460bd0005ea1c833518854fa87c60939e2f6d74727e0ca9f",
       "variants": [
@@ -8667,7 +8667,7 @@
         "potted",
         "plant"
       ],
-      "folder": "icons/nature__potted-plant",
+      "folder": "icons/nature/nature__potted-plant",
       "featured": "featured-image.svg",
       "featured_hash": "49bf90bb200ba1b62a7fad8eaa7bab49b0c40d1f8ae2508f79332c19ae69a869",
       "variants": [
@@ -8710,7 +8710,7 @@
         "animal",
         "ant"
       ],
-      "folder": "icons/nature_animal__ant",
+      "folder": "icons/nature_animal/nature_animal__ant",
       "featured": "featured-image.svg",
       "featured_hash": "a5bafca6f0fc0f91e1159d07d8eaa36b81f728b04195f6e8365820d89a3a083f",
       "variants": [
@@ -8753,7 +8753,7 @@
         "animal",
         "bat"
       ],
-      "folder": "icons/nature_animal__bat",
+      "folder": "icons/nature_animal/nature_animal__bat",
       "featured": "featured-image.svg",
       "featured_hash": "c88e9b54a608298055f4978dceb68fdf8aef94ded613fa5cd7925b50ba79e40b",
       "variants": [
@@ -8876,7 +8876,7 @@
         "animal",
         "bats"
       ],
-      "folder": "icons/nature_animal__bats",
+      "folder": "icons/nature_animal/nature_animal__bats",
       "featured": "featured-image.svg",
       "featured_hash": "de97a322a30ae9d0b54b0e5de5571c5673306f134939bd2fbd56bf7212ab6985",
       "variants": [
@@ -8914,7 +8914,7 @@
         "animal",
         "bear"
       ],
-      "folder": "icons/nature_animal__bear",
+      "folder": "icons/nature_animal/nature_animal__bear",
       "featured": "featured-image.svg",
       "featured_hash": "24cc8d3354b5a04d081f3e686c1864170d40b36884cc1fdd2a9ad50d5edc8883",
       "variants": [
@@ -8957,7 +8957,7 @@
         "animal",
         "cow"
       ],
-      "folder": "icons/nature_animal__cow",
+      "folder": "icons/nature_animal/nature_animal__cow",
       "featured": "featured-image.svg",
       "featured_hash": "7fd9ac1d9d620f83aada955a42d0f2046812f78cff48e6d243b8e3dcbe51247a",
       "variants": [
@@ -9020,7 +9020,7 @@
         "animal",
         "crocodile"
       ],
-      "folder": "icons/nature_animal__crocodile",
+      "folder": "icons/nature_animal/nature_animal__crocodile",
       "featured": "featured-image.svg",
       "featured_hash": "f7619ad7302bad814935b110c694c05cf19b11721ec8e864d21bb8fd74b785ed",
       "variants": [
@@ -9108,7 +9108,7 @@
         "animal",
         "dog"
       ],
-      "folder": "icons/nature_animal__dog",
+      "folder": "icons/nature_animal/nature_animal__dog",
       "featured": "featured-image.svg",
       "featured_hash": "ad0d52ae26c9a4216b95083033c89ddea54844555019ea1621dbbc5e6287e10b",
       "variants": [
@@ -9161,7 +9161,7 @@
         "animal",
         "giraffe"
       ],
-      "folder": "icons/nature_animal__giraffe",
+      "folder": "icons/nature_animal/nature_animal__giraffe",
       "featured": "featured-image.svg",
       "featured_hash": "4a9820b24d050685e5132e6a87102f36bd753c5e8cd8c7db401a1c41594871c8",
       "variants": [
@@ -9214,7 +9214,7 @@
         "animal",
         "hippopotamus"
       ],
-      "folder": "icons/nature_animal__hippopotamus",
+      "folder": "icons/nature_animal/nature_animal__hippopotamus",
       "featured": "featured-image.svg",
       "featured_hash": "e69abdd0729b4654d00b953cfdb653d4bdb64f4db54cb9714e1516c7efe8353c",
       "variants": [
@@ -9267,7 +9267,7 @@
         "animal",
         "koala"
       ],
-      "folder": "icons/nature_animal__koala",
+      "folder": "icons/nature_animal/nature_animal__koala",
       "featured": "featured-image.svg",
       "featured_hash": "8e396f77a69a426621649a9b4d3e96cce893d81d19d65c14abe10463dfe9d70f",
       "variants": [
@@ -9320,7 +9320,7 @@
         "animal",
         "monkey"
       ],
-      "folder": "icons/nature_animal__monkey",
+      "folder": "icons/nature_animal/nature_animal__monkey",
       "featured": "featured-image.svg",
       "featured_hash": "9b3c590bd11f0a3bd1fccb5ecd040c7870a3663691ae88062b619a6d3fdf6f98",
       "variants": [
@@ -9413,7 +9413,7 @@
         "animal",
         "mouse"
       ],
-      "folder": "icons/nature_animal__mouse",
+      "folder": "icons/nature_animal/nature_animal__mouse",
       "featured": "featured-image.svg",
       "featured_hash": "2428a4eac385233a5c9744c0f9f242473ef4e1748066621bc3b721c3cccbb7ad",
       "variants": [
@@ -9521,7 +9521,7 @@
         "animal",
         "owl"
       ],
-      "folder": "icons/nature_animal__owl",
+      "folder": "icons/nature_animal/nature_animal__owl",
       "featured": "featured-image.svg",
       "featured_hash": "d0a0500ce76cddb596e1ad8daeb5c7fcaacc42ec2f57f50069486602b57732b7",
       "variants": [
@@ -9584,7 +9584,7 @@
         "animal",
         "panda"
       ],
-      "folder": "icons/nature_animal__panda",
+      "folder": "icons/nature_animal/nature_animal__panda",
       "featured": "featured-image.svg",
       "featured_hash": "21a8a7a88156f323cda4f7b5c79747963201db5b5735a0ea6565b5c8aee22d9d",
       "variants": [
@@ -9627,7 +9627,7 @@
         "animal",
         "penguin"
       ],
-      "folder": "icons/nature_animal__penguin",
+      "folder": "icons/nature_animal/nature_animal__penguin",
       "featured": "featured-image.svg",
       "featured_hash": "9789847292917be13a6031bcbe6274a31c46cbfd0f4f1fac7c90ec61579f327e",
       "variants": [
@@ -9670,7 +9670,7 @@
         "animal",
         "polar_bear"
       ],
-      "folder": "icons/nature_animal__polar_bear",
+      "folder": "icons/nature_animal/nature_animal__polar_bear",
       "featured": "featured-image.svg",
       "featured_hash": "e9579be7a28ad8e01d301078c11f161f6c0dfbb774d3418f0c9a4c0d2dc11787",
       "variants": [
@@ -9714,7 +9714,7 @@
         "track",
         "bear"
       ],
-      "folder": "icons/nature_animal_track__bear",
+      "folder": "icons/nature_animal_track/nature_animal_track__bear",
       "featured": "featured-image.svg",
       "featured_hash": "0acd371d0ba5724eeb646ea281fc6b42b18f9d6b673a050efc7bc41b4cea5317",
       "variants": [
@@ -9802,7 +9802,7 @@
         "leaf",
         "birch"
       ],
-      "folder": "icons/nature_leaf__birch",
+      "folder": "icons/nature_leaf/nature_leaf__birch",
       "featured": "featured-image.svg",
       "featured_hash": "d4c5c121ccef031869881f9ab6eb0b9ec71e7d159bea61de01ba7c4b0c1fe2df",
       "variants": [
@@ -9845,7 +9845,7 @@
         "leaf",
         "maple"
       ],
-      "folder": "icons/nature_leaf__maple",
+      "folder": "icons/nature_leaf/nature_leaf__maple",
       "featured": "featured-image.svg",
       "featured_hash": "63d614c44f49322ce758e0981ff2324f8451e17764bb02df9691a473170923a1",
       "variants": [
@@ -9933,7 +9933,7 @@
         "leaf",
         "plantain"
       ],
-      "folder": "icons/nature_leaf__plantain",
+      "folder": "icons/nature_leaf/nature_leaf__plantain",
       "featured": "featured-image.svg",
       "featured_hash": "dfa48a784926962b45a2354e2fe5c0a32d7f5c9736d07420ed1c9a1d715ea6e6",
       "variants": [
@@ -9976,7 +9976,7 @@
         "accounting",
         "book"
       ],
-      "folder": "icons/object__accounting-book",
+      "folder": "icons/object/object__accounting-book",
       "featured": "featured-image.svg",
       "featured_hash": "30c299106761fb5e93469897ad6ef35d45f58e8456635c1c808cf036c49964e9",
       "variants": [
@@ -10018,7 +10018,7 @@
         "object",
         "alarm"
       ],
-      "folder": "icons/object__alarm",
+      "folder": "icons/object/object__alarm",
       "featured": "featured-image.svg",
       "featured_hash": "355dad058d9d04fd4322bf994ec7f1f2201f130974e5c4bf30a94232725a4185",
       "variants": [
@@ -10080,7 +10080,7 @@
         "object",
         "anchor"
       ],
-      "folder": "icons/object__anchor",
+      "folder": "icons/object/object__anchor",
       "featured": "featured-image.svg",
       "featured_hash": "e9fde07a10eb6819d845b2324094690395d436066fab65cecceeac34e4766b98",
       "variants": [
@@ -10122,7 +10122,7 @@
         "object",
         "axe"
       ],
-      "folder": "icons/object__axe",
+      "folder": "icons/object/object__axe",
       "featured": "featured-image.svg",
       "featured_hash": "0fc966aedb79ab8d368ee916215a8226c5755a930640a41103912d5ea688ffa7",
       "variants": [
@@ -10189,7 +10189,7 @@
         "object",
         "backpack"
       ],
-      "folder": "icons/object__backpack",
+      "folder": "icons/object/object__backpack",
       "featured": "featured-image.svg",
       "featured_hash": "8d7fb535f1409328d32db6f770252c6eba94b998954074b0c43577840f22d437",
       "variants": [
@@ -10253,7 +10253,7 @@
         "with",
         "buckles"
       ],
-      "folder": "icons/object__backpack-with-buckles",
+      "folder": "icons/object/object__backpack-with-buckles",
       "featured": "featured-image.svg",
       "featured_hash": "e9e1ffdcb4594cbacda1dc98df3ca7bc0a39843b3318e6ebde238299ad714891",
       "variants": [
@@ -10295,7 +10295,7 @@
         "object",
         "bag"
       ],
-      "folder": "icons/object__bag",
+      "folder": "icons/object/object__bag",
       "featured": "featured-image.svg",
       "featured_hash": "cc04665e1d28037bf6cef04282681f52b907b91328dfec8ae8a85c3b7d1bcab9",
       "variants": [
@@ -10387,7 +10387,7 @@
         "object",
         "ball"
       ],
-      "folder": "icons/object__ball",
+      "folder": "icons/object/object__ball",
       "featured": "featured-image.svg",
       "featured_hash": "48d1b4477421658d4e10c11d322fc2c980d19f22949e71bebb3fc3d22e381c6c",
       "variants": [
@@ -10429,7 +10429,7 @@
         "object",
         "basketball"
       ],
-      "folder": "icons/object__basketball",
+      "folder": "icons/object/object__basketball",
       "featured": "featured-image.svg",
       "featured_hash": "3d45a1b54ad96c855ac57534f9e73068e94e3be4e7c3981f2cfb289106fec902",
       "variants": [
@@ -10517,7 +10517,7 @@
         "battery",
         "3r12"
       ],
-      "folder": "icons/object__battery-3r12",
+      "folder": "icons/object/object__battery-3r12",
       "featured": "featured-image.svg",
       "featured_hash": "86f145f88c389bfd0e09550bbb1053efc5379ae6c51d8f7a15b9f80f34427f09",
       "variants": [
@@ -10560,7 +10560,7 @@
         "battery",
         "aa"
       ],
-      "folder": "icons/object__battery-aa",
+      "folder": "icons/object/object__battery-aa",
       "featured": "featured-image.svg",
       "featured_hash": "29ad8b35636033a25155dd998b34ecf74efe0490c9d9256932bf62dfb411b477",
       "variants": [
@@ -10612,7 +10612,7 @@
         "object",
         "bell"
       ],
-      "folder": "icons/object__bell",
+      "folder": "icons/object/object__bell",
       "featured": "featured-image.svg",
       "featured_hash": "414a0c90eff5adfe3f3969a517f70d325fe2fd956a6815cdadcd02323fe0d388",
       "variants": [
@@ -10654,7 +10654,7 @@
         "object",
         "birdhouse"
       ],
-      "folder": "icons/object__birdhouse",
+      "folder": "icons/object/object__birdhouse",
       "featured": "featured-image.svg",
       "featured_hash": "1f80e447be95e3867b8fc9ea6b155caa002f828a2c8119acf70d790b1fc4397f",
       "variants": [
@@ -10711,7 +10711,7 @@
         "object",
         "blackboard"
       ],
-      "folder": "icons/object__blackboard",
+      "folder": "icons/object/object__blackboard",
       "featured": "featured-image.svg",
       "featured_hash": "7c4c9f8eea304f5f8063c3bd1805cd91da7c8af093fb461d093dcba320c9bd71",
       "variants": [
@@ -10788,7 +10788,7 @@
         "object",
         "bookshelf"
       ],
-      "folder": "icons/object__bookshelf",
+      "folder": "icons/object/object__bookshelf",
       "featured": "featured-image.svg",
       "featured_hash": "ad38f1f0b205cbdb9505b579fb5d632069d03281d9ce5540d4617b2d426bdee0",
       "variants": [
@@ -10855,7 +10855,7 @@
         "object",
         "bottle"
       ],
-      "folder": "icons/object__bottle",
+      "folder": "icons/object/object__bottle",
       "featured": "featured-image.svg",
       "featured_hash": "cd2f00f56f78af9ed162aca9223d6939bd7d7045f7373ebf8720141846c81b86",
       "variants": [
@@ -10973,7 +10973,7 @@
         "bowling",
         "ball"
       ],
-      "folder": "icons/object__bowling-ball",
+      "folder": "icons/object/object__bowling-ball",
       "featured": "featured-image.svg",
       "featured_hash": "6cc38bf4f70bfb7024e47479759861b62aee8281980e81b1d947e2718592654b",
       "variants": [
@@ -11101,7 +11101,7 @@
         "bowling",
         "pin"
       ],
-      "folder": "icons/object__bowling-pin",
+      "folder": "icons/object/object__bowling-pin",
       "featured": "featured-image.svg",
       "featured_hash": "8a8a6fe92d89b5c3710433484823529785e122e0912a0d5456e522de6d3dcc69",
       "variants": [
@@ -11203,7 +11203,7 @@
         "object",
         "box"
       ],
-      "folder": "icons/object__box",
+      "folder": "icons/object/object__box",
       "featured": "featured-image.svg",
       "featured_hash": "c9ac42117bf30bc5dd807c9599ce8d970e66e184dfd1a034218356d04bf21c35",
       "variants": [
@@ -11241,7 +11241,7 @@
         "box",
         "front"
       ],
-      "folder": "icons/object__box-front",
+      "folder": "icons/object/object__box-front",
       "featured": "featured-image.svg",
       "featured_hash": "42a2f2a6b1fc14906e3325aa549cc2517def5cd5fd102cb38699027669a7b330",
       "variants": [
@@ -11293,7 +11293,7 @@
         "object",
         "broom"
       ],
-      "folder": "icons/object__broom",
+      "folder": "icons/object/object__broom",
       "featured": "featured-image.svg",
       "featured_hash": "0c22a1dfac6b892ca2469196aa3e25191735ed66f23975912e58a5d1491ccf87",
       "variants": [
@@ -11335,7 +11335,7 @@
         "object",
         "brush"
       ],
-      "folder": "icons/object__brush",
+      "folder": "icons/object/object__brush",
       "featured": "featured-image.svg",
       "featured_hash": "9e1c8cb4ff3965e5b8e15a3808715a99de812cae129dba4f143b2238fa9a384c",
       "variants": [
@@ -11377,7 +11377,7 @@
         "object",
         "bulb"
       ],
-      "folder": "icons/object__bulb",
+      "folder": "icons/object/object__bulb",
       "featured": "featured-image.svg",
       "featured_hash": "be6ba8d028e292007f82dc962671dfe9bcc0990aa5ff92978714f434f4c5fffb",
       "variants": [
@@ -11421,7 +11421,7 @@
         "incandescent",
         "light"
       ],
-      "folder": "icons/object__bulb-incandescent-light",
+      "folder": "icons/object/object__bulb-incandescent-light",
       "featured": "featured-image.svg",
       "featured_hash": "f285745f83b20503584ce14f58dd626d1558a26564ee2fbd34e863334e06075b",
       "variants": [
@@ -11464,7 +11464,7 @@
         "bunker",
         "door"
       ],
-      "folder": "icons/object__bunker-door",
+      "folder": "icons/object/object__bunker-door",
       "featured": "featured-image.svg",
       "featured_hash": "1cf038886ec5bcbd3452af2822c306a3fc6d8b60d5208d5701020b27f75db083",
       "variants": [
@@ -11507,7 +11507,7 @@
         "bunker",
         "door_033"
       ],
-      "folder": "icons/object__bunker-door_033",
+      "folder": "icons/object/object__bunker-door_033",
       "featured": "featured-image.svg",
       "featured_hash": "52f9d700830d00af7e1da44a4604ccaea58f6b5d2974dd3d22ae20401c84afe1",
       "variants": [
@@ -11530,7 +11530,7 @@
         "bunker",
         "door_044"
       ],
-      "folder": "icons/object__bunker-door_044",
+      "folder": "icons/object/object__bunker-door_044",
       "featured": "featured-image.svg",
       "featured_hash": "05884b9d495a2b4873337921a5798c819ff550f87f03121d7eca06dfbb3debda",
       "variants": [
@@ -11552,7 +11552,7 @@
         "object",
         "button"
       ],
-      "folder": "icons/object__button",
+      "folder": "icons/object/object__button",
       "featured": "featured-image.svg",
       "featured_hash": "5b9c7e2296c8ca17d6251c7cae54ba7ac4c4cea2d013726ce94000e15780e138",
       "variants": [
@@ -11625,7 +11625,7 @@
         "cassette",
         "tape"
       ],
-      "folder": "icons/object__cassette-tape",
+      "folder": "icons/object/object__cassette-tape",
       "featured": "featured-image.svg",
       "featured_hash": "28e3e37e69af49d4a4a8a794b67becc74a44f838c3556391f18aeeabfeae9501",
       "variants": [
@@ -11667,7 +11667,7 @@
         "object",
         "clapperboard"
       ],
-      "folder": "icons/object__clapperboard",
+      "folder": "icons/object/object__clapperboard",
       "featured": "featured-image.svg",
       "featured_hash": "cc3305a1194b6776557a220954b3e0ee6a3d2f403d691ff6df0fd2e285b87612",
       "variants": [
@@ -11704,7 +11704,7 @@
         "object",
         "clock"
       ],
-      "folder": "icons/object__clock",
+      "folder": "icons/object/object__clock",
       "featured": "featured-image.svg",
       "featured_hash": "f4d30b619a01cd0c4c990f612513b25b6ca22f876d76d320b86dd195c9e45aa2",
       "variants": [
@@ -11767,7 +11767,7 @@
         "clock",
         "krasnoyarsk"
       ],
-      "folder": "icons/object__clock-krasnoyarsk",
+      "folder": "icons/object/object__clock-krasnoyarsk",
       "featured": "featured-image.svg",
       "featured_hash": "7a7b2a4cf7c147a7001bb2bcc581b5d79044dbe6a6ade6141f521b6b66a8a7ec",
       "variants": [
@@ -11834,7 +11834,7 @@
         "object",
         "coaster"
       ],
-      "folder": "icons/object__coaster",
+      "folder": "icons/object/object__coaster",
       "featured": "featured-image.svg",
       "featured_hash": "0c68b0bc5a6ad5bbdfdebf6f1e1b66391ea0729791fb7ba2797c0e263d4a3ded",
       "variants": [
@@ -11877,7 +11877,7 @@
         "coffee",
         "cup"
       ],
-      "folder": "icons/object__coffee-cup",
+      "folder": "icons/object/object__coffee-cup",
       "featured": "featured-image.svg",
       "featured_hash": "66282e3eab24e1340e4c6503f5a28a78aa78c2b3a11adb427a4d7d6769e35651",
       "variants": [
@@ -11919,7 +11919,7 @@
         "object",
         "coin"
       ],
-      "folder": "icons/object__coin",
+      "folder": "icons/object/object__coin",
       "featured": "featured-image.svg",
       "featured_hash": "a4de440209701961b2fda108daa47f5447f511c8e2644ea9d412f2a53d501af2",
       "variants": [
@@ -12086,7 +12086,7 @@
         "object",
         "coin_gray_0"
       ],
-      "folder": "icons/object__coin_gray_0",
+      "folder": "icons/object/object__coin_gray_0",
       "featured": "featured-image.svg",
       "featured_hash": "39bea060eba258aafbc27418295be03c4c43c77b2e6cb70270f9aefddb5a7a8c",
       "variants": [
@@ -12108,7 +12108,7 @@
         "object",
         "cup"
       ],
-      "folder": "icons/object__cup",
+      "folder": "icons/object/object__cup",
       "featured": "featured-image.svg",
       "featured_hash": "1594e2a1be8a5f215cd167a3c88757a2356fc1d3fd6b52ab5628ba41777a09e5",
       "variants": [
@@ -12268,7 +12268,7 @@
         "coffee",
         "top"
       ],
-      "folder": "icons/object__cup-of-coffee-top",
+      "folder": "icons/object/object__cup-of-coffee-top",
       "featured": "featured-image.svg",
       "featured_hash": "bf40824b791df69ce9476ff666cecd6d18391d19dc38a4b5af39f54fb6643456",
       "variants": [
@@ -12321,7 +12321,7 @@
         "cutting",
         "pliers"
       ],
-      "folder": "icons/object__cutting-pliers",
+      "folder": "icons/object/object__cutting-pliers",
       "featured": "featured-image.svg",
       "featured_hash": "13aec46965d5b8ebb396151ef40384c5d946fcf003c132c1d65352022747293a",
       "variants": [
@@ -12403,7 +12403,7 @@
         "object",
         "domino"
       ],
-      "folder": "icons/object__domino",
+      "folder": "icons/object/object__domino",
       "featured": "featured-image.svg",
       "featured_hash": "5b051a1c6fc1ce98e8e9587353219197800e6f2f2d196fc068bdd3ec8104d32e",
       "variants": [
@@ -12470,7 +12470,7 @@
         "object",
         "door"
       ],
-      "folder": "icons/object__door",
+      "folder": "icons/object/object__door",
       "featured": "featured-image.svg",
       "featured_hash": "882999691f2d297ffdf7a4f57225e1ff13961769937edc42eb2e5810c2627ec8",
       "variants": [
@@ -12582,7 +12582,7 @@
         "object",
         "drone"
       ],
-      "folder": "icons/object__drone",
+      "folder": "icons/object/object__drone",
       "featured": "featured-image.svg",
       "featured_hash": "8bb015e172113f5a374f844873203ef620342fd6598e433e3abb9232c20729aa",
       "variants": [
@@ -12680,7 +12680,7 @@
         "drone",
         "aero"
       ],
-      "folder": "icons/object__drone-aero",
+      "folder": "icons/object/object__drone-aero",
       "featured": "featured-image.svg",
       "featured_hash": "5bf3062fda8632cf4d723b9397b6bbb4abe2e4e639e0f3cca7c5b56a140261d3",
       "variants": [
@@ -12742,7 +12742,7 @@
         "object",
         "dumbbell"
       ],
-      "folder": "icons/object__dumbbell",
+      "folder": "icons/object/object__dumbbell",
       "featured": "featured-image.svg",
       "featured_hash": "6212989967954ccc7de221cfc684fa40f870a28c6ffd279357be453e9034d663",
       "variants": [
@@ -12784,7 +12784,7 @@
         "object",
         "elevator"
       ],
-      "folder": "icons/object__elevator",
+      "folder": "icons/object/object__elevator",
       "featured": "featured-image.svg",
       "featured_hash": "54583165ad317e1239bdbfb7f6b9f4592befece30153e1deeaa78e704e5cfeeb",
       "variants": [
@@ -12826,7 +12826,7 @@
         "object",
         "envelope"
       ],
-      "folder": "icons/object__envelope",
+      "folder": "icons/object/object__envelope",
       "featured": "featured-image.svg",
       "featured_hash": "35003b46b3c0d82445233177220c3387999f37c82b0240f4beb5d387217fd379",
       "variants": [
@@ -12929,7 +12929,7 @@
         "exercise",
         "book"
       ],
-      "folder": "icons/object__exercise-book",
+      "folder": "icons/object/object__exercise-book",
       "featured": "featured-image.svg",
       "featured_hash": "0aae5b62bc381afd6e33a589f698d611845fec3957c0d062d8e2e3a6d154b7e5",
       "variants": [
@@ -13029,7 +13029,7 @@
         "spiral",
         "bound"
       ],
-      "folder": "icons/object__exercise-book-spiral-bound",
+      "folder": "icons/object/object__exercise-book-spiral-bound",
       "featured": "featured-image.svg",
       "featured_hash": "01437c25acecc5f071444486fda8a8aefaf64a486c50d667b292d2faca2f7651",
       "variants": [
@@ -13066,7 +13066,7 @@
         "object",
         "extinguisher"
       ],
-      "folder": "icons/object__extinguisher",
+      "folder": "icons/object/object__extinguisher",
       "featured": "featured-image.svg",
       "featured_hash": "bfd9a12d442a379007c420a91fff4e1231159ba576dbf81eb69fe76d825855eb",
       "variants": [
@@ -13103,7 +13103,7 @@
         "object",
         "extinguisher_graysvg"
       ],
-      "folder": "icons/object__extinguisher_graysvg",
+      "folder": "icons/object/object__extinguisher_graysvg",
       "featured": "featured-image.svg",
       "featured_hash": "fe0831c492b6aac905485024fc213e80246b4f0c4c4dbc247c64255c144b643b",
       "variants": [
@@ -13125,7 +13125,7 @@
         "object",
         "fire"
       ],
-      "folder": "icons/object__fire",
+      "folder": "icons/object/object__fire",
       "featured": "featured-image.svg",
       "featured_hash": "5ea520911c8fcf393c42a7abdb1acb950d18320f949284ec0f8946dc9418f8f5",
       "variants": [
@@ -13177,7 +13177,7 @@
         "object",
         "flippers"
       ],
-      "folder": "icons/object__flippers",
+      "folder": "icons/object/object__flippers",
       "featured": "featured-image.svg",
       "featured_hash": "25c656d1f5e04308d05b84f8d5706332c59cf2ae145b94c6c596321eeb8e41ce",
       "variants": [
@@ -13240,7 +13240,7 @@
         "fountain",
         "pen"
       ],
-      "folder": "icons/object__fountain-pen",
+      "folder": "icons/object/object__fountain-pen",
       "featured": "featured-image.svg",
       "featured_hash": "0d09ab6c0b0dfa4533c144959c947d7371bc1e8977c8a49c638e93ec133ef37e",
       "variants": [
@@ -13307,7 +13307,7 @@
         "object",
         "fridge"
       ],
-      "folder": "icons/object__fridge",
+      "folder": "icons/object/object__fridge",
       "featured": "featured-image.svg",
       "featured_hash": "86d8179c3a771f6552618e10d2b6d99dffe0030d6e2453f58a9bf5662b61cc22",
       "variants": [
@@ -13359,7 +13359,7 @@
         "object",
         "gear"
       ],
-      "folder": "icons/object__gear",
+      "folder": "icons/object/object__gear",
       "featured": "featured-image.svg",
       "featured_hash": "bf3604007ecfc72c3ffd53ab2cbdcd252208f3423895a12ecdfd7a946f55c596",
       "variants": [
@@ -13398,7 +13398,7 @@
         "19",
         "teeth"
       ],
-      "folder": "icons/object__gear-19-teeth",
+      "folder": "icons/object/object__gear-19-teeth",
       "featured": "featured-image.svg",
       "featured_hash": "954f93019f4001a088b409fe32feccc2825a229cfd00e663d3cb2caf851a9ee5",
       "variants": [
@@ -13452,7 +13452,7 @@
         "43",
         "teeth"
       ],
-      "folder": "icons/object__gear-43-teeth",
+      "folder": "icons/object/object__gear-43-teeth",
       "featured": "featured-image.svg",
       "featured_hash": "cd455f11cca4abe3a543c0967dbec3fe57f644da225afd63c4896bdfab10c685",
       "variants": [
@@ -13506,7 +13506,7 @@
         "6",
         "teeth"
       ],
-      "folder": "icons/object__gear-6-teeth",
+      "folder": "icons/object/object__gear-6-teeth",
       "featured": "featured-image.svg",
       "featured_hash": "a53eae3212e5c0dfe22ec89d59f42830b092f9a1d802c8c301a059d07f945191",
       "variants": [
@@ -13608,7 +13608,7 @@
         "object",
         "globe"
       ],
-      "folder": "icons/object__globe",
+      "folder": "icons/object/object__globe",
       "featured": "featured-image.svg",
       "featured_hash": "aca241e8c5e12b4a4ad2eb7826ed586e4681484e8158efcfbe230213fdf241f8",
       "variants": [
@@ -13670,7 +13670,7 @@
         "object",
         "goblet"
       ],
-      "folder": "icons/object__goblet",
+      "folder": "icons/object/object__goblet",
       "featured": "featured-image.svg",
       "featured_hash": "c6ef405964704681cabcf8bc87087c4e4ad1fc7bac889cad66a8665a3a4e33ff",
       "variants": [
@@ -13758,7 +13758,7 @@
         "gramophone",
         "record"
       ],
-      "folder": "icons/object__gramophone-record",
+      "folder": "icons/object/object__gramophone-record",
       "featured": "featured-image.svg",
       "featured_hash": "cbc4d1db9831983bb5fcc9713634af1ff5b0c5f1df174007950faac9885f9281",
       "variants": [
@@ -13835,7 +13835,7 @@
         "object",
         "guitar"
       ],
-      "folder": "icons/object__guitar",
+      "folder": "icons/object/object__guitar",
       "featured": "featured-image.svg",
       "featured_hash": "605f6a5ddb75202674be9ec5bf08602b4defe4a514c08d1f6bf0ad584171d05f",
       "variants": [
@@ -13908,7 +13908,7 @@
         "guitar",
         "pick"
       ],
-      "folder": "icons/object__guitar-pick",
+      "folder": "icons/object/object__guitar-pick",
       "featured": "featured-image.svg",
       "featured_hash": "9ce1a348831e599d4362708cef8ef379849ffec666bfb3fec46b009f3a6e6017",
       "variants": [
@@ -13995,7 +13995,7 @@
         "object",
         "hammer"
       ],
-      "folder": "icons/object__hammer",
+      "folder": "icons/object/object__hammer",
       "featured": "featured-image.svg",
       "featured_hash": "03de96ca4ac24fe75144ef372864aed170210f1b1a56e35ec1186df176f94a6e",
       "variants": [
@@ -14048,7 +14048,7 @@
         "hand",
         "saw"
       ],
-      "folder": "icons/object__hand-saw",
+      "folder": "icons/object/object__hand-saw",
       "featured": "featured-image.svg",
       "featured_hash": "a800ed25616643f7c6bf797266e3c2a430ecb737f329633793f846e7c5ec49f8",
       "variants": [
@@ -14110,7 +14110,7 @@
         "object",
         "hanger"
       ],
-      "folder": "icons/object__hanger",
+      "folder": "icons/object/object__hanger",
       "featured": "featured-image.svg",
       "featured_hash": "a381552ac38695a465dc3a00df90c4b453a1c2e91f0c52ac480fa998aa1eb70a",
       "variants": [
@@ -14152,7 +14152,7 @@
         "object",
         "hourglass"
       ],
-      "folder": "icons/object__hourglass",
+      "folder": "icons/object/object__hourglass",
       "featured": "featured-image.svg",
       "featured_hash": "d93754f7a82e4dbe26bfbfe075345eb3627c3c0f8295ae06c0473c898663b58e",
       "variants": [
@@ -14320,7 +14320,7 @@
         "kerosene",
         "lamp"
       ],
-      "folder": "icons/object__kerosene-lamp",
+      "folder": "icons/object/object__kerosene-lamp",
       "featured": "featured-image.svg",
       "featured_hash": "278dd46b8ba3fe33ec100a3646f14e83169299713550147053884cf4f279fd99",
       "variants": [
@@ -14362,7 +14362,7 @@
         "object",
         "kettlebell"
       ],
-      "folder": "icons/object__kettlebell",
+      "folder": "icons/object/object__kettlebell",
       "featured": "featured-image.svg",
       "featured_hash": "4799eb3e6362a8d082d115cab6bd996910ae03b38b84666aa0aeeef75b2582a7",
       "variants": [
@@ -14419,7 +14419,7 @@
         "object",
         "key"
       ],
-      "folder": "icons/object__key",
+      "folder": "icons/object/object__key",
       "featured": "featured-image.svg",
       "featured_hash": "f962d4c8ee07e82f233af4534adb2c38d2d2b66454db42ac952a348bf733c90c",
       "variants": [
@@ -14656,7 +14656,7 @@
         "object",
         "knife"
       ],
-      "folder": "icons/object__knife",
+      "folder": "icons/object/object__knife",
       "featured": "featured-image.svg",
       "featured_hash": "6d16ad9862097cc0be33cb46117b6218ae8c8080e7f66a07c35500db5f8d603b",
       "variants": [
@@ -14698,7 +14698,7 @@
         "object",
         "led"
       ],
-      "folder": "icons/object__led",
+      "folder": "icons/object/object__led",
       "featured": "featured-image.svg",
       "featured_hash": "c48f9e4685bb795d8a8bab74b86b1d89a9928274d89d8245799c014c82cf790c",
       "variants": [
@@ -14800,7 +14800,7 @@
         "object",
         "lego"
       ],
-      "folder": "icons/object__lego",
+      "folder": "icons/object/object__lego",
       "featured": "featured-image.svg",
       "featured_hash": "25e2426f6f5d6fbb684d9ddbe082919f26ecaeb86475903fbf8d38afbac88286",
       "variants": [
@@ -14942,7 +14942,7 @@
         "object",
         "lifebuoy"
       ],
-      "folder": "icons/object__lifebuoy",
+      "folder": "icons/object/object__lifebuoy",
       "featured": "featured-image.svg",
       "featured_hash": "d0e99b6ca44f318fd095556dbf43d2b6112b4b3f476b574295fda99c45ac421e",
       "variants": [
@@ -14996,7 +14996,7 @@
         "switch",
         "soviet"
       ],
-      "folder": "icons/object__light-switch-soviet",
+      "folder": "icons/object/object__light-switch-soviet",
       "featured": "featured-image.svg",
       "featured_hash": "2a148243e88ab9af78b187ecf2df13a83ba99243950595d357f596f166548635",
       "variants": [
@@ -15038,7 +15038,7 @@
         "object",
         "line_of_triangle"
       ],
-      "folder": "icons/object__line_of_triangle",
+      "folder": "icons/object/object__line_of_triangle",
       "featured": "featured-image.svg",
       "featured_hash": "0d0501f7d7105413d84b600004029481ef74960daebaa00cf3b901d199d9ef49",
       "variants": [
@@ -15080,7 +15080,7 @@
         "object",
         "lock"
       ],
-      "folder": "icons/object__lock",
+      "folder": "icons/object/object__lock",
       "featured": "featured-image.svg",
       "featured_hash": "8de074a9bdb7453c2f89e0e5a28007de30dcc1d0e11d7c807a4fe7749e556ffe",
       "variants": [
@@ -15188,7 +15188,7 @@
         "magic",
         "wand"
       ],
-      "folder": "icons/object__magic-wand",
+      "folder": "icons/object/object__magic-wand",
       "featured": "featured-image.svg",
       "featured_hash": "865319a2a2e3714861eccba8c17dcaae93f36ff2d3642d737d239d1e51c4a52c",
       "variants": [
@@ -15230,7 +15230,7 @@
         "object",
         "magnet"
       ],
-      "folder": "icons/object__magnet",
+      "folder": "icons/object/object__magnet",
       "featured": "featured-image.svg",
       "featured_hash": "c76043306fc899c538404ff539cf0e3ae67ffe257af8e905e98d572c38bca887",
       "variants": [
@@ -15274,7 +15274,7 @@
         "of",
         "horseshoe"
       ],
-      "folder": "icons/object__magnet-of-horseshoe",
+      "folder": "icons/object/object__magnet-of-horseshoe",
       "featured": "featured-image.svg",
       "featured_hash": "0032dfaa4e2073ba20bb31a38d49072328bfda011109ff38a1e687c79e9f2edc",
       "variants": [
@@ -15331,7 +15331,7 @@
         "object",
         "marker"
       ],
-      "folder": "icons/object__marker",
+      "folder": "icons/object/object__marker",
       "featured": "featured-image.svg",
       "featured_hash": "bb2b6cc4d7ab4b1d3757a1c6612a8b8b949ed238522fc0e941b9e871240de4e9",
       "variants": [
@@ -15443,7 +15443,7 @@
         "object",
         "match"
       ],
-      "folder": "icons/object__match",
+      "folder": "icons/object/object__match",
       "featured": "featured-image.svg",
       "featured_hash": "2895a57d4961c80ae79c0384bdf651df9cc169c543c562535336faeab2dac2a7",
       "variants": [
@@ -15486,7 +15486,7 @@
         "medal",
         "i"
       ],
-      "folder": "icons/object__medal-i",
+      "folder": "icons/object/object__medal-i",
       "featured": "featured-image.svg",
       "featured_hash": "bc8c92423702c3dca279004ee6df23352dfe957a3943d1219c5c5e993325f355",
       "variants": [
@@ -15529,7 +15529,7 @@
         "medal",
         "ii"
       ],
-      "folder": "icons/object__medal-ii",
+      "folder": "icons/object/object__medal-ii",
       "featured": "featured-image.svg",
       "featured_hash": "50b91645482d738b6f3671a13cde162c695244a898f5b9d0736ae857d7b21226",
       "variants": [
@@ -15572,7 +15572,7 @@
         "medal",
         "iii"
       ],
-      "folder": "icons/object__medal-iii",
+      "folder": "icons/object/object__medal-iii",
       "featured": "featured-image.svg",
       "featured_hash": "fdd2ce20c077b03467085fc773b0b404e8f6bb36be340e3b21c151785269161c",
       "variants": [
@@ -15614,7 +15614,7 @@
         "object",
         "meeple"
       ],
-      "folder": "icons/object__meeple",
+      "folder": "icons/object/object__meeple",
       "featured": "featured-image.svg",
       "featured_hash": "7a00a40d9996abad69fb62ea357c179e69fe9ef31d704bee9a3dd7b66b86eeca",
       "variants": [
@@ -15741,7 +15741,7 @@
         "object",
         "megaphone"
       ],
-      "folder": "icons/object__megaphone",
+      "folder": "icons/object/object__megaphone",
       "featured": "featured-image.svg",
       "featured_hash": "a61dc01453785e3c2526fa52f0a767b57daca41116ae892aa012125f98e46377",
       "variants": [
@@ -15784,7 +15784,7 @@
         "mercury",
         "thermometer"
       ],
-      "folder": "icons/object__mercury-thermometer",
+      "folder": "icons/object/object__mercury-thermometer",
       "featured": "featured-image.svg",
       "featured_hash": "f24378e24090f864b7758d388a52a310a205828d63d0a9834715019fa50b2e76",
       "variants": [
@@ -15912,7 +15912,7 @@
         "microwave",
         "oven"
       ],
-      "folder": "icons/object__microwave-oven",
+      "folder": "icons/object/object__microwave-oven",
       "featured": "featured-image.svg",
       "featured_hash": "abe86c34c64a41f3847a2916d0e896a66c4af5caf22cd714a5d1c430bcad4470",
       "variants": [
@@ -15964,7 +15964,7 @@
         "object",
         "nail"
       ],
-      "folder": "icons/object__nail",
+      "folder": "icons/object/object__nail",
       "featured": "featured-image.svg",
       "featured_hash": "09de205d79ecb1954df77f8e123e565a9894515ca6ee5072e8e578a4a9e322b5",
       "variants": [
@@ -16016,7 +16016,7 @@
         "object",
         "note"
       ],
-      "folder": "icons/object__note",
+      "folder": "icons/object/object__note",
       "featured": "featured-image.svg",
       "featured_hash": "0435bbdabc53127de0ea70a927fd8c9426d9331f17ca5c93fe044c0e99bc262d",
       "variants": [
@@ -16073,7 +16073,7 @@
         "object",
         "oar"
       ],
-      "folder": "icons/object__oar",
+      "folder": "icons/object/object__oar",
       "featured": "featured-image.svg",
       "featured_hash": "aa5b81a149ce7d1618ffb66d1ebf4bf0ace8e2ca448f9baa537bb4362b7094c9",
       "variants": [
@@ -16127,7 +16127,7 @@
         "file",
         "folder"
       ],
-      "folder": "icons/object__office-file-folder",
+      "folder": "icons/object/object__office-file-folder",
       "featured": "featured-image.svg",
       "featured_hash": "4278cfd01f52282d78899ac87b941976dcd4998caa9e2d72493b5d0e5643415a",
       "variants": [
@@ -16190,7 +16190,7 @@
         "office",
         "knife"
       ],
-      "folder": "icons/object__office-knife",
+      "folder": "icons/object/object__office-knife",
       "featured": "featured-image.svg",
       "featured_hash": "883101bb89b4d16388650628f5657aec6913eb2e9c86429ac74feee9edf5d4ef",
       "variants": [
@@ -16272,7 +16272,7 @@
         "object",
         "package"
       ],
-      "folder": "icons/object__package",
+      "folder": "icons/object/object__package",
       "featured": "featured-image.svg",
       "featured_hash": "2d012a89962e30168adba1a8355a49d025420871caf5f1ee37f9e3754dfc4f9e",
       "variants": [
@@ -16314,7 +16314,7 @@
         "object",
         "palette"
       ],
-      "folder": "icons/object__palette",
+      "folder": "icons/object/object__palette",
       "featured": "featured-image.svg",
       "featured_hash": "7771b13a836f3045119436317698043384ed9ccc7b0cfde0cb0ec40ab820fd70",
       "variants": [
@@ -16401,7 +16401,7 @@
         "object",
         "pan"
       ],
-      "folder": "icons/object__pan",
+      "folder": "icons/object/object__pan",
       "featured": "featured-image.svg",
       "featured_hash": "c27702420cc5077345e1f9d4735c3e42aa247bbe5cdbc2307334329e8d7ca551",
       "variants": [
@@ -16454,7 +16454,7 @@
         "paper",
         "airplane"
       ],
-      "folder": "icons/object__paper-airplane",
+      "folder": "icons/object/object__paper-airplane",
       "featured": "featured-image.svg",
       "featured_hash": "2f2db97c9a41a8cebaf65bd8df3626620b61068fac6079bf178f2942180854db",
       "variants": [
@@ -16503,7 +16503,7 @@
         "airplane",
         "top"
       ],
-      "folder": "icons/object__paper-airplane-top",
+      "folder": "icons/object/object__paper-airplane-top",
       "featured": "featured-image.svg",
       "featured_hash": "5c136365f077ec37bfa9b06386b45b99540adcfc51c29e1cfa1c3ae775d67eab",
       "variants": [
@@ -16566,7 +16566,7 @@
         "paper",
         "boat"
       ],
-      "folder": "icons/object__paper-boat",
+      "folder": "icons/object/object__paper-boat",
       "featured": "featured-image.svg",
       "featured_hash": "2fe3be70fe170a6dd1de1847bb9ca3be57f3fbc64d3174ada76712a9bd7eedfa",
       "variants": [
@@ -16615,7 +16615,7 @@
         "boat",
         "front"
       ],
-      "folder": "icons/object__paper-boat-front",
+      "folder": "icons/object/object__paper-boat-front",
       "featured": "featured-image.svg",
       "featured_hash": "0878c6b3b6fd994de6e9acf7619c55079a6a16f1c6898eddf0c5196833827b43",
       "variants": [
@@ -16678,7 +16678,7 @@
         "paper",
         "cup"
       ],
-      "folder": "icons/object__paper-cup",
+      "folder": "icons/object/object__paper-cup",
       "featured": "featured-image.svg",
       "featured_hash": "7c00968c12b76886b7f17377c80eaa376bae7d19b3d96a1556accb321b5ff3be",
       "variants": [
@@ -16800,7 +16800,7 @@
         "object",
         "pen"
       ],
-      "folder": "icons/object__pen",
+      "folder": "icons/object/object__pen",
       "featured": "featured-image.svg",
       "featured_hash": "83ed34928c45ef95be0594516f67d5267eca87c7d3d5064a62257ae496e4eec5",
       "variants": [
@@ -16887,7 +16887,7 @@
         "object",
         "pencil"
       ],
-      "folder": "icons/object__pencil",
+      "folder": "icons/object/object__pencil",
       "featured": "featured-image.svg",
       "featured_hash": "df2a63834e1fcbd7f09ea2a7faa1164c4239b8b8f4d5ebd8138898513a9ed2f6",
       "variants": [
@@ -16972,7 +16972,7 @@
         "elastic",
         "band"
       ],
-      "folder": "icons/object__pencil-with-elastic-band",
+      "folder": "icons/object/object__pencil-with-elastic-band",
       "featured": "featured-image.svg",
       "featured_hash": "626cf4310a14ad7f1508a6683a9199b83dbfe5de38832b8fcb3e6202aa98cd60",
       "variants": [
@@ -17054,7 +17054,7 @@
         "object",
         "photographic_film"
       ],
-      "folder": "icons/object__photographic_film",
+      "folder": "icons/object/object__photographic_film",
       "featured": "featured-image.svg",
       "featured_hash": "135e09f889048c9729730fdf855c1a1d1db0c8e18b153b3689687b4f54f0b9c1",
       "variants": [
@@ -17131,7 +17131,7 @@
         "object",
         "pickaxe"
       ],
-      "folder": "icons/object__pickaxe",
+      "folder": "icons/object/object__pickaxe",
       "featured": "featured-image.svg",
       "featured_hash": "cf632af4b5fe7464a9093bcf1208c9d86ea83d73611e8e78b69417792371a49a",
       "variants": [
@@ -17173,7 +17173,7 @@
         "object",
         "pill"
       ],
-      "folder": "icons/object__pill",
+      "folder": "icons/object/object__pill",
       "featured": "featured-image.svg",
       "featured_hash": "8273e9758ad6442bf0c7f10adf0edb9867c99dd6188cd8052df39f75393dccbb",
       "variants": [
@@ -17265,7 +17265,7 @@
         "object",
         "pills"
       ],
-      "folder": "icons/object__pills",
+      "folder": "icons/object/object__pills",
       "featured": "featured-image.svg",
       "featured_hash": "569371659db056eb21f05f16c6eb5a2ba50bbda2d057aed91be89e1701625c00",
       "variants": [
@@ -17317,7 +17317,7 @@
         "object",
         "plate"
       ],
-      "folder": "icons/object__plate",
+      "folder": "icons/object/object__plate",
       "featured": "featured-image.svg",
       "featured_hash": "7a450f908842a48a2a6a7c76110b7f40c35fd77f033e547daa60490c01d38b6c",
       "variants": [
@@ -17361,7 +17361,7 @@
         "dice",
         "1"
       ],
-      "folder": "icons/object__playing-dice-1",
+      "folder": "icons/object/object__playing-dice-1",
       "featured": "featured-image.svg",
       "featured_hash": "4da58c3190bdef9ddc74e6cb70a6d15b368af6259531f494c653d69e2e409783",
       "variants": [
@@ -17420,7 +17420,7 @@
         "dice",
         "2"
       ],
-      "folder": "icons/object__playing-dice-2",
+      "folder": "icons/object/object__playing-dice-2",
       "featured": "featured-image.svg",
       "featured_hash": "32738ba511db9c95b329fba2b02afff17abf1186d0fb865e3efb296c30e42f80",
       "variants": [
@@ -17479,7 +17479,7 @@
         "dice",
         "3"
       ],
-      "folder": "icons/object__playing-dice-3",
+      "folder": "icons/object/object__playing-dice-3",
       "featured": "featured-image.svg",
       "featured_hash": "0019d69c1ad96a64d885c9d54abca76946da951166c49b15202e0cb455639249",
       "variants": [
@@ -17538,7 +17538,7 @@
         "dice",
         "4"
       ],
-      "folder": "icons/object__playing-dice-4",
+      "folder": "icons/object/object__playing-dice-4",
       "featured": "featured-image.svg",
       "featured_hash": "ce769386532e4eae6db11c035950dadecca10697426d6f11d455c8e232bd6180",
       "variants": [
@@ -17597,7 +17597,7 @@
         "dice",
         "5"
       ],
-      "folder": "icons/object__playing-dice-5",
+      "folder": "icons/object/object__playing-dice-5",
       "featured": "featured-image.svg",
       "featured_hash": "69349b972a67a21021b03d242a76a6da513b3ebceef96992dd88c44b06ec535e",
       "variants": [
@@ -17656,7 +17656,7 @@
         "dice",
         "6"
       ],
-      "folder": "icons/object__playing-dice-6",
+      "folder": "icons/object/object__playing-dice-6",
       "featured": "featured-image.svg",
       "featured_hash": "c84eea3a474a95dd8f29fbfbd0be7d551b567414f896b57877c57c9bab570962",
       "variants": [
@@ -17713,7 +17713,7 @@
         "object",
         "pliers"
       ],
-      "folder": "icons/object__pliers",
+      "folder": "icons/object/object__pliers",
       "featured": "featured-image.svg",
       "featured_hash": "49af7eb39628ea48f6ebe4cdde13e150ea9d6f3b7cdfef4190e93753e73de68c",
       "variants": [
@@ -17860,7 +17860,7 @@
         "object",
         "polaroid"
       ],
-      "folder": "icons/object__polaroid",
+      "folder": "icons/object/object__polaroid",
       "featured": "featured-image.svg",
       "featured_hash": "4d01359c2dca2456eea69f48c1f58f13ce642bac7a0257af6be4ce4c416b2026",
       "variants": [
@@ -17907,7 +17907,7 @@
         "object",
         "printing"
       ],
-      "folder": "icons/object__printing",
+      "folder": "icons/object/object__printing",
       "featured": "featured-image.svg",
       "featured_hash": "148d3a49ac7719f6ef6a8946ad391015a0ae42ad461266e6b3ba08131955dd20",
       "variants": [
@@ -17974,7 +17974,7 @@
         "object",
         "propeller"
       ],
-      "folder": "icons/object__propeller",
+      "folder": "icons/object/object__propeller",
       "featured": "featured-image.svg",
       "featured_hash": "ba8d3a09f5c0701872550bdbfc4815c4eb0adb3ad366e9d99f6ea49c638a2c9c",
       "variants": [
@@ -18128,7 +18128,7 @@
         "two",
         "bladed"
       ],
-      "folder": "icons/object__propeller-two-bladed",
+      "folder": "icons/object/object__propeller-two-bladed",
       "featured": "featured-image.svg",
       "featured_hash": "4e8b1fb39b858da836f0e153f4a249139c06f7747aec1cbd99cd353f55465f47",
       "variants": [
@@ -18193,7 +18193,7 @@
         "bladed",
         "aero"
       ],
-      "folder": "icons/object__propeller-two-bladed-aero",
+      "folder": "icons/object/object__propeller-two-bladed-aero",
       "featured": "featured-image.svg",
       "featured_hash": "8be0adce9c8e05de78eaed8ac881c803e5d5ec79d6ccac316c21190499cedcdc",
       "variants": [
@@ -18258,7 +18258,7 @@
         "bladed",
         "dji"
       ],
-      "folder": "icons/object__propeller-two-bladed-dji",
+      "folder": "icons/object/object__propeller-two-bladed-dji",
       "featured": "featured-image.svg",
       "featured_hash": "874adbafb582f743e1231e32a4e57a95344f3920697895f1376b9591586d1744",
       "variants": [
@@ -18322,7 +18322,7 @@
         "in",
         "hat"
       ],
-      "folder": "icons/object__rabbit-in-hat",
+      "folder": "icons/object/object__rabbit-in-hat",
       "featured": "featured-image.svg",
       "featured_hash": "5288755fcd052d0bad04ceaa49f97845211b7070a2444e09baea863ed10769f6",
       "variants": [
@@ -18364,7 +18364,7 @@
         "object",
         "railway"
       ],
-      "folder": "icons/object__railway",
+      "folder": "icons/object/object__railway",
       "featured": "featured-image.svg",
       "featured_hash": "19768bd8250bbfd543b233074586491057902ac62c0efab2980d497d27c9db9a",
       "variants": [
@@ -18432,7 +18432,7 @@
         "reel",
         "tape"
       ],
-      "folder": "icons/object__reel-tape",
+      "folder": "icons/object/object__reel-tape",
       "featured": "featured-image.svg",
       "featured_hash": "4d6516f9442bd91d4e2a96461d71fc4b7c691875380128edc389ef5f7798ab1d",
       "variants": [
@@ -18499,7 +18499,7 @@
         "object",
         "ruler"
       ],
-      "folder": "icons/object__ruler",
+      "folder": "icons/object/object__ruler",
       "featured": "featured-image.svg",
       "featured_hash": "93c3232ceb91e4694da0fe36b879196a61c15293a6d47df46904f16fdfaa0e2d",
       "variants": [
@@ -18541,7 +18541,7 @@
         "object",
         "samovar"
       ],
-      "folder": "icons/object__samovar",
+      "folder": "icons/object/object__samovar",
       "featured": "featured-image.svg",
       "featured_hash": "e92ed970712efc68754790dc0189d5dad3332fc95242d56e281a90bdf367f3a8",
       "variants": [
@@ -18583,7 +18583,7 @@
         "object",
         "scales"
       ],
-      "folder": "icons/object__scales",
+      "folder": "icons/object/object__scales",
       "featured": "featured-image.svg",
       "featured_hash": "d76bb0d7b330a01b6707af7fe1f49566e7ddf1bc267024103ef1aa24825c65fd",
       "variants": [
@@ -18636,7 +18636,7 @@
         "scales",
         "floor"
       ],
-      "folder": "icons/object__scales-floor",
+      "folder": "icons/object/object__scales-floor",
       "featured": "featured-image.svg",
       "featured_hash": "1efb836ed09135d10642d567356c2b7e29743e1c4b1d3c2ccf3a1a5e26f808f6",
       "variants": [
@@ -18694,7 +18694,7 @@
         "scales",
         "soviet"
       ],
-      "folder": "icons/object__scales-soviet",
+      "folder": "icons/object/object__scales-soviet",
       "featured": "featured-image.svg",
       "featured_hash": "065c9eeeb8b954ebb001adc42db93856674199e13caff86445ae84a0baa7e245",
       "variants": [
@@ -18736,7 +18736,7 @@
         "object",
         "scissors"
       ],
-      "folder": "icons/object__scissors",
+      "folder": "icons/object/object__scissors",
       "featured": "featured-image.svg",
       "featured_hash": "d1bf915dbabff03471ce1faf2cb1b6792129f3f07211c0e964441d8ba371c270",
       "variants": [
@@ -18833,7 +18833,7 @@
         "object",
         "screwdriver"
       ],
-      "folder": "icons/object__screwdriver",
+      "folder": "icons/object/object__screwdriver",
       "featured": "featured-image.svg",
       "featured_hash": "c42bb1dfb1e5580815737434b2aa53cddce3f5646f2f077a595fcda0905214dd",
       "variants": [
@@ -18961,7 +18961,7 @@
         "screwdriver",
         "simple"
       ],
-      "folder": "icons/object__screwdriver-simple",
+      "folder": "icons/object/object__screwdriver-simple",
       "featured": "featured-image.svg",
       "featured_hash": "2628aa629a8aeb0e5851ca1c3773c9a1ae2db0d2c695702fbbf8a0bc394f02dc",
       "variants": [
@@ -19053,7 +19053,7 @@
         "object",
         "shield"
       ],
-      "folder": "icons/object__shield",
+      "folder": "icons/object/object__shield",
       "featured": "featured-image.svg",
       "featured_hash": "a5b2c4139cd33e7c44ad2b0211f5ccf33607d754c5ca0360460948102dcd14ca",
       "variants": [
@@ -19171,7 +19171,7 @@
         "shield",
         "viking"
       ],
-      "folder": "icons/object__shield-viking",
+      "folder": "icons/object/object__shield-viking",
       "featured": "featured-image.svg",
       "featured_hash": "800650ae5f4f3faab10aacd92f8fc0e42296fc4ca08de49774a8a49f3d347d98",
       "variants": [
@@ -19224,7 +19224,7 @@
         "ship",
         "wheel"
       ],
-      "folder": "icons/object__ship-wheel",
+      "folder": "icons/object/object__ship-wheel",
       "featured": "featured-image.svg",
       "featured_hash": "2c4733443bcd5923963f6d7ebd802f8ad3723dc983494f294e87e69bd12d653f",
       "variants": [
@@ -19267,7 +19267,7 @@
         "shopping",
         "cart"
       ],
-      "folder": "icons/object__shopping-cart",
+      "folder": "icons/object/object__shopping-cart",
       "featured": "featured-image.svg",
       "featured_hash": "8a7d5837144696393bf2eb03e965b064930fff9a099d5f3df75dfba23eb93c0c",
       "variants": [
@@ -19325,7 +19325,7 @@
         "shopping",
         "cart_small"
       ],
-      "folder": "icons/object__shopping-cart_small",
+      "folder": "icons/object/object__shopping-cart_small",
       "featured": "featured-image.svg",
       "featured_hash": "aee0745efb10bfa57df8296f9a9b9ddfe0b34f91949a8f1f6fdc0383ee44a68e",
       "variants": [
@@ -19392,7 +19392,7 @@
         "object",
         "slide"
       ],
-      "folder": "icons/object__slide",
+      "folder": "icons/object/object__slide",
       "featured": "featured-image.svg",
       "featured_hash": "dca7a608b9ca7b57eb8fd77e95fc8bbb625119c2ba1b73460e1cf099baad836e",
       "variants": [
@@ -19470,7 +19470,7 @@
         "soccer",
         "ball"
       ],
-      "folder": "icons/object__soccer-ball",
+      "folder": "icons/object/object__soccer-ball",
       "featured": "featured-image.svg",
       "featured_hash": "773d3003170217ea5ce846617d266ba5fea627100248935f3c1b1c5ff8fc5695",
       "variants": [
@@ -19512,7 +19512,7 @@
         "object",
         "socket"
       ],
-      "folder": "icons/object__socket",
+      "folder": "icons/object/object__socket",
       "featured": "featured-image.svg",
       "featured_hash": "aa3ee7823b26bf62d8d0026078573d2fcc524c52c7bd81c5b4e9aaf010069d3c",
       "variants": [
@@ -19599,7 +19599,7 @@
         "object",
         "spring"
       ],
-      "folder": "icons/object__spring",
+      "folder": "icons/object/object__spring",
       "featured": "featured-image.svg",
       "featured_hash": "1b4a829a8d9c750646c68dbc0029ef0f5804da067fdc8556dcce7407f35af23b",
       "variants": [
@@ -19661,7 +19661,7 @@
         "object",
         "stopwatch"
       ],
-      "folder": "icons/object__stopwatch",
+      "folder": "icons/object/object__stopwatch",
       "featured": "featured-image.svg",
       "featured_hash": "d5c4b32ba4b746143ace2d6d36ecbf9fe108a6f028dc4523ba3b9e421d0cf163",
       "variants": [
@@ -19708,7 +19708,7 @@
         "object",
         "suitcase"
       ],
-      "folder": "icons/object__suitcase",
+      "folder": "icons/object/object__suitcase",
       "featured": "featured-image.svg",
       "featured_hash": "b542853aa749eac91a542691de08742f7c0be57cbd6a02b4eb6fcd3d1d7f55c0",
       "variants": [
@@ -19762,7 +19762,7 @@
         "army",
         "knife"
       ],
-      "folder": "icons/object__swiss-army-knife",
+      "folder": "icons/object/object__swiss-army-knife",
       "featured": "featured-image.svg",
       "featured_hash": "7128c9ad76e18f55322d5edbf74a1a8fb68b0c6c495358a82a23b31abdb1762b",
       "variants": [
@@ -19830,7 +19830,7 @@
         "table",
         "lamp"
       ],
-      "folder": "icons/object__table-lamp",
+      "folder": "icons/object/object__table-lamp",
       "featured": "featured-image.svg",
       "featured_hash": "29725e037c0fc71984a107e1df2e673fe7f19102b5cc3d94a547164709c570e3",
       "variants": [
@@ -19914,7 +19914,7 @@
         "lamp",
         "led"
       ],
-      "folder": "icons/object__table-lamp-led",
+      "folder": "icons/object/object__table-lamp-led",
       "featured": "featured-image.svg",
       "featured_hash": "4a9c40268496e1427e6bcae349d6e88b67615ea4b1568d24f7fc332f5848d378",
       "variants": [
@@ -19958,7 +19958,7 @@
         "lamp",
         "old"
       ],
-      "folder": "icons/object__table-lamp-old",
+      "folder": "icons/object/object__table-lamp-old",
       "featured": "featured-image.svg",
       "featured_hash": "414602e6234307f6ca08c8f46c7fc636ed523fa34e484215fbd3da648298f62f",
       "variants": [
@@ -20002,7 +20002,7 @@
         "lamp",
         "soviet"
       ],
-      "folder": "icons/object__table-lamp-soviet",
+      "folder": "icons/object/object__table-lamp-soviet",
       "featured": "featured-image.svg",
       "featured_hash": "15e97aaa6acb8336b93c5075d27ae27c775a7e62fe78f209792c64b1b699ed8b",
       "variants": [
@@ -20046,7 +20046,7 @@
         "lamp",
         "torchere"
       ],
-      "folder": "icons/object__table-lamp-torchere",
+      "folder": "icons/object/object__table-lamp-torchere",
       "featured": "featured-image.svg",
       "featured_hash": "33315e34f8549630a763afc059fbf003610676511af7a679c680f288d04bf907",
       "variants": [
@@ -20091,7 +20091,7 @@
         "torchere",
         "small"
       ],
-      "folder": "icons/object__table-lamp-torchere-small",
+      "folder": "icons/object/object__table-lamp-torchere-small",
       "featured": "featured-image.svg",
       "featured_hash": "6071abda6b754c71b740c100fd58defafd4997cd6d69d900ce123d09e761b966",
       "variants": [
@@ -20133,7 +20133,7 @@
         "object",
         "tablet"
       ],
-      "folder": "icons/object__tablet",
+      "folder": "icons/object/object__tablet",
       "featured": "featured-image.svg",
       "featured_hash": "911eb68baedc1be4a10d2ee52afd8da3f2bb734624444b2d85050085bb37fc2e",
       "variants": [
@@ -20176,7 +20176,7 @@
         "tape",
         "measure"
       ],
-      "folder": "icons/object__tape-measure",
+      "folder": "icons/object/object__tape-measure",
       "featured": "featured-image.svg",
       "featured_hash": "db4ac29d7df60b4a4862c8c56a6780748c57e063ab5d2a1ebbfc39ba43e69457",
       "variants": [
@@ -20230,7 +20230,7 @@
         "off",
         "calendar"
       ],
-      "folder": "icons/object__tear-off-calendar",
+      "folder": "icons/object/object__tear-off-calendar",
       "featured": "featured-image.svg",
       "featured_hash": "92e32f8b85f7a5d27fbbc22012320c4fef68bb6185b7d2c75b197a94d63abc2d",
       "variants": [
@@ -20283,7 +20283,7 @@
         "text",
         "separator"
       ],
-      "folder": "icons/object__text-separator",
+      "folder": "icons/object/object__text-separator",
       "featured": "featured-image.svg",
       "featured_hash": "cdf5c077fe5753a930478c6fda2f1687087e900518721a6cf9994e1371dd16ea",
       "variants": [
@@ -20380,7 +20380,7 @@
         "object",
         "threads"
       ],
-      "folder": "icons/object__threads",
+      "folder": "icons/object/object__threads",
       "featured": "featured-image.svg",
       "featured_hash": "6cf587cafdfd96c7b2cc605da0d18b4dfd3a9b02798f81e15bbf7c524b60d435",
       "variants": [
@@ -20462,7 +20462,7 @@
         "object",
         "toolbox"
       ],
-      "folder": "icons/object__toolbox",
+      "folder": "icons/object/object__toolbox",
       "featured": "featured-image.svg",
       "featured_hash": "55f66a5e3b6b766cc79771c6cf9aba81e5763cfa19566dc72073ca37bad743ff",
       "variants": [
@@ -20530,7 +20530,7 @@
         "touch",
         "memory"
       ],
-      "folder": "icons/object__touch-memory",
+      "folder": "icons/object/object__touch-memory",
       "featured": "featured-image.svg",
       "featured_hash": "16e6201a5e3dc46eecf8a161d4723debff95d07f70052fb50ca7f7bba25cd56d",
       "variants": [
@@ -20618,7 +20618,7 @@
         "traffic",
         "lights"
       ],
-      "folder": "icons/object__traffic-lights",
+      "folder": "icons/object/object__traffic-lights",
       "featured": "featured-image.svg",
       "featured_hash": "d948e2e4f2b6e2b944b3b2dbc350dbb5118f7615372fd3983622c4ec90cb8554",
       "variants": [
@@ -20685,7 +20685,7 @@
         "object",
         "trash"
       ],
-      "folder": "icons/object__trash",
+      "folder": "icons/object/object__trash",
       "featured": "featured-image.svg",
       "featured_hash": "00fe92a1b24a01a65443651b9077377c718e073baa2f4db840a3a92570e32b21",
       "variants": [
@@ -20729,7 +20729,7 @@
         "of",
         "glue"
       ],
-      "folder": "icons/object__tube-of-glue",
+      "folder": "icons/object/object__tube-of-glue",
       "featured": "featured-image.svg",
       "featured_hash": "ba6484b4f9036e82a5baf488b72139fc6b7904ea36bc450f7aa5a961e8f826af",
       "variants": [
@@ -20792,7 +20792,7 @@
         "tuning",
         "fork"
       ],
-      "folder": "icons/object__tuning-fork",
+      "folder": "icons/object/object__tuning-fork",
       "featured": "featured-image.svg",
       "featured_hash": "f8ab934e9096add15fb6addb5040a5b081a4fca1a52431e8a10f558988c7dac4",
       "variants": [
@@ -20834,7 +20834,7 @@
         "object",
         "tv_rassvet"
       ],
-      "folder": "icons/object__tv_rassvet",
+      "folder": "icons/object/object__tv_rassvet",
       "featured": "featured-image.svg",
       "featured_hash": "0b8a7d189b2d4251cb807a085389464140b53a3849d9c20403d646059063e3e6",
       "variants": [
@@ -20871,7 +20871,7 @@
         "object",
         "umbrella"
       ],
-      "folder": "icons/object__umbrella",
+      "folder": "icons/object/object__umbrella",
       "featured": "featured-image.svg",
       "featured_hash": "18f1e1eac58b257d709d658af87cb624790ec50cd35269b48816100c9d9d9be4",
       "variants": [
@@ -20968,7 +20968,7 @@
         "object",
         "vase"
       ],
-      "folder": "icons/object__vase",
+      "folder": "icons/object/object__vase",
       "featured": "featured-image.svg",
       "featured_hash": "3fa228572ea9fb5f562f6dbb124dd03c59980dc2684cd4cc4c4a02a6b7efb6c8",
       "variants": [
@@ -21066,7 +21066,7 @@
         "victory",
         "podium"
       ],
-      "folder": "icons/object__victory-podium",
+      "folder": "icons/object/object__victory-podium",
       "featured": "featured-image.svg",
       "featured_hash": "4c7c8df4f3b623311e2c134550453dead6befa611da2d9e76606e17bbe779d04",
       "variants": [
@@ -21129,7 +21129,7 @@
         "watering",
         "can"
       ],
-      "folder": "icons/object__watering-can",
+      "folder": "icons/object/object__watering-can",
       "featured": "featured-image.svg",
       "featured_hash": "48a690fe569c29b135162b2e54a4ffb7900d464057acf8acf27af39710d6efc0",
       "variants": [
@@ -21171,7 +21171,7 @@
         "object",
         "weight"
       ],
-      "folder": "icons/object__weight",
+      "folder": "icons/object/object__weight",
       "featured": "featured-image.svg",
       "featured_hash": "c18e6d0ce8f57156f2f7760a8569170d6cf284226d0b98984d7d852b95b01be4",
       "variants": [
@@ -21246,7 +21246,7 @@
         "with",
         "hook"
       ],
-      "folder": "icons/object__weight-metal-with-hook",
+      "folder": "icons/object/object__weight-metal-with-hook",
       "featured": "featured-image.svg",
       "featured_hash": "a65898bbe9530aa7286821ad099446db18aefea65b1a020fbf91a7d58dfbcb7c",
       "variants": [
@@ -21320,7 +21320,7 @@
         "with",
         "hook"
       ],
-      "folder": "icons/object__weight-with-hook",
+      "folder": "icons/object/object__weight-with-hook",
       "featured": "featured-image.svg",
       "featured_hash": "cdd845e978b56989cb3649ee2c5826d2d7e93329061ddf80428bc73db2dc15cf",
       "variants": [
@@ -21402,7 +21402,7 @@
         "object",
         "wheel"
       ],
-      "folder": "icons/object__wheel",
+      "folder": "icons/object/object__wheel",
       "featured": "featured-image.svg",
       "featured_hash": "11863975f0470c36f74a6ddd6dd020b9745be43966a5106f3950df60112af601",
       "variants": [
@@ -21456,7 +21456,7 @@
         "with",
         "stones"
       ],
-      "folder": "icons/object__window-with-stones",
+      "folder": "icons/object/object__window-with-stones",
       "featured": "featured-image.svg",
       "featured_hash": "b1d780885a46d18e9d88f3b5bbd4732e8fc800c47f83e123921d9d63b41d758e",
       "variants": [
@@ -21498,7 +21498,7 @@
         "object",
         "wrench"
       ],
-      "folder": "icons/object__wrench",
+      "folder": "icons/object/object__wrench",
       "featured": "featured-image.svg",
       "featured_hash": "a597a6e29e18fea5a6e9138c05024d08e868b6a964123f11cc23320f56b021a6",
       "variants": [
@@ -21552,7 +21552,7 @@
         "of",
         "clubs"
       ],
-      "folder": "icons/playing-card__ace-of-clubs",
+      "folder": "icons/playing-card/playing-card__ace-of-clubs",
       "featured": "featured-image.svg",
       "featured_hash": "de6e45f84f0c6fec4be8b99a8ed83068ec6654496237253cb5672a44120fb03a",
       "variants": [
@@ -21621,7 +21621,7 @@
         "of",
         "diamonds"
       ],
-      "folder": "icons/playing-card__ace-of-diamonds",
+      "folder": "icons/playing-card/playing-card__ace-of-diamonds",
       "featured": "featured-image.svg",
       "featured_hash": "44618e34449f5242d06d993b87006eeca8b36f5fee8bf489e18a423449700cd5",
       "variants": [
@@ -21690,7 +21690,7 @@
         "of",
         "hearts"
       ],
-      "folder": "icons/playing-card__ace-of-hearts",
+      "folder": "icons/playing-card/playing-card__ace-of-hearts",
       "featured": "featured-image.svg",
       "featured_hash": "39219a72d0dc618adbf5a882cc8bb21a3ef9af4d9f29fda0051affa67fb4b0a7",
       "variants": [
@@ -21759,7 +21759,7 @@
         "of",
         "spades"
       ],
-      "folder": "icons/playing-card__ace-of-spades",
+      "folder": "icons/playing-card/playing-card__ace-of-spades",
       "featured": "featured-image.svg",
       "featured_hash": "fe937252ff7674c346f4ddfd632bbe61252657e09414b39ace04972512beb70a",
       "variants": [
@@ -21827,7 +21827,7 @@
         "back",
         "atlas"
       ],
-      "folder": "icons/playing-card__back-atlas",
+      "folder": "icons/playing-card/playing-card__back-atlas",
       "featured": "featured-image.svg",
       "featured_hash": "1075fe3d2491ef9998a86a1d2d8e33815ac8ed8376efe6e328fab7a3c978cf50",
       "variants": [
@@ -21870,7 +21870,7 @@
         "clubs",
         "10"
       ],
-      "folder": "icons/playing-card__clubs-10",
+      "folder": "icons/playing-card/playing-card__clubs-10",
       "featured": "featured-image.svg",
       "featured_hash": "36cb30182fd027b08e7116248a9ad8b5356607c6dd767abe0716e77510d5a068",
       "variants": [
@@ -21913,7 +21913,7 @@
         "clubs",
         "8"
       ],
-      "folder": "icons/playing-card__clubs-8",
+      "folder": "icons/playing-card/playing-card__clubs-8",
       "featured": "featured-image.svg",
       "featured_hash": "01eb195f7692dffeb6e2f866e29344085e9889fff4b4b61171340d38e1dca4fa",
       "variants": [
@@ -21956,7 +21956,7 @@
         "clubs",
         "9"
       ],
-      "folder": "icons/playing-card__clubs-9",
+      "folder": "icons/playing-card/playing-card__clubs-9",
       "featured": "featured-image.svg",
       "featured_hash": "bbcbc4b2c97b6efe24a25784e88c73e652c3035c1f23bca65d110b21bd33bc9e",
       "variants": [
@@ -21999,7 +21999,7 @@
         "diamonds",
         "10"
       ],
-      "folder": "icons/playing-card__diamonds-10",
+      "folder": "icons/playing-card/playing-card__diamonds-10",
       "featured": "featured-image.svg",
       "featured_hash": "d6fd0e799adb894724bc22af5697da0dcac6b5eada83dc1e929af3a88a1b2059",
       "variants": [
@@ -22042,7 +22042,7 @@
         "diamonds",
         "8"
       ],
-      "folder": "icons/playing-card__diamonds-8",
+      "folder": "icons/playing-card/playing-card__diamonds-8",
       "featured": "featured-image.svg",
       "featured_hash": "9fedea3c243c5310a0342ab5b594ae8ddc042c4496022412de7c261a5724ca2d",
       "variants": [
@@ -22085,7 +22085,7 @@
         "diamonds",
         "9"
       ],
-      "folder": "icons/playing-card__diamonds-9",
+      "folder": "icons/playing-card/playing-card__diamonds-9",
       "featured": "featured-image.svg",
       "featured_hash": "a0353881022e87eefe95c746ed92ce843ea2f498d8cbf861994a53fe2aa9fcd8",
       "variants": [
@@ -22128,7 +22128,7 @@
         "hearts",
         "10"
       ],
-      "folder": "icons/playing-card__hearts-10",
+      "folder": "icons/playing-card/playing-card__hearts-10",
       "featured": "featured-image.svg",
       "featured_hash": "a1598f31e050960ecb996bc08aa6a44c1855374e786772a6c1365a2a0669b48a",
       "variants": [
@@ -22171,7 +22171,7 @@
         "hearts",
         "8"
       ],
-      "folder": "icons/playing-card__hearts-8",
+      "folder": "icons/playing-card/playing-card__hearts-8",
       "featured": "featured-image.svg",
       "featured_hash": "f35de33cd461b03dc6690c84e66236ac52c2a0230f439c531d6cbdec4a851778",
       "variants": [
@@ -22214,7 +22214,7 @@
         "hearts",
         "9"
       ],
-      "folder": "icons/playing-card__hearts-9",
+      "folder": "icons/playing-card/playing-card__hearts-9",
       "featured": "featured-image.svg",
       "featured_hash": "11b1535b459f7d33d10fc6d9eba603aaf169299976e49e7d3e43ef6944aab48b",
       "variants": [
@@ -22257,7 +22257,7 @@
         "spades",
         "08"
       ],
-      "folder": "icons/playing-card__spades-08",
+      "folder": "icons/playing-card/playing-card__spades-08",
       "featured": "featured-image.svg",
       "featured_hash": "8f3c48deebec29d83524e5318453ff39443606e691a369885e07cc5d719a8f00",
       "variants": [
@@ -22300,7 +22300,7 @@
         "spades",
         "09"
       ],
-      "folder": "icons/playing-card__spades-09",
+      "folder": "icons/playing-card/playing-card__spades-09",
       "featured": "featured-image.svg",
       "featured_hash": "291d904b68e9c6f832399d6e24d14b8413e860b936cf80c8fcf8cea6da791d74",
       "variants": [
@@ -22343,7 +22343,7 @@
         "spades",
         "10"
       ],
-      "folder": "icons/playing-card__spades-10",
+      "folder": "icons/playing-card/playing-card__spades-10",
       "featured": "featured-image.svg",
       "featured_hash": "ec25f9a58d145a2548edf6c37f10ed8ee64b44037e4d4c72c4bae21538069936",
       "variants": [
@@ -22385,7 +22385,7 @@
         "science",
         "abacus"
       ],
-      "folder": "icons/science__abacus",
+      "folder": "icons/science/science__abacus",
       "featured": "featured-image.svg",
       "featured_hash": "f3ced81d34a6998aad32dc8e1690d3b2be7f147126c923f71c8e00bb556fa294",
       "variants": [
@@ -22427,7 +22427,7 @@
         "science",
         "atom"
       ],
-      "folder": "icons/science__atom",
+      "folder": "icons/science/science__atom",
       "featured": "featured-image.svg",
       "featured_hash": "b04da245f7200e52bb344453976df4d7d5d39cf0f009427d1a58372c93eb3e1d",
       "variants": [
@@ -22546,7 +22546,7 @@
         "of",
         "lithium"
       ],
-      "folder": "icons/science__atom-of-lithium",
+      "folder": "icons/science/science__atom-of-lithium",
       "featured": "featured-image.svg",
       "featured_hash": "6627e47c86a53e378e0b5f4d5760d06bde41543e5728f0cec155364c01fc7f54",
       "variants": [
@@ -22613,7 +22613,7 @@
         "science",
         "beaker"
       ],
-      "folder": "icons/science__beaker",
+      "folder": "icons/science/science__beaker",
       "featured": "featured-image.svg",
       "featured_hash": "a376baef1c1d2411731d03e236f34925fb4e0b7c908b7fb5dc9b8fef9abbd3da",
       "variants": [
@@ -22741,7 +22741,7 @@
         "chart",
         "pie"
       ],
-      "folder": "icons/science__chart-pie",
+      "folder": "icons/science/science__chart-pie",
       "featured": "featured-image.svg",
       "featured_hash": "9a683d768f2db6df7d43491907196eeaeff7ab7dc918305654b2d845ccca8684",
       "variants": [
@@ -22829,7 +22829,7 @@
         "communicating",
         "vessels"
       ],
-      "folder": "icons/science__communicating-vessels",
+      "folder": "icons/science/science__communicating-vessels",
       "featured": "featured-image.svg",
       "featured_hash": "a8a5b03cf0333c6b2c5d1180d30542cb8c847c636cd699e2d49327ce2975959b",
       "variants": [
@@ -22942,7 +22942,7 @@
         "conical",
         "flask"
       ],
-      "folder": "icons/science__conical-flask",
+      "folder": "icons/science/science__conical-flask",
       "featured": "featured-image.svg",
       "featured_hash": "1bc83cb5877edba44452cad3bc05273e3bd706f8a9aaa8a3acf57ae4d023532d",
       "variants": [
@@ -23115,7 +23115,7 @@
         "converging",
         "lens"
       ],
-      "folder": "icons/science__converging-lens",
+      "folder": "icons/science/science__converging-lens",
       "featured": "featured-image.svg",
       "featured_hash": "578c8d395d54c284c49daa1dd4912c47a000db2d1120dd08abfd3fb84013fcf8",
       "variants": [
@@ -23167,7 +23167,7 @@
         "science",
         "cup"
       ],
-      "folder": "icons/science__cup",
+      "folder": "icons/science/science__cup",
       "featured": "featured-image.svg",
       "featured_hash": "5ef45e193d6fb42f54cd013ec4d09fae5201a7c3aa73156cd3d16f2a6d769be5",
       "variants": [
@@ -23404,7 +23404,7 @@
         "science",
         "globe"
       ],
-      "folder": "icons/science__globe",
+      "folder": "icons/science/science__globe",
       "featured": "featured-image.svg",
       "featured_hash": "1b29d6a0c3eca94452bb3b12b58b6e46b66c83373317429fb2cc7118e7f5d93e",
       "variants": [
@@ -23452,7 +23452,7 @@
         "graduated",
         "cylinder"
       ],
-      "folder": "icons/science__graduated-cylinder",
+      "folder": "icons/science/science__graduated-cylinder",
       "featured": "featured-image.svg",
       "featured_hash": "56b14a580165a1e7a0f1bb9221f132146e9d34dffde7236dc9bb1c6cc31d00c5",
       "variants": [
@@ -23582,7 +23582,7 @@
         "with",
         "lid"
       ],
-      "folder": "icons/science__graduated-cylinder-with-lid",
+      "folder": "icons/science/science__graduated-cylinder-with-lid",
       "featured": "featured-image.svg",
       "featured_hash": "9efe9cb76645126c19dd2425e6684dd3392e78cdc6614d9a5444430d49b01604",
       "variants": [
@@ -23710,7 +23710,7 @@
         "imhoff",
         "cone"
       ],
-      "folder": "icons/science__imhoff-cone",
+      "folder": "icons/science/science__imhoff-cone",
       "featured": "featured-image.svg",
       "featured_hash": "b2bdc9703f2c532f41fcf689c4c3a9ae458703ba56be12013d8cdce6b7c585e8",
       "variants": [
@@ -23837,7 +23837,7 @@
         "science",
         "magnifier"
       ],
-      "folder": "icons/science__magnifier",
+      "folder": "icons/science/science__magnifier",
       "featured": "featured-image.svg",
       "featured_hash": "4293ea435d21d31d484a1f9dd227ebf9a62aca85db88f07f9b09765d447573f4",
       "variants": [
@@ -23880,7 +23880,7 @@
         "measuring",
         "cylinder"
       ],
-      "folder": "icons/science__measuring-cylinder",
+      "folder": "icons/science/science__measuring-cylinder",
       "featured": "featured-image.svg",
       "featured_hash": "ba428f8aa9dea0575a8a0b7e8232d37706aeb2076a7bd7f6d2823977b12c7334",
       "variants": [
@@ -23943,7 +23943,7 @@
         "measuring",
         "flask"
       ],
-      "folder": "icons/science__measuring-flask",
+      "folder": "icons/science/science__measuring-flask",
       "featured": "featured-image.svg",
       "featured_hash": "794e537806e271c8922add1841f6b1794c2584dc39e8efdaf7cca9cd39fc5410",
       "variants": [
@@ -24072,7 +24072,7 @@
         "graduated",
         "cylinder"
       ],
-      "folder": "icons/science__narrow-graduated-cylinder",
+      "folder": "icons/science/science__narrow-graduated-cylinder",
       "featured": "featured-image.svg",
       "featured_hash": "b2627203223d847be4ccc9ed2f1e087457ba72fa45fd72c5b3d3a3bc5a5d8b3d",
       "variants": [
@@ -24184,7 +24184,7 @@
         "science",
         "teleportation"
       ],
-      "folder": "icons/science__teleportation",
+      "folder": "icons/science/science__teleportation",
       "featured": "featured-image.svg",
       "featured_hash": "c76c659d870cca01568c8b6064d3f0eed85d0702d65a3d9bae068de6f7f87fc3",
       "variants": [
@@ -24241,7 +24241,7 @@
         "science",
         "tube"
       ],
-      "folder": "icons/science__tube",
+      "folder": "icons/science/science__tube",
       "featured": "featured-image.svg",
       "featured_hash": "f1d31d6e4dc88bc7ca7397472f449978248927b9b5c0790bdb23f3cb1518994d",
       "variants": [
@@ -24594,7 +24594,7 @@
         "weighing",
         "scale"
       ],
-      "folder": "icons/science__weighing-scale",
+      "folder": "icons/science/science__weighing-scale",
       "featured": "featured-image.svg",
       "featured_hash": "691c742a6a5c18defabff4437f01ecfcd5dacddca34d425847dceb5f055c75f0",
       "variants": [
@@ -24638,7 +24638,7 @@
         "1",
         "point"
       ],
-      "folder": "icons/science_shape__1-point",
+      "folder": "icons/science_shape/science_shape__1-point",
       "featured": "featured-image.svg",
       "featured_hash": "3084f334161ddb7255d6b38a73ef334316f895675d00a8a2fde7cb04aff7a0eb",
       "variants": [
@@ -24702,7 +24702,7 @@
         "10",
         "decagon"
       ],
-      "folder": "icons/science_shape__10-decagon",
+      "folder": "icons/science_shape/science_shape__10-decagon",
       "featured": "featured-image.svg",
       "featured_hash": "8beb09cf96007c27f1f009fbc9bffb62b5865074b659dd673c96a4fd2fb8a9c0",
       "variants": [
@@ -24771,7 +24771,7 @@
         "2",
         "segment"
       ],
-      "folder": "icons/science_shape__2-segment",
+      "folder": "icons/science_shape/science_shape__2-segment",
       "featured": "featured-image.svg",
       "featured_hash": "c8230cfb56e4623a265c08d2adfc96c4a6931e0c280bbe1059faacebc79231ee",
       "variants": [
@@ -24840,7 +24840,7 @@
         "3",
         "triangle"
       ],
-      "folder": "icons/science_shape__3-triangle",
+      "folder": "icons/science_shape/science_shape__3-triangle",
       "featured": "featured-image.svg",
       "featured_hash": "1105ec46bb9e486624dcf18fe6d7b6b4418dc48cfc7064308042385d997b6d94",
       "variants": [
@@ -24909,7 +24909,7 @@
         "4",
         "square"
       ],
-      "folder": "icons/science_shape__4-square",
+      "folder": "icons/science_shape/science_shape__4-square",
       "featured": "featured-image.svg",
       "featured_hash": "afc52fa86e46bd57bc9e91635e29e55469276af95f1048aaa00c0f400f474cc0",
       "variants": [
@@ -24978,7 +24978,7 @@
         "5",
         "pentagon"
       ],
-      "folder": "icons/science_shape__5-pentagon",
+      "folder": "icons/science_shape/science_shape__5-pentagon",
       "featured": "featured-image.svg",
       "featured_hash": "11faf4bf6a2b3a6c476dd5dadebbc6b9fe862b06cbf2f7cd6895a42226638891",
       "variants": [
@@ -25047,7 +25047,7 @@
         "6",
         "hexagon"
       ],
-      "folder": "icons/science_shape__6-hexagon",
+      "folder": "icons/science_shape/science_shape__6-hexagon",
       "featured": "featured-image.svg",
       "featured_hash": "787435caf86acc2eefa7436bbcd5fa84b8a205f11226a093117a0e8bff75c7e0",
       "variants": [
@@ -25116,7 +25116,7 @@
         "7",
         "heptagon"
       ],
-      "folder": "icons/science_shape__7-heptagon",
+      "folder": "icons/science_shape/science_shape__7-heptagon",
       "featured": "featured-image.svg",
       "featured_hash": "9cad4b8ea5a466f86ade81d47f6d78cabaf573df5119c6cf5fc079cc0b2f22c0",
       "variants": [
@@ -25185,7 +25185,7 @@
         "8",
         "octagon"
       ],
-      "folder": "icons/science_shape__8-octagon",
+      "folder": "icons/science_shape/science_shape__8-octagon",
       "featured": "featured-image.svg",
       "featured_hash": "11c3df3deda55facaa74a6e7552a55d50d6fcffc77240b0799abc3aa32c61ddb",
       "variants": [
@@ -25254,7 +25254,7 @@
         "9",
         "nonagon"
       ],
-      "folder": "icons/science_shape__9-nonagon",
+      "folder": "icons/science_shape/science_shape__9-nonagon",
       "featured": "featured-image.svg",
       "featured_hash": "8e7493a4d2acb308088ffd11b2b6e3c9527e2a50c0acf97be8877279e76f828a",
       "variants": [
@@ -25322,7 +25322,7 @@
         "shape",
         "circle"
       ],
-      "folder": "icons/science_shape__circle",
+      "folder": "icons/science_shape/science_shape__circle",
       "featured": "featured-image.svg",
       "featured_hash": "63e3eb14a9f7ecbb277b188a75110cec0321a8241bbfb7e48f7b3739f45891b5",
       "variants": [
@@ -25389,7 +25389,7 @@
         "space",
         "cosmonaut"
       ],
-      "folder": "icons/space__cosmonaut",
+      "folder": "icons/space/space__cosmonaut",
       "featured": "featured-image.svg",
       "featured_hash": "fad5d4bd3d5ad7c45bc45515d96ec84a37cc2296360252f0304f3093864d53b4",
       "variants": [
@@ -25477,7 +25477,7 @@
         "earth",
         "america"
       ],
-      "folder": "icons/space__earth-america",
+      "folder": "icons/space/space__earth-america",
       "featured": "featured-image.svg",
       "featured_hash": "3ed2a1d50cbfc63266ddaebfb55f1f1659281b0061fd3282567c035bd6055ea6",
       "variants": [
@@ -25540,7 +25540,7 @@
         "earth",
         "asia"
       ],
-      "folder": "icons/space__earth-asia",
+      "folder": "icons/space/space__earth-asia",
       "featured": "featured-image.svg",
       "featured_hash": "f1a75bb6adc34ab5a83acf94c115e374af1ff02da40bfbe7bfb50deaf09c5b15",
       "variants": [
@@ -25603,7 +25603,7 @@
         "lunar",
         "rover"
       ],
-      "folder": "icons/space__lunar-rover",
+      "folder": "icons/space/space__lunar-rover",
       "featured": "featured-image.svg",
       "featured_hash": "10c816449c3633d14a232dc8acfcf078547d40e7d3a3d927342d7d47cfb655a3",
       "variants": [
@@ -25665,7 +25665,7 @@
         "space",
         "moon"
       ],
-      "folder": "icons/space__moon",
+      "folder": "icons/space/space__moon",
       "featured": "featured-image.svg",
       "featured_hash": "5275085e5deaca7d55ab319cb48c4ea18f71301a01303f133f0cf716222fe678",
       "variants": [
@@ -25722,7 +25722,7 @@
         "space",
         "rocket"
       ],
-      "folder": "icons/space__rocket",
+      "folder": "icons/space/space__rocket",
       "featured": "featured-image.svg",
       "featured_hash": "ca1249f41fd73d3e4b80a72f928e2e9c3125ac82f7f78899bd4f43c5a3bb0964",
       "variants": [
@@ -25766,7 +25766,7 @@
         "with",
         "window"
       ],
-      "folder": "icons/space__rocket-with-window",
+      "folder": "icons/space/space__rocket-with-window",
       "featured": "featured-image.svg",
       "featured_hash": "50ca172417ecaf32ea2ec89006a60be069a53b0fe1c6ae0b5814efb6ce53b341",
       "variants": [
@@ -25834,7 +25834,7 @@
         "satellite",
         "dish"
       ],
-      "folder": "icons/space__satellite-dish",
+      "folder": "icons/space/space__satellite-dish",
       "featured": "featured-image.svg",
       "featured_hash": "936c969a8881155e964c9cda838e70cd335183c5cd2490d8dcead5973c259e75",
       "variants": [
@@ -25877,7 +25877,7 @@
         "soyuz",
         "ms"
       ],
-      "folder": "icons/space__soyuz-ms",
+      "folder": "icons/space/space__soyuz-ms",
       "featured": "featured-image.svg",
       "featured_hash": "3d6d24d5d9efa0930fdcb5947d34d60f3f80fa4935927fcbc2fc0cfb0ed4c8a7",
       "variants": [
@@ -25954,7 +25954,7 @@
         "space",
         "sun"
       ],
-      "folder": "icons/space__sun",
+      "folder": "icons/space/space__sun",
       "featured": "featured-image.svg",
       "featured_hash": "b1d43b5e7ea6a689fed960382017726fd45eaa0b76a326c57233f4bf7619912a",
       "variants": [
@@ -26013,7 +26013,7 @@
         "apollo",
         "11"
       ],
-      "folder": "icons/space_spaceship__apollo-11",
+      "folder": "icons/space_spaceship/space_spaceship__apollo-11",
       "featured": "featured-image.svg",
       "featured_hash": "ff99f0c92276286fb81af84e62ef8e5367d278ec8e8d13d87d7bb443a57e2469",
       "variants": [
@@ -26077,7 +26077,7 @@
         "crew",
         "dragon"
       ],
-      "folder": "icons/space_spaceship__crew-dragon",
+      "folder": "icons/space_spaceship/space_spaceship__crew-dragon",
       "featured": "featured-image.svg",
       "featured_hash": "35ff044a54acd5e839d6b0f228e482a9b4cbd300d84afd0c531b855dc4bf7d99",
       "variants": [
@@ -26141,7 +26141,7 @@
         "sputnik",
         "1"
       ],
-      "folder": "icons/space_spaceship__sputnik-1",
+      "folder": "icons/space_spaceship/space_spaceship__sputnik-1",
       "featured": "featured-image.svg",
       "featured_hash": "916c19d5896c5336200c614f65e27ab80ce023180e8df6b804f7c40104073168",
       "variants": [
@@ -26180,7 +26180,7 @@
         "vostok",
         "1"
       ],
-      "folder": "icons/space_spaceship__vostok-1",
+      "folder": "icons/space_spaceship/space_spaceship__vostok-1",
       "featured": "featured-image.svg",
       "featured_hash": "4a8758e8e21ef9ebaa8b2cf35288afa3efa19a183ab4ae3761a4f87589cfcdb4",
       "variants": [
@@ -26249,7 +26249,7 @@
         "vostok",
         "8k72k"
       ],
-      "folder": "icons/space_spaceship__vostok-8k72k",
+      "folder": "icons/space_spaceship/space_spaceship__vostok-8k72k",
       "featured": "featured-image.svg",
       "featured_hash": "4989bbc17cb27370a953c3876c00bde489a23cc1bdd31529874b934f2d74602c",
       "variants": [
@@ -26291,7 +26291,7 @@
         "symbol",
         "cancel"
       ],
-      "folder": "icons/symbol__cancel",
+      "folder": "icons/symbol/symbol__cancel",
       "featured": "featured-image.svg",
       "featured_hash": "d1e90f009429e9edec0352214c59625b80f4f919c9e0e22bd836da72f75a80c1",
       "variants": [
@@ -26334,7 +26334,7 @@
         "map",
         "mark"
       ],
-      "folder": "icons/symbol__map-mark",
+      "folder": "icons/symbol/symbol__map-mark",
       "featured": "featured-image.svg",
       "featured_hash": "aaba6dbad44b6e14208837b81873aa90acca954c5ddd614d4ee7c65fa1cce79e",
       "variants": [
@@ -26451,7 +26451,7 @@
         "symbol",
         "not"
       ],
-      "folder": "icons/symbol__not",
+      "folder": "icons/symbol/symbol__not",
       "featured": "featured-image.svg",
       "featured_hash": "fe7fc8b62ec040eed09aeb965cb9b589cd896b9efce017284fedb98da36e1245",
       "variants": [
@@ -26538,7 +26538,7 @@
         "symbol",
         "ok"
       ],
-      "folder": "icons/symbol__ok",
+      "folder": "icons/symbol/symbol__ok",
       "featured": "featured-image.svg",
       "featured_hash": "f5c2761bdf152e01dbda8206fdc9711321671600ebe17930d1df92645dd6a01d",
       "variants": [
@@ -26756,7 +26756,7 @@
         "power",
         "button"
       ],
-      "folder": "icons/symbol__power-button",
+      "folder": "icons/symbol/symbol__power-button",
       "featured": "featured-image.svg",
       "featured_hash": "8295fd3de7186350b09f42dad8fb8dff593495bb283142154f5d65cd667180fc",
       "variants": [
@@ -26798,7 +26798,7 @@
         "symbol",
         "prohibition"
       ],
-      "folder": "icons/symbol__prohibition",
+      "folder": "icons/symbol/symbol__prohibition",
       "featured": "featured-image.svg",
       "featured_hash": "374070667a5db62354a6277a4edcc72b15c3b12f5e596dd9d2e8c174478783e5",
       "variants": [
@@ -26840,7 +26840,7 @@
         "symbol",
         "stop"
       ],
-      "folder": "icons/symbol__stop",
+      "folder": "icons/symbol/symbol__stop",
       "featured": "featured-image.svg",
       "featured_hash": "cbf995b04ba90e82e8bb6dddb5d92d1bb04ff1bd7db1e5946adcd77fb1437f32",
       "variants": [
@@ -26929,7 +26929,7 @@
         "tac",
         "toe"
       ],
-      "folder": "icons/symbol__tic-tac-toe",
+      "folder": "icons/symbol/symbol__tic-tac-toe",
       "featured": "featured-image.svg",
       "featured_hash": "29616696689beb4012eb47d5782eb72e0e65faca30c7a8c7d0f8443bf43e1a1d",
       "variants": [
@@ -27011,7 +27011,7 @@
         "symbol",
         "union"
       ],
-      "folder": "icons/symbol__union",
+      "folder": "icons/symbol/symbol__union",
       "featured": "featured-image.svg",
       "featured_hash": "4df2cfa9a7de9c305bddda0cd17bb5facf25a8f09c76f669435853b56b0abf94",
       "variants": [
@@ -27078,7 +27078,7 @@
         "transport",
         "airship"
       ],
-      "folder": "icons/transport__airship",
+      "folder": "icons/transport/transport__airship",
       "featured": "featured-image.svg",
       "featured_hash": "8948395781678633cae23c9cbfcade7a542a70c5bca266235fdf7272bf955945",
       "variants": [
@@ -27200,7 +27200,7 @@
         "transport",
         "balloon"
       ],
-      "folder": "icons/transport__balloon",
+      "folder": "icons/transport/transport__balloon",
       "featured": "featured-image.svg",
       "featured_hash": "459f5e04d1b569098bc4be40fe8b38895ab9f066e308ff053900cdbe17d07cfe",
       "variants": [
@@ -27288,7 +27288,7 @@
         "belaz",
         "75710"
       ],
-      "folder": "icons/transport__belaz-75710",
+      "folder": "icons/transport/transport__belaz-75710",
       "featured": "featured-image.svg",
       "featured_hash": "83d27f0894f3486b5793cf777c6b58fcb481083bf0655d3e21f9730d2c531dc3",
       "variants": [
@@ -27325,7 +27325,7 @@
         "transport",
         "bus"
       ],
-      "folder": "icons/transport__bus",
+      "folder": "icons/transport/transport__bus",
       "featured": "featured-image.svg",
       "featured_hash": "36e3c6d128d8a921c83704142bc9f8843355a51fb7c34f6aa68c0466eb6cc34c",
       "variants": [
@@ -27368,7 +27368,7 @@
         "electric",
         "scooter"
       ],
-      "folder": "icons/transport__electric-scooter",
+      "folder": "icons/transport/transport__electric-scooter",
       "featured": "featured-image.svg",
       "featured_hash": "a1bad80a322cbc88ab9d8a804595bfd5242f802bfba9726e042068dd7faa9a42",
       "variants": [
@@ -27420,7 +27420,7 @@
         "transport",
         "electric_train_in_metro"
       ],
-      "folder": "icons/transport__electric_train_in_metro",
+      "folder": "icons/transport/transport__electric_train_in_metro",
       "featured": "featured-image.svg",
       "featured_hash": "ff606ccebe8f3e76f2d9f9cd74b7ea906c3a7b70a0b3f8a9e4a3c4be18d9d88f",
       "variants": [
@@ -27462,7 +27462,7 @@
         "transport",
         "locomotive"
       ],
-      "folder": "icons/transport__locomotive",
+      "folder": "icons/transport/transport__locomotive",
       "featured": "featured-image.svg",
       "featured_hash": "f6d6ad1b286e75ff0243c2f50444626a6bb530c77cd1648543de329bb51048c9",
       "variants": [
@@ -27549,7 +27549,7 @@
         "transport",
         "sapsan"
       ],
-      "folder": "icons/transport__sapsan",
+      "folder": "icons/transport/transport__sapsan",
       "featured": "featured-image.svg",
       "featured_hash": "77b4f24f3364f154c434ceb06d80d1d86a597d0c98d571278e15294fd3362bae",
       "variants": [
@@ -27588,7 +27588,7 @@
         "airbus",
         "a320"
       ],
-      "folder": "icons/transport_plane__airbus-a320",
+      "folder": "icons/transport_plane/transport_plane__airbus-a320",
       "featured": "featured-image.svg",
       "featured_hash": "bec933840576017d46924eba37858527c5badc535081936e417075fe9d2354d1",
       "variants": [
@@ -27663,7 +27663,7 @@
         "a320",
         "front"
       ],
-      "folder": "icons/transport_plane__airbus-a320-front",
+      "folder": "icons/transport_plane/transport_plane__airbus-a320-front",
       "featured": "featured-image.svg",
       "featured_hash": "b2e565d96dec5dce1cc4b0e9165b8ababa0e46767903ddabe2acb8a6c44e4ba4",
       "variants": [
@@ -27723,7 +27723,7 @@
         "a320",
         "top"
       ],
-      "folder": "icons/transport_plane__airbus-a320-top",
+      "folder": "icons/transport_plane/transport_plane__airbus-a320-top",
       "featured": "featured-image.svg",
       "featured_hash": "66136b6b1dc3eb766b44ea1f4ebfe0ae15017306031b05c19ae0870820069272",
       "variants": [
@@ -27767,7 +27767,7 @@
         "boeing",
         "800"
       ],
-      "folder": "icons/transport_plane__boeing-800",
+      "folder": "icons/transport_plane/transport_plane__boeing-800",
       "featured": "featured-image.svg",
       "featured_hash": "5e50a9439a3b16458420404ed1ee1aa33702772963bbf5fd3a13f1fd1a1627d6",
       "variants": [
@@ -27842,7 +27842,7 @@
         "800",
         "front"
       ],
-      "folder": "icons/transport_plane__boeing-800-front",
+      "folder": "icons/transport_plane/transport_plane__boeing-800-front",
       "featured": "featured-image.svg",
       "featured_hash": "b263e426c51e005aa51bac6bc93933519a748f76aed429e2ef4d4fd7afd25c47",
       "variants": [
@@ -27902,7 +27902,7 @@
         "800",
         "top"
       ],
-      "folder": "icons/transport_plane__boeing-800-top",
+      "folder": "icons/transport_plane/transport_plane__boeing-800-top",
       "featured": "featured-image.svg",
       "featured_hash": "dd315b2ca7e63b803ed6e8d697372be12554b50233814ba29c59c0021660e81b",
       "variants": [
@@ -27945,7 +27945,7 @@
         "plane",
         "cybertruck"
       ],
-      "folder": "icons/transport_plane__cybertruck",
+      "folder": "icons/transport_plane/transport_plane__cybertruck",
       "featured": "featured-image.svg",
       "featured_hash": "e25885e65bbabc0bdaa083c1114e0bbc2bc5134f6e20e2c6bad55fa9bbdc2d03",
       "variants": [
@@ -27984,7 +27984,7 @@
         "ssj",
         "100"
       ],
-      "folder": "icons/transport_plane__ssj-100",
+      "folder": "icons/transport_plane/transport_plane__ssj-100",
       "featured": "featured-image.svg",
       "featured_hash": "3d3d1c0ef533abb558b437ec3cdfb2ac37d44f96e6cb0a0b1cee45de517e0920",
       "variants": [
@@ -28059,7 +28059,7 @@
         "100",
         "front"
       ],
-      "folder": "icons/transport_plane__ssj-100-front",
+      "folder": "icons/transport_plane/transport_plane__ssj-100-front",
       "featured": "featured-image.svg",
       "featured_hash": "0aba338f898961260a33253c6518b6e6ce24c4ddf174a00ce93307346ea5fce7",
       "variants": [
@@ -28119,7 +28119,7 @@
         "100",
         "top"
       ],
-      "folder": "icons/transport_plane__ssj-100-top",
+      "folder": "icons/transport_plane/transport_plane__ssj-100-top",
       "featured": "featured-image.svg",
       "featured_hash": "d2accebbfb6f71c93772efae08fb9b6e19a14fd34552acfcf07db642121949c2",
       "variants": [
@@ -28161,7 +28161,7 @@
         "weapon",
         "cinquedea"
       ],
-      "folder": "icons/weapon__cinquedea",
+      "folder": "icons/weapon/weapon__cinquedea",
       "featured": "featured-image.svg",
       "featured_hash": "496c74e3c3b1b144a5ab096f2ce4a9f0ad5578162253fa6476038a9c1eae2021",
       "variants": [
@@ -28213,7 +28213,7 @@
         "weapon",
         "falchion"
       ],
-      "folder": "icons/weapon__falchion",
+      "folder": "icons/weapon/weapon__falchion",
       "featured": "featured-image.svg",
       "featured_hash": "893c1ff796e67f0d7f7cc98d94a3f3c718cf5a3d6e4c0e67ab56cc2fa4e9c42a",
       "variants": [
@@ -28265,7 +28265,7 @@
         "weapon",
         "seax"
       ],
-      "folder": "icons/weapon__seax",
+      "folder": "icons/weapon/weapon__seax",
       "featured": "featured-image.svg",
       "featured_hash": "6fce419caea5fa578fce4a6fc704f54a92c70767e5c44ae73c5516b35816ea1c",
       "variants": [
@@ -28317,7 +28317,7 @@
         "weapon",
         "sword"
       ],
-      "folder": "icons/weapon__sword",
+      "folder": "icons/weapon/weapon__sword",
       "featured": "featured-image.svg",
       "featured_hash": "819d46296edcd411f53cf3017cd0e3db41bdfe29e42ad37a626cd14c9dd5aa32",
       "variants": [
@@ -28406,7 +28406,7 @@
         "submachine",
         "gun"
       ],
-      "folder": "icons/weapon__thompson-submachine-gun",
+      "folder": "icons/weapon/weapon__thompson-submachine-gun",
       "featured": "featured-image.svg",
       "featured_hash": "9ea09ffe559654d416ba2d4e5ada5c695cb10f39773d86d334fd7d6018f21a85",
       "variants": [

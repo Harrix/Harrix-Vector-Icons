@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+from pathlib import Path
 
 _STRIP_SUFFIXES = (
     re.compile(r"_\d{2}$"),
@@ -46,6 +47,11 @@ def category_from_family_id(family_id: str) -> str:
     if "__" not in family_id:
         return family_id
     return family_id.split("__", 1)[0]
+
+
+def note_dir_for_family_id(icons_dir: Path, family_id: str) -> Path:
+    """Return `icons/{category}/{family_id}` for a family id."""
+    return Path(icons_dir) / category_from_family_id(family_id) / family_id
 
 
 def title_from_family_id(family_id: str) -> str:

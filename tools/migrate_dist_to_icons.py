@@ -10,7 +10,7 @@ from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from family_id import category_from_family_id, family_id_from_stem, tags_from_family_id, title_from_family_id
+from family_id import category_from_family_id, family_id_from_stem, note_dir_for_family_id, tags_from_family_id, title_from_family_id
 
 COLOR_PACKS = frozenset({"black", "gray", "white", "color"})
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -122,8 +122,8 @@ tags: [{tags_yaml}]
 
 
 def copy_variants_into_note(family_id: str, bucket: FamilyBucket, icons_dir: Path) -> int:
-    """Copy unique-by-hash variants into `icons/{id}/img/`. Return file count."""
-    note_dir = icons_dir / family_id
+    """Copy unique-by-hash variants into `icons/{category}/{id}/img/`. Return file count."""
+    note_dir = note_dir_for_family_id(icons_dir, family_id)
     img_dir = note_dir / "img"
     img_dir.mkdir(parents=True, exist_ok=True)
 
@@ -156,7 +156,7 @@ def copy_variants_into_note(family_id: str, bucket: FamilyBucket, icons_dir: Pat
 
 def copy_existing_note(family_id: str, source_note: Path, icons_dir: Path) -> int:
     """Copy a pre-existing note-folder (Marvin-style) into `icons/`."""
-    dest = icons_dir / family_id
+    dest = note_dir_for_family_id(icons_dir, family_id)
     if dest.exists():
         shutil.rmtree(dest)
     shutil.copytree(source_note, dest)
@@ -198,7 +198,7 @@ def migrate(*, dist_dir: Path, icons_dir: Path, clean: bool) -> None:
             continue
         if family_id in existing_notes:
             # Prefer preserving existing markdown when present
-            note_dir = icons_dir / family_id
+            note_dir = note_dir_for_family_id(icons_dir, family_id)
             img_dir = note_dir / "img"
             img_dir.mkdir(parents=True, exist_ok=True)
             written = 0

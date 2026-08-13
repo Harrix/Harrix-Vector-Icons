@@ -17,6 +17,8 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 ICONS_DIR = REPO_ROOT / "icons"
 CATALOG_PATH = REPO_ROOT / "catalog.json"
 
+_SKIP_DIR_NAMES = frozenset({".git", ".hg", ".svn", "__pycache__", "node_modules", ".venv", "venv"})
+_NOTE_ASSET_DIR_NAMES = frozenset({"img", "files"})
 _FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.DOTALL)
 _H1_RE = re.compile(r"^#\s+(.+?)\s*$")
 _LIST_RE = re.compile(r"^\[\s*(.*?)\s*\]$")
@@ -45,6 +47,41 @@ def _parse_yaml_list(raw: str) -> list[str]:
         if item:
             items.append(item)
     return items
+
+
+def is_icon_note_dir(path: Path) -> bool:
+    """Return whether `path` is an icon family note-folder."""
+    if not path.is_dir():
+        return False
+    return (
+        (path / "featured-image.svg").is_file()
+        or (path / f"{path.name}.md").is_file()
+        or (path / "img").is_dir()
+    )
+
+
+def iter_icon_note_dirs(icons_dir: Path) -> list[Path]:
+    """Collect icon note-folders under `icons/`, including category subfolders."""
+    result: list[Path] = []
+    stack = [icons_dir]
+    while stack:
+        current = stack.pop()
+        try:
+            entries = list(current.iterdir())
+        except OSError:
+            continue
+        for entry in entries:
+            if not entry.is_dir():
+                continue
+            name = entry.name.casefold()
+            if name in _SKIP_DIR_NAMES or name in _NOTE_ASSET_DIR_NAMES:
+                continue
+            if is_icon_note_dir(entry):
+                result.append(entry)
+            else:
+                stack.append(entry)
+    result.sort(key=lambda item: item.as_posix().casefold())
+    return result
 
 
 def first_h1(text: str) -> str:
@@ -86,8 +123,9 @@ def parse_frontmatter(md_path: Path) -> dict[str, Any]:
 
 def build_catalog(icons_dir: Path) -> dict[str, Any]:
     """Scan note-folders and return catalog structure."""
+    repo_root = icons_dir.resolve().parent
     icons: list[dict[str, Any]] = []
-    for note_dir in sorted(p for p in icons_dir.iterdir() if p.is_dir()):
+    for note_dir in iter_icon_note_dirs(icons_dir):
         family_id = note_dir.name
         md_path = note_dir / f"{family_id}.md"
         meta = parse_frontmatter(md_path) if md_path.is_file() else {}
@@ -123,7 +161,7 @@ def build_catalog(icons_dir: Path) -> dict[str, Any]:
                 "date": icon_date,
                 "categories": categories,
                 "tags": tags,
-                "folder": f"icons/{family_id}",
+                "folder": note_dir.resolve().relative_to(repo_root).as_posix(),
                 "featured": featured_rel,
                 "featured_hash": featured_hash,
                 "variants": variants,
