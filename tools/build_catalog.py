@@ -77,7 +77,10 @@ def parse_frontmatter(md_path: Path) -> dict[str, Any]:
             result[key] = _parse_yaml_list(value)
         elif key == "date":
             result[key] = value.strip("\"'")
-    result["title"] = first_h1(text)
+        elif key == "title":
+            result["title"] = value.strip("\"'")
+    yaml_title = str(result.get("title") or "").strip()
+    result["title"] = yaml_title or first_h1(text)
     return result
 
 
