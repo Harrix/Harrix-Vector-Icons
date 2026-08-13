@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink: https://harrix.dev/en/icons/science_shape/science_shape__4-square
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/science_shape/science_shape__4-square/science_shape__4-square.md
 lang: en
 ---

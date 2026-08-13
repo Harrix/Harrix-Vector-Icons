@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink: https://harrix.dev/en/icons/nature_animal_track/nature_animal_track__bear
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/nature_animal_track/nature_animal_track__bear/nature_animal_track__bear.md
 lang: en
 ---

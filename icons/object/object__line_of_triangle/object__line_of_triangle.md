@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink: https://harrix.dev/en/icons/object/object__line_of_triangle
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/object/object__line_of_triangle/object__line_of_triangle.md
 lang: en
 ---

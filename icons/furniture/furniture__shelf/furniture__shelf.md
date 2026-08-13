@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink: https://harrix.dev/en/icons/furniture/furniture__shelf
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/furniture/furniture__shelf/furniture__shelf.md
 lang: en
 ---

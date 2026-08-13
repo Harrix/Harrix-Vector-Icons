@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink: https://harrix.dev/en/icons/space_spaceship/space_spaceship__vostok-8k72k
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/space_spaceship/space_spaceship__vostok-8k72k/space_spaceship__vostok-8k72k.md
 lang: en
 ---

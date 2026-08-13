@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink: https://harrix.dev/en/icons/medicine/medicine__medical-mask
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/medicine/medicine__medical-mask/medicine__medical-mask.md
 lang: en
 ---
