@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/it_phone/it_phone__samsung-note10plus/it_phone__samsung-note10plus.md
 ---
 
 # Samsung Note10Plus

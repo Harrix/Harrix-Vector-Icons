@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/fiction_spaceship/fiction_spaceship__avalon/fiction_spaceship__avalon.md
 ---
 
 # Avalon

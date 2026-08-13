@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/space_spaceship/space_spaceship__apollo-11/space_spaceship__apollo-11.md
 ---
 
 # Apollo 11

@@ -6,6 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
+permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/symbol/symbol__power-button/symbol__power-button.md
 ---
 
 # Power Button
