@@ -116,6 +116,10 @@ def parse_frontmatter(md_path: Path) -> dict[str, Any]:
             result[key] = value.strip("\"'")
         elif key == "title":
             result["title"] = value.strip("\"'")
+        elif key == "trademark":
+            result[key] = value.lower() == "true"
+        else:
+            result[key] = value
     yaml_title = str(result.get("title") or "").strip()
     result["title"] = yaml_title or first_h1(text)
     return result
@@ -136,6 +140,7 @@ def build_catalog(icons_dir: Path) -> dict[str, Any]:
 
         title = str(meta.get("title") or title_from_family_id(family_id))
         tags = list(meta.get("tags") or [])
+        trademark = bool(meta.get("trademark"))
         icon_date = str(meta.get("date") or "").strip()
 
         featured = note_dir / "featured-image.svg"
@@ -159,6 +164,7 @@ def build_catalog(icons_dir: Path) -> dict[str, Any]:
                 "id": family_id,
                 "title": title,
                 "date": icon_date,
+                "trademark": trademark,
                 "categories": categories,
                 "tags": tags,
                 "folder": note_dir.resolve().relative_to(repo_root).as_posix(),
