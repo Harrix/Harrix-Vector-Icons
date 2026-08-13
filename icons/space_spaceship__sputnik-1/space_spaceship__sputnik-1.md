@@ -2,7 +2,6 @@
 date: 2020-08-10
 categories: [space_spaceship]
 tags: [space, spaceship, sputnik, 1]
-title: Sputnik 1
 ---
 
 # Sputnik 1

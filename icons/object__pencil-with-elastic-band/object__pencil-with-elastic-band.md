@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, pencil, with, elastic, band]
-title: Pencil With Elastic Band
 ---
 
 # Pencil With Elastic Band

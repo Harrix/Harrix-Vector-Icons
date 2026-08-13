@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science]
 tags: [science, graduated, cylinder, with, lid]
-title: Graduated Cylinder With Lid
 ---
 
 # Graduated Cylinder With Lid

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [it]
 tags: [it, trash, full]
-title: Trash Full
 ---
 
 # Trash Full

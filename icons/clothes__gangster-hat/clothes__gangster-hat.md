@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [clothes]
 tags: [clothes, gangster, hat]
-title: Gangster Hat
 ---
 
 # Gangster Hat

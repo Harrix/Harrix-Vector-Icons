@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [human]
 tags: [human, man, with, beard]
-title: Man With Beard
 ---
 
 # Man With Beard

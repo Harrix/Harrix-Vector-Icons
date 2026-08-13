@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, clubs, 9]
-title: Clubs 9
 ---
 
 # Clubs 9

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [nature]
 tags: [nature, mountain]
-title: Mountain
 ---
 
 # Mountain

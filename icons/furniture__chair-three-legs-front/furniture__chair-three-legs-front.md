@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [furniture]
 tags: [furniture, chair, three, legs, front]
-title: Chair Three Legs Front
 ---
 
 # Chair Three Legs Front

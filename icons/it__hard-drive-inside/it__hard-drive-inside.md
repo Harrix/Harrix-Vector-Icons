@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [it]
 tags: [it, hard, drive, inside]
-title: Hard Drive Inside
 ---
 
 # Hard Drive Inside

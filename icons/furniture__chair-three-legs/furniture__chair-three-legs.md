@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [furniture]
 tags: [furniture, chair, three, legs]
-title: Chair Three Legs
 ---
 
 # Chair Three Legs

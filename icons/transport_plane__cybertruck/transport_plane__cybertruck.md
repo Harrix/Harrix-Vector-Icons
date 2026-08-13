@@ -2,7 +2,6 @@
 date: 2020-08-10
 categories: [transport_plane]
 tags: [transport, plane, cybertruck]
-title: Cybertruck
 ---
 
 # Cybertruck

@@ -18,6 +18,7 @@ ICONS_DIR = REPO_ROOT / "icons"
 CATALOG_PATH = REPO_ROOT / "catalog.json"
 
 _FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?", re.DOTALL)
+_H1_RE = re.compile(r"^#\s+(.+?)\s*$")
 _LIST_RE = re.compile(r"^\[\s*(.*?)\s*\]$")
 
 
@@ -46,8 +47,21 @@ def _parse_yaml_list(raw: str) -> list[str]:
     return items
 
 
+def first_h1(text: str) -> str:
+    """Return the first ATX H1 heading after optional YAML frontmatter."""
+    body = text
+    match = _FRONTMATTER_RE.match(text)
+    if match:
+        body = text[match.end() :]
+    for line in body.splitlines():
+        heading = _H1_RE.match(line)
+        if heading:
+            return heading.group(1).strip()
+    return ""
+
+
 def parse_frontmatter(md_path: Path) -> dict[str, Any]:
-    """Parse a minimal YAML frontmatter block (categories, tags, title)."""
+    """Parse a minimal YAML frontmatter block (categories, tags, date)."""
     text = md_path.read_text(encoding="utf-8")
     match = _FRONTMATTER_RE.match(text)
     if not match:
@@ -61,8 +75,9 @@ def parse_frontmatter(md_path: Path) -> dict[str, Any]:
         value = value.strip()
         if key in {"categories", "tags"}:
             result[key] = _parse_yaml_list(value)
-        elif key == "title":
+        elif key == "date":
             result[key] = value.strip("\"'")
+    result["title"] = first_h1(text)
     return result
 
 
@@ -80,6 +95,7 @@ def build_catalog(icons_dir: Path) -> dict[str, Any]:
 
         title = str(meta.get("title") or title_from_family_id(family_id))
         tags = list(meta.get("tags") or [])
+        icon_date = str(meta.get("date") or "").strip()
 
         featured = note_dir / "featured-image.svg"
         featured_rel = "featured-image.svg" if featured.is_file() else ""
@@ -101,6 +117,7 @@ def build_catalog(icons_dir: Path) -> dict[str, Any]:
             {
                 "id": family_id,
                 "title": title,
+                "date": icon_date,
                 "categories": categories,
                 "tags": tags,
                 "folder": f"icons/{family_id}",

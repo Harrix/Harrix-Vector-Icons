@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [human]
 tags: [human, hand, 5, fingers, together]
-title: Hand 5 Fingers Together
 ---
 
 # Hand 5 Fingers Together

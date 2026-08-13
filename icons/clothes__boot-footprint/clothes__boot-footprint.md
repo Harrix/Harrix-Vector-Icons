@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [clothes]
 tags: [clothes, boot, footprint]
-title: Boot Footprint
 ---
 
 # Boot Footprint

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [it]
 tags: [it, code, in, console]
-title: Code In Console
 ---
 
 # Code In Console

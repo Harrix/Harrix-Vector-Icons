@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [fiction_robot]
 tags: [fiction, robot, marvin, s, head]
-title: Marvin S Head
 ---
 
 # Marvin S Head

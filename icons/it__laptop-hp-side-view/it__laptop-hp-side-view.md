@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [it]
 tags: [it, laptop, hp, side, view]
-title: Laptop Hp Side View
 ---
 
 # Laptop Hp Side View

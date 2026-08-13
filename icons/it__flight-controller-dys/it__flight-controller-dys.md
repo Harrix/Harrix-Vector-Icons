@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [it]
 tags: [it, flight, controller, dys]
-title: Flight Controller Dys
 ---
 
 # Flight Controller Dys

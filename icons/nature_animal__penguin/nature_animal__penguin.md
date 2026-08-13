@@ -2,7 +2,6 @@
 date: 2021-10-13
 categories: [nature_animal]
 tags: [nature, animal, penguin]
-title: Penguin
 ---
 
 # Penguin

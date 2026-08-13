@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, office, file, folder]
-title: Office File Folder
 ---
 
 # Office File Folder

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [building]
 tags: [building, school, 1532]
-title: School 1532
 ---
 
 # School 1532

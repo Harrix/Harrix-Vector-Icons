@@ -2,7 +2,6 @@
 date: 2021-04-11
 categories: [object]
 tags: [object, medal, ii]
-title: Medal Ii
 ---
 
 # Medal Ii

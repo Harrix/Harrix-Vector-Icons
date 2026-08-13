@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, propeller, two, bladed, dji]
-title: Propeller Two Bladed Dji
 ---
 
 # Propeller Two Bladed Dji

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, backpack, with, buckles]
-title: Backpack With Buckles
 ---
 
 # Backpack With Buckles

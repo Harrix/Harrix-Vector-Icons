@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [building]
 tags: [building, house, with, window, in, attic]
-title: House With Window In Attic
 ---
 
 # House With Window In Attic

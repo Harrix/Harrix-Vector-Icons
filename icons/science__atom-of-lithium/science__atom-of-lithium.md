@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science]
 tags: [science, atom, of, lithium]
-title: Atom Of Lithium
 ---
 
 # Atom Of Lithium

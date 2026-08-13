@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [space]
 tags: [space, soyuz, ms]
-title: Soyuz Ms
 ---
 
 # Soyuz Ms

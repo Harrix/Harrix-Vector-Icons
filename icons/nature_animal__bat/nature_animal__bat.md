@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [nature_animal]
 tags: [nature, animal, bat]
-title: Bat
 ---
 
 # Bat

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science]
 tags: [science, communicating, vessels]
-title: Communicating Vessels
 ---
 
 # Communicating Vessels

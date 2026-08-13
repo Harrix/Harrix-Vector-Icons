@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [furniture]
 tags: [furniture, desk]
-title: Desk
 ---
 
 # Desk

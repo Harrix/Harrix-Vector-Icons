@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, weight, metal, with, hook]
-title: Weight Metal With Hook
 ---
 
 # Weight Metal With Hook

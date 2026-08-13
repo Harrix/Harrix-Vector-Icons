@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [flag]
 tags: [flag, united, kingdom]
-title: United Kingdom
 ---
 
 # United Kingdom

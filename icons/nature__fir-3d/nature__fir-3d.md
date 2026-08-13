@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [nature]
 tags: [nature, fir, 3d]
-title: Fir 3D
 ---
 
 # Fir 3D

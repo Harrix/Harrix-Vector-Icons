@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [transport_plane]
 tags: [transport, plane, boeing, 800, top]
-title: Boeing 800 Top
 ---
 
 # Boeing 800 Top

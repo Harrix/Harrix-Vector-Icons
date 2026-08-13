@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [human]
 tags: [human, hand, 4, fingers]
-title: Hand 4 Fingers
 ---
 
 # Hand 4 Fingers

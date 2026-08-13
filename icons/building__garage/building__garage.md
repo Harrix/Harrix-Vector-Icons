@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [building]
 tags: [building, garage]
-title: Garage
 ---
 
 # Garage

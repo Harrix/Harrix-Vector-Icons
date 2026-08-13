@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [human]
 tags: [human, hand, 2, fingers]
-title: Hand 2 Fingers
 ---
 
 # Hand 2 Fingers

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, propeller, two, bladed]
-title: Propeller Two Bladed
 ---
 
 # Propeller Two Bladed

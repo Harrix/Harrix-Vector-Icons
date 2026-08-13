@@ -2,7 +2,6 @@
 date: 2020-08-04
 categories: [object]
 tags: [object, knife]
-title: Knife
 ---
 
 # Knife

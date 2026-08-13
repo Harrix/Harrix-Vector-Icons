@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, kerosene, lamp]
-title: Kerosene Lamp
 ---
 
 # Kerosene Lamp

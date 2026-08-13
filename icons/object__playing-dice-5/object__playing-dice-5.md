@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, playing, dice, 5]
-title: Playing Dice 5
 ---
 
 # Playing Dice 5

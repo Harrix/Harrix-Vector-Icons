@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [nature_leaf]
 tags: [nature, leaf, birch]
-title: Birch
 ---
 
 # Birch

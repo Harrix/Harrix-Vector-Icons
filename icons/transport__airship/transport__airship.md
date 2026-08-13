@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [transport]
 tags: [transport, airship]
-title: Airship
 ---
 
 # Airship

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [furniture]
 tags: [furniture, chair, front]
-title: Chair Front
 ---
 
 # Chair Front

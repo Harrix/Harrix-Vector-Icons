@@ -2,7 +2,6 @@
 date: 2020-11-29
 categories: [object]
 tags: [object, led]
-title: Led
 ---
 
 # Led

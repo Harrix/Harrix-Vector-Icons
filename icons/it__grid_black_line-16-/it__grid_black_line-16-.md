@@ -2,7 +2,6 @@
 date: 2026-08-12
 categories: [it]
 tags: [it, grid_black_line, 16]
-title: Grid Black Line 16 
 ---
 
 # Grid Black Line 16 

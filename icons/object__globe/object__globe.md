@@ -2,7 +2,6 @@
 date: 2020-09-15
 categories: [object]
 tags: [object, globe]
-title: Globe
 ---
 
 # Globe

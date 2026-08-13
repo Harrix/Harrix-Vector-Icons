@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, weight, with, hook]
-title: Weight With Hook
 ---
 
 # Weight With Hook

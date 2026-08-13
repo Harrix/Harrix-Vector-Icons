@@ -2,7 +2,6 @@
 date: 2021-05-26
 categories: [object]
 tags: [object, bulb, incandescent, light]
-title: Bulb Incandescent Light
 ---
 
 # Bulb Incandescent Light

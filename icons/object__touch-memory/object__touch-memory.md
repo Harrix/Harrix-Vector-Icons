@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, touch, memory]
-title: Touch Memory
 ---
 
 # Touch Memory

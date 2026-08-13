@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [it_phone]
 tags: [it, phone, samsung, s10]
-title: Samsung S10
 ---
 
 # Samsung S10

@@ -2,7 +2,6 @@
 date: 2020-08-02
 categories: [playing-card]
 tags: [playing-card, spades, 08]
-title: Spades 08
 ---
 
 # Spades 08

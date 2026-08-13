@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, light, switch, soviet]
-title: Light Switch Soviet
 ---
 
 # Light Switch Soviet

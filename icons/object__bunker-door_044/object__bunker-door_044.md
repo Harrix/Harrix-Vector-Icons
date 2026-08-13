@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, bunker, door_044]
-title: Bunker Door 044
 ---
 
 # Bunker Door 044

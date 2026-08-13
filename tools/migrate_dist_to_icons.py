@@ -105,7 +105,6 @@ def write_note_md(family_id: str, note_dir: Path, *, existing_md: Path | None = 
     body = f"""---
 categories: [{category}]
 tags: [{tags_yaml}]
-title: {title}
 ---
 
 # {title}

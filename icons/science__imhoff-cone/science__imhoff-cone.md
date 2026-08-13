@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science]
 tags: [science, imhoff, cone]
-title: Imhoff Cone
 ---
 
 # Imhoff Cone

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science]
 tags: [science, graduated, cylinder]
-title: Graduated Cylinder
 ---
 
 # Graduated Cylinder

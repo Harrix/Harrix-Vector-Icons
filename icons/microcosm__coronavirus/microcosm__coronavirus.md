@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [microcosm]
 tags: [microcosm, coronavirus]
-title: Coronavirus
 ---
 
 # Coronavirus

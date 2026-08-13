@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science_shape]
 tags: [science, shape, 1, point]
-title: 1 Point
 ---
 
 # 1 Point

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, hearts, 9]
-title: Hearts 9
 ---
 
 # Hearts 9

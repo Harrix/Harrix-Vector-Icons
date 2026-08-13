@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, ace, of, spades]
-title: Ace Of Spades
 ---
 
 # Ace Of Spades

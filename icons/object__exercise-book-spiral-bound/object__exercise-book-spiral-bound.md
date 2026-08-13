@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, exercise, book, spiral, bound]
-title: Exercise Book Spiral Bound
 ---
 
 # Exercise Book Spiral Bound

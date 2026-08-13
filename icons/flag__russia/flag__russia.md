@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [flag]
 tags: [flag, russia]
-title: Russia
 ---
 
 # Russia

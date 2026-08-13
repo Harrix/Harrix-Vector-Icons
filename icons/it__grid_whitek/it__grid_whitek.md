@@ -2,7 +2,6 @@
 date: 2026-08-12
 categories: [it]
 tags: [it, grid_whitek]
-title: Grid Whitek
 ---
 
 # Grid Whitek

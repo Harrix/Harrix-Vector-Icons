@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, spades, 10]
-title: Spades 10
 ---
 
 # Spades 10

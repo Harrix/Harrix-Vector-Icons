@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science]
 tags: [science, narrow, graduated, cylinder]
-title: Narrow Graduated Cylinder
 ---
 
 # Narrow Graduated Cylinder

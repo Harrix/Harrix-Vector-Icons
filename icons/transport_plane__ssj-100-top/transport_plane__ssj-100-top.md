@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [transport_plane]
 tags: [transport, plane, ssj, 100, top]
-title: Ssj 100 Top
 ---
 
 # Ssj 100 Top

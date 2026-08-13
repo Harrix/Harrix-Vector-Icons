@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, back, atlas]
-title: Back Atlas
 ---
 
 # Back Atlas

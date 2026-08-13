@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, paper, boat]
-title: Paper Boat
 ---
 
 # Paper Boat

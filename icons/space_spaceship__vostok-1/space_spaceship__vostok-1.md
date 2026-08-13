@@ -2,7 +2,6 @@
 date: 2020-08-10
 categories: [space_spaceship]
 tags: [space, spaceship, vostok, 1]
-title: Vostok 1
 ---
 
 # Vostok 1

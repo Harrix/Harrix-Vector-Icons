@@ -2,7 +2,6 @@
 date: 2020-07-29
 categories: [object]
 tags: [object, fire]
-title: Fire
 ---
 
 # Fire

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [human]
 tags: [human, hand, 5, fingers]
-title: Hand 5 Fingers
 ---
 
 # Hand 5 Fingers

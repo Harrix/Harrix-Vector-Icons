@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [it_phone]
 tags: [it, phone, samsung, note10plus]
-title: Samsung Note10Plus
 ---
 
 # Samsung Note10Plus

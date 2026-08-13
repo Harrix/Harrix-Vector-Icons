@@ -2,7 +2,6 @@
 date: 2021-06-05
 categories: [space]
 tags: [space, satellite, dish]
-title: Satellite Dish
 ---
 
 # Satellite Dish

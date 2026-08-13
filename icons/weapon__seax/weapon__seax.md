@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [weapon]
 tags: [weapon, seax]
-title: Seax
 ---
 
 # Seax

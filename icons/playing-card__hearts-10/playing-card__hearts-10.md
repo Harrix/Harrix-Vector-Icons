@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, hearts, 10]
-title: Hearts 10
 ---
 
 # Hearts 10

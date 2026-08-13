@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science_shape]
 tags: [science, shape, circle]
-title: Circle
 ---
 
 # Circle

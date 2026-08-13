@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [science_shape]
 tags: [science, shape, 10, decagon]
-title: 10 Decagon
 ---
 
 # 10 Decagon

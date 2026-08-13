@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [space_spaceship]
 tags: [space, spaceship, apollo, 11]
-title: Apollo 11
 ---
 
 # Apollo 11

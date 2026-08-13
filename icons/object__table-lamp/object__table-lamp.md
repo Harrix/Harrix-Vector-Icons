@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, table, lamp]
-title: Table Lamp
 ---
 
 # Table Lamp

@@ -2,7 +2,6 @@
 date: 2021-06-19
 categories: [object]
 tags: [object, bowling, pin]
-title: Bowling Pin
 ---
 
 # Bowling Pin

@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [nature_animal_track]
 tags: [nature, animal, track, bear]
-title: Bear
 ---
 
 # Bear

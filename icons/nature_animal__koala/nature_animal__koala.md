@@ -2,7 +2,6 @@
 date: 2021-10-03
 categories: [nature_animal]
 tags: [nature, animal, koala]
-title: Koala
 ---
 
 # Koala

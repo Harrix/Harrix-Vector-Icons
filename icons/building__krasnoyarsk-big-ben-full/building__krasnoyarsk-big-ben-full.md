@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [building]
 tags: [building, krasnoyarsk, big, ben, full]
-title: Krasnoyarsk Big Ben Full
 ---
 
 # Krasnoyarsk Big Ben Full

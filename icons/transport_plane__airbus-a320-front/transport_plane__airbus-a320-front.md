@@ -2,7 +2,6 @@
 date: 2020-07-19
 categories: [transport_plane]
 tags: [transport, plane, airbus, a320, front]
-title: Airbus A320 Front
 ---
 
 # Airbus A320 Front
