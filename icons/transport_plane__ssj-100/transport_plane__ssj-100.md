@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [transport_plane]
 tags: [transport, plane, ssj, 100]
 title: Ssj 100

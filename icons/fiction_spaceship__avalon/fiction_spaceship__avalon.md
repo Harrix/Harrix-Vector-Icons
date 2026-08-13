@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [fiction_spaceship]
 tags: [fiction, spaceship, avalon]
 title: Avalon

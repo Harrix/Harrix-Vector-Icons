@@ -1,4 +1,5 @@
 ---
+date: 2020-09-03
 categories: [transport]
 tags: [transport, electric, scooter]
 title: Electric Scooter

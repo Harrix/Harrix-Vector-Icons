@@ -1,4 +1,5 @@
 ---
+date: 2020-08-10
 categories: [space_spaceship]
 tags: [space, spaceship, vostok, 8k72k]
 title: Vostok 8K72K

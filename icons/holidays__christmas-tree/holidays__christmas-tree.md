@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [holidays]
 tags: [holidays, christmas, tree]
 title: Christmas Tree

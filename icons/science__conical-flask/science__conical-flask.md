@@ -1,4 +1,5 @@
 ---
+date: 2021-08-03
 categories: [science]
 tags: [science, conical, flask]
 title: Conical Flask

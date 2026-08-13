@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [space_spaceship]
 tags: [space, spaceship, crew, dragon]
 title: Crew Dragon

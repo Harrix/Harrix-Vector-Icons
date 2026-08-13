@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [object]
 tags: [object, coin_gray_0]
 title: Coin Gray 0

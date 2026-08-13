@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [science_shape]
 tags: [science, shape, 9, nonagon]
 title: 9 Nonagon

@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [space]
 tags: [space, rocket, with, window]
 title: Rocket With Window

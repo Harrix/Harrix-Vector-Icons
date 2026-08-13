@@ -1,4 +1,5 @@
 ---
+date: 2020-08-02
 categories: [playing-card]
 tags: [playing-card, diamonds, 8]
 title: Diamonds 8

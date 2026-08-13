@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [clothes]
 tags: [clothes, top, hat]
 title: Top Hat

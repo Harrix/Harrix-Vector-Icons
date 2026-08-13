@@ -1,4 +1,5 @@
 ---
+date: 2020-08-02
 categories: [playing-card]
 tags: [playing-card, clubs, 8]
 title: Clubs 8

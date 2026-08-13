@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [it]
 tags: [it, flash, drive, type, c, usb]
 title: Flash Drive Type C Usb

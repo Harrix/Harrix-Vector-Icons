@@ -1,4 +1,5 @@
 ---
+date: 2021-03-28
 categories: [object]
 tags: [object, mercury, thermometer]
 title: Mercury Thermometer

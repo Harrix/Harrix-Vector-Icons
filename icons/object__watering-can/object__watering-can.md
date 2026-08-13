@@ -1,4 +1,5 @@
 ---
+date: 2020-08-02
 categories: [object]
 tags: [object, watering, can]
 title: Watering Can

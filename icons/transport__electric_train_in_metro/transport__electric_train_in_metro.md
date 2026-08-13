@@ -1,4 +1,5 @@
 ---
+date: 2021-01-18
 categories: [transport]
 tags: [transport, electric_train_in_metro]
 title: Electric Train In Metro

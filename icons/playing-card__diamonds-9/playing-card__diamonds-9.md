@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, diamonds, 9]
 title: Diamonds 9

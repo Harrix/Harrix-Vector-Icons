@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [it]
 tags: [it, tablet, samsung, galaxy, note, 10.1]
 title: Tablet Samsung Galaxy Note 10.1

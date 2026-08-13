@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [transport]
 tags: [transport, belaz, 75710]
 title: Belaz 75710

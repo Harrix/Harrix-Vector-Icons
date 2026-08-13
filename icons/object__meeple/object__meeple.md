@@ -1,4 +1,5 @@
 ---
+date: 2021-06-19
 categories: [object]
 tags: [object, meeple]
 title: Meeple

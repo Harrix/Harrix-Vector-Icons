@@ -1,4 +1,5 @@
 ---
+date: 2020-07-21
 categories: [clothes]
 tags: [clothes, wizards, cap]
 title: Wizards Cap

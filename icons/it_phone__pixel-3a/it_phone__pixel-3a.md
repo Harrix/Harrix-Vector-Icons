@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [it_phone]
 tags: [it, phone, pixel, 3a]
 title: Pixel 3A

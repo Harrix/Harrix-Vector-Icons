@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [symbol]
 tags: [symbol, tic, tac, toe]
 title: Tic Tac Toe

@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [fiction]
 tags: [fiction, teddy, bear]
 title: Teddy Bear

@@ -1,4 +1,5 @@
 ---
+date: 2026-08-12
 categories: [it]
 tags: [it, grid_white_line, 16]
 title: Grid White Line 16 

@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [playing-card]
 tags: [playing-card, ace, of, diamonds]
 title: Ace Of Diamonds

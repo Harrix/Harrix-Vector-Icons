@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [human]
 tags: [human, hand, 3, fingers]
 title: Hand 3 Fingers

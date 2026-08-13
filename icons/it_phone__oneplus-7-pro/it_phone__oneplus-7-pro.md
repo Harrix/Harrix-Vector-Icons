@@ -1,4 +1,5 @@
 ---
+date: 2020-07-19
 categories: [it_phone]
 tags: [it, phone, oneplus, 7, pro]
 title: Oneplus 7 Pro
