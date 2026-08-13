@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [science]
 tags: [science, imhoff, cone]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Imhoff Cone

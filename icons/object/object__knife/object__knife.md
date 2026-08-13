@@ -2,6 +2,8 @@
 date: 2020-08-04
 categories: [object]
 tags: [object, knife]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Knife

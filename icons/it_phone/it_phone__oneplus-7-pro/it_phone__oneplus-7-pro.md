@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [it_phone]
 tags: [it, phone, oneplus, 7, pro]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Oneplus 7 Pro

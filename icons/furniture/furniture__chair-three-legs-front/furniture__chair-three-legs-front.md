@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [furniture]
 tags: [furniture, chair, three, legs, front]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Chair Three Legs Front

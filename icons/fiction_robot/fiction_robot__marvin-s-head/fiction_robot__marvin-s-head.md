@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [fiction_robot]
 tags: [fiction, robot, marvin, s, head]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Marvin S Head

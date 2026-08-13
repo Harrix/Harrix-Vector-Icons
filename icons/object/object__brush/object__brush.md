@@ -2,6 +2,8 @@
 date: 2021-04-04
 categories: [object]
 tags: [object, brush]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Brush

@@ -2,6 +2,8 @@
 date: 2020-08-02
 categories: [playing-card]
 tags: [playing-card, spades, 08]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Spades 08

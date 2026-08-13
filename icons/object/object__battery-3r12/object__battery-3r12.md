@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, battery, 3r12]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Battery 3R12

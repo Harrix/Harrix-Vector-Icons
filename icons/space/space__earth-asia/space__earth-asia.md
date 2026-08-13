@@ -2,6 +2,8 @@
 date: 2020-09-13
 categories: [space]
 tags: [space, earth, asia]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Earth Asia

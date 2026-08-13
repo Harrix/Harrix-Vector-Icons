@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [microcosm]
 tags: [microcosm, ciliate]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Ciliate

@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [nature]
 tags: [nature, fir, 3d]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Fir 3D

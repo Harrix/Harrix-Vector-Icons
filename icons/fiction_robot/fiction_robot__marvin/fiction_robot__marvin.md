@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [Fiction, Персонаж]
 tags: [Robot Marvin, Робот Марвин, Автостопом по галактике, The Hitchhiker's Guide to the Galaxy, Робот, Персонаж, 42, Смысл жизни]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Robot Marvin

@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [it_phone]
 tags: [it, phone, pixel, 3a]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Pixel 3A

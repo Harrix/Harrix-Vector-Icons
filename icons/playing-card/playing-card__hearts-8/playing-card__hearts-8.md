@@ -2,6 +2,8 @@
 date: 2020-08-02
 categories: [playing-card]
 tags: [playing-card, hearts, 8]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Hearts 8

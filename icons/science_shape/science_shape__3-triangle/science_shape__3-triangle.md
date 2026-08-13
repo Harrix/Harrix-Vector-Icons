@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [science_shape]
 tags: [science, shape, 3, triangle]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # 3 Triangle

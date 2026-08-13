@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, window, with, stones]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Window With Stones

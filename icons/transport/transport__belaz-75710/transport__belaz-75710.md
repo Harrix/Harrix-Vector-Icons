@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [transport]
 tags: [transport, belaz, 75710]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Belaz 75710

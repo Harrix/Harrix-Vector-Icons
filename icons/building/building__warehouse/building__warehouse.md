@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [building]
 tags: [building, warehouse]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Warehouse

@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [human]
 tags: [human, hand, 5, fingers, together]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Hand 5 Fingers Together

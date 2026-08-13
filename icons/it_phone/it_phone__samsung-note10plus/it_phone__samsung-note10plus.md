@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [it_phone]
 tags: [it, phone, samsung, note10plus]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Samsung Note10Plus

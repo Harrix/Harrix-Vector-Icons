@@ -2,6 +2,8 @@
 date: 2021-01-24
 categories: [object]
 tags: [object, birdhouse]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Birdhouse

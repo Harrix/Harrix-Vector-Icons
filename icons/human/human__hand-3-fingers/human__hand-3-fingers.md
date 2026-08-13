@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [human]
 tags: [human, hand, 3, fingers]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Hand 3 Fingers

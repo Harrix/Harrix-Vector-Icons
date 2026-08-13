@@ -2,6 +2,8 @@
 date: 2020-08-10
 categories: [space_spaceship]
 tags: [space, spaceship, vostok, 8k72k]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Vostok 8K72K

@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [it]
 tags: [it, keyboard_small]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Keyboard Small

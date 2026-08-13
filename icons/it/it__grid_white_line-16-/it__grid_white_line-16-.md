@@ -2,6 +2,8 @@
 date: 2026-08-12
 categories: [it]
 tags: [it, grid_white_line, 16]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Grid White Line 16 

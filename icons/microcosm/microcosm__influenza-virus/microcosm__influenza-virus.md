@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [microcosm]
 tags: [microcosm, influenza, virus]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Influenza Virus

@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [nature_leaf]
 tags: [nature, leaf, plantain]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Plantain

@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [weapon]
 tags: [weapon, thompson, submachine, gun]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Thompson Submachine Gun

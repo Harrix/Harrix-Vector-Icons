@@ -2,6 +2,8 @@
 date: 2021-10-03
 categories: [nature_animal]
 tags: [nature, animal, koala]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Koala

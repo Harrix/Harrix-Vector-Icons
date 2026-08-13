@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [symbol]
 tags: [symbol, tic, tac, toe]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Tic Tac Toe

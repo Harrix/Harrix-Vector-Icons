@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [space]
 tags: [space, moon]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Moon

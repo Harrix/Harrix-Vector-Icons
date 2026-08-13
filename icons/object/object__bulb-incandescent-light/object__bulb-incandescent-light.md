@@ -2,6 +2,8 @@
 date: 2021-05-26
 categories: [object]
 tags: [object, bulb, incandescent, light]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Bulb Incandescent Light

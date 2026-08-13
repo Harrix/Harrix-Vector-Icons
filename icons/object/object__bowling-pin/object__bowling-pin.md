@@ -2,6 +2,8 @@
 date: 2021-06-19
 categories: [object]
 tags: [object, bowling, pin]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Bowling Pin

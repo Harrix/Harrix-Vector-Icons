@@ -2,6 +2,8 @@
 date: 2021-04-11
 categories: [object]
 tags: [object, medal, i]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Medal I

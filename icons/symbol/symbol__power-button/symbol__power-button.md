@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [symbol]
 tags: [symbol, power, button]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Power Button

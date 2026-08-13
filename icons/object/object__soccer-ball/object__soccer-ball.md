@@ -2,6 +2,8 @@
 date: 2020-07-19
 categories: [object]
 tags: [object, soccer, ball]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Soccer Ball

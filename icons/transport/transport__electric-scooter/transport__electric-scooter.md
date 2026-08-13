@@ -2,6 +2,8 @@
 date: 2020-09-03
 categories: [transport]
 tags: [transport, electric, scooter]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Electric Scooter
