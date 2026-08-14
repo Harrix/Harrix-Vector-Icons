@@ -2,9 +2,20 @@
 
 <https://github.com/Harrix/Harrix-Vector-Icons-ai> repo with source AI files.
 
+<details>
+<summary>📖 Contents ⬇️</summary>
+
+## Contents
+
+- [Layout](#layout)
+  - [Note-folder format](#note-folder-format)
+- [Rebuild catalog](#rebuild-catalog)
+
+</details>
+
 ## Layout
 
-- `icons/` — **source of truth**: one note-folder per icon family, grouped by category.
+- `icons/` — **source of truth:** one note-folder per icon family, grouped by category.
 - `catalog.json` — generated local search index (gitignored; Vector Icons rebuilds it on open if missing).
 - `tools/` — catalog and optional migration scripts.
 
