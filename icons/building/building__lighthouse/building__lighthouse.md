@@ -1,7 +1,41 @@
 ---
 date: 2020-07-19
 categories: [building]
-tags: [building, lighthouse]
+tags:
+  - lighthouse
+  - маяк
+  - building
+  - здание
+  - beacon
+  - сигнальный маяк
+  - tower
+  - башня
+  - sea tower
+  - морской маяк
+  - navigation
+  - навигация
+  - coast
+  - побережье
+  - shore
+  - берег
+  - harbor
+  - гавань
+  - maritime
+  - морской
+  - striped
+  - полосатый
+  - red white
+  - красно белый
+  - balcony
+  - балкон
+  - lantern room
+  - фонарная комната
+  - watchtower
+  - сторожевая башня
+  - seaside
+  - приморский
+  - signal tower
+  - сигнальная башня
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -24,3 +58,4 @@ lang: en
 - ![building__lighthouse_black](img/building__lighthouse_black.svg)
 - ![building__lighthouse_gray](img/building__lighthouse_gray.svg)
 - ![building__lighthouse_white](img/building__lighthouse_white.svg)
+

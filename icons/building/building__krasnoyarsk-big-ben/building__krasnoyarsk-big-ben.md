@@ -1,7 +1,39 @@
 ---
 date: 2020-07-19
 categories: [building]
-tags: [building, krasnoyarsk, big, ben]
+tags:
+  - big ben
+  - биг бен
+  - clock tower
+  - часовая башня
+  - tower
+  - башня
+  - clock
+  - часы
+  - london
+  - лондон
+  - england
+  - англия
+  - uk
+  - великобритания
+  - landmark
+  - достопримечательность
+  - palace of westminster
+  - вестминстерский дворец
+  - westminster
+  - вестминстер
+  - historic building
+  - историческое здание
+  - architecture
+  - архитектура
+  - spire
+  - шпиль
+  - clock face
+  - циферблат
+  - famous tower
+  - знаменитая башня
+  - iconic building
+  - знаковое здание
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -24,3 +56,4 @@ lang: en
 - ![building__krasnoyarsk-big-ben_black](img/building__krasnoyarsk-big-ben_black.svg)
 - ![building__krasnoyarsk-big-ben_gray](img/building__krasnoyarsk-big-ben_gray.svg)
 - ![building__krasnoyarsk-big-ben_white](img/building__krasnoyarsk-big-ben_white.svg)
+

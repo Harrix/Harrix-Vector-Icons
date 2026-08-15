@@ -1,7 +1,45 @@
 ---
 date: 2020-07-19
 categories: [building]
-tags: [building, krasnoyarsk, big, ben, full]
+tags:
+  - krasnoyarsk
+  - красноярск
+  - big ben
+  - биг бен
+  - clock tower
+  - часовая башня
+  - tower
+  - башня
+  - clock
+  - часы
+  - landmark
+  - достопримечательность
+  - city hall
+  - мэрия
+  - administration building
+  - административное здание
+  - government building
+  - правительственное здание
+  - office building
+  - офисное здание
+  - facade
+  - фасад
+  - windows
+  - окна
+  - spire
+  - шпиль
+  - architecture
+  - архитектура
+  - cityscape
+  - городской пейзаж
+  - silhouette
+  - силуэт
+  - flat design
+  - плоский дизайн
+  - vector
+  - вектор
+  - illustration
+  - иллюстрация
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -21,3 +59,4 @@ lang: en
 - ![building__krasnoyarsk-big-ben-full_black](img/building__krasnoyarsk-big-ben-full_black.svg)
 - ![building__krasnoyarsk-big-ben-full_gray](img/building__krasnoyarsk-big-ben-full_gray.svg)
 - ![building__krasnoyarsk-big-ben-full_white](img/building__krasnoyarsk-big-ben-full_white.svg)
+

@@ -1,7 +1,41 @@
 ---
 date: 2020-07-19
 categories: [building]
-tags: [building, house, with, door]
+tags:
+  - house
+  - дом
+  - door
+  - дверь
+  - hut
+  - хижина
+  - cabin
+  - кабина
+  - shed
+  - сарай
+  - wooden house
+  - деревянный дом
+  - wooden cabin
+  - деревянная хижина
+  - cottage
+  - коттедж
+  - roof
+  - крыша
+  - gable roof
+  - двускатная крыша
+  - facade
+  - фасад
+  - entrance
+  - вход
+  - front door
+  - входная дверь
+  - exterior
+  - экстерьер
+  - wooden wall
+  - деревянная стена
+  - siding
+  - обшивка
+  - barn
+  - амбар
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -36,3 +70,4 @@ lang: en
 - ![building__house-with-door_white_line-16](img/building__house-with-door_white_line-16.svg)
 - ![building__house-with-door_white_line-32](img/building__house-with-door_white_line-32.svg)
 - ![building__house-with-door_white_line-8](img/building__house-with-door_white_line-8.svg)
+

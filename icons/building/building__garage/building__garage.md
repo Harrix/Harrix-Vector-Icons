@@ -1,7 +1,39 @@
 ---
 date: 2020-07-19
 categories: [building]
-tags: [building, garage]
+tags:
+  - building
+  - здание
+  - garage
+  - гараж
+  - double garage
+  - двойной гараж
+  - garage door
+  - дверь гаража
+  - roller door
+  - роллетная дверь
+  - shutter door
+  - рольставни
+  - storage unit
+  - складской бокс
+  - warehouse
+  - склад
+  - hangar
+  - ангар
+  - roof
+  - крыша
+  - gable roof
+  - двускатная крыша
+  - industrial building
+  - промышленное здание
+  - facade
+  - фасад
+  - entrance
+  - вход
+  - flat design
+  - плоский дизайн
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -22,3 +54,4 @@ lang: en
 - ![building__garage_black](img/building__garage_black.svg)
 - ![building__garage_gray](img/building__garage_gray.svg)
 - ![building__garage_white](img/building__garage_white.svg)
+
