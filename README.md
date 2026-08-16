@@ -17,7 +17,6 @@
 
 - `icons/` — **source of truth:** one note-folder per icon family, grouped by category.
 - `catalog.json` — generated local search index (gitignored; Vector Icons rebuilds it on open if missing).
-- `tools/` — catalog and optional migration scripts.
 
 ### Note-folder format
 
@@ -46,15 +45,3 @@ tags: [house, дом]
 ## Rebuild catalog
 
 Vector Icons writes `catalog.json` when you open the repo without one, or when you rebuild the catalog in the app.
-
-From the repository root (Python 3.11+):
-
-```text
-python tools/build_catalog.py
-```
-
-Optional one-time migration from a legacy flat `dist/` tree (if you restore it from backup):
-
-```text
-python tools/migrate_dist_to_icons.py --clean
-```
