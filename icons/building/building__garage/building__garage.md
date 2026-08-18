@@ -54,4 +54,3 @@ lang: en
 - ![building__garage_black](img/building__garage_black.svg)
 - ![building__garage_gray](img/building__garage_gray.svg)
 - ![building__garage_white](img/building__garage_white.svg)
-
