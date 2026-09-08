@@ -21,3 +21,4 @@ lang: en
 - ![object__extinguisher_02](img/object__extinguisher_02.svg)
 - ![object__extinguisher_black](img/object__extinguisher_black.svg)
 - ![object__extinguisher_white](img/object__extinguisher_white.svg)
+- ![object__extinguisher_gray](img/object__extinguisher_gray.svg)
