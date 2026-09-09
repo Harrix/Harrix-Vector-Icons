@@ -1,7 +1,43 @@
 ---
 date: 2020-07-19
 categories: [building]
-tags: [building, school, 1532]
+tags:
+  - school
+  - школа
+  - building
+  - здание
+  - school building
+  - здание школы
+  - facade
+  - фасад
+  - education
+  - образование
+  - campus
+  - кампус
+  - college
+  - колледж
+  - university
+  - университет
+  - academy
+  - академия
+  - institution
+  - учреждение
+  - public building
+  - общественное здание
+  - modern building
+  - современное здание
+  - office building
+  - офисное здание
+  - windows
+  - окна
+  - entrance
+  - вход
+  - front view
+  - вид спереди
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -22,3 +58,4 @@ lang: en
 - ![building__school-1532_black](img/building__school-1532_black.svg)
 - ![building__school-1532_gray](img/building__school-1532_gray.svg)
 - ![building__school-1532_white](img/building__school-1532_white.svg)
+

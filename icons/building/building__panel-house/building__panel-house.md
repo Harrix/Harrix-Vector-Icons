@@ -1,7 +1,35 @@
 ---
 date: 2020-07-19
 categories: [building]
-tags: [building, panel, house]
+tags:
+  - building
+  - здание
+  - panel
+  - панель
+  - house
+  - дом
+  - apartment building
+  - многоквартирный дом
+  - residential building
+  - жилой дом
+  - high rise
+  - высотка
+  - tower block
+  - панельный дом
+  - facade
+  - фасад
+  - windows
+  - окна
+  - balcony
+  - балкон
+  - entrance
+  - подъезд
+  - urban
+  - городской
+  - city block
+  - многоэтажка
+  - condominium
+  - многоквартирник
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -35,3 +63,4 @@ lang: en
 - ![building__panel-house_gray_02](img/building__panel-house_gray_02.svg)
 - ![building__panel-house_white_01](img/building__panel-house_white_01.svg)
 - ![building__panel-house_white_02](img/building__panel-house_white_02.svg)
+
