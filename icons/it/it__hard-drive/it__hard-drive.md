@@ -62,4 +62,3 @@ lang: en
 - ![it__hard-drive_gray_02](img/it__hard-drive_gray_02.svg)
 - ![it__hard-drive_white_01](img/it__hard-drive_white_01.svg)
 - ![it__hard-drive_white_02](img/it__hard-drive_white_02.svg)
-

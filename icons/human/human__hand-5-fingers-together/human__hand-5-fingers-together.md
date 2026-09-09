@@ -53,4 +53,3 @@ lang: en
 - ![human__hand-5-fingers-together_black](img/human__hand-5-fingers-together_black.svg)
 - ![human__hand-5-fingers-together_gray](img/human__hand-5-fingers-together_gray.svg)
 - ![human__hand-5-fingers-together_white](img/human__hand-5-fingers-together_white.svg)
-

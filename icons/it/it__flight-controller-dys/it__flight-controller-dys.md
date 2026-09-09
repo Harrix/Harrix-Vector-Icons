@@ -64,4 +64,3 @@ lang: en
 - ![it__flight-controller-dys_black](img/it__flight-controller-dys_black.svg)
 - ![it__flight-controller-dys_gray](img/it__flight-controller-dys_gray.svg)
 - ![it__flight-controller-dys_white](img/it__flight-controller-dys_white.svg)
-

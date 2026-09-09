@@ -52,4 +52,3 @@ lang: en
 - ![it__keyboard_small_black](img/it__keyboard_small_black.svg)
 - ![it__keyboard_small_gray](img/it__keyboard_small_gray.svg)
 - ![it__keyboard_small_white](img/it__keyboard_small_white.svg)
-

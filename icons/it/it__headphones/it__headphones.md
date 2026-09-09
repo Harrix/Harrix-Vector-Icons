@@ -50,4 +50,3 @@ lang: en
 - ![it__headphones_black](img/it__headphones_black.svg)
 - ![it__headphones_gray](img/it__headphones_gray.svg)
 - ![it__headphones_white](img/it__headphones_white.svg)
-

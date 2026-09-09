@@ -61,4 +61,3 @@ lang: en
 - ![it__console_black_01](img/it__console_black_01.svg)
 - ![it__console_gray_01](img/it__console_gray_01.svg)
 - ![it__console_white_01](img/it__console_white_01.svg)
-

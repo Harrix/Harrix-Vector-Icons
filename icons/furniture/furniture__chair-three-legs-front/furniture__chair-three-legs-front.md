@@ -53,4 +53,3 @@ lang: en
 - ![furniture__chair-three-legs-front_black](img/furniture__chair-three-legs-front_black.svg)
 - ![furniture__chair-three-legs-front_gray](img/furniture__chair-three-legs-front_gray.svg)
 - ![furniture__chair-three-legs-front_white](img/furniture__chair-three-legs-front_white.svg)
-

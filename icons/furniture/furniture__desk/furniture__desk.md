@@ -61,4 +61,3 @@ lang: en
 - ![furniture__desk_white_01](img/furniture__desk_white_01.svg)
 - ![furniture__desk_white_02](img/furniture__desk_white_02.svg)
 - ![furniture__desk_white_03](img/furniture__desk_white_03.svg)
-

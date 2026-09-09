@@ -47,4 +47,3 @@ lang: en
 - ![food__popcorn_black](img/food__popcorn_black.svg)
 - ![food__popcorn_gray](img/food__popcorn_gray.svg)
 - ![food__popcorn_white](img/food__popcorn_white.svg)
-

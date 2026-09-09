@@ -51,4 +51,3 @@ lang: en
 - ![human__hand-2-fingers_black](img/human__hand-2-fingers_black.svg)
 - ![human__hand-2-fingers_gray](img/human__hand-2-fingers_gray.svg)
 - ![human__hand-2-fingers_white](img/human__hand-2-fingers_white.svg)
-

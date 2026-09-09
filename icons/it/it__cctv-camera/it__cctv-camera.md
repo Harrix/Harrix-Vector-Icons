@@ -48,4 +48,3 @@ lang: en
 - ![it__cctv-camera_black](img/it__cctv-camera_black.svg)
 - ![it__cctv-camera_gray](img/it__cctv-camera_gray.svg)
 - ![it__cctv-camera_white](img/it__cctv-camera_white.svg)
-

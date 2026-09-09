@@ -59,4 +59,3 @@ lang: en
 - ![it__microsd_black](img/it__microsd_black.svg)
 - ![it__microsd_gray](img/it__microsd_gray.svg)
 - ![it__microsd_white](img/it__microsd_white.svg)
-

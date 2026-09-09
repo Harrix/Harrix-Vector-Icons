@@ -57,4 +57,3 @@ lang: en
 - ![it__cd_black](img/it__cd_black.svg)
 - ![it__cd_gray](img/it__cd_gray.svg)
 - ![it__cd_white](img/it__cd_white.svg)
-

@@ -66,4 +66,3 @@ lang: en
 - ![it__camera-back_gray_02](img/it__camera-back_gray_02.svg)
 - ![it__camera-back_white_01](img/it__camera-back_white_01.svg)
 - ![it__camera-back_white_02](img/it__camera-back_white_02.svg)
-

@@ -60,4 +60,3 @@ lang: en
 - ![furniture__bookcase_gray_02](img/furniture__bookcase_gray_02.svg)
 - ![furniture__bookcase_white_01](img/furniture__bookcase_white_01.svg)
 - ![furniture__bookcase_white_02](img/furniture__bookcase_white_02.svg)
-

@@ -67,4 +67,3 @@ lang: en
 - ![it__server_black](img/it__server_black.svg)
 - ![it__server_gray](img/it__server_gray.svg)
 - ![it__server_white](img/it__server_white.svg)
-

@@ -66,4 +66,3 @@ lang: en
 - ![it__file-text_gray_02](img/it__file-text_gray_02.svg)
 - ![it__file-text_white_01](img/it__file-text_white_01.svg)
 - ![it__file-text_white_02](img/it__file-text_white_02.svg)
-

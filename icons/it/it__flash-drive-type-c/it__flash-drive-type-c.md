@@ -67,4 +67,3 @@ lang: en
 - ![it__flash-drive-type-c_white_02](img/it__flash-drive-type-c_white_02.svg)
 - ![it__flash-drive-type-c_white_03](img/it__flash-drive-type-c_white_03.svg)
 - ![it__flash-drive-type-c_white_04](img/it__flash-drive-type-c_white_04.svg)
-

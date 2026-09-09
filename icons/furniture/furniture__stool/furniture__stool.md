@@ -47,4 +47,3 @@ lang: en
 - ![furniture__stool_black](img/furniture__stool_black.svg)
 - ![furniture__stool_gray](img/furniture__stool_gray.svg)
 - ![furniture__stool_white](img/furniture__stool_white.svg)
-

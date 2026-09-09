@@ -65,4 +65,3 @@ lang: en
 - ![it__code_gray_02](img/it__code_gray_02.svg)
 - ![it__code_white_01](img/it__code_white_01.svg)
 - ![it__code_white_02](img/it__code_white_02.svg)
-

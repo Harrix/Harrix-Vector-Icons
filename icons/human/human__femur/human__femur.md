@@ -48,4 +48,3 @@ lang: en
 - ![human__femur_black](img/human__femur_black.svg)
 - ![human__femur_gray](img/human__femur_gray.svg)
 - ![human__femur_white](img/human__femur_white.svg)
-

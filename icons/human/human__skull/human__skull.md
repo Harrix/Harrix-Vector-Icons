@@ -65,4 +65,3 @@ lang: en
 - ![human__skull_improbable_white](img/human__skull_improbable_white.svg)
 - ![human__skull_white_01](img/human__skull_white_01.svg)
 - ![human__skull_white_02](img/human__skull_white_02.svg)
-

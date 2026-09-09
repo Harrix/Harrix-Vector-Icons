@@ -49,4 +49,3 @@ lang: en
 - ![it__mouse_black](img/it__mouse_black.svg)
 - ![it__mouse_gray](img/it__mouse_gray.svg)
 - ![it__mouse_white](img/it__mouse_white.svg)
-

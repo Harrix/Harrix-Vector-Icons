@@ -53,4 +53,3 @@ lang: en
 - ![it__folder-vertical_black](img/it__folder-vertical_black.svg)
 - ![it__folder-vertical_gray](img/it__folder-vertical_gray.svg)
 - ![it__folder-vertical_white](img/it__folder-vertical_white.svg)
-

@@ -63,4 +63,3 @@ lang: en
 - ![human__man-with-beard_black](img/human__man-with-beard_black.svg)
 - ![human__man-with-beard_gray](img/human__man-with-beard_gray.svg)
 - ![human__man-with-beard_white](img/human__man-with-beard_white.svg)
-

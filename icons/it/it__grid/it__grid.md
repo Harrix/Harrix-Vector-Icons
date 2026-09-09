@@ -70,4 +70,3 @@ lang: en
 - ![it__grid_white_line-16](img/it__grid_white_line-16.svg)
 - ![it__grid_white_line-32](img/it__grid_white_line-32.svg)
 - ![it__grid_white_line-8](img/it__grid_white_line-8.svg)
-

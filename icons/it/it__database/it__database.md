@@ -71,4 +71,3 @@ lang: en
 - ![it__database_white_line-16](img/it__database_white_line-16.svg)
 - ![it__database_white_line-32](img/it__database_white_line-32.svg)
 - ![it__database_white_line-8](img/it__database_white_line-8.svg)
-

@@ -63,4 +63,3 @@ lang: en
 - ![holidays__santa-claus_black](img/holidays__santa-claus_black.svg)
 - ![holidays__santa-claus_gray](img/holidays__santa-claus_gray.svg)
 - ![holidays__santa-claus_white](img/holidays__santa-claus_white.svg)
-

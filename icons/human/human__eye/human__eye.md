@@ -54,4 +54,3 @@ lang: en
 - ![human__eye_gray_02](img/human__eye_gray_02.svg)
 - ![human__eye_white_01](img/human__eye_white_01.svg)
 - ![human__eye_white_02](img/human__eye_white_02.svg)
-

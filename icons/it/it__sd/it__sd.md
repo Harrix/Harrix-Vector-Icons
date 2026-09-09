@@ -61,4 +61,3 @@ lang: en
 - ![it__sd_gray_white_line-8](img/it__sd_gray_white_line-8.svg)
 - ![it__sd_white_01](img/it__sd_white_01.svg)
 - ![it__sd_white_02](img/it__sd_white_02.svg)
-

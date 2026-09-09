@@ -63,4 +63,3 @@ lang: en
 - ![human__doctor_black](img/human__doctor_black.svg)
 - ![human__doctor_gray](img/human__doctor_gray.svg)
 - ![human__doctor_white](img/human__doctor_white.svg)
-

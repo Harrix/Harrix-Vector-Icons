@@ -72,4 +72,3 @@ lang: en
 - ![it__code-in-console_black](img/it__code-in-console_black.svg)
 - ![it__code-in-console_gray](img/it__code-in-console_gray.svg)
 - ![it__code-in-console_white](img/it__code-in-console_white.svg)
-

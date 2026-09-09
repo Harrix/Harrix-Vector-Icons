@@ -65,4 +65,3 @@ lang: en
 - ![it__chip_white_01](img/it__chip_white_01.svg)
 - ![it__chip_white_02](img/it__chip_white_02.svg)
 - ![it__chip_white_04](img/it__chip_white_04.svg)
-

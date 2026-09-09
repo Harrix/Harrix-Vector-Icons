@@ -65,4 +65,3 @@ lang: en
 - ![it__hard-drive-inside_black](img/it__hard-drive-inside_black.svg)
 - ![it__hard-drive-inside_gray](img/it__hard-drive-inside_gray.svg)
 - ![it__hard-drive-inside_white](img/it__hard-drive-inside_white.svg)
-

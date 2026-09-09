@@ -73,4 +73,3 @@ lang: en
 - ![it__flight-controller_black](img/it__flight-controller_black.svg)
 - ![it__flight-controller_gray](img/it__flight-controller_gray.svg)
 - ![it__flight-controller_white](img/it__flight-controller_white.svg)
-

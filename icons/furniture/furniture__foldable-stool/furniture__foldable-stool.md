@@ -49,4 +49,3 @@ lang: en
 - ![furniture__foldable-stool_black](img/furniture__foldable-stool_black.svg)
 - ![furniture__foldable-stool_gray](img/furniture__foldable-stool_gray.svg)
 - ![furniture__foldable-stool_white](img/furniture__foldable-stool_white.svg)
-

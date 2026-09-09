@@ -48,4 +48,3 @@ lang: en
 - ![furniture__wardrobe_gray_02](img/furniture__wardrobe_gray_02.svg)
 - ![furniture__wardrobe_white_01](img/furniture__wardrobe_white_01.svg)
 - ![furniture__wardrobe_white_02](img/furniture__wardrobe_white_02.svg)
-

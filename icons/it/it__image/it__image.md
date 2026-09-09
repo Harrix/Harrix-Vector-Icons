@@ -69,4 +69,3 @@ lang: en
 - ![it__image_white_01](img/it__image_white_01.svg)
 - ![it__image_white_02](img/it__image_white_02.svg)
 - ![it__image_white_03](img/it__image_white_03.svg)
-

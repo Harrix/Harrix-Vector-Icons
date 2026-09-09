@@ -76,4 +76,3 @@ lang: en
 - ![it__flash-drive_white_04](img/it__flash-drive_white_04.svg)
 - ![it__flash-drive_white_05](img/it__flash-drive_white_05.svg)
 - ![it__flash-drive_white_06](img/it__flash-drive_white_06.svg)
-

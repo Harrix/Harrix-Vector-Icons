@@ -61,4 +61,3 @@ lang: en
 - ![human__pirate_black](img/human__pirate_black.svg)
 - ![human__pirate_gray](img/human__pirate_gray.svg)
 - ![human__pirate_white](img/human__pirate_white.svg)
-

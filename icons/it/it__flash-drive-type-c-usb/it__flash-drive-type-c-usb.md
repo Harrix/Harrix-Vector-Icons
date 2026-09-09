@@ -64,4 +64,3 @@ lang: en
 - ![it__flash-drive-type-c-usb_gray_02](img/it__flash-drive-type-c-usb_gray_02.svg)
 - ![it__flash-drive-type-c-usb_white_01](img/it__flash-drive-type-c-usb_white_01.svg)
 - ![it__flash-drive-type-c-usb_white_02](img/it__flash-drive-type-c-usb_white_02.svg)
-

@@ -47,4 +47,3 @@ lang: en
 - ![furniture__shelf_black](img/furniture__shelf_black.svg)
 - ![furniture__shelf_gray](img/furniture__shelf_gray.svg)
 - ![furniture__shelf_white](img/furniture__shelf_white.svg)
-

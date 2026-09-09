@@ -57,4 +57,3 @@ lang: en
 - ![it__projector-screen_black](img/it__projector-screen_black.svg)
 - ![it__projector-screen_gray](img/it__projector-screen_gray.svg)
 - ![it__projector-screen_white](img/it__projector-screen_white.svg)
-

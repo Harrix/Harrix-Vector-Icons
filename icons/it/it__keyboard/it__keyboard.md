@@ -61,4 +61,3 @@ lang: en
 - ![it__keyboard_black](img/it__keyboard_black.svg)
 - ![it__keyboard_gray](img/it__keyboard_gray.svg)
 - ![it__keyboard_white](img/it__keyboard_white.svg)
-

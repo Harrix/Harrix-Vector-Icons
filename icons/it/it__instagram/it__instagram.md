@@ -68,4 +68,3 @@ lang: en
 - ![it__instagram_black](img/it__instagram_black.svg)
 - ![it__instagram_gray](img/it__instagram_gray.svg)
 - ![it__instagram_white](img/it__instagram_white.svg)
-

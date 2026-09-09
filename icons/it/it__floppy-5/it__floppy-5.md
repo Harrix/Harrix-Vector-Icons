@@ -58,4 +58,3 @@ lang: en
 - ![it__floppy-5_black](img/it__floppy-5_black.svg)
 - ![it__floppy-5_gray](img/it__floppy-5_gray.svg)
 - ![it__floppy-5_white](img/it__floppy-5_white.svg)
-

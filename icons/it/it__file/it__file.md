@@ -53,4 +53,3 @@ lang: en
 - ![it__file_black_01](img/it__file_black_01.svg)
 - ![it__file_gray_01](img/it__file_gray_01.svg)
 - ![it__file_white_01](img/it__file_white_01.svg)
-

@@ -54,4 +54,3 @@ lang: en
 - ![furniture__commode_gray_02](img/furniture__commode_gray_02.svg)
 - ![furniture__commode_white_01](img/furniture__commode_white_01.svg)
 - ![furniture__commode_white_02](img/furniture__commode_white_02.svg)
-

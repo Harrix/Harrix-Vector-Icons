@@ -75,4 +75,3 @@ lang: en
 - ![human__skull-and-crossbones_improbable_gray](img/human__skull-and-crossbones_improbable_gray.svg)
 - ![human__skull-and-crossbones_improbable_white](img/human__skull-and-crossbones_improbable_white.svg)
 - ![human__skull-and-crossbones_white](img/human__skull-and-crossbones_white.svg)
-

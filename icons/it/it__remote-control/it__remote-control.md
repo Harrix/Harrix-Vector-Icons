@@ -26,7 +26,7 @@ tags:
   - питание
   - power button
   - кнопка питания
-  - off
+  - false
   - выключение
   - volume
   - громкость
@@ -71,4 +71,3 @@ lang: en
 - ![it__remote-control_black](img/it__remote-control_black.svg)
 - ![it__remote-control_gray](img/it__remote-control_gray.svg)
 - ![it__remote-control_white](img/it__remote-control_white.svg)
-

@@ -69,4 +69,3 @@ lang: en
 - ![human__man_black](img/human__man_black.svg)
 - ![human__man_gray](img/human__man_gray.svg)
 - ![human__man_white](img/human__man_white.svg)
-

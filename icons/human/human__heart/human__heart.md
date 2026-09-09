@@ -56,4 +56,3 @@ lang: en
 - ![human__heart_white_line-16](img/human__heart_white_line-16.svg)
 - ![human__heart_white_line-32](img/human__heart_white_line-32.svg)
 - ![human__heart_white_line-8](img/human__heart_white_line-8.svg)
-

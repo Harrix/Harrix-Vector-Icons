@@ -56,4 +56,3 @@ lang: en
 - ![it__sim_black](img/it__sim_black.svg)
 - ![it__sim_gray](img/it__sim_gray.svg)
 - ![it__sim_white](img/it__sim_white.svg)
-

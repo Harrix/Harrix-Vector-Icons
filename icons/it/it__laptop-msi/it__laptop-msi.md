@@ -56,4 +56,3 @@ lang: en
 - ![it__laptop-msi_black](img/it__laptop-msi_black.svg)
 - ![it__laptop-msi_gray](img/it__laptop-msi_gray.svg)
 - ![it__laptop-msi_white](img/it__laptop-msi_white.svg)
-

@@ -57,4 +57,3 @@ lang: en
 - ![human__hand_white_line-16](img/human__hand_white_line-16.svg)
 - ![human__hand_white_line-32](img/human__hand_white_line-32.svg)
 - ![human__hand_white_line-8](img/human__hand_white_line-8.svg)
-

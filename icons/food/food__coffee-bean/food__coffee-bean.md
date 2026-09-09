@@ -56,4 +56,3 @@ lang: en
 - ![food__coffee-bean_white_line-16](img/food__coffee-bean_white_line-16.svg)
 - ![food__coffee-bean_white_line-32](img/food__coffee-bean_white_line-32.svg)
 - ![food__coffee-bean_white_line-8](img/food__coffee-bean_white_line-8.svg)
-

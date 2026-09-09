@@ -61,4 +61,3 @@ lang: en
 - ![human__bone_gray](img/human__bone_gray.svg)
 - ![human__bone_improbable_black-line-8](img/human__bone_improbable_black-line-8.svg)
 - ![human__bone_improbable_white-line-8](img/human__bone_improbable_white-line-8.svg)
-

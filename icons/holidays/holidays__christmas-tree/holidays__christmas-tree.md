@@ -57,4 +57,3 @@ lang: en
 - ![holidays__christmas-tree_black](img/holidays__christmas-tree_black.svg)
 - ![holidays__christmas-tree_gray](img/holidays__christmas-tree_gray.svg)
 - ![holidays__christmas-tree_white](img/holidays__christmas-tree_white.svg)
-

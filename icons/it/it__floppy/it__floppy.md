@@ -68,4 +68,3 @@ lang: en
 - ![it__floppy_white_02](img/it__floppy_white_02.svg)
 - ![it__floppy_white_03](img/it__floppy_white_03.svg)
 - ![it__floppy_white_04](img/it__floppy_white_04.svg)
-

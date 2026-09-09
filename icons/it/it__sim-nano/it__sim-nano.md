@@ -60,4 +60,3 @@ lang: en
 - ![it__sim-nano_black](img/it__sim-nano_black.svg)
 - ![it__sim-nano_gray](img/it__sim-nano_gray.svg)
 - ![it__sim-nano_white](img/it__sim-nano_white.svg)
-

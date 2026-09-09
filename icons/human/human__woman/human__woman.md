@@ -65,4 +65,3 @@ lang: en
 - ![human__woman_black](img/human__woman_black.svg)
 - ![human__woman_gray](img/human__woman_gray.svg)
 - ![human__woman_white](img/human__woman_white.svg)
-

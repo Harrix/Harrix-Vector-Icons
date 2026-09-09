@@ -50,4 +50,3 @@ lang: en
 - ![it__monitor_black](img/it__monitor_black.svg)
 - ![it__monitor_gray](img/it__monitor_gray.svg)
 - ![it__monitor_white](img/it__monitor_white.svg)
-

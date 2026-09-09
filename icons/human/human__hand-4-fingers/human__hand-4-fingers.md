@@ -45,4 +45,3 @@ lang: en
 - ![human__hand-4-fingers_black](img/human__hand-4-fingers_black.svg)
 - ![human__hand-4-fingers_gray](img/human__hand-4-fingers_gray.svg)
 - ![human__hand-4-fingers_white](img/human__hand-4-fingers_white.svg)
-

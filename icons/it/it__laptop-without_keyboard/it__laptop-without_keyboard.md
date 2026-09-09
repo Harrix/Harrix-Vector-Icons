@@ -57,4 +57,3 @@ lang: en
 - ![it__laptop-without_keyboard_black](img/it__laptop-without_keyboard_black.svg)
 - ![it__laptop-without_keyboard_gray](img/it__laptop-without_keyboard_gray.svg)
 - ![it__laptop-without_keyboard_white](img/it__laptop-without_keyboard_white.svg)
-

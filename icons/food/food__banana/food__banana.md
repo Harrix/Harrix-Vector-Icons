@@ -45,4 +45,3 @@ lang: en
 - ![food__banana_black](img/food__banana_black.svg)
 - ![food__banana_gray](img/food__banana_gray.svg)
 - ![food__banana_white](img/food__banana_white.svg)
-

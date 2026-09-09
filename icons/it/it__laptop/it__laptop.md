@@ -59,4 +59,3 @@ lang: en
 - ![it__laptop_black](img/it__laptop_black.svg)
 - ![it__laptop_gray](img/it__laptop_gray.svg)
 - ![it__laptop_white](img/it__laptop_white.svg)
-

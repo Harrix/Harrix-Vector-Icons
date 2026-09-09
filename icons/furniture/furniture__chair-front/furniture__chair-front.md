@@ -47,4 +47,3 @@ lang: en
 - ![furniture__chair-front_black](img/furniture__chair-front_black.svg)
 - ![furniture__chair-front_gray](img/furniture__chair-front_gray.svg)
 - ![furniture__chair-front_white](img/furniture__chair-front_white.svg)
-

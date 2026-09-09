@@ -51,4 +51,3 @@ lang: en
 - ![flag__united-kingdom_black](img/flag__united-kingdom_black.svg)
 - ![flag__united-kingdom_gray](img/flag__united-kingdom_gray.svg)
 - ![flag__united-kingdom_white](img/flag__united-kingdom_white.svg)
-
