@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - keyboard
+  - клавиатура
+  - computer keyboard
+  - компьютерная клавиатура
+  - keypad
+  - клавиши
+  - keys
+  - key
+  - кнопка
+  - typing
+  - ввод текста
+  - input device
+  - устройство ввода
+  - pc keyboard
+  - настольная клавиатура
+  - qwerty
+  - mechanical keyboard
+  - механическая клавиатура
+  - key button
+  - раскладка клавиатуры
+  - hotkey
+  - горячая клавиша
+  - enter key
+  - клавиша enter
+  - space bar
+  - пробел
+  - hardware
+  - аппаратное обеспечение
+  - peripheral
+  - периферия
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -33,3 +61,4 @@ lang: en
 - ![it__keyboard_black](img/it__keyboard_black.svg)
 - ![it__keyboard_gray](img/it__keyboard_gray.svg)
 - ![it__keyboard_white](img/it__keyboard_white.svg)
+

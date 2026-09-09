@@ -3,9 +3,38 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
-  - hard
+  - hard drive
+  - жесткий диск
   - drive
+  - диск
+  - hdd
+  - винчестер
+  - storage
+  - хранилище
+  - data storage
+  - хранение данных
+  - disk drive
+  - дисковод
+  - computer disk
+  - компьютерный диск
+  - internal drive
+  - внутренний диск
+  - magnetic disk
+  - магнитный диск
+  - hardware
+  - аппаратное обеспечение
+  - server drive
+  - серверный диск
+  - memory device
+  - запоминающее устройство
+  - backup drive
+  - диск backup
+  - technology
+  - технология
+  - data
+  - данные
+  - computer hardware
+  - компьютерное железо
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -33,3 +62,4 @@ lang: en
 - ![it__hard-drive_gray_02](img/it__hard-drive_gray_02.svg)
 - ![it__hard-drive_white_01](img/it__hard-drive_white_01.svg)
 - ![it__hard-drive_white_02](img/it__hard-drive_white_02.svg)
+

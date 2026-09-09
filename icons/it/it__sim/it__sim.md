@@ -3,8 +3,39 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - sim
+  - сим
+  - sim card
+  - сим карта
+  - micro sim
+  - микро сим
+  - nano sim
+  - нано сим
+  - mobile card
+  - мобильная карта
+  - phone chip
+  - чип телефона
+  - chip
+  - чип
+  - smart card
+  - смарт карта
+  - subscriber identity
+  - идентификация абонента
+  - telecom
+  - телеком
+  - mobile network
+  - мобильная сеть
+  - cellular
+  - сотовая связь
+  - gsm
+  - network card
+  - сетевая карта
+  - telephone
+  - телефон
+  - mobile phone
+  - мобильный телефон
+  - communication
+  - связь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +56,4 @@ lang: en
 - ![it__sim_black](img/it__sim_black.svg)
 - ![it__sim_gray](img/it__sim_gray.svg)
 - ![it__sim_white](img/it__sim_white.svg)
+

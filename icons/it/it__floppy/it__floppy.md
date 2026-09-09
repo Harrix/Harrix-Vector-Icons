@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - floppy
+  - дискета
+  - floppy disk
+  - гибкий диск
+  - diskette
+  - диск
+  - save
+  - сохранить
+  - storage
+  - хранение
+  - data storage
+  - хранение данных
+  - backup
+  - резервная копия
+  - retro
+  - ретро
+  - vintage
+  - винтаж
+  - old media
+  - старый носитель
+  - computer
+  - компьютер
+  - file save
+  - сохранение файла
+  - save icon
+  - иконка сохранения
+  - magnetic disk
+  - магнитный диск
+  - 3.5 inch
+  - 3.5 дюйма
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -40,3 +68,4 @@ lang: en
 - ![it__floppy_white_02](img/it__floppy_white_02.svg)
 - ![it__floppy_white_03](img/it__floppy_white_03.svg)
 - ![it__floppy_white_04](img/it__floppy_white_04.svg)
+

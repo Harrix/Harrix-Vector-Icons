@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - folder
+  - папка
+  - directory
+  - директория
+  - file folder
+  - папка файлов
+  - documents
+  - документы
+  - archive
+  - архив
+  - storage
+  - хранилище
+  - organize
+  - организация
+  - open folder
+  - открытая папка
+  - yellow folder
+  - желтая папка
+  - office folder
+  - офисная папка
+  - data folder
+  - папка данных
+  - document holder
+  - держатель документов
+  - paper
+  - бумага
+  - file
+  - файл
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +51,4 @@ lang: en
 - ![it__folder_black](img/it__folder_black.svg)
 - ![it__folder_gray](img/it__folder_gray.svg)
 - ![it__folder_white](img/it__folder_white.svg)
+

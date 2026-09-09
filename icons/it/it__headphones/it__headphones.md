@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - headphones
+  - наушники
+  - headset
+  - гарнитура
+  - over ear
+  - полноразмерные
+  - audio
+  - аудио
+  - music
+  - музыка
+  - sound
+  - звук
+  - listening
+  - прослушивание
+  - stereo
+  - стерео
+  - wireless
+  - беспроводные
+  - earphones
+  - аудионаушники
+  - tech
+  - техника
+  - device
+  - устройство
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +50,4 @@ lang: en
 - ![it__headphones_black](img/it__headphones_black.svg)
 - ![it__headphones_gray](img/it__headphones_gray.svg)
 - ![it__headphones_white](img/it__headphones_white.svg)
+

@@ -3,8 +3,27 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - monitor
+  - монитор
+  - screen
+  - экран
+  - display
+  - дисплей
+  - computer
+  - компьютер
+  - desktop
+  - настольный
+  - pc
+  - персональный компьютер
+  - lcd
+  - led
+  - flat screen
+  - широкий экран
+  - widescreen
+  - monitor stand
+  - подставка монитора
+  - office monitor
+  - computer screen
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -31,3 +50,4 @@ lang: en
 - ![it__monitor_black](img/it__monitor_black.svg)
 - ![it__monitor_gray](img/it__monitor_gray.svg)
 - ![it__monitor_white](img/it__monitor_white.svg)
+

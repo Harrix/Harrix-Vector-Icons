@@ -3,9 +3,37 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - floppy
+  - дискета
   - 5
+  - 5 inch
+  - 5 дюймов
+  - diskette
+  - диск
+  - save
+  - сохранить
+  - storage
+  - хранение
+  - data
+  - данные
+  - computer
+  - компьютер
+  - retro
+  - ретро
+  - vintage
+  - винтаж
+  - old media
+  - старый носитель
+  - magnetic disk
+  - магнитный диск
+  - floppy disk
+  - гибкий диск
+  - disk icon
+  - иконка диска
+  - save icon
+  - иконка сохранения
+  - square disk
+  - квадратная дискета
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -30,3 +58,4 @@ lang: en
 - ![it__floppy-5_black](img/it__floppy-5_black.svg)
 - ![it__floppy-5_gray](img/it__floppy-5_gray.svg)
 - ![it__floppy-5_white](img/it__floppy-5_white.svg)
+

@@ -3,8 +3,44 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - image
+  - изображение
+  - photo
+  - фото
+  - picture
+  - картинка
+  - gallery
+  - галерея
+  - landscape
+  - пейзаж
+  - mountain
+  - гора
+  - mountains
+  - горы
+  - sun
+  - солнце
+  - cloud
+  - облако
+  - clouds
+  - облака
+  - sky
+  - небо
+  - screen
+  - экран
+  - monitor
+  - монитор
+  - display
+  - дисплей
+  - window
+  - окно
+  - image file
+  - файл изображения
+  - photo frame
+  - рамка фото
+  - thumbnail
+  - миниатюра
+  - preview
+  - предпросмотр
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -33,3 +69,4 @@ lang: en
 - ![it__image_white_01](img/it__image_white_01.svg)
 - ![it__image_white_02](img/it__image_white_02.svg)
 - ![it__image_white_03](img/it__image_white_03.svg)
+

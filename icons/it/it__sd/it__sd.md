@@ -3,8 +3,28 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - sd
+  - сд
+  - sd card
+  - карта sd
+  - memory card
+  - карта памяти
+  - flash card
+  - флеш карта
+  - storage card
+  - карта хранения
+  - micro sd
+  - микро sd
+  - data storage
+  - хранение данных
+  - removable storage
+  - съемный носитель
+  - card reader
+  - ридер карт
+  - portable memory
+  - портативная память
+  - flash memory
+  - флеш память
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -41,3 +61,4 @@ lang: en
 - ![it__sd_gray_white_line-8](img/it__sd_gray_white_line-8.svg)
 - ![it__sd_white_01](img/it__sd_white_01.svg)
 - ![it__sd_white_02](img/it__sd_white_02.svg)
+

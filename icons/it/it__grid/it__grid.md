@@ -3,8 +3,41 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - grid
+  - сетка
+  - tiles
+  - плитки
+  - squares
+  - квадраты
+  - blocks
+  - блоки
+  - matrix
+  - матрица
+  - layout
+  - макет
+  - dashboard
+  - панель
+  - app grid
+  - сетка приложений
+  - menu grid
+  - сеточное меню
+  - interface
+  - интерфейс
+  - ui
+  - иконки
+  - rounded square
+  - скругленный квадрат
+  - selection
+  - выделение
+  - highlight
+  - подсветка
+  - blue tiles
+  - синие плитки
+  - gray tiles
+  - серые плитки
+  - 5x5
+  - 25 cells
+  - ячейки
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -37,3 +70,4 @@ lang: en
 - ![it__grid_white_line-16](img/it__grid_white_line-16.svg)
 - ![it__grid_white_line-32](img/it__grid_white_line-32.svg)
 - ![it__grid_white_line-8](img/it__grid_white_line-8.svg)
+

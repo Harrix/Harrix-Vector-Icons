@@ -3,9 +3,52 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - remote
+  - удаленный
   - control
+  - контроль
+  - remote control
+  - пульт
+  - пульт ду
+  - tv remote
+  - телепульт
+  - controller
+  - контроллер
+  - device
+  - устройство
+  - electronics
+  - электроника
+  - button
+  - кнопка
+  - buttons
+  - кнопки
+  - power
+  - питание
+  - power button
+  - кнопка питания
+  - off
+  - выключение
+  - volume
+  - громкость
+  - channel
+  - канал
+  - navigation
+  - навигация
+  - arrow
+  - стрелка
+  - up down
+  - вверх вниз
+  - left right
+  - влево вправо
+  - media control
+  - управление медиа
+  - television
+  - телевизор
+  - tv
+  - video
+  - видео
+  - home appliance
+  - бытовая техника
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +71,4 @@ lang: en
 - ![it__remote-control_black](img/it__remote-control_black.svg)
 - ![it__remote-control_gray](img/it__remote-control_gray.svg)
 - ![it__remote-control_white](img/it__remote-control_white.svg)
+

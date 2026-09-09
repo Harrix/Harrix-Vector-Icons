@@ -3,9 +3,33 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - laptop
+  - ноутбук
   - msi
+  - computer
+  - компьютер
+  - notebook
+  - лэптоп
+  - portable computer
+  - портативный компьютер
+  - gaming laptop
+  - игровой ноутбук
+  - open laptop
+  - открытый ноутбук
+  - screen
+  - экран
+  - display
+  - дисплей
+  - webcam
+  - вебкамера
+  - device
+  - устройство
+  - electronics
+  - электроника
+  - pc
+  - персональный компьютер
+  - technology
+  - технология
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -32,3 +56,4 @@ lang: en
 - ![it__laptop-msi_black](img/it__laptop-msi_black.svg)
 - ![it__laptop-msi_gray](img/it__laptop-msi_gray.svg)
 - ![it__laptop-msi_white](img/it__laptop-msi_white.svg)
+

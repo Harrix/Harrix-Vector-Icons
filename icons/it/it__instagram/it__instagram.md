@@ -3,8 +3,50 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - instagram
+  - инстаграм
+  - social media
+  - социальные сети
+  - account
+  - аккаунт
+  - profile
+  - профиль
+  - user
+  - пользователь
+  - avatar
+  - аватар
+  - post
+  - пост
+  - feed
+  - лента
+  - likes
+  - лайки
+  - like
+  - нравится
+  - comment
+  - комментарий
+  - chat bubble
+  - облачко чата
+  - message
+  - сообщение
+  - send
+  - отправить
+  - share
+  - поделиться
+  - bookmark
+  - закладка
+  - save post
+  - сохранить пост
+  - mobile app
+  - мобильное приложение
+  - interface
+  - интерфейс
+  - ui
+  - приложение
+  - screen
+  - экран
+  - social app
+  - социальное приложение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +68,4 @@ lang: en
 - ![it__instagram_black](img/it__instagram_black.svg)
 - ![it__instagram_gray](img/it__instagram_gray.svg)
 - ![it__instagram_white](img/it__instagram_white.svg)
+

@@ -3,9 +3,41 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - projector
+  - проектор
   - screen
+  - экран
+  - projection screen
+  - проекционный экран
+  - display
+  - дисплей
+  - monitor
+  - монитор
+  - presentation
+  - презентация
+  - beamer
+  - проектор потолочный
+  - ceiling projector
+  - hanging projector
+  - подвесной проектор
+  - whiteboard
+  - белый экран
+  - home theater
+  - домашний кинотеатр
+  - cinema screen
+  - экран кинотеатра
+  - conference
+  - конференция
+  - meeting room
+  - переговорная
+  - multimedia
+  - мультимедиа
+  - office equipment
+  - офисное оборудование
+  - visual display
+  - визуальный дисплей
+  - projection
+  - проекция
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +57,4 @@ lang: en
 - ![it__projector-screen_black](img/it__projector-screen_black.svg)
 - ![it__projector-screen_gray](img/it__projector-screen_gray.svg)
 - ![it__projector-screen_white](img/it__projector-screen_white.svg)
+

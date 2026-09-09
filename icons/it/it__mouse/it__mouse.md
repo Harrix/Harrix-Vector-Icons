@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - mouse
+  - мышь
+  - computer mouse
+  - компьютерная мышь
+  - wired mouse
+  - проводная мышь
+  - scroll wheel
+  - колесо прокрутки
+  - click
+  - клик
+  - cursor device
+  - указательное устройство
+  - peripheral
+  - периферия
+  - input device
+  - устройство ввода
+  - usb mouse
+  - usb мышь
+  - office mouse
+  - офисная мышь
+  - pc mouse
+  - мышь пк
+  - desktop
+  - настольный
+  - hardware
+  - оборудование
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +49,4 @@ lang: en
 - ![it__mouse_black](img/it__mouse_black.svg)
 - ![it__mouse_gray](img/it__mouse_gray.svg)
 - ![it__mouse_white](img/it__mouse_white.svg)
+

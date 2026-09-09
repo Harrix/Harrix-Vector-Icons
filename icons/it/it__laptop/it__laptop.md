@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - laptop
+  - ноутбук
+  - computer
+  - компьютер
+  - notebook
+  - лэптоп
+  - portable computer
+  - портативный компьютер
+  - screen
+  - экран
+  - display
+  - дисплей
+  - monitor
+  - монитор
+  - device
+  - устройство
+  - electronics
+  - электроника
+  - technology
+  - технология
+  - webcam
+  - вебкамера
+  - keyboard
+  - клавиатура
+  - workstation
+  - рабочая станция
+  - pc
+  - пк
+  - gadget
+  - гаджет
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -31,3 +59,4 @@ lang: en
 - ![it__laptop_black](img/it__laptop_black.svg)
 - ![it__laptop_gray](img/it__laptop_gray.svg)
 - ![it__laptop_white](img/it__laptop_white.svg)
+

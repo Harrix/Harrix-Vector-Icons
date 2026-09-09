@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - laptop
-  - without_keyboard
+  - ноутбук
+  - without keyboard
+  - без клавиатуры
+  - screen
+  - экран
+  - display
+  - дисплей
+  - monitor
+  - монитор
+  - computer
+  - компьютер
+  - portable computer
+  - портативный компьютер
+  - notebook
+  - лэптоп
+  - device
+  - устройство
+  - isolated
+  - изолированный
+  - flat
+  - плоский
+  - simple
+  - простой
+  - dark
+  - темный
+  - blank screen
+  - пустой экран
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -32,3 +57,4 @@ lang: en
 - ![it__laptop-without_keyboard_black](img/it__laptop-without_keyboard_black.svg)
 - ![it__laptop-without_keyboard_gray](img/it__laptop-without_keyboard_gray.svg)
 - ![it__laptop-without_keyboard_white](img/it__laptop-without_keyboard_white.svg)
+

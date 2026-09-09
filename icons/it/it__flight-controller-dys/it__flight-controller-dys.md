@@ -3,10 +3,45 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
-  - flight
+  - flight controller
+  - контроллер полета
   - controller
+  - контроллер
   - dys
+  - pcb
+  - печатная плата
+  - circuit board
+  - электронная плата
+  - microchip
+  - микрочип
+  - chip
+  - чип
+  - processor
+  - процессор
+  - microcontroller
+  - микроконтроллер
+  - electronics
+  - электроника
+  - electronic board
+  - drone
+  - дрон
+  - quadcopter
+  - квадрокоптер
+  - fpv
+  - fc
+  - автопилот
+  - solder pads
+  - контактные площадки
+  - components
+  - компоненты
+  - board
+  - плата
+  - module
+  - модуль
+  - hardware
+  - аппаратное обеспечение
+  - technology
+  - технология
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -29,3 +64,4 @@ lang: en
 - ![it__flight-controller-dys_black](img/it__flight-controller-dys_black.svg)
 - ![it__flight-controller-dys_gray](img/it__flight-controller-dys_gray.svg)
 - ![it__flight-controller-dys_white](img/it__flight-controller-dys_white.svg)
+

@@ -3,11 +3,37 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - laptop
+  - ноутбук
   - hp
   - side
+  - вид сбоку
   - view
+  - профиль
+  - side view
+  - notebook
+  - портативный компьютер
+  - computer
+  - компьютер
+  - pc
+  - персональный компьютер
+  - ultrabook
+  - ультрабук
+  - thin laptop
+  - тонкий ноутбук
+  - closed laptop
+  - закрытый ноутбук
+  - laptop side
+  - ноутбук сбоку
+  - hdmi
+  - usb
+  - vga
+  - ports
+  - порты
+  - connector
+  - разъем
+  - vent
+  - вентиляция
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -27,3 +53,4 @@ lang: en
 - ![it__laptop-hp-side-view_black](img/it__laptop-hp-side-view_black.svg)
 - ![it__laptop-hp-side-view_gray](img/it__laptop-hp-side-view_gray.svg)
 - ![it__laptop-hp-side-view_white](img/it__laptop-hp-side-view_white.svg)
+

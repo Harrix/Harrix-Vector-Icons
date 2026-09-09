@@ -3,9 +3,36 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - folder
+  - папка
   - vertical
+  - вертикальный
+  - file folder
+  - папка файлов
+  - directory
+  - директория
+  - catalog
+  - каталог
+  - document folder
+  - папка документов
+  - tab folder
+  - папка с ярлыком
+  - yellow folder
+  - желтая папка
+  - orange folder
+  - оранжевая папка
+  - office folder
+  - офисная папка
+  - archive folder
+  - архивная папка
+  - storage
+  - хранилище
+  - organizer
+  - органайзер
+  - data folder
+  - папка данных
+  - records folder
+  - папка записей
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +53,4 @@ lang: en
 - ![it__folder-vertical_black](img/it__folder-vertical_black.svg)
 - ![it__folder-vertical_gray](img/it__folder-vertical_gray.svg)
 - ![it__folder-vertical_white](img/it__folder-vertical_white.svg)
+
