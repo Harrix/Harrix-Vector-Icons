@@ -4,8 +4,43 @@ categories:
   - fiction_spaceship
 tags:
   - fiction
+  - фантастика
   - spaceship
+  - космический корабль
   - avalon
+  - авалон
+  - starship
+  - звездолет
+  - spacecraft
+  - космолет
+  - futuristic
+  - футуристический
+  - sci-fi
+  - научная фантастика
+  - star cruiser
+  - звездный крейсер
+  - cruiser
+  - крейсер
+  - orbital ship
+  - орбитальный корабль
+  - ring ship
+  - кольцевой корабль
+  - alien ship
+  - инопланетный корабль
+  - sleek
+  - обтекаемый
+  - gray
+  - серый
+  - orange beam
+  - оранжевый луч
+  - energy beam
+  - энергетический луч
+  - side view
+  - вид сбоку
+  - silhouette
+  - силуэт
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -30,3 +65,4 @@ trademark: true
 - ![fiction_spaceship__avalon_black](img/fiction_spaceship__avalon_black.svg)
 - ![fiction_spaceship__avalon_gray](img/fiction_spaceship__avalon_gray.svg)
 - ![fiction_spaceship__avalon_white](img/fiction_spaceship__avalon_white.svg)
+

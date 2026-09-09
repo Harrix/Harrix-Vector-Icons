@@ -3,9 +3,41 @@ date: 2020-07-19
 categories:
   - fiction
 tags:
-  - fiction
   - teddy
   - bear
+  - плюшевый мишка
+  - медведь
+  - teddy bear
+  - bear face
+  - мордочка медведя
+  - toy
+  - игрушка
+  - stuffed animal
+  - мягкая игрушка
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - animal face
+  - морда животного
+  - button eyes
+  - пуговичные глаза
+  - stitched eyes
+  - зашитые глаза
+  - creepy
+  - жуткий
+  - scary toy
+  - страшная игрушка
+  - haunted teddy
+  - одержимый мишка
+  - broken toy
+  - сломанная игрушка
+  - doll
+  - кукла
+  - plush
+  - плюшевый
+  - icon
+  - значок
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -30,3 +62,4 @@ lang: en
 - ![fiction__teddy-bear_black](img/fiction__teddy-bear_black.svg)
 - ![fiction__teddy-bear_gray](img/fiction__teddy-bear_gray.svg)
 - ![fiction__teddy-bear_white](img/fiction__teddy-bear_white.svg)
+

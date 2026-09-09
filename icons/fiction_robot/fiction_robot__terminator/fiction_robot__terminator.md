@@ -4,8 +4,47 @@ categories:
   - fiction_robot
 tags:
   - fiction
+  - фантастика
   - robot
+  - робот
   - terminator
+  - терминатор
+  - cyborg
+  - киборг
+  - android
+  - андроид
+  - robot skull
+  - череп робота
+  - metal skull
+  - металлический череп
+  - robot head
+  - голова робота
+  - cyber skull
+  - кибер череп
+  - machine head
+  - голова машины
+  - endoskeleton
+  - эндоскелет
+  - sci-fi
+  - научная фантастика
+  - killer robot
+  - робот убийца
+  - red eyes
+  - красные глаза
+  - glowing eyes
+  - светящиеся глаза
+  - metal face
+  - металлическое лицо
+  - mechanical skull
+  - механический череп
+  - ai robot
+  - ии робот
+  - humanoid robot
+  - человекоподобный робот
+  - evil robot
+  - злой робот
+  - droid
+  - дроид
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -42,3 +81,4 @@ trademark: true
 - ![fiction_robot__terminator_white_02](img/fiction_robot__terminator_white_02.svg)
 - ![fiction_robot__terminator_white_03](img/fiction_robot__terminator_white_03.svg)
 - ![fiction_robot__terminator_white_04](img/fiction_robot__terminator_white_04.svg)
+

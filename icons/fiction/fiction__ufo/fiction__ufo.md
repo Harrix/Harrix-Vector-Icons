@@ -3,8 +3,37 @@ date: 2020-07-19
 categories:
   - fiction
 tags:
-  - fiction
   - ufo
+  - нло
+  - flying saucer
+  - летающая тарелка
+  - spaceship
+  - космический корабль
+  - alien ship
+  - корабль пришельцев
+  - spacecraft
+  - космолет
+  - saucer
+  - тарелка
+  - beam
+  - луч
+  - tractor beam
+  - притягивающий луч
+  - space
+  - космос
+  - alien
+  - пришелец
+  - extraterrestrial
+  - внеземной
+  - scifi
+  - sci-fi
+  - научная фантастика
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - window
+  - иллюминатор
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -60,3 +89,4 @@ lang: en
 - ![fiction__ufo_white_line-32_02](img/fiction__ufo_white_line-32_02.svg)
 - ![fiction__ufo_white_line-8_01](img/fiction__ufo_white_line-8_01.svg)
 - ![fiction__ufo_white_line-8_02](img/fiction__ufo_white_line-8_02.svg)
+

@@ -4,10 +4,60 @@ categories:
   - fiction_robot
 tags:
   - fiction
+  - фантастика
   - robot
+  - робот
   - marvin
-  - s
+  - марвин
   - head
+  - голова
+  - robot head
+  - голова робота
+  - android
+  - андроид
+  - cyborg
+  - киборг
+  - droid
+  - дроид
+  - face
+  - лицо
+  - robot face
+  - лицо робота
+  - helmet
+  - шлем
+  - visor
+  - визор
+  - green eyes
+  - зеленые глаза
+  - eyes
+  - глаза
+  - metal
+  - металл
+  - metallic
+  - металлический
+  - gray
+  - серый
+  - round
+  - круглый
+  - minimal
+  - минимализм
+  - flat
+  - плоский
+  - sci-fi
+  - sci fi
+  - научная фантастика
+  - futuristic
+  - футуристический
+  - ai
+  - ии
+  - artificial intelligence
+  - искусственный интеллект
+  - machine
+  - машина
+  - android head
+  - голова андроида
+  - alien robot
+  - инопланетный робот
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -44,3 +94,4 @@ trademark: true
 - ![fiction_robot__marvin-s-head_white_line-16](img/fiction_robot__marvin-s-head_white_line-16.svg)
 - ![fiction_robot__marvin-s-head_white_line-32](img/fiction_robot__marvin-s-head_white_line-32.svg)
 - ![fiction_robot__marvin-s-head_white_line-8](img/fiction_robot__marvin-s-head_white_line-8.svg)
+

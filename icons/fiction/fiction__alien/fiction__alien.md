@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - fiction
 tags:
-  - fiction
   - alien
+  - пришелец
+  - extraterrestrial
+  - инопланетянин
+  - ufo creature
+  - инопланетное существо
+  - martian
+  - марсианин
+  - monster
+  - монстр
+  - cartoon alien
+  - мультяшный пришелец
+  - green alien
+  - зеленый пришелец
+  - cute alien
+  - милый пришелец
+  - funny character
+  - забавный персонаж
+  - mascot
+  - талисман
+  - creature
+  - существо
+  - antenna
+  - антенна
+  - big eyes
+  - большие глаза
+  - smile
+  - улыбка
+  - green monster
+  - зеленый монстр
+  - space creature
+  - космическое существо
+  - little alien
+  - маленький пришелец
+  - character
+  - персонаж
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -35,3 +69,4 @@ lang: en
 - ![fiction__alien_white_01](img/fiction__alien_white_01.svg)
 - ![fiction__alien_white_02](img/fiction__alien_white_02.svg)
 - ![fiction__alien_white_03](img/fiction__alien_white_03.svg)
+

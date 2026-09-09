@@ -3,14 +3,49 @@ date: 2020-07-19
 categories:
   - fiction_robot
 tags:
-  - Robot Marvin
-  - Робот Марвин
-  - Автостопом по галактике
-  - The Hitchhiker's Guide to the Galaxy
-  - Робот
-  - Персонаж
+  - robot marvin
+  - робот марвин
+  - marvin
+  - марвин
+  - the hitchhiker's guide
+  - автостопом по галактике
+  - hitchhiker guide
+  - гид автостопщика
+  - robot
+  - робот
+  - character
+  - персонаж
   - 42
-  - Смысл жизни
+  - meaning of life
+  - смысл жизни
+  - android
+  - андроид
+  - humanoid robot
+  - человекоподобный робот
+  - depressed robot
+  - депрессивный робот
+  - paranoid android
+  - параноидальный андроид
+  - sci fi
+  - научная фантастика
+  - fictional robot
+  - вымышленный робот
+  - gray robot
+  - серый робот
+  - sad robot
+  - грустный робот
+  - green eyes
+  - зеленые глаза
+  - big head
+  - большая голова
+  - cartoon robot
+  - мультяшный робот
+  - cute robot
+  - милый робот
+  - flat design
+  - плоский дизайн
+  - minimal icon
+  - минималистичная иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -38,3 +73,4 @@ trademark: true
 - ![Alt](img/fiction_robot__marvin_black.svg)
 - ![Alt](img/fiction_robot__marvin_gray.svg)
 - ![Alt](img/fiction_robot__marvin_white.svg)
+

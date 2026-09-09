@@ -4,7 +4,27 @@ categories:
   - flag
 tags:
   - flag
+  - флаг
   - russia
+  - россия
+  - russian
+  - русский
+  - russian flag
+  - флаг россии
+  - rf
+  - рф
+  - tricolor
+  - триколор
+  - national flag
+  - государственный флаг
+  - country flag
+  - флаг страны
+  - round flag
+  - круглый флаг
+  - circle flag
+  - российский флаг
+  - white blue red
+  - бело сине красный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -24,3 +44,4 @@ lang: en
 - ![flag__russia_black](img/flag__russia_black.svg)
 - ![flag__russia_gray](img/flag__russia_gray.svg)
 - ![flag__russia_white](img/flag__russia_white.svg)
+

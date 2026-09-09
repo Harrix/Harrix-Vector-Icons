@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - fiction
 tags:
-  - fiction
   - zombie
+  - зомби
+  - undead
+  - нежить
+  - monster
+  - монстр
+  - green face
+  - зеленое лицо
+  - zombie head
+  - голова зомби
+  - cartoon zombie
+  - мультяшный зомби
+  - funny zombie
+  - смешной зомби
+  - scary face
+  - страшное лицо
+  - horror
+  - ужасы
+  - creature
+  - существо
+  - mutant
+  - мутант
+  - brain
+  - мозг
+  - half brain
+  - полмозга
+  - big eyes
+  - большие глаза
+  - one tooth
+  - один зуб
+  - green skin
+  - зеленая кожа
+  - dead face
+  - мертвое лицо
+  - icon face
+  - лицо иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -27,3 +61,4 @@ lang: en
 - ![fiction__zombie_black](img/fiction__zombie_black.svg)
 - ![fiction__zombie_gray](img/fiction__zombie_gray.svg)
 - ![fiction__zombie_white](img/fiction__zombie_white.svg)
+
