@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - holidays
 tags:
-  - holidays
   - christmas
+  - рождество
   - tree
+  - дерево
+  - christmas tree
+  - рождественская елка
+  - fir tree
+  - ель
+  - pine tree
+  - сосна
+  - xmas tree
+  - новогодняя елка
+  - evergreen
+  - хвойное дерево
+  - star
+  - звезда
+  - ornament
+  - украшение
+  - bauble
+  - шарик
+  - garland
+  - гирлянда
+  - decorated tree
+  - украшенная елка
+  - holiday tree
+  - праздничная елка
+  - new year
+  - новый год
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -32,3 +57,4 @@ lang: en
 - ![holidays__christmas-tree_black](img/holidays__christmas-tree_black.svg)
 - ![holidays__christmas-tree_gray](img/holidays__christmas-tree_gray.svg)
 - ![holidays__christmas-tree_white](img/holidays__christmas-tree_white.svg)
+

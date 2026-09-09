@@ -69,4 +69,3 @@ lang: en
 - ![fiction__alien_white_01](img/fiction__alien_white_01.svg)
 - ![fiction__alien_white_02](img/fiction__alien_white_02.svg)
 - ![fiction__alien_white_03](img/fiction__alien_white_03.svg)
-

@@ -3,9 +3,30 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
-  - flash
-  - drive
+  - flash drive
+  - флешка
+  - usb
+  - юсб
+  - usb drive
+  - usb накопитель
+  - usb stick
+  - usb флешка
+  - thumb drive
+  - накопитель
+  - storage
+  - хранилище
+  - memory stick
+  - карта памяти
+  - portable storage
+  - съемный носитель
+  - data storage
+  - хранение данных
+  - connector
+  - разъем
+  - plug
+  - штекер
+  - device
+  - устройство
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -55,3 +76,4 @@ lang: en
 - ![it__flash-drive_white_04](img/it__flash-drive_white_04.svg)
 - ![it__flash-drive_white_05](img/it__flash-drive_white_05.svg)
 - ![it__flash-drive_white_06](img/it__flash-drive_white_06.svg)
+

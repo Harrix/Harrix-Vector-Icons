@@ -3,8 +3,46 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - brain
+  - мозг
+  - human brain
+  - мозг человека
+  - organ
+  - орган
+  - anatomy
+  - анатомия
+  - cerebrum
+  - головной мозг
+  - hemisphere
+  - полушарие
+  - brain halves
+  - полушария мозга
+  - left brain
+  - левое полушарие
+  - right brain
+  - правое полушарие
+  - mind
+  - разум
+  - intelligence
+  - интеллект
+  - thinking
+  - мышление
+  - neurology
+  - неврология
+  - neuroscience
+  - нейронаука
+  - medical
+  - медицинский
+  - healthcare
+  - здравоохранение
+  - head organ
+  - орган головы
+  - flat icon
+  - плоская иконка
+  - cartoon
+  - мультяшный
+  - pink brain
+  - розовый мозг
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -45,3 +83,4 @@ lang: en
 - ![human__brain_white_line-16](img/human__brain_white_line-16.svg)
 - ![human__brain_white_line-32](img/human__brain_white_line-32.svg)
 - ![human__brain_white_line-8](img/human__brain_white_line-8.svg)
+

@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - bone
+  - кость
+  - human bone
+  - человеческая кость
+  - leg bone
+  - кость ноги
+  - long bone
+  - длинная кость
+  - femur
+  - бедренная кость
+  - skeleton
+  - скелет
+  - anatomy
+  - анатомия
+  - orthopedic
+  - ортопедический
+  - medical
+  - медицинский
+  - xray
+  - рентген
+  - osseous
+  - костный
+  - skeletal
+  - скелетный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -39,3 +61,4 @@ lang: en
 - ![human__bone_gray](img/human__bone_gray.svg)
 - ![human__bone_improbable_black-line-8](img/human__bone_improbable_black-line-8.svg)
 - ![human__bone_improbable_white-line-8](img/human__bone_improbable_white-line-8.svg)
+

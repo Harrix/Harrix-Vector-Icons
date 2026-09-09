@@ -4,7 +4,35 @@ categories:
   - flag
 tags:
   - flag
+  - флаг
   - usa
+  - сша
+  - united states
+  - соединенные штаты
+  - america
+  - америка
+  - american
+  - американский
+  - us flag
+  - флаг сша
+  - american flag
+  - американский флаг
+  - stars
+  - звезды
+  - star
+  - звезда
+  - stripes
+  - полосы
+  - red white blue
+  - красный белый синий
+  - round flag
+  - круглый флаг
+  - circle flag
+  - флаг круг
+  - national flag
+  - национальный флаг
+  - country flag
+  - флаг страны
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -24,3 +52,4 @@ lang: en
 - ![flag__usa_black](img/flag__usa_black.svg)
 - ![flag__usa_gray](img/flag__usa_gray.svg)
 - ![flag__usa_white](img/flag__usa_white.svg)
+

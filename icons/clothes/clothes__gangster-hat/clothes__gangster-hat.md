@@ -58,4 +58,3 @@ lang: en
 - ![clothes__gangster-hat_gray_02](img/clothes__gangster-hat_gray_02.svg)
 - ![clothes__gangster-hat_white_01](img/clothes__gangster-hat_white_01.svg)
 - ![clothes__gangster-hat_white_02](img/clothes__gangster-hat_white_02.svg)
-

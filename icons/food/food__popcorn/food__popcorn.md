@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - food
 tags:
-  - food
   - popcorn
+  - попкорн
+  - popcorn bucket
+  - ведро попкорна
+  - popcorn box
+  - коробка попкорна
+  - snack
+  - закуска
+  - cinema snack
+  - кино закуска
+  - movie theater
+  - кинотеатр
+  - cinema
+  - кино
+  - striped bucket
+  - полосатое ведро
+  - red stripes
+  - красные полосы
+  - paper bucket
+  - бумажное ведро
+  - corn snack
+  - кукурузная закуска
+  - fast food
+  - фастфуд
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +47,4 @@ lang: en
 - ![food__popcorn_black](img/food__popcorn_black.svg)
 - ![food__popcorn_gray](img/food__popcorn_gray.svg)
 - ![food__popcorn_white](img/food__popcorn_white.svg)
+

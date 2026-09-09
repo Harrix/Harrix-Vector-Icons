@@ -4,8 +4,34 @@ categories:
   - flag
 tags:
   - flag
-  - united
-  - kingdom
+  - флаг
+  - united kingdom
+  - соединенное королевство
+  - uk
+  - великобритания
+  - britain
+  - британия
+  - great britain
+  - юнион джек
+  - union jack
+  - british
+  - британский
+  - england
+  - англия
+  - english
+  - английский
+  - london
+  - лондон
+  - national flag
+  - государственный флаг
+  - round flag
+  - круглый флаг
+  - circle flag
+  - круг
+  - red blue
+  - красный синий
+  - white red
+  - белый красный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +51,4 @@ lang: en
 - ![flag__united-kingdom_black](img/flag__united-kingdom_black.svg)
 - ![flag__united-kingdom_gray](img/flag__united-kingdom_gray.svg)
 - ![flag__united-kingdom_white](img/flag__united-kingdom_white.svg)
+

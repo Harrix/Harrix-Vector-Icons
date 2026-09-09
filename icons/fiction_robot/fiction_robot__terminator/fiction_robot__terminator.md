@@ -81,4 +81,3 @@ trademark: true
 - ![fiction_robot__terminator_white_02](img/fiction_robot__terminator_white_02.svg)
 - ![fiction_robot__terminator_white_03](img/fiction_robot__terminator_white_03.svg)
 - ![fiction_robot__terminator_white_04](img/fiction_robot__terminator_white_04.svg)
-

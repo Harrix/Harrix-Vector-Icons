@@ -68,4 +68,3 @@ lang: en
 - ![clothes__suit_gray_02](img/clothes__suit_gray_02.svg)
 - ![clothes__suit_white_01](img/clothes__suit_white_01.svg)
 - ![clothes__suit_white_02](img/clothes__suit_white_02.svg)
-

@@ -53,4 +53,3 @@ lang: en
 - ![clothes__pirate-hat_black](img/clothes__pirate-hat_black.svg)
 - ![clothes__pirate-hat_gray](img/clothes__pirate-hat_gray.svg)
 - ![clothes__pirate-hat_white](img/clothes__pirate-hat_white.svg)
-

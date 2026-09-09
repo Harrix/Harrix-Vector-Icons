@@ -4,7 +4,30 @@ categories:
   - human
 tags:
   - human
+  - человек
   - femur
+  - бедренная кость
+  - thigh bone
+  - кость
+  - bone
+  - skeletal
+  - скелет
+  - anatomy
+  - анатомия
+  - leg bone
+  - кость ноги
+  - hip bone
+  - тазобедренный сустав
+  - orthopedic
+  - ортопедия
+  - medical
+  - медицинский
+  - skeleton
+  - скелет человека
+  - osseous
+  - костный
+  - long bone
+  - длинная кость
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +48,4 @@ lang: en
 - ![human__femur_black](img/human__femur_black.svg)
 - ![human__femur_gray](img/human__femur_gray.svg)
 - ![human__femur_white](img/human__femur_white.svg)
+

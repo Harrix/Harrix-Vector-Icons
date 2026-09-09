@@ -3,9 +3,44 @@ date: 2020-07-19
 categories:
   - holidays
 tags:
-  - holidays
   - santa
+  - санта
   - claus
+  - клаус
+  - santa claus
+  - санта клаус
+  - father christmas
+  - рождественский дед
+  - ded moroz
+  - дед мороз
+  - saint nicholas
+  - святой николай
+  - christmas
+  - рождество
+  - new year
+  - новый год
+  - winter
+  - зима
+  - beard
+  - борода
+  - mustache
+  - усы
+  - hat
+  - шапка
+  - blue hat
+  - синяя шапка
+  - old man
+  - старик
+  - smiling face
+  - улыбается
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - avatar
+  - персонаж
+  - face
+  - лицо
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +63,4 @@ lang: en
 - ![holidays__santa-claus_black](img/holidays__santa-claus_black.svg)
 - ![holidays__santa-claus_gray](img/holidays__santa-claus_gray.svg)
 - ![holidays__santa-claus_white](img/holidays__santa-claus_white.svg)
+

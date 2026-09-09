@@ -4,7 +4,45 @@ categories:
   - human
 tags:
   - human
+  - человек
   - man
+  - мужчина
+  - male
+  - мужской
+  - boy
+  - мальчик
+  - guy
+  - парень
+  - person
+  - персона
+  - face
+  - лицо
+  - head
+  - голова
+  - avatar
+  - аватар
+  - portrait
+  - портрет
+  - profile
+  - профиль
+  - user
+  - пользователь
+  - male avatar
+  - мужской аватар
+  - male face
+  - мужское лицо
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - hairstyle
+  - прическа
+  - black hair
+  - черные волосы
+  - short hair
+  - короткие волосы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -31,3 +69,4 @@ lang: en
 - ![human__man_black](img/human__man_black.svg)
 - ![human__man_gray](img/human__man_gray.svg)
 - ![human__man_white](img/human__man_white.svg)
+

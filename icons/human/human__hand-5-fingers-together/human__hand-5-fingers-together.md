@@ -3,11 +3,36 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - hand
-  - 5
+  - рука
   - fingers
+  - пальцы
+  - five fingers
+  - пять пальцев
   - together
+  - вместе
+  - open palm
+  - открытая ладонь
+  - palm
+  - ладонь
+  - raised hand
+  - поднятая рука
+  - upright hand
+  - вертикальная рука
+  - stop gesture
+  - жест стоп
+  - high five
+  - дай пять
+  - hello
+  - привет
+  - greeting
+  - приветствие
+  - gesture
+  - жест
+  - human hand
+  - кисть руки
+  - palm up
+  - ладонь вперед
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +53,4 @@ lang: en
 - ![human__hand-5-fingers-together_black](img/human__hand-5-fingers-together_black.svg)
 - ![human__hand-5-fingers-together_gray](img/human__hand-5-fingers-together_gray.svg)
 - ![human__hand-5-fingers-together_white](img/human__hand-5-fingers-together_white.svg)
+

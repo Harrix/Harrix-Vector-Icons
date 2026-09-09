@@ -3,9 +3,44 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - file
+  - файл
   - text
+  - текст
+  - document
+  - документ
+  - page
+  - страница
+  - paper
+  - бумага
+  - sheet
+  - лист
+  - text file
+  - текстовый файл
+  - document file
+  - файл документа
+  - page icon
+  - иконка страницы
+  - file icon
+  - иконка файла
+  - document icon
+  - иконка документа
+  - report
+  - отчет
+  - article
+  - статья
+  - template
+  - шаблон
+  - form
+  - форма
+  - label
+  - ярлык
+  - blank file
+  - пустой файл
+  - page fold
+  - загнутый угол
+  - corner fold
+  - угол страницы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -31,3 +66,4 @@ lang: en
 - ![it__file-text_gray_02](img/it__file-text_gray_02.svg)
 - ![it__file-text_white_01](img/it__file-text_white_01.svg)
 - ![it__file-text_white_02](img/it__file-text_white_02.svg)
+

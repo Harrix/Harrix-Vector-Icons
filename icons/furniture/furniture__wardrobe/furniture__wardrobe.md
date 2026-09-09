@@ -3,8 +3,28 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - wardrobe
+  - шкаф
+  - closet
+  - гардероб
+  - cabinet
+  - шкафчик
+  - armoire
+  - двустворчатый шкаф
+  - double door
+  - doors
+  - двери
+  - handles
+  - ручки
+  - wooden
+  - деревянный
+  - wood
+  - дерево
+  - cupboard
+  - платяной шкаф
+  - tall cabinet
+  - storage
+  - хранение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +48,4 @@ lang: en
 - ![furniture__wardrobe_gray_02](img/furniture__wardrobe_gray_02.svg)
 - ![furniture__wardrobe_white_01](img/furniture__wardrobe_white_01.svg)
 - ![furniture__wardrobe_white_02](img/furniture__wardrobe_white_02.svg)
+

@@ -51,4 +51,3 @@ lang: en
 - ![clothes__wizards-cap_black](img/clothes__wizards-cap_black.svg)
 - ![clothes__wizards-cap_gray](img/clothes__wizards-cap_gray.svg)
 - ![clothes__wizards-cap_white](img/clothes__wizards-cap_white.svg)
-

@@ -65,4 +65,3 @@ trademark: true
 - ![fiction_spaceship__avalon_black](img/fiction_spaceship__avalon_black.svg)
 - ![fiction_spaceship__avalon_gray](img/fiction_spaceship__avalon_gray.svg)
 - ![fiction_spaceship__avalon_white](img/fiction_spaceship__avalon_white.svg)
-

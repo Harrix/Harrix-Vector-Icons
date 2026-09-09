@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - bookcase
+  - книжный шкаф
+  - bookshelf
+  - книжная полка
+  - cabinet
+  - шкаф
+  - storage cabinet
+  - шкаф для книг
+  - book cabinet
+  - shelf
+  - полка
+  - bookcase cabinet
+  - wooden cabinet
+  - деревянный шкаф
+  - book storage
+  - хранение книг
+  - books
+  - книги
+  - library
+  - библиотека
+  - office furniture
+  - офисная мебель
+  - home furniture
+  - домашняя мебель
+  - cupboard
+  - буфет
+  - display cabinet
+  - шкаф витрина
+  - shelves
+  - стеллаж
+  - book shelf
+  - книжные полки
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -30,3 +60,4 @@ lang: en
 - ![furniture__bookcase_gray_02](img/furniture__bookcase_gray_02.svg)
 - ![furniture__bookcase_white_01](img/furniture__bookcase_white_01.svg)
 - ![furniture__bookcase_white_02](img/furniture__bookcase_white_02.svg)
+

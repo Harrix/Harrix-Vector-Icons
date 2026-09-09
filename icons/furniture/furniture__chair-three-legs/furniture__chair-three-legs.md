@@ -3,10 +3,30 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - chair
-  - three
-  - legs
+  - стул
+  - three legs
+  - три ножки
+  - wooden chair
+  - деревянный стул
+  - seat
+  - сиденье
+  - backrest
+  - спинка
+  - side view
+  - вид сбоку
+  - modern chair
+  - современный стул
+  - dining chair
+  - обеденный стул
+  - wood
+  - дерево
+  - leg
+  - ножка
+  - minimal
+  - минималистичный
+  - scandinavian
+  - скандинавский
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +46,4 @@ lang: en
 - ![furniture__chair-three-legs_black](img/furniture__chair-three-legs_black.svg)
 - ![furniture__chair-three-legs_gray](img/furniture__chair-three-legs_gray.svg)
 - ![furniture__chair-three-legs_white](img/furniture__chair-three-legs_white.svg)
+

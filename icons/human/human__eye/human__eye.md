@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - eye
+  - глаз
+  - human eye
+  - человеческий глаз
+  - eyeball
+  - глазное яблоко
+  - iris
+  - радужка
+  - pupil
+  - зрачок
+  - vision
+  - зрение
+  - sight
+  - взгляд
+  - look
+  - смотреть
+  - blue eye
+  - синий глаз
+  - organ
+  - орган
+  - body part
+  - часть тела
+  - anatomy
+  - анатомия
+  - ocular
+  - глазной
+  - seeing
+  - видение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +54,4 @@ lang: en
 - ![human__eye_gray_02](img/human__eye_gray_02.svg)
 - ![human__eye_white_01](img/human__eye_white_01.svg)
 - ![human__eye_white_02](img/human__eye_white_02.svg)
+

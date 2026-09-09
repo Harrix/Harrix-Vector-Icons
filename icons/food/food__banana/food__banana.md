@@ -3,8 +3,28 @@ date: 2020-07-19
 categories:
   - food
 tags:
-  - food
   - banana
+  - банан
+  - fruit
+  - фрукт
+  - yellow
+  - желтый
+  - ripe
+  - спелый
+  - fresh
+  - свежий
+  - tropical
+  - тропический
+  - curved
+  - изогнутый
+  - whole banana
+  - целый банан
+  - banana fruit
+  - фрукт банан
+  - organic
+  - органический
+  - healthy food
+  - здоровая еда
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +45,4 @@ lang: en
 - ![food__banana_black](img/food__banana_black.svg)
 - ![food__banana_gray](img/food__banana_gray.svg)
 - ![food__banana_white](img/food__banana_white.svg)
+

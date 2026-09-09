@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - stool
+  - табурет
+  - furniture
+  - мебель
+  - wooden stool
+  - деревянный табурет
+  - wood
+  - дерево
+  - chair
+  - стул
+  - seat
+  - сиденье
+  - step stool
+  - табурет-стремянка
+  - ladder stool
+  - стул-лестница
+  - kitchen stool
+  - кухонный табурет
+  - wooden
+  - деревянный
+  - simple
+  - простой
+  - flat design
+  - плоский дизайн
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +47,4 @@ lang: en
 - ![furniture__stool_black](img/furniture__stool_black.svg)
 - ![furniture__stool_gray](img/furniture__stool_gray.svg)
 - ![furniture__stool_white](img/furniture__stool_white.svg)
+

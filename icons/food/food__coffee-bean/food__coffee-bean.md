@@ -3,9 +3,30 @@ date: 2020-07-19
 categories:
   - food
 tags:
-  - food
   - coffee
+  - кофе
   - bean
+  - боб
+  - coffee bean
+  - кофейное зерно
+  - coffee seed
+  - семя кофе
+  - espresso
+  - эспрессо
+  - caffeine
+  - кофеин
+  - roasted
+  - обжаренный
+  - brown
+  - коричневый
+  - arabica
+  - арабика
+  - robusta
+  - робуста
+  - cafe
+  - кафе
+  - barista
+  - бариста
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -35,3 +56,4 @@ lang: en
 - ![food__coffee-bean_white_line-16](img/food__coffee-bean_white_line-16.svg)
 - ![food__coffee-bean_white_line-32](img/food__coffee-bean_white_line-32.svg)
 - ![food__coffee-bean_white_line-8](img/food__coffee-bean_white_line-8.svg)
+

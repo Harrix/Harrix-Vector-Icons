@@ -50,4 +50,3 @@ lang: en
 - ![building__stall_black](img/building__stall_black.svg)
 - ![building__stall_gray](img/building__stall_gray.svg)
 - ![building__stall_white](img/building__stall_white.svg)
-

@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - chair
+  - стул
+  - furniture
+  - мебель
+  - wooden chair
+  - деревянный стул
+  - dining chair
+  - обеденный стул
+  - side chair
+  - боковой стул
+  - seat
+  - сиденье
+  - backrest
+  - спинка
+  - wood
+  - дерево
+  - interior
+  - интерьер
+  - home
+  - дом
+  - minimal
+  - минимализм
+  - simple
+  - простой
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +47,4 @@ lang: en
 - ![furniture__chair_black](img/furniture__chair_black.svg)
 - ![furniture__chair_gray](img/furniture__chair_gray.svg)
 - ![furniture__chair_white](img/furniture__chair_white.svg)
+

@@ -3,10 +3,42 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - man
-  - with
+  - мужчина
   - beard
+  - борода
+  - bearded
+  - бородатый
+  - male
+  - мужской
+  - person
+  - человек
+  - face
+  - лицо
+  - head
+  - голова
+  - avatar
+  - аватар
+  - portrait
+  - портрет
+  - guy
+  - парень
+  - boy
+  - юноша
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - hair
+  - волосы
+  - hairstyle
+  - прическа
+  - black hair
+  - темные волосы
+  - mustache
+  - усы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -31,3 +63,4 @@ lang: en
 - ![human__man-with-beard_black](img/human__man-with-beard_black.svg)
 - ![human__man-with-beard_gray](img/human__man-with-beard_gray.svg)
 - ![human__man-with-beard_white](img/human__man-with-beard_white.svg)
+

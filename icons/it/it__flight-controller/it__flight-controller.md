@@ -3,9 +3,54 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - flight
   - controller
+  - полет
+  - контроллер
+  - circuit board
+  - печатная плата
+  - pcb
+  - микросхема
+  - microchip
+  - чип
+  - processor
+  - процессор
+  - electronics
+  - электроника
+  - hardware
+  - аппаратное обеспечение
+  - board
+  - плата
+  - computer board
+  - компьютерная плата
+  - mainboard
+  - материнская плата
+  - motherboard
+  - системная плата
+  - components
+  - компоненты
+  - soldered
+  - пайка
+  - connector
+  - разъем
+  - usb
+  - порт usb
+  - chipset
+  - набор микросхем
+  - integrated circuit
+  - интегральная схема
+  - module
+  - модуль
+  - embedded
+  - встраиваемый
+  - technology
+  - технология
+  - digital
+  - цифровой
+  - scheme
+  - схема
+  - device
+  - устройство
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +73,4 @@ lang: en
 - ![it__flight-controller_black](img/it__flight-controller_black.svg)
 - ![it__flight-controller_gray](img/it__flight-controller_gray.svg)
 - ![it__flight-controller_white](img/it__flight-controller_white.svg)
+

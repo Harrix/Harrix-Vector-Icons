@@ -3,9 +3,30 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - chair
+  - стул
   - front
+  - спереди
+  - wooden chair
+  - деревянный стул
+  - dining chair
+  - обеденный стул
+  - backrest
+  - спинка
+  - seat
+  - сиденье
+  - wood
+  - дерево
+  - furniture
+  - мебель
+  - simple chair
+  - простой стул
+  - home chair
+  - домашний стул
+  - interior
+  - интерьер
+  - straight chair
+  - прямой стул
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +47,4 @@ lang: en
 - ![furniture__chair-front_black](img/furniture__chair-front_black.svg)
 - ![furniture__chair-front_gray](img/furniture__chair-front_gray.svg)
 - ![furniture__chair-front_white](img/furniture__chair-front_white.svg)
+

@@ -3,10 +3,51 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - code
-  - in
+  - код
   - console
+  - консоль
+  - command line
+  - командная строка
+  - terminal
+  - терминал
+  - coding
+  - программирование
+  - programming
+  - разработка
+  - development
+  - script
+  - скрипт
+  - source code
+  - исходный код
+  - editor
+  - редактор
+  - text editor
+  - текстовый редактор
+  - code editor
+  - редактор кода
+  - window
+  - окно
+  - application window
+  - окно приложения
+  - interface
+  - интерфейс
+  - screen
+  - экран
+  - monitor
+  - монитор
+  - software
+  - по
+  - developer
+  - разработчик
+  - coding screen
+  - экран кода
+  - syntax
+  - синтаксис
+  - lines
+  - строки
+  - code lines
+  - строки кода
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -31,3 +72,4 @@ lang: en
 - ![it__code-in-console_black](img/it__code-in-console_black.svg)
 - ![it__code-in-console_gray](img/it__code-in-console_gray.svg)
 - ![it__code-in-console_white](img/it__code-in-console_white.svg)
+

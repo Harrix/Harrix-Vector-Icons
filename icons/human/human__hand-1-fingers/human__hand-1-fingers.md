@@ -3,10 +3,34 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - hand
-  - 1
+  - рука
   - fingers
+  - пальцы
+  - index finger
+  - указательный палец
+  - pointing up
+  - указывает вверх
+  - raised finger
+  - поднятый палец
+  - one
+  - один
+  - number one
+  - номер один
+  - gesture
+  - жест
+  - hand gesture
+  - жест рукой
+  - pointing hand
+  - указывающая рука
+  - forefinger
+  - палец вверх
+  - counting
+  - счет
+  - sign
+  - знак
+  - symbol
+  - символ
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -27,3 +51,4 @@ lang: en
 - ![human__hand-1-fingers_black](img/human__hand-1-fingers_black.svg)
 - ![human__hand-1-fingers_gray](img/human__hand-1-fingers_gray.svg)
 - ![human__hand-1-fingers_white](img/human__hand-1-fingers_white.svg)
+

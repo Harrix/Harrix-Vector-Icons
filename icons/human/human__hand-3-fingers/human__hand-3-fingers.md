@@ -4,9 +4,32 @@ categories:
   - human
 tags:
   - human
+  - человек
   - hand
-  - 3
+  - рука
   - fingers
+  - пальцы
+  - 3
+  - three
+  - три
+  - three fingers
+  - три пальца
+  - hand gesture
+  - жест рукой
+  - gesture
+  - жест
+  - counting
+  - счет
+  - number three
+  - номер три
+  - sign language
+  - язык жестов
+  - raised fingers
+  - поднятые пальцы
+  - palm
+  - ладонь
+  - emoji
+  - эмодзи
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -27,3 +50,4 @@ lang: en
 - ![human__hand-3-fingers_black](img/human__hand-3-fingers_black.svg)
 - ![human__hand-3-fingers_gray](img/human__hand-3-fingers_gray.svg)
 - ![human__hand-3-fingers_white](img/human__hand-3-fingers_white.svg)
+

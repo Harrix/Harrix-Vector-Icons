@@ -73,4 +73,3 @@ trademark: true
 - ![Alt](img/fiction_robot__marvin_black.svg)
 - ![Alt](img/fiction_robot__marvin_gray.svg)
 - ![Alt](img/fiction_robot__marvin_white.svg)
-

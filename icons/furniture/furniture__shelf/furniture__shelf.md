@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - shelf
+  - полка
+  - furniture
+  - мебель
+  - bookcase
+  - книжный шкаф
+  - bookshelf
+  - книжная полка
+  - cabinet
+  - шкаф
+  - rack
+  - стеллаж
+  - shelving
+  - полки
+  - books
+  - книги
+  - book stack
+  - стопка книг
+  - wooden shelf
+  - деревянная полка
+  - storage
+  - хранение
+  - home interior
+  - домашний интерьер
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +47,4 @@ lang: en
 - ![furniture__shelf_black](img/furniture__shelf_black.svg)
 - ![furniture__shelf_gray](img/furniture__shelf_gray.svg)
 - ![furniture__shelf_white](img/furniture__shelf_white.svg)
+

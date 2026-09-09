@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - woman
+  - женщина
+  - human
+  - человек
+  - female
+  - женский
+  - girl
+  - девушка
+  - lady
+  - дама
+  - face
+  - лицо
+  - portrait
+  - портрет
+  - avatar
+  - аватар
+  - person
+  - персона
+  - head
+  - голова
+  - hair
+  - волосы
+  - black hair
+  - черные волосы
+  - brunette
+  - брюнетка
+  - bob haircut
+  - каре
+  - short hair
+  - короткие волосы
+  - front view
+  - вид спереди
+  - flat design
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -31,3 +65,4 @@ lang: en
 - ![human__woman_black](img/human__woman_black.svg)
 - ![human__woman_gray](img/human__woman_gray.svg)
 - ![human__woman_white](img/human__woman_white.svg)
+

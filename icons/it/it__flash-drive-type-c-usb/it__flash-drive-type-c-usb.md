@@ -3,12 +3,40 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
-  - flash
+  - flash drive
+  - флешка
   - drive
-  - type
-  - c
+  - накопитель
+  - type c
+  - тип c
   - usb
+  - юсб
+  - usb c
+  - usb type c
+  - usb flash
+  - usb stick
+  - thumb drive
+  - memory stick
+  - pen drive
+  - storage device
+  - portable storage
+  - data storage
+  - connector
+  - adapter
+  - otg
+  - двусторонний
+  - разъем
+  - коннектор
+  - адаптер
+  - usb накопитель
+  - флеш накопитель
+  - карта памяти
+  - внешний накопитель
+  - переносной накопитель
+  - хранение данных
+  - передача данных
+  - тип c разъем
+  - usb разъем
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -36,3 +64,4 @@ lang: en
 - ![it__flash-drive-type-c-usb_gray_02](img/it__flash-drive-type-c-usb_gray_02.svg)
 - ![it__flash-drive-type-c-usb_white_01](img/it__flash-drive-type-c-usb_white_01.svg)
 - ![it__flash-drive-type-c-usb_white_02](img/it__flash-drive-type-c-usb_white_02.svg)
+

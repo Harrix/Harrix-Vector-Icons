@@ -54,4 +54,3 @@ lang: en
 - ![clothes__boot-footprint_gray_02](img/clothes__boot-footprint_gray_02.svg)
 - ![clothes__boot-footprint_white_01](img/clothes__boot-footprint_white_01.svg)
 - ![clothes__boot-footprint_white_02](img/clothes__boot-footprint_white_02.svg)
-

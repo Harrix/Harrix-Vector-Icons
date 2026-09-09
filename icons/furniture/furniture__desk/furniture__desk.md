@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - desk
+  - стол
+  - furniture
+  - мебель
+  - office desk
+  - офисный стол
+  - work desk
+  - рабочий стол
+  - computer desk
+  - компьютерный стол
+  - writing desk
+  - письменный стол
+  - table
+  - столик
+  - drawer
+  - ящик
+  - drawers
+  - тумба
+  - pedestal
+  - шкафчик
+  - wooden desk
+  - деревянный стол
+  - office furniture
+  - офисная мебель
+  - workspace
+  - рабочее место
+  - study desk
+  - учебный стол
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -35,3 +61,4 @@ lang: en
 - ![furniture__desk_white_01](img/furniture__desk_white_01.svg)
 - ![furniture__desk_white_02](img/furniture__desk_white_02.svg)
 - ![furniture__desk_white_03](img/furniture__desk_white_03.svg)
+

@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - heart
+  - сердце
+  - love
+  - любовь
+  - valentine
+  - валентинка
+  - romance
+  - романтика
+  - red heart
+  - красное сердце
+  - heart icon
+  - иконка сердца
+  - heart symbol
+  - символ сердца
+  - cardio
+  - кардио
+  - romantic
+  - романтичный
+  - affection
+  - привязанность
+  - passion
+  - страсть
+  - favorite
+  - избранное
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -34,3 +56,4 @@ lang: en
 - ![human__heart_white_line-16](img/human__heart_white_line-16.svg)
 - ![human__heart_white_line-32](img/human__heart_white_line-32.svg)
 - ![human__heart_white_line-8](img/human__heart_white_line-8.svg)
+

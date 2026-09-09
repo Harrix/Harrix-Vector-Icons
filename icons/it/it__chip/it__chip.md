@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - chip
+  - чип
+  - microchip
+  - микрочип
+  - processor
+  - процессор
+  - cpu
+  - central processor
+  - микросхема
+  - integrated circuit
+  - интегральная схема
+  - ic
+  - electronics
+  - электроника
+  - electronic component
+  - электронный компонент
+  - semiconductor
+  - полупроводник
+  - hardware
+  - аппаратное обеспечение
+  - circuit
+  - схема
+  - computer chip
+  - компьютерный чип
+  - silicon
+  - кремний
+  - pin
+  - контакт
+  - pins
+  - выводы
+  - socket
+  - сокет
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -35,3 +65,4 @@ lang: en
 - ![it__chip_white_01](img/it__chip_white_01.svg)
 - ![it__chip_white_02](img/it__chip_white_02.svg)
 - ![it__chip_white_04](img/it__chip_white_04.svg)
+

@@ -4,7 +4,37 @@ categories:
   - food
 tags:
   - food
+  - еда
   - hamburger
+  - гамбургер
+  - burger
+  - бургер
+  - cheeseburger
+  - чизбургер
+  - sandwich
+  - сэндвич
+  - fast food
+  - фастфуд
+  - bun
+  - булочка
+  - sesame bun
+  - булочка кунжут
+  - sesame
+  - кунжут
+  - patty
+  - котлета
+  - beef patty
+  - говяжья котлета
+  - cheese
+  - сыр
+  - lettuce
+  - салат
+  - burger icon
+  - иконка бургера
+  - burger emoji
+  - эмодзи бургер
+  - junk food
+  - вредная еда
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +55,4 @@ lang: en
 - ![food__hamburger_black](img/food__hamburger_black.svg)
 - ![food__hamburger_gray](img/food__hamburger_gray.svg)
 - ![food__hamburger_white](img/food__hamburger_white.svg)
+

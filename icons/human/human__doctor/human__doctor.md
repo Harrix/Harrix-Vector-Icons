@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - doctor
+  - врач
+  - human
+  - человек
+  - surgeon
+  - хирург
+  - medical
+  - медицинский
+  - medic
+  - медик
+  - hospital
+  - больница
+  - healthcare
+  - здравоохранение
+  - clinic
+  - клиника
+  - surgeon mask
+  - маска хирурга
+  - face mask
+  - медицинская маска
+  - scrubs
+  - медицинская форма
+  - surgical cap
+  - хирургическая шапочка
+  - nurse
+  - медсестра
+  - medical worker
+  - медработник
+  - physician
+  - терапевт
+  - surgeon avatar
+  - аватар хирурга
+  - masked face
+  - лицо в маске
+  - medical staff
+  - медперсонал
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -29,3 +63,4 @@ lang: en
 - ![human__doctor_black](img/human__doctor_black.svg)
 - ![human__doctor_gray](img/human__doctor_gray.svg)
 - ![human__doctor_white](img/human__doctor_white.svg)
+

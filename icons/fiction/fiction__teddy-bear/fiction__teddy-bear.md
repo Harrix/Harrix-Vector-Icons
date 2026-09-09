@@ -62,4 +62,3 @@ lang: en
 - ![fiction__teddy-bear_black](img/fiction__teddy-bear_black.svg)
 - ![fiction__teddy-bear_gray](img/fiction__teddy-bear_gray.svg)
 - ![fiction__teddy-bear_white](img/fiction__teddy-bear_white.svg)
-

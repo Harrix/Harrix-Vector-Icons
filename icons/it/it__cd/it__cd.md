@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - cd
+  - сиди
+  - compact disc
+  - компакт диск
+  - disc
+  - диск
+  - optical disc
+  - оптический диск
+  - dvd
+  - двд
+  - blu-ray
+  - блюрей
+  - media
+  - носитель
+  - storage
+  - хранение
+  - data
+  - данные
+  - digital
+  - цифровой
+  - music disc
+  - музыкальный диск
+  - software disc
+  - диск с софтом
+  - computer disk
+  - компьютерный диск
+  - round
+  - круглый
+  - blue disc
+  - синий диск
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -29,3 +57,4 @@ lang: en
 - ![it__cd_black](img/it__cd_black.svg)
 - ![it__cd_gray](img/it__cd_gray.svg)
 - ![it__cd_white](img/it__cd_white.svg)
+

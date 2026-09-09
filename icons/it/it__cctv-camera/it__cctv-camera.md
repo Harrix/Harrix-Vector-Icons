@@ -3,9 +3,31 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - cctv
   - camera
+  - камера
+  - видеокамера
+  - камера наблюдения
+  - security camera
+  - surveillance camera
+  - cctv camera
+  - ip camera
+  - dome camera
+  - bullet camera
+  - webcam
+  - monitoring
+  - surveillance
+  - security
+  - наблюдение
+  - видеонаблюдение
+  - безопасность
+  - объектив
+  - lens
+  - digital camera
+  - recording
+  - запись
+  - охранная камера
+  - наружная камера
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +48,4 @@ lang: en
 - ![it__cctv-camera_black](img/it__cctv-camera_black.svg)
 - ![it__cctv-camera_gray](img/it__cctv-camera_gray.svg)
 - ![it__cctv-camera_white](img/it__cctv-camera_white.svg)
+

@@ -4,7 +4,47 @@ categories:
   - food
 tags:
   - food
+  - еда
   - strawberry
+  - клубника
+  - berry
+  - ягода
+  - red berry
+  - красная ягода
+  - fruit
+  - фрукт
+  - fresh fruit
+  - свежий фрукт
+  - sweet
+  - сладкий
+  - ripe
+  - спелая
+  - organic
+  - органический
+  - natural
+  - натуральный
+  - seeded
+  - с семенами
+  - seeds
+  - семена
+  - leaf
+  - лист
+  - green leaves
+  - зеленые листья
+  - flat
+  - плоский
+  - cartoon
+  - мультяшный
+  - icon
+  - иконка
+  - summer
+  - лето
+  - dessert
+  - десерт
+  - healthy food
+  - здоровая еда
+  - fresh
+  - свежий
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -27,3 +67,4 @@ lang: en
 - ![food__strawberry_black](img/food__strawberry_black.svg)
 - ![food__strawberry_gray](img/food__strawberry_gray.svg)
 - ![food__strawberry_white](img/food__strawberry_white.svg)
+

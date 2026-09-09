@@ -3,9 +3,46 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - camera
+  - камера
   - back
+  - задняя сторона
+  - rear view
+  - вид сзади
+  - backside
+  - тыльная сторона
+  - digital camera
+  - цифровая камера
+  - dslr
+  - зеркальная камера
+  - photo camera
+  - фотоаппарат
+  - camera body
+  - корпус камеры
+  - camera screen
+  - экран камеры
+  - display
+  - дисплей
+  - lcd
+  - lcd экран
+  - viewfinder
+  - видоискатель
+  - rec
+  - recording
+  - запись
+  - control buttons
+  - кнопки управления
+  - shutter button
+  - кнопка затвора
+  - menu button
+  - кнопка меню
+  - navigation pad
+  - навигационная кнопка
+  - camera rear
+  - задняя панель
+  - camera back
+  - mirrorless
+  - беззеркальная камера
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -29,3 +66,4 @@ lang: en
 - ![it__camera-back_gray_02](img/it__camera-back_gray_02.svg)
 - ![it__camera-back_white_01](img/it__camera-back_white_01.svg)
 - ![it__camera-back_white_02](img/it__camera-back_white_02.svg)
+

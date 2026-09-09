@@ -3,8 +3,44 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - camera
+  - камера
+  - photo camera
+  - фотоаппарат
+  - digital camera
+  - цифровая камера
+  - dslr
+  - зеркалка
+  - mirrorless
+  - беззеркальная камера
+  - lens
+  - объектив
+  - camera lens
+  - линза
+  - photography
+  - фотография
+  - photographer
+  - фотограф
+  - shutter
+  - затвор
+  - snapshot
+  - снимок
+  - photo
+  - фото
+  - viewfinder
+  - видоискатель
+  - device
+  - устройство
+  - equipment
+  - оборудование
+  - technology
+  - технология
+  - electronic
+  - электронный
+  - flat design
+  - плоский дизайн
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -27,3 +63,4 @@ lang: en
 - ![it__camera_gray_02](img/it__camera_gray_02.svg)
 - ![it__camera_white_01](img/it__camera_white_01.svg)
 - ![it__camera_white_02](img/it__camera_white_02.svg)
+

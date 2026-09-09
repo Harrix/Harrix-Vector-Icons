@@ -54,4 +54,3 @@ lang: en
 - ![clothes__tie_black](img/clothes__tie_black.svg)
 - ![clothes__tie_gray](img/clothes__tie_gray.svg)
 - ![clothes__tie_white](img/clothes__tie_white.svg)
-

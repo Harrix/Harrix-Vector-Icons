@@ -3,10 +3,28 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - hand
-  - 4
+  - рука
   - fingers
+  - пальцы
+  - four
+  - четыре
+  - four fingers
+  - четыре пальца
+  - palm
+  - ладонь
+  - raised hand
+  - поднятая рука
+  - gesture
+  - жест
+  - counting
+  - счет
+  - number 4
+  - цифра 4
+  - skin
+  - кожа
+  - open hand
+  - открытая ладонь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -27,3 +45,4 @@ lang: en
 - ![human__hand-4-fingers_black](img/human__hand-4-fingers_black.svg)
 - ![human__hand-4-fingers_gray](img/human__hand-4-fingers_gray.svg)
 - ![human__hand-4-fingers_white](img/human__hand-4-fingers_white.svg)
+

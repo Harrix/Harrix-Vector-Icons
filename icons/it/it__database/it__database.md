@@ -3,8 +3,39 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - database
+  - база данных
+  - data storage
+  - хранилище данных
+  - server
+  - сервер
+  - db
+  - субд
+  - sql
+  - query
+  - запрос
+  - backup
+  - резервная копия
+  - hosting
+  - хостинг
+  - datacenter
+  - датацентр
+  - cylinder
+  - цилиндр
+  - stack
+  - стек
+  - storage
+  - хранилище
+  - big data
+  - большие данные
+  - archive
+  - архив
+  - repository
+  - репозиторий
+  - disk
+  - диск
+  - network storage
+  - сетевое хранилище
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -40,3 +71,4 @@ lang: en
 - ![it__database_white_line-16](img/it__database_white_line-16.svg)
 - ![it__database_white_line-32](img/it__database_white_line-32.svg)
 - ![it__database_white_line-8](img/it__database_white_line-8.svg)
+

@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - commode
+  - комод
+  - dresser
+  - dresser drawer
+  - chest of drawers
+  - bureau
+  - cabinet
+  - storage cabinet
+  - drawers
+  - ящики
+  - drawer unit
+  - bedroom furniture
+  - furniture
+  - мебель
+  - wooden dresser
+  - wooden cabinet
+  - sideboard
+  - console cabinet
+  - storage
+  - хранение
+  - interior
+  - интерьер
+  - home
+  - дом
+  - flat design
+  - шкафчик
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -30,3 +54,4 @@ lang: en
 - ![furniture__commode_gray_02](img/furniture__commode_gray_02.svg)
 - ![furniture__commode_white_01](img/furniture__commode_white_01.svg)
 - ![furniture__commode_white_02](img/furniture__commode_white_02.svg)
+

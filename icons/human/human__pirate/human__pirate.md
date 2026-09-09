@@ -3,8 +3,44 @@ date: 2020-07-19
 categories:
   - human
 tags:
-  - human
   - pirate
+  - пират
+  - human
+  - человек
+  - pirate captain
+  - капитан пиратов
+  - eyepatch
+  - повязка на глаз
+  - tricorn hat
+  - треуголка
+  - skull
+  - череп
+  - crossbones
+  - кости
+  - beard
+  - борода
+  - face
+  - лицо
+  - avatar
+  - аватар
+  - cartoon
+  - мультяшный
+  - character
+  - персонаж
+  - sailor
+  - моряк
+  - sea robber
+  - морской разбойник
+  - buccaneer
+  - буканьер
+  - corsair
+  - корсар
+  - captain
+  - капитан
+  - head
+  - голова
+  - hat
+  - шляпа
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +61,4 @@ lang: en
 - ![human__pirate_black](img/human__pirate_black.svg)
 - ![human__pirate_gray](img/human__pirate_gray.svg)
 - ![human__pirate_white](img/human__pirate_white.svg)
+

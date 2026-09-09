@@ -57,4 +57,3 @@ lang: en
 - ![building__warehouse_black](img/building__warehouse_black.svg)
 - ![building__warehouse_gray](img/building__warehouse_gray.svg)
 - ![building__warehouse_white](img/building__warehouse_white.svg)
-

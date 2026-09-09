@@ -3,8 +3,45 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - code
+  - код
+  - programming
+  - программирование
+  - source code
+  - исходный код
+  - coding
+  - написание кода
+  - script
+  - скрипт
+  - syntax
+  - синтаксис
+  - developer
+  - разработчик
+  - software
+  - по
+  - text lines
+  - строки текста
+  - markup
+  - разметка
+  - html
+  - css
+  - javascript
+  - python
+  - php
+  - editor
+  - редактор
+  - coding file
+  - файл кода
+  - program code
+  - программный код
+  - terminal
+  - терминал
+  - console
+  - консоль
+  - brackets
+  - скобки
+  - code snippet
+  - фрагмент кода
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -28,3 +65,4 @@ lang: en
 - ![it__code_gray_02](img/it__code_gray_02.svg)
 - ![it__code_white_01](img/it__code_white_01.svg)
 - ![it__code_white_02](img/it__code_white_02.svg)
+

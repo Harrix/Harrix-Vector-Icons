@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - console
+  - консоль
+  - terminal
+  - терминал
+  - command line
+  - командная строка
+  - shell
+  - оболочка
+  - cmd
+  - bash
+  - powershell
+  - prompt
+  - приглашение
+  - cursor
+  - курсор
+  - underscore
+  - подчеркивание
+  - window
+  - окно
+  - code
+  - код
+  - programming
+  - программирование
+  - developer
+  - разработчик
+  - script
+  - скрипт
+  - cli
+  - interface
+  - интерфейс
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -33,3 +61,4 @@ lang: en
 - ![it__console_black_01](img/it__console_black_01.svg)
 - ![it__console_gray_01](img/it__console_gray_01.svg)
 - ![it__console_white_01](img/it__console_white_01.svg)
+

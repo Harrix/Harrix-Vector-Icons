@@ -45,4 +45,3 @@ lang: en
 - ![clothes__top-hat_black](img/clothes__top-hat_black.svg)
 - ![clothes__top-hat_gray](img/clothes__top-hat_gray.svg)
 - ![clothes__top-hat_white](img/clothes__top-hat_white.svg)
-

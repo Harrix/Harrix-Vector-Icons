@@ -89,4 +89,3 @@ lang: en
 - ![fiction__ufo_white_line-32_02](img/fiction__ufo_white_line-32_02.svg)
 - ![fiction__ufo_white_line-8_01](img/fiction__ufo_white_line-8_01.svg)
 - ![fiction__ufo_white_line-8_02](img/fiction__ufo_white_line-8_02.svg)
-

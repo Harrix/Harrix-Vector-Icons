@@ -4,7 +4,39 @@ categories:
   - human
 tags:
   - human
+  - человек
   - skull
+  - череп
+  - skeleton
+  - скелет
+  - head
+  - голова
+  - bone
+  - кость
+  - cranium
+  - черепная коробка
+  - jaw
+  - челюсть
+  - teeth
+  - зубы
+  - anatomy
+  - анатомия
+  - face
+  - лицо
+  - death
+  - смерть
+  - halloween
+  - хэллоуин
+  - medical
+  - медицинский
+  - xray
+  - рентген
+  - flat
+  - плоский
+  - cartoon
+  - мультяшный
+  - front view
+  - вид спереди
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -33,3 +65,4 @@ lang: en
 - ![human__skull_improbable_white](img/human__skull_improbable_white.svg)
 - ![human__skull_white_01](img/human__skull_white_01.svg)
 - ![human__skull_white_02](img/human__skull_white_02.svg)
+

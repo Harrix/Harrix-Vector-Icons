@@ -3,9 +3,32 @@ date: 2020-07-19
 categories:
   - furniture
 tags:
-  - furniture
   - foldable
   - stool
+  - складной
+  - табурет
+  - folding stool
+  - складной табурет
+  - chair
+  - стул
+  - seat
+  - сиденье
+  - wooden
+  - деревянный
+  - wood
+  - дерево
+  - camp stool
+  - походный табурет
+  - director chair
+  - режиссерский стул
+  - x frame
+  - x каркас
+  - cross legs
+  - перекрестные ножки
+  - portable
+  - переносной
+  - collapsible
+  - раскладной
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +49,4 @@ lang: en
 - ![furniture__foldable-stool_black](img/furniture__foldable-stool_black.svg)
 - ![furniture__foldable-stool_gray](img/furniture__foldable-stool_gray.svg)
 - ![furniture__foldable-stool_white](img/furniture__foldable-stool_white.svg)
+
