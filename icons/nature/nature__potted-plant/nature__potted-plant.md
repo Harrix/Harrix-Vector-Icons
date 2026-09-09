@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [nature]
-tags: [nature, potted, plant]
+categories:
+  - nature
+tags:
+  - nature
+  - potted
+  - plant
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

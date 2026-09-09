@@ -1,7 +1,12 @@
 ---
 date: 2020-07-19
-categories: [object]
-tags: [object, light, switch, soviet]
+categories:
+  - object
+tags:
+  - object
+  - light
+  - switch
+  - soviet
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

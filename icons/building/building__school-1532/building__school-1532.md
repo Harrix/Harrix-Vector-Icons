@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-categories: [building]
+categories:
+  - building
 tags:
   - school
   - школа
@@ -58,4 +59,3 @@ lang: en
 - ![building__school-1532_black](img/building__school-1532_black.svg)
 - ![building__school-1532_gray](img/building__school-1532_gray.svg)
 - ![building__school-1532_white](img/building__school-1532_white.svg)
-

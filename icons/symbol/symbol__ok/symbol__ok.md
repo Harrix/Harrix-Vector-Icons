@@ -1,7 +1,10 @@
 ---
 date: 2020-07-19
-categories: [symbol]
-tags: [symbol, ok]
+categories:
+  - symbol
+tags:
+  - symbol
+  - ok
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -11,7 +14,7 @@ permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/
 lang: en
 ---
 
-# Ok
+# OK
 
 ![Featured image](featured-image.svg)
 

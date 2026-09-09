@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [nature_animal]
-tags: [nature, animal, bear]
+categories:
+  - nature_animal
+tags:
+  - nature
+  - animal
+  - bear
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-categories: [building]
+categories:
+  - building
 tags:
   - krasnoyarsk
   - красноярск
@@ -59,4 +60,3 @@ lang: en
 - ![building__krasnoyarsk-big-ben-full_black](img/building__krasnoyarsk-big-ben-full_black.svg)
 - ![building__krasnoyarsk-big-ben-full_gray](img/building__krasnoyarsk-big-ben-full_gray.svg)
 - ![building__krasnoyarsk-big-ben-full_white](img/building__krasnoyarsk-big-ben-full_white.svg)
-

@@ -1,7 +1,12 @@
 ---
 date: 2020-07-19
-categories: [it]
-tags: [it, flight, controller, dys]
+categories:
+  - it
+tags:
+  - it
+  - flight
+  - controller
+  - dys
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

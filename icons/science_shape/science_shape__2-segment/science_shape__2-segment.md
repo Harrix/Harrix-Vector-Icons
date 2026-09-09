@@ -1,7 +1,12 @@
 ---
 date: 2020-07-19
-categories: [science_shape]
-tags: [science, shape, 2, segment]
+categories:
+  - science_shape
+tags:
+  - science
+  - shape
+  - 2
+  - segment
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

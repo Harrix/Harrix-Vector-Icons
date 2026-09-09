@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-categories: [building]
+categories:
+  - building
 tags:
   - big ben
   - биг бен
@@ -56,4 +57,3 @@ lang: en
 - ![building__krasnoyarsk-big-ben_black](img/building__krasnoyarsk-big-ben_black.svg)
 - ![building__krasnoyarsk-big-ben_gray](img/building__krasnoyarsk-big-ben_gray.svg)
 - ![building__krasnoyarsk-big-ben_white](img/building__krasnoyarsk-big-ben_white.svg)
-

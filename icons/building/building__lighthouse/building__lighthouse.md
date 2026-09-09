@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-categories: [building]
+categories:
+  - building
 tags:
   - lighthouse
   - маяк
@@ -58,4 +59,3 @@ lang: en
 - ![building__lighthouse_black](img/building__lighthouse_black.svg)
 - ![building__lighthouse_gray](img/building__lighthouse_gray.svg)
 - ![building__lighthouse_white](img/building__lighthouse_white.svg)
-

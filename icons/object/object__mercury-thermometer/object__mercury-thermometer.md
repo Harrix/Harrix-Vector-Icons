@@ -1,7 +1,11 @@
 ---
 date: 2021-03-28
-categories: [object]
-tags: [object, mercury, thermometer]
+categories:
+  - object
+tags:
+  - object
+  - mercury
+  - thermometer
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

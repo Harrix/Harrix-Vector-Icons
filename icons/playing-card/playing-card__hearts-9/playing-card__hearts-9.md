@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [playing-card]
-tags: [playing-card, hearts, 9]
+categories:
+  - playing-card
+tags:
+  - playing-card
+  - hearts
+  - 9
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

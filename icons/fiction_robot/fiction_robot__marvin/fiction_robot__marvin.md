@@ -1,17 +1,16 @@
 ---
 date: 2020-07-19
-categories: [fiction_robot]
+categories:
+  - fiction_robot
 tags:
-  [
-    Robot Marvin,
-    Робот Марвин,
-    Автостопом по галактике,
-    The Hitchhiker's Guide to the Galaxy,
-    Робот,
-    Персонаж,
-    42,
-    Смысл жизни,
-  ]
+  - Robot Marvin
+  - Робот Марвин
+  - Автостопом по галактике
+  - The Hitchhiker's Guide to the Galaxy
+  - Робот
+  - Персонаж
+  - 42
+  - Смысл жизни
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -39,4 +38,3 @@ trademark: true
 - ![Alt](img/fiction_robot__marvin_black.svg)
 - ![Alt](img/fiction_robot__marvin_gray.svg)
 - ![Alt](img/fiction_robot__marvin_white.svg)
-

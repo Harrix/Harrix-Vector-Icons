@@ -1,7 +1,12 @@
 ---
 date: 2020-07-19
-categories: [nature_animal_track]
-tags: [nature, animal, track, bear]
+categories:
+  - nature_animal_track
+tags:
+  - nature
+  - animal
+  - track
+  - bear
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

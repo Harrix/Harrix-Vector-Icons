@@ -1,7 +1,13 @@
 ---
 date: 2020-07-19
-categories: [object]
-tags: [object, weight, metal, with, hook]
+categories:
+  - object
+tags:
+  - object
+  - weight
+  - metal
+  - with
+  - hook
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

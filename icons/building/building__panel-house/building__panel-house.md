@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-categories: [building]
+categories:
+  - building
 tags:
   - building
   - здание
@@ -63,4 +64,3 @@ lang: en
 - ![building__panel-house_gray_02](img/building__panel-house_gray_02.svg)
 - ![building__panel-house_white_01](img/building__panel-house_white_01.svg)
 - ![building__panel-house_white_02](img/building__panel-house_white_02.svg)
-

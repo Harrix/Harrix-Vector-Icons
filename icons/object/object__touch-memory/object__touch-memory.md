@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [object]
-tags: [object, touch, memory]
+categories:
+  - object
+tags:
+  - object
+  - touch
+  - memory
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

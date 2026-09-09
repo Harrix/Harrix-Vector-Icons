@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [nature]
-tags: [nature, mushroom_gray_white, 32]
+categories:
+  - nature
+tags:
+  - nature
+  - mushroom_gray_white
+  - 32
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

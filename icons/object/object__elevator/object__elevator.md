@@ -1,7 +1,10 @@
 ---
 date: 2020-07-19
-categories: [object]
-tags: [object, elevator]
+categories:
+  - object
+tags:
+  - object
+  - elevator
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,10 @@
 ---
 date: 2020-09-15
-categories: [object]
-tags: [object, globe]
+categories:
+  - object
+tags:
+  - object
+  - globe
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,11 @@
 ---
 date: 2021-04-11
-categories: [object]
-tags: [object, medal, iii]
+categories:
+  - object
+tags:
+  - object
+  - medal
+  - iii
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,11 @@
 ---
 date: 2020-08-02
-categories: [object]
-tags: [object, watering, can]
+categories:
+  - object
+tags:
+  - object
+  - watering
+  - can
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,10 @@
 ---
 date: 2026-08-12
-categories: [it]
-tags: [it, grid_whitek]
+categories:
+  - it
+tags:
+  - it
+  - grid_whitek
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,10 @@
 ---
 date: 2020-07-19
-categories: [weapon]
-tags: [weapon, sword]
+categories:
+  - weapon
+tags:
+  - weapon
+  - sword
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

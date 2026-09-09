@@ -1,7 +1,11 @@
 ---
 date: 2020-09-13
-categories: [space]
-tags: [space, earth, america]
+categories:
+  - space
+tags:
+  - space
+  - earth
+  - america
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,10 @@
 ---
 date: 2020-11-29
-categories: [object]
-tags: [object, led]
+categories:
+  - object
+tags:
+  - object
+  - led
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

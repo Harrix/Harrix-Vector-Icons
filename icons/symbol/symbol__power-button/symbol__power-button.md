@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [symbol]
-tags: [symbol, power, button]
+categories:
+  - symbol
+tags:
+  - symbol
+  - power
+  - button
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,11 @@
 ---
 date: 2020-11-22
-categories: [nature_animal]
-tags: [nature, animal, ant]
+categories:
+  - nature_animal
+tags:
+  - nature
+  - animal
+  - ant
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

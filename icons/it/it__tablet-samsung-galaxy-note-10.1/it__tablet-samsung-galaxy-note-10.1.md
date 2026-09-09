@@ -1,7 +1,14 @@
 ---
 date: 2020-07-19
-categories: [it]
-tags: [it, tablet, samsung, galaxy, note, 10.1]
+categories:
+  - it
+tags:
+  - it
+  - tablet
+  - samsung
+  - galaxy
+  - note
+  - 10.1
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

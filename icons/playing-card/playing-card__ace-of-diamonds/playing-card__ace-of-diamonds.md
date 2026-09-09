@@ -1,7 +1,12 @@
 ---
 date: 2020-07-19
-categories: [playing-card]
-tags: [playing-card, ace, of, diamonds]
+categories:
+  - playing-card
+tags:
+  - playing-card
+  - ace
+  - of
+  - diamonds
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

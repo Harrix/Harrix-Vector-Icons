@@ -1,7 +1,11 @@
 ---
 date: 2021-06-05
-categories: [space]
-tags: [space, satellite, dish]
+categories:
+  - space
+tags:
+  - space
+  - satellite
+  - dish
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

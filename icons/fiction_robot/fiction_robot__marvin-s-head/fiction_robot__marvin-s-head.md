@@ -1,7 +1,13 @@
 ---
 date: 2020-07-19
-categories: [fiction_robot]
-tags: [fiction, robot, marvin, s, head]
+categories:
+  - fiction_robot
+tags:
+  - fiction
+  - robot
+  - marvin
+  - s
+  - head
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -38,4 +44,3 @@ trademark: true
 - ![fiction_robot__marvin-s-head_white_line-16](img/fiction_robot__marvin-s-head_white_line-16.svg)
 - ![fiction_robot__marvin-s-head_white_line-32](img/fiction_robot__marvin-s-head_white_line-32.svg)
 - ![fiction_robot__marvin-s-head_white_line-8](img/fiction_robot__marvin-s-head_white_line-8.svg)
-

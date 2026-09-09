@@ -1,7 +1,10 @@
 ---
 date: 2020-07-29
-categories: [object]
-tags: [object, fire]
+categories:
+  - object
+tags:
+  - object
+  - fire
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

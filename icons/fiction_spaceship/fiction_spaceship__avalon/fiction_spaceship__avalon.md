@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [fiction_spaceship]
-tags: [fiction, spaceship, avalon]
+categories:
+  - fiction_spaceship
+tags:
+  - fiction
+  - spaceship
+  - avalon
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,4 +30,3 @@ trademark: true
 - ![fiction_spaceship__avalon_black](img/fiction_spaceship__avalon_black.svg)
 - ![fiction_spaceship__avalon_gray](img/fiction_spaceship__avalon_gray.svg)
 - ![fiction_spaceship__avalon_white](img/fiction_spaceship__avalon_white.svg)
-

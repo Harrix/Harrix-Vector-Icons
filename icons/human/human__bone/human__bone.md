@@ -1,7 +1,10 @@
 ---
 date: 2020-07-19
-categories: [human]
-tags: [human, bone]
+categories:
+  - human
+tags:
+  - human
+  - bone
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

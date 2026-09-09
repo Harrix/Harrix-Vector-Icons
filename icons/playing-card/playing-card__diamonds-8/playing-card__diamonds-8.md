@@ -1,7 +1,11 @@
 ---
 date: 2020-08-02
-categories: [playing-card]
-tags: [playing-card, diamonds, 8]
+categories:
+  - playing-card
+tags:
+  - playing-card
+  - diamonds
+  - 8
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

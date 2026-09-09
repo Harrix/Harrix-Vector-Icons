@@ -1,7 +1,11 @@
 ---
 date: 2020-07-19
-categories: [clothes]
-tags: [clothes, gangster, hat]
+categories:
+  - clothes
+tags:
+  - clothes
+  - gangster
+  - hat
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

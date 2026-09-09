@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-categories: [building]
+categories:
+  - building
 tags:
   - house
   - дом
@@ -70,4 +71,3 @@ lang: en
 - ![building__house-with-door_white_line-16](img/building__house-with-door_white_line-16.svg)
 - ![building__house-with-door_white_line-32](img/building__house-with-door_white_line-32.svg)
 - ![building__house-with-door_white_line-8](img/building__house-with-door_white_line-8.svg)
-

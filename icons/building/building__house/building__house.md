@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-categories: [building]
+categories:
+  - building
 tags:
   - building
   - house
@@ -60,4 +61,3 @@ lang: en
 - ![building__house_black](img/building__house_black.svg)
 - ![building__house_gray](img/building__house_gray.svg)
 - ![building__house_white](img/building__house_white.svg)
-

@@ -1,7 +1,12 @@
 ---
 date: 2020-07-19
-categories: [science_shape]
-tags: [science, shape, 5, pentagon]
+categories:
+  - science_shape
+tags:
+  - science
+  - shape
+  - 5
+  - pentagon
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

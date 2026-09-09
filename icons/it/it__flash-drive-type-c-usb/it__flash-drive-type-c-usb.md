@@ -1,7 +1,14 @@
 ---
 date: 2020-07-19
-categories: [it]
-tags: [it, flash, drive, type, c, usb]
+categories:
+  - it
+tags:
+  - it
+  - flash
+  - drive
+  - type
+  - c
+  - usb
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
