@@ -9,9 +9,12 @@ license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink: https://harrix.dev/en/icons/fiction_robot/fiction_robot__terminator
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/fiction_robot/fiction_robot__terminator/fiction_robot__terminator.md
 lang: en
+trademark: true
 ---
 
 # Terminator
+
+⚠️ Editorial Use Only / Trademarked Character
 
 ![Featured image](featured-image.svg)
 
@@ -35,3 +38,4 @@ lang: en
 - ![fiction_robot__terminator_white_02](img/fiction_robot__terminator_white_02.svg)
 - ![fiction_robot__terminator_white_03](img/fiction_robot__terminator_white_03.svg)
 - ![fiction_robot__terminator_white_04](img/fiction_robot__terminator_white_04.svg)
+

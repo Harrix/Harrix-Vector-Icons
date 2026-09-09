@@ -9,9 +9,12 @@ license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink: https://harrix.dev/en/icons/fiction_robot/fiction_robot__marvin-s-head
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/fiction_robot/fiction_robot__marvin-s-head/fiction_robot__marvin-s-head.md
 lang: en
+trademark: true
 ---
 
 # Marvin S Head
+
+⚠️ Editorial Use Only / Trademarked Character
 
 ![Featured image](featured-image.svg)
 
@@ -35,3 +38,4 @@ lang: en
 - ![fiction_robot__marvin-s-head_white_line-16](img/fiction_robot__marvin-s-head_white_line-16.svg)
 - ![fiction_robot__marvin-s-head_white_line-32](img/fiction_robot__marvin-s-head_white_line-32.svg)
 - ![fiction_robot__marvin-s-head_white_line-8](img/fiction_robot__marvin-s-head_white_line-8.svg)
+

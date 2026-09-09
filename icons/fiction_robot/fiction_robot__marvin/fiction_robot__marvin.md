@@ -19,9 +19,12 @@ license-url: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/LICENSE.md
 permalink: https://harrix.dev/en/icons/fiction_robot/fiction_robot__marvin
 permalink-source: https://github.com/Harrix/Harrix-Vector-Icons/blob/main/icons/fiction_robot/fiction_robot__marvin/fiction_robot__marvin.md
 lang: en
+trademark: true
 ---
 
 # Robot Marvin
+
+⚠️ Editorial Use Only / Trademarked Character
 
 ![Featured image](featured-image.svg)
 
@@ -36,3 +39,4 @@ lang: en
 - ![Alt](img/fiction_robot__marvin_black.svg)
 - ![Alt](img/fiction_robot__marvin_gray.svg)
 - ![Alt](img/fiction_robot__marvin_white.svg)
+
