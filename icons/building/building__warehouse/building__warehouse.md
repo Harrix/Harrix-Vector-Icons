@@ -4,7 +4,39 @@ categories:
   - building
 tags:
   - building
+  - здание
   - warehouse
+  - склад
+  - brick wall
+  - кирпичная стена
+  - brick building
+  - кирпичное здание
+  - industrial building
+  - промышленное здание
+  - factory
+  - завод
+  - facility
+  - объект
+  - storage
+  - хранение
+  - storage building
+  - складское здание
+  - exterior
+  - фасад
+  - wall
+  - стена
+  - door
+  - дверь
+  - entrance
+  - вход
+  - roof
+  - крыша
+  - vent
+  - вентиляция
+  - brick facade
+  - кирпичный фасад
+  - industrial facade
+  - промышленный фасад
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +57,4 @@ lang: en
 - ![building__warehouse_black](img/building__warehouse_black.svg)
 - ![building__warehouse_gray](img/building__warehouse_gray.svg)
 - ![building__warehouse_white](img/building__warehouse_white.svg)
+

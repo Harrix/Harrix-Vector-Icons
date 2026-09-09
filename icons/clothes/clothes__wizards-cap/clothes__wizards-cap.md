@@ -3,9 +3,34 @@ date: 2020-07-21
 categories:
   - clothes
 tags:
-  - clothes
-  - wizards
+  - wizard hat
+  - шляпа волшебника
+  - witch hat
+  - шляпа ведьмы
   - cap
+  - кепка
+  - wizards
+  - волшебники
+  - hat
+  - шляпа
+  - magic hat
+  - магическая шляпа
+  - pointed hat
+  - остроконечная шляпа
+  - purple hat
+  - фиолетовая шляпа
+  - fantasy hat
+  - фэнтези шляпа
+  - sorcerer hat
+  - шляпа колдуна
+  - costume hat
+  - карнавальная шляпа
+  - halloween hat
+  - шляпа хэллоуин
+  - cone hat
+  - коническая шляпа
+  - wide brim
+  - широкие поля
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +51,4 @@ lang: en
 - ![clothes__wizards-cap_black](img/clothes__wizards-cap_black.svg)
 - ![clothes__wizards-cap_gray](img/clothes__wizards-cap_gray.svg)
 - ![clothes__wizards-cap_white](img/clothes__wizards-cap_white.svg)
+

@@ -3,9 +3,28 @@ date: 2020-07-19
 categories:
   - clothes
 tags:
-  - clothes
-  - top
+  - top hat
+  - цилиндр
   - hat
+  - шляпа
+  - tall hat
+  - высокая шляпа
+  - formal hat
+  - формальная шляпа
+  - gentleman hat
+  - джентльменская шляпа
+  - magician hat
+  - шляпа фокусника
+  - vintage hat
+  - винтажная шляпа
+  - classic hat
+  - классическая шляпа
+  - black hat
+  - черная шляпа
+  - headwear
+  - головной убор
+  - brim
+  - поля шляпы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -26,3 +45,4 @@ lang: en
 - ![clothes__top-hat_black](img/clothes__top-hat_black.svg)
 - ![clothes__top-hat_gray](img/clothes__top-hat_gray.svg)
 - ![clothes__top-hat_white](img/clothes__top-hat_white.svg)
+

@@ -4,7 +4,32 @@ categories:
   - building
 tags:
   - building
+  - здание
   - stall
+  - киоск
+  - shop
+  - магазин
+  - storefront
+  - витрина
+  - shopfront
+  - фасад магазина
+  - window
+  - окно
+  - display window
+  - панорамное окно
+  - market stall
+  - торговый киоск
+  - kiosk
+  - vendor stall
+  - ларек
+  - wooden facade
+  - деревянный фасад
+  - store window
+  - торговая витрина
+  - front view
+  - вид спереди
+  - exterior
+  - экстерьер
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +50,4 @@ lang: en
 - ![building__stall_black](img/building__stall_black.svg)
 - ![building__stall_gray](img/building__stall_gray.svg)
 - ![building__stall_white](img/building__stall_white.svg)
+

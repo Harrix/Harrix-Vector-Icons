@@ -3,8 +3,37 @@ date: 2020-07-19
 categories:
   - clothes
 tags:
-  - clothes
   - tie
+  - галстук
+  - necktie
+  - formal tie
+  - business tie
+  - red tie
+  - striped tie
+  - striped
+  - diagonal stripes
+  - accessory
+  - fashion accessory
+  - office wear
+  - formal wear
+  - business attire
+  - menswear
+  - men's fashion
+  - clothing
+  - одежда
+  - шейный галстук
+  - формальный галстук
+  - деловой галстук
+  - красный галстук
+  - полосатый галстук
+  - полосатый
+  - диагональные полосы
+  - аксессуар
+  - модный аксессуар
+  - офисная одежда
+  - формальная одежда
+  - деловая одежда
+  - мужская мода
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -25,3 +54,4 @@ lang: en
 - ![clothes__tie_black](img/clothes__tie_black.svg)
 - ![clothes__tie_gray](img/clothes__tie_gray.svg)
 - ![clothes__tie_white](img/clothes__tie_white.svg)
+
