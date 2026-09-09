@@ -32,4 +32,5 @@ lang: en
 - ![nature__mushroom_gray_line-8](img/nature__mushroom_gray_line-8.svg)
 - ![nature__mushroom_white](img/nature__mushroom_white.svg)
 - ![nature__mushroom_white_line-16](img/nature__mushroom_white_line-16.svg)
+- ![nature__mushroom_white_line-32](img/nature__mushroom_white_line-32.svg)
 - ![nature__mushroom_white_line-8](img/nature__mushroom_white_line-8.svg)

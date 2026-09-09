@@ -38,6 +38,7 @@ lang: en
 - ![object__coin_black_04](img/object__coin_black_04.svg)
 - ![object__coin_black_05](img/object__coin_black_05.svg)
 - ![object__coin_black_06](img/object__coin_black_06.svg)
+- ![object__coin_gray](img/object__coin_gray.svg)
 - ![object__coin_gray_01](img/object__coin_gray_01.svg)
 - ![object__coin_gray_02](img/object__coin_gray_02.svg)
 - ![object__coin_gray_03](img/object__coin_gray_03.svg)
