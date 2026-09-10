@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - coaster
+  - подставка
+  - drink coaster
+  - подстаканник
+  - wooden coaster
+  - деревянная подставка
+  - round coaster
+  - круглая подставка
+  - table coaster
+  - настольная подставка
+  - cup coaster
+  - подставка для чашки
+  - beverage coaster
+  - подставка для стакана
+  - wood
+  - дерево
+  - round
+  - круглый
+  - striped
+  - полосатый
+  - wood texture
+  - текстура дерева
+  - placemat
+  - салфетка под чашку
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

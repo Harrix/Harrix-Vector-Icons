@@ -3,11 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pencil
-  - with
-  - elastic
-  - band
+  - карандаш
+  - eraser
+  - ластик
+  - rubber
+  - резинка
+  - green pencil
+  - зеленый карандаш
+  - school pencil
+  - школьный карандаш
+  - wooden pencil
+  - деревянный карандаш
+  - writing tool
+  - пишущий инструмент
+  - stationery
+  - канцелярия
+  - office supply
+  - офисные принадлежности
+  - draw
+  - рисовать
+  - write
+  - писать
+  - sharp pencil
+  - острый карандаш
+  - striped pencil
+  - полосатый карандаш
+  - pink eraser
+  - розовый ластик
+  - yellow ferrule
+  - желтая обойма
+  - hexagonal pencil
+  - шестигранный карандаш
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

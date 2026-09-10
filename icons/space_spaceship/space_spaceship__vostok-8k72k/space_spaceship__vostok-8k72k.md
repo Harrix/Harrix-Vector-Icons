@@ -4,9 +4,38 @@ categories:
   - space_spaceship
 tags:
   - space
+  - космос
   - spaceship
+  - космический корабль
   - vostok
+  - восток
   - 8k72k
+  - rocket
+  - ракета
+  - launch vehicle
+  - ракета-носитель
+  - booster
+  - ускоритель
+  - soyuz
+  - союз
+  - soviet rocket
+  - советская ракета
+  - space rocket
+  - космическая ракета
+  - orbital rocket
+  - орбитальная ракета
+  - carrier rocket
+  - носитель
+  - cosmonautics
+  - космонавтика
+  - launch
+  - запуск
+  - spacecraft
+  - космический аппарат
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

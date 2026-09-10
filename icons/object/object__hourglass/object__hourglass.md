@@ -3,8 +3,39 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - hourglass
+  - песочные часы
+  - sandglass
+  - timer
+  - таймер
+  - time
+  - время
+  - clock
+  - часы
+  - sand timer
+  - песочный таймер
+  - sands of time
+  - песок времени
+  - countdown
+  - обратный отсчет
+  - deadline
+  - дедлайн
+  - waiting
+  - ожидание
+  - glass
+  - стекло
+  - wooden frame
+  - деревянная рамка
+  - retro
+  - ретро
+  - vintage
+  - винтаж
+  - antique
+  - антикварный
+  - measurement
+  - измерение
+  - timepiece
+  - хронометр
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,29 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - weight
+  - вес
+  - гиря
+  - гирька
+  - weight plate
+  - lifting weight
+  - barbell plate
+  - gym weight
+  - fitness
+  - спорт
+  - тренажерный зал
+  - силовая тренировка
+  - heavy
+  - тяжелый
+  - metal
+  - металл
+  - golden
+  - золотой
+  - round weight
+  - exercise equipment
+  - спортивный инвентарь
+  - dumbbell weight
+  - утяжелитель
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

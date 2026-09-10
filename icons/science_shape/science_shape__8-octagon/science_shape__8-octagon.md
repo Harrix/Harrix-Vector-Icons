@@ -3,10 +3,39 @@ date: 2020-07-19
 categories:
   - science_shape
 tags:
-  - science
-  - shape
-  - 8
   - octagon
+  - octagon shape
+  - 8
+  - eight
+  - eight sides
+  - eight points
+  - geometric shape
+  - geometry
+  - polygon
+  - regular polygon
+  - stop sign
+  - ring nodes
+  - connected circles
+  - network
+  - molecule
+  - molecular structure
+  - science
+  - наука
+  - восьмиугольник
+  - октагон
+  - восемь
+  - восемь сторон
+  - восемь точек
+  - геометрическая фигура
+  - геометрия
+  - многоугольник
+  - правильный многоугольник
+  - знак стоп
+  - кольца
+  - соединенные круги
+  - сеть
+  - молекула
+  - молекулярная структура
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

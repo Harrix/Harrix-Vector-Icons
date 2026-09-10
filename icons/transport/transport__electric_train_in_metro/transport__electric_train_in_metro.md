@@ -4,7 +4,43 @@ categories:
   - transport
 tags:
   - transport
-  - electric_train_in_metro
+  - транспорт
+  - electric train
+  - электричка
+  - metro train
+  - поезд метро
+  - subway train
+  - поезд сабвея
+  - train
+  - поезд
+  - railway
+  - железная дорога
+  - rail transport
+  - рельсовый транспорт
+  - commuter train
+  - пригородный поезд
+  - urban train
+  - городской поезд
+  - public transport
+  - общественный транспорт
+  - front view
+  - вид спереди
+  - modern train
+  - современный поезд
+  - train car
+  - вагон поезда
+  - locomotive
+  - локомотив
+  - passenger train
+  - пассажирский поезд
+  - rapid transit
+  - скоростной транспорт
+  - underground
+  - метро
+  - subway
+  - сабвей
+  - electric metro
+  - электрическое метро
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - traffic
-  - lights
+  - светофор
+  - traffic light
+  - сигнал светофора
+  - road signal
+  - дорожный сигнал
+  - stop light
+  - сигнал
+  - red light
+  - красный свет
+  - yellow light
+  - желтый свет
+  - green light
+  - зеленый свет
+  - intersection
+  - перекресток
+  - street
+  - улица
+  - road
+  - дорога
+  - transport
+  - транспорт
+  - urban
+  - городской
+  - pole
+  - столб
+  - lamp
+  - лампа
+  - signal light
+  - сигнальный огонь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,7 +4,29 @@ categories:
   - space
 tags:
   - space
+  - космос
   - moon
+  - луна
+  - full moon
+  - полнолуние
+  - satellite
+  - спутник
+  - lunar
+  - лунный
+  - moon surface
+  - поверхность луны
+  - craters
+  - кратеры
+  - grey moon
+  - серая луна
+  - round moon
+  - круглая луна
+  - celestial body
+  - небесное тело
+  - planet
+  - планета
+  - orb
+  - сфера
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

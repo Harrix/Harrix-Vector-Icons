@@ -3,8 +3,42 @@ date: 2020-07-29
 categories:
   - object
 tags:
-  - object
   - fire
+  - огонь
+  - flame
+  - пламя
+  - blaze
+  - пожар
+  - fire icon
+  - иконка огня
+  - flame icon
+  - иконка пламени
+  - burn
+  - горение
+  - burning
+  - горит
+  - heat
+  - жара
+  - hot
+  - горячий
+  - spark
+  - искра
+  - bonfire
+  - костер
+  - campfire
+  - огонь костра
+  - flame symbol
+  - символ огня
+  - fire symbol
+  - символ пожара
+  - cartoon flame
+  - мультяшное пламя
+  - flat flame
+  - плоское пламя
+  - yellow flame
+  - желтое пламя
+  - orange flame
+  - оранжевое пламя
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

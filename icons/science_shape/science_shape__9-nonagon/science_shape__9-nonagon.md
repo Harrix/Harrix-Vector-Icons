@@ -3,10 +3,38 @@ date: 2020-07-19
 categories:
   - science_shape
 tags:
-  - science
-  - shape
-  - 9
   - nonagon
+  - девятиугольник
+  - 9-sided
+  - 9-угольник
+  - nine sided
+  - девять сторон
+  - polygon
+  - многоугольник
+  - geometric shape
+  - геометрическая фигура
+  - geometry
+  - геометрия
+  - outline
+  - контур
+  - ring
+  - кольцо
+  - circle nodes
+  - круги
+  - circular
+  - круговой
+  - round
+  - круглый
+  - symmetry
+  - симметрия
+  - abstract
+  - абстрактный
+  - green
+  - зеленый
+  - icon
+  - иконка
+  - diagram
+  - диаграмма
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - magnet
+  - магнит
+  - bar magnet
+  - стержневой магнит
+  - magnetic
+  - магнитный
+  - magnetism
+  - магнетизм
+  - attraction
+  - притяжение
+  - physics
+  - физика
+  - horseshoe magnet
+  - подковообразный магнит
+  - red blue
+  - красный синий
+  - magnetic pole
+  - магнитный полюс
+  - north south
+  - север юг
+  - simple icon
+  - простой значок
+  - flat design
+  - плоский дизайн
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

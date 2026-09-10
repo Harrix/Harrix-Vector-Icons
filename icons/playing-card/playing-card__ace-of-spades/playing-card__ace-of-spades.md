@@ -3,10 +3,32 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
   - ace
-  - of
+  - туз
   - spades
+  - пики
+  - ace of spades
+  - туз пик
+  - card
+  - карта
+  - playing card
+  - игральная карта
+  - poker
+  - покер
+  - casino
+  - казино
+  - gambling
+  - азартная игра
+  - deck
+  - колода
+  - suit
+  - масть
+  - spade symbol
+  - символ пики
+  - black suit
+  - черная масть
+  - card game
+  - карточная игра
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

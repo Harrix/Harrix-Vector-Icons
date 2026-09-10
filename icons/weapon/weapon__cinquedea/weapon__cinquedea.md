@@ -4,7 +4,37 @@ categories:
   - weapon
 tags:
   - weapon
+  - оружие
   - cinquedea
+  - чинкведея
+  - dagger
+  - кинжал
+  - sword
+  - меч
+  - blade
+  - клинок
+  - knife
+  - нож
+  - short sword
+  - короткий меч
+  - medieval dagger
+  - средневековый кинжал
+  - renaissance dagger
+  - кинжал ренессанса
+  - parrying dagger
+  - дага
+  - stiletto
+  - стилет
+  - double edged
+  - обоюдоострый
+  - pointed blade
+  - острый клинок
+  - guard
+  - гарда
+  - hilt
+  - рукоять
+  - handle
+  - лезвие
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

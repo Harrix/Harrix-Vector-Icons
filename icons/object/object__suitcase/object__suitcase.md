@@ -3,8 +3,37 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - suitcase
+  - чемодан
+  - luggage
+  - багаж
+  - travel bag
+  - дорожная сумка
+  - baggage
+  - багажник
+  - briefcase
+  - портфель
+  - travel case
+  - дорожный чемодан
+  - vintage suitcase
+  - винтажный чемодан
+  - retro suitcase
+  - ретро чемодан
+  - leather suitcase
+  - кожаный чемодан
+  - handle
+  - ручка
+  - travel
+  - путешествие
+  - trip
+  - поездка
+  - vacation
+  - отпуск
+  - tourism
+  - туризм
+  - journey
+  - baggage case
+  - багажный чемодан
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

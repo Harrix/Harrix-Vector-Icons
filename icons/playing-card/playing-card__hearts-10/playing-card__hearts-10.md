@@ -3,9 +3,35 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
+  - playing card
+  - игральная карта
   - hearts
+  - черви
   - 10
+  - десятка
+  - ten
+  - десятка червей
+  - ten hearts
+  - card game
+  - карточная игра
+  - deck
+  - колода
+  - suit
+  - масть
+  - heart suit
+  - масть черви
+  - red suit
+  - красная масть
+  - poker
+  - покер
+  - casino
+  - казино
+  - gambling
+  - азартная игра
+  - card face
+  - лицевая сторона
+  - number card
+  - числовая карта
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

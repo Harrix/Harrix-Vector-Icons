@@ -3,9 +3,35 @@ date: 2020-07-19
 categories:
   - nature
 tags:
-  - nature
   - fir
+  - пихта
   - 3d
+  - tree
+  - дерево
+  - pine
+  - сосна
+  - spruce
+  - ель
+  - conifer
+  - хвойное
+  - evergreen
+  - вечнозеленое
+  - forest tree
+  - лесное дерево
+  - christmas tree
+  - новогодняя елка
+  - green tree
+  - зеленое дерево
+  - cartoon tree
+  - мультяшное дерево
+  - layered tree
+  - многослойное дерево
+  - stylized tree
+  - стилизованное дерево
+  - coniferous tree
+  - хвойное дерево
+  - forest
+  - лес
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

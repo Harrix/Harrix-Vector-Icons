@@ -3,9 +3,56 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - bunker
+  - бункер
   - door
+  - дверь
+  - vault
+  - хранилище
+  - safe
+  - сейф
+  - vault door
+  - дверь сейфа
+  - safe door
+  - дверь хранилища
+  - steel door
+  - стальная дверь
+  - metal door
+  - металлическая дверь
+  - bank vault
+  - банковское хранилище
+  - secure door
+  - защитная дверь
+  - security door
+  - дверь безопасности
+  - sealed door
+  - гермодверь
+  - blast door
+  - взрывозащитная дверь
+  - wheel lock
+  - запорное колесо
+  - locking wheel
+  - штурвал
+  - lock mechanism
+  - запорный механизм
+  - crossbar
+  - засов
+  - heavy door
+  - тяжелая дверь
+  - reinforced
+  - усиленный
+  - protected
+  - защищенный
+  - closed
+  - закрыто
+  - locked
+  - заперто
+  - fortress
+  - крепость
+  - underground shelter
+  - подземное убежище
+  - shelter door
+  - дверь убежища
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

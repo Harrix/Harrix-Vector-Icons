@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
   - not
+  - не
+  - cross
+  - крест
+  - x
+  - икс
+  - close
+  - закрыть
+  - cancel
+  - отмена
+  - remove
+  - удалить
+  - delete
+  - delete mark
+  - error
+  - ошибка
+  - wrong
+  - неверно
+  - incorrect
+  - incorrecto
+  - no
+  - нет
+  - minus
+  - минус
+  - stop
+  - стоп
+  - forbidden
+  - запрещено
+  - red cross
+  - красный крест
+  - cross mark
+  - метка крест
+  - x mark
+  - знак x
+  - times
+  - умножение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

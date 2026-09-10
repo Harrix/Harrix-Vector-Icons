@@ -4,8 +4,32 @@ categories:
   - space
 tags:
   - space
+  - космос
   - soyuz
+  - союз
   - ms
+  - ракета
+  - rocket
+  - spacecraft
+  - космический корабль
+  - launch vehicle
+  - ракета-носитель
+  - soyuz ms
+  - союз мс
+  - soyuz rocket
+  - ракета союз
+  - booster
+  - ускоритель
+  - orbital
+  - орбитальный
+  - russian
+  - русский
+  - russia
+  - россия
+  - cosmonautics
+  - космонавтика
+  - launcher
+  - носитель
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

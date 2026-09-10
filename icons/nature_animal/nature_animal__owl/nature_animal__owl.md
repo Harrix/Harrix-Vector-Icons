@@ -4,8 +4,41 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - owl
+  - сова
+  - bird
+  - птица
+  - forest bird
+  - лесная птица
+  - raptor
+  - хищная птица
+  - nocturnal bird
+  - ночная птица
+  - wildlife
+  - дикая природа
+  - feathers
+  - перья
+  - beak
+  - клюв
+  - wings
+  - крылья
+  - big eyes
+  - большие глаза
+  - gray owl
+  - серая сова
+  - wise owl
+  - мудрая сова
+  - flat design
+  - плоский стиль
+  - cartoon owl
+  - мультяшная сова
+  - cute owl
+  - милая сова
+  - perched owl
+  - сидящая сова
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

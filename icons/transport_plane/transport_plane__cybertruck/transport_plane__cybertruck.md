@@ -4,8 +4,41 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - cybertruck
+  - кибертрак
+  - car
+  - автомобиль
+  - truck
+  - грузовик
+  - pickup
+  - пикап
+  - electric car
+  - электромобиль
+  - tesla
+  - тесла
+  - tesla truck
+  - грузовик tesla
+  - futuristic car
+  - футуристичный автомобиль
+  - angular car
+  - угловатый автомобиль
+  - polygonal car
+  - полигональная машина
+  - silver car
+  - серебристая машина
+  - side view
+  - вид сбоку
+  - vehicle
+  - транспортное средство
+  - auto
+  - авто
+  - concept car
+  - концепт кар
+  - modern truck
+  - современный грузовик
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

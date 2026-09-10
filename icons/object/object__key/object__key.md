@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - key
+  - ключ
+  - metal key
+  - металлический ключ
+  - door key
+  - дверной ключ
+  - house key
+  - ключ от дома
+  - lock key
+  - ключ от замка
+  - silver key
+  - серебряный ключ
+  - flat key
+  - плоский ключ
+  - simple key
+  - простой ключ
+  - security key
+  - ключ безопасности
+  - unlock
+  - открыть
+  - access
+  - доступ
+  - lock
+  - замок
+  - metal
+  - металл
+  - gray
+  - серый
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,40 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
-  - back
+  - card back
+  - рубашка карты
   - atlas
+  - атлас
+  - playing card
+  - игральная карта
+  - plaid
+  - клетка
+  - tartan
+  - шотландка
+  - checkered
+  - клетчатый
+  - diamond pattern
+  - ромбовый узор
+  - crisscross
+  - перекрестные линии
+  - geometric pattern
+  - геометрический узор
+  - ornament
+  - орнамент
+  - textile pattern
+  - текстильный узор
+  - green
+  - зеленый
+  - pink
+  - розовый
+  - white
+  - белый
+  - striped
+  - полосатый
+  - diagonal lines
+  - диагональные линии
+  - seamless pattern
+  - бесшовный узор
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

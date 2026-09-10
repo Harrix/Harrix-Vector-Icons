@@ -4,9 +4,50 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
-  - 2
+  - форма
   - segment
+  - сегмент
+  - line
+  - линия
+  - vertical line
+  - вертикальная линия
+  - connected circles
+  - соединенные круги
+  - two circles
+  - два круга
+  - node
+  - узел
+  - узелок
+  - connection
+  - соединение
+  - link
+  - связь
+  - connector
+  - коннектор
+  - ring
+  - кольцо
+  - circle
+  - круг
+  - outline circle
+  - контурный круг
+  - dumbbell
+  - гантель
+  - molecule
+  - молекула
+  - molecular bond
+  - молекулярная связь
+  - atom
+  - атом
+  - diagram
+  - диаграмма
+  - scheme
+  - схема
+  - geometric
+  - геометрический
+  - symbol
+  - символ
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

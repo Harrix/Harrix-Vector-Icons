@@ -4,9 +4,31 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
-  - 1
+  - форма
   - point
+  - точка
+  - circle
+  - круг
+  - ring
+  - кольцо
+  - donut
+  - бублик
+  - annulus
+  - аннулус
+  - hollow circle
+  - полый круг
+  - round
+  - круглый
+  - green circle
+  - зеленый круг
+  - geometric
+  - геометрический
+  - symbol
+  - символ
+  - outline
+  - контур
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

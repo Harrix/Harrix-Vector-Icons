@@ -3,9 +3,44 @@ date: 2020-09-03
 categories:
   - transport
 tags:
-  - transport
   - electric
+  - электрический
   - scooter
+  - самокат
+  - electric scooter
+  - электросамокат
+  - kick scooter
+  - городской самокат
+  - e-scooter
+  - escooter
+  - personal transport
+  - персональный транспорт
+  - urban mobility
+  - микромобильность
+  - two wheel
+  - два колеса
+  - handlebar
+  - руль
+  - deck
+  - платформа
+  - wheel
+  - колесо
+  - ride
+  - поездка
+  - rental scooter
+  - прокат самокатов
+  - commuter
+  - городской транспорт
+  - standup scooter
+  - скутер
+  - minimal
+  - минималистичный
+  - flat
+  - плоский
+  - outline
+  - контурный
+  - side view
+  - вид сбоку
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

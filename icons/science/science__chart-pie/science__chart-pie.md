@@ -3,9 +3,38 @@ date: 2020-07-19
 categories:
   - science
 tags:
-  - science
   - chart
+  - диаграмма
   - pie
+  - круговая диаграмма
+  - pie chart
+  - секторная диаграмма
+  - graph
+  - график
+  - statistics
+  - статистика
+  - data
+  - данные
+  - analytics
+  - аналитика
+  - report
+  - отчет
+  - infographic
+  - инфографика
+  - business chart
+  - бизнес диаграмма
+  - percentage
+  - процент
+  - segments
+  - сегменты
+  - circle graph
+  - круговой график
+  - diagram
+  - схема
+  - finance
+  - финансы
+  - analysis
+  - анализ
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

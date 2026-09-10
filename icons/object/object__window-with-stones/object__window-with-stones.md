@@ -3,10 +3,46 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - window
-  - with
+  - окно
   - stones
+  - камни
+  - arched window
+  - арочное окно
+  - brick window
+  - кирпичное окно
+  - brick wall
+  - кирпичная стена
+  - arch
+  - арка
+  - glass
+  - стекло
+  - pane
+  - оконное стекло
+  - window frame
+  - оконная рама
+  - mullion
+  - импост
+  - facade
+  - фасад
+  - building exterior
+  - экстерьер здания
+  - old window
+  - старое окно
+  - vintage window
+  - винтажное окно
+  - house window
+  - окно дома
+  - blue glass
+  - синее стекло
+  - rounded top
+  - закругленный верх
+  - semicircle
+  - полукруг
+  - stone frame
+  - каменная рама
+  - masonry
+  - кладка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

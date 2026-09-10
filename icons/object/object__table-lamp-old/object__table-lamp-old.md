@@ -3,10 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - table
+  - table lamp
+  - настольная лампа
   - lamp
+  - лампа
+  - desk lamp
+  - офисная лампа
+  - reading lamp
+  - лампа для чтения
+  - light
+  - свет
+  - lighting
+  - освещение
+  - green lamp
+  - зеленая лампа
+  - modern lamp
+  - современная лампа
+  - flexible neck
+  - гибкая стойка
+  - gooseneck lamp
+  - лампа гусиная шея
+  - bulb
+  - лампочка
+  - shade
+  - абажур
+  - home office
+  - домашний офис
+  - workspace
+  - рабочее место
+  - interior
+  - интерьер
+  - furniture
+  - мебель
   - old
+  - старый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

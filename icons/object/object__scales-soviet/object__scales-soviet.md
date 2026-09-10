@@ -3,9 +3,52 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - scales
+  - весы
   - soviet
+  - советский
+  - balance
+  - баланс
+  - scale
+  - шкала
+  - weighing scale
+  - весы механические
+  - mechanical scale
+  - механические весы
+  - analog scale
+  - аналоговые весы
+  - dial
+  - циферблат
+  - pointer
+  - стрелка
+  - gauge
+  - измеритель
+  - weight
+  - гиря
+  - weights
+  - гири
+  - counterweight
+  - противовес
+  - measurement
+  - измерение
+  - weighing
+  - взвешивание
+  - kitchen scale
+  - кухонные весы
+  - vintage scale
+  - винтажные весы
+  - retro scale
+  - ретро весы
+  - old scale
+  - старые весы
+  - market scale
+  - рыночные весы
+  - shop scale
+  - магазинные весы
+  - trade scale
+  - торговые весы
+  - antique
+  - антикварный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

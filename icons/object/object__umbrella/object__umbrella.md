@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - umbrella
+  - зонт
+  - rain umbrella
+  - зонт от дождя
+  - parasol
+  - зонтик
+  - open umbrella
+  - открытый зонт
+  - handle
+  - ручка
+  - hook handle
+  - изогнутая ручка
+  - canopy
+  - купол
+  - rain protection
+  - защита от дождя
+  - weather
+  - погода
+  - accessory
+  - аксессуар
+  - teal umbrella
+  - бирюзовый зонт
+  - sunshade
+  - тент
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

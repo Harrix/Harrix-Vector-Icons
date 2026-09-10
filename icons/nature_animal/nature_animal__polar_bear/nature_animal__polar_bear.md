@@ -4,8 +4,39 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
-  - polar_bear
+  - животное
+  - polar bear
+  - белый медведь
+  - bear
+  - медведь
+  - bear head
+  - голова медведя
+  - bear face
+  - морда медведя
+  - arctic
+  - арктика
+  - wildlife
+  - дикая природа
+  - mammal
+  - млекопитающее
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - avatar
+  - аватар
+  - face
+  - лицо
+  - head
+  - голова
+  - zoo
+  - зоопарк
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

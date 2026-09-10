@@ -3,8 +3,29 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - bulb
+  - лампа
+  - light bulb
+  - лампочка
+  - led bulb
+  - светодиодная лампа
+  - lamp
+  - светильник
+  - electric lamp
+  - электрическая лампа
+  - lighting
+  - освещение
+  - idea
+  - идея
+  - energy
+  - энергия
+  - glow
+  - свечение
+  - screw base
+  - цоколь
+  - e27
+  - edison bulb
+  - лампа эдисона
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

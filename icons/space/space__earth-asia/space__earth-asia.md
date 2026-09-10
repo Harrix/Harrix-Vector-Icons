@@ -3,9 +3,42 @@ date: 2020-09-13
 categories:
   - space
 tags:
-  - space
   - earth
+  - земля
   - asia
+  - азия
+  - globe
+  - глобус
+  - planet
+  - планета
+  - world
+  - мир
+  - map
+  - карта
+  - asia map
+  - карта азии
+  - eurasia
+  - евразия
+  - india
+  - индия
+  - china
+  - китай
+  - russia
+  - россия
+  - middle east
+  - ближний восток
+  - africa
+  - африка
+  - indian ocean
+  - индийский океан
+  - continent
+  - континент
+  - global
+  - глобальный
+  - world map
+  - карта мира
+  - planet earth
+  - планета земля
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

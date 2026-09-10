@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - shield
+  - щит
+  - wooden shield
+  - деревянный щит
+  - armor
+  - броня
+  - protection
+  - защита
+  - defense
+  - оборона
+  - medieval
+  - средневековый
+  - knight
+  - рыцарь
+  - heraldic
+  - геральдический
+  - emblem
+  - эмблема
+  - crest
+  - герб
+  - wood
+  - дерево
+  - plank
+  - доска
+  - rivets
+  - заклепки
+  - round shield
+  - круглый щит
+  - battle
+  - битва
+  - warrior
+  - воин
+  - fantasy
+  - фэнтези
+  - game asset
+  - игровой объект
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

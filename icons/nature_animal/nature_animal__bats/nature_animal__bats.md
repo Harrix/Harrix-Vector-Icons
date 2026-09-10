@@ -4,8 +4,43 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - bats
+  - летучие мыши
+  - bat
+  - летучая мышь
+  - flying bat
+  - летящая мышь
+  - flying
+  - полет
+  - wings
+  - крылья
+  - winged
+  - крылатый
+  - silhouette
+  - силуэт
+  - flock
+  - стая
+  - night
+  - ночь
+  - moon
+  - луна
+  - full moon
+  - полная луна
+  - nocturnal
+  - ночной
+  - halloween
+  - хэллоуин
+  - spooky
+  - жуткий
+  - dark
+  - темный
+  - sky
+  - небо
+  - wildlife
+  - дикая природа
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - stopwatch
+  - секундомер
+  - timer
+  - таймер
+  - chronometer
+  - хронометр
+  - timepiece
+  - измеритель времени
+  - watch
+  - часы
+  - pocket watch
+  - карманные часы
+  - sport timer
+  - спортивный таймер
+  - countdown
+  - обратный отсчет
+  - time measurement
+  - измерение времени
+  - dial
+  - циферблат
+  - clock face
+  - часовой циферблат
+  - hand
+  - стрелка
+  - analog
+  - аналоговый
+  - round
+  - круглый
+  - mechanical
+  - механический
+  - precision
+  - точность
+  - seconds
+  - секунды
+  - minute scale
+  - минутная шкала
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

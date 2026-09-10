@@ -3,8 +3,43 @@ date: 2020-07-19
 categories:
   - science
 tags:
-  - science
   - abacus
+  - счеты
+  - science
+  - наука
+  - calculator
+  - калькулятор
+  - counting
+  - счет
+  - count
+  - подсчет
+  - calculation
+  - вычисление
+  - math
+  - математика
+  - arithmetic
+  - арифметика
+  - accounting
+  - бухгалтерия
+  - education
+  - образование
+  - school
+  - школа
+  - learning
+  - обучение
+  - wooden frame
+  - деревянная рамка
+  - beads
+  - бусины
+  - counting frame
+  - счетная рамка
+  - mathematics
+  - manual calculator
+  - ручной калькулятор
+  - ancient calculator
+  - древний калькулятор
+  - numeracy
+  - счетоводство
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

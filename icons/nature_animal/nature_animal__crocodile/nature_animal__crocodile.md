@@ -4,8 +4,42 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - crocodile
+  - крокодил
+  - alligator
+  - аллигатор
+  - reptile
+  - рептилия
+  - gator
+  - кайман
+  - caiman
+  - зубы
+  - teeth
+  - jaws
+  - челюсти
+  - snout
+  - морда
+  - head
+  - голова
+  - green
+  - зеленый
+  - wildlife
+  - дикая природа
+  - predator
+  - хищник
+  - dangerous
+  - опасный
+  - flat
+  - плоский
+  - cartoon
+  - мультяшный
+  - profile
+  - профиль
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

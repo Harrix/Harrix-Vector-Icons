@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - space
 tags:
-  - space
   - rocket
+  - ракета
+  - space rocket
+  - космическая ракета
+  - launch vehicle
+  - ракета носитель
+  - booster
+  - ускоритель
+  - missile
+  - ракетный аппарат
+  - spacecraft
+  - космический аппарат
+  - shuttle
+  - шаттл
+  - aerospace
+  - аэрокосмический
+  - vertical rocket
+  - вертикальная ракета
+  - gray rocket
+  - серая ракета
+  - pointed nose
+  - заостренный нос
+  - fins
+  - стабилизаторы
+  - thruster
+  - двигатель
+  - launch
+  - запуск
+  - cosmos
+  - космос
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,7 +4,35 @@ categories:
   - nature
 tags:
   - nature
+  - природа
   - fir
+  - пихта
+  - tree
+  - дерево
+  - evergreen
+  - вечнозеленое
+  - conifer
+  - хвойное
+  - pine
+  - сосна
+  - spruce
+  - ель
+  - forest tree
+  - лесное дерево
+  - christmas tree
+  - новогодняя елка
+  - green tree
+  - зеленое дерево
+  - cone tree
+  - хвойное дерево
+  - silhouette
+  - силуэт
+  - flat
+  - плоский
+  - simple
+  - простой
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

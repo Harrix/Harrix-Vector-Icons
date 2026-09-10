@@ -3,8 +3,39 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - coin
+  - монета
+  - five
+  - пять
+  - 5
+  - gold coin
+  - золотая монета
+  - money
+  - деньги
+  - currency
+  - валюта
+  - token
+  - жетон
+  - round coin
+  - круглая монета
+  - golden
+  - золотой
+  - cash
+  - наличные
+  - number 5
+  - цифра 5
+  - five coin
+  - монета 5
+  - game coin
+  - игровая монета
+  - casino chip
+  - фишка казино
+  - medal
+  - медаль
+  - circle
+  - круг
+  - gold
+  - золото
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

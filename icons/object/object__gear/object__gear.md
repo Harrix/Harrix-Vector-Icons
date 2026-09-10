@@ -3,8 +3,33 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - gear
+  - шестерня
+  - cog
+  - зубчатое колесо
+  - cogwheel
+  - шестеренка
+  - gear wheel
+  - механизм
+  - mechanism
+  - machine part
+  - деталь машины
+  - sprocket
+  - звездочка
+  - rotor
+  - ротор
+  - wheel
+  - колесо
+  - metal gear
+  - металлическая шестерня
+  - industrial
+  - промышленный
+  - engineering
+  - инженерия
+  - settings
+  - настройки
+  - circular gear
+  - круглая шестерня
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

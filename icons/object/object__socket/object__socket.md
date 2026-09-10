@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - socket
+  - розетка
+  - power socket
+  - электрическая розетка
+  - electrical outlet
+  - штепсельная розетка
+  - wall outlet
+  - настенная розетка
+  - european socket
+  - европейская розетка
+  - schuko
+  - шуко
+  - power outlet
+  - сетевой разъем
+  - electric plug
+  - электрическая вилка
+  - electricity
+  - электричество
+  - power
+  - питание
+  - energy
+  - энергия
+  - wall plate
+  - лицевая панель
+  - plug point
+  - точка питания
+  - grounded socket
+  - розетка с заземлением
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - wrench
+  - гаечный ключ
+  - spanner
+  - рожковый ключ
+  - open-end wrench
+  - open end spanner
+  - инструмент
+  - tool
+  - repair
+  - ремонт
+  - maintenance
+  - обслуживание
+  - mechanic
+  - механик
+  - hardware
+  - ручной инструмент
+  - metal wrench
+  - металлический ключ
+  - workshop
+  - мастерская
+  - equipment
+  - оборудование
+  - fix
+  - чинить
+  - service
+  - сервис
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,26 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - soccer
+  - футбол
   - ball
+  - мяч
+  - soccer ball
+  - футбольный мяч
+  - football
+  - football ball
+  - спортивный мяч
+  - sports ball
+  - sport
+  - спорт
+  - game
+  - игра
+  - match
+  - матч
+  - round
+  - круглый
+  - black white
+  - черно-белый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

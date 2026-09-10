@@ -3,8 +3,32 @@ date: 2021-04-04
 categories:
   - object
 tags:
-  - object
   - brush
+  - кисть
+  - paintbrush
+  - кисточка
+  - paint brush
+  - художественная кисть
+  - art brush
+  - кисть для рисования
+  - artist brush
+  - кисть художника
+  - round brush
+  - круглая кисть
+  - drawing brush
+  - малярная кисть
+  - paint tool
+  - инструмент рисования
+  - wooden handle
+  - деревянная ручка
+  - bristles
+  - щетина
+  - art supplies
+  - художественные принадлежности
+  - painting
+  - живопись
+  - watercolor brush
+  - акварельная кисть
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

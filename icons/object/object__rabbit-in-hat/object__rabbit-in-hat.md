@@ -3,10 +3,31 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - rabbit
-  - in
+  - кролик
   - hat
+  - шляпа
+  - top hat
+  - цилиндр
+  - magic hat
+  - волшебная шляпа
+  - magician
+  - фокусник
+  - magic
+  - магия
+  - illusion
+  - иллюзия
+  - trick
+  - трюк
+  - bunny
+  - заяц
+  - rabbit ears
+  - уши кролика
+  - hare
+  - magic trick
+  - фокус
+  - wizard hat
+  - шляпа фокусника
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

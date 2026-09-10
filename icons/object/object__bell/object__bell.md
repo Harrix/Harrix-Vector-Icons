@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - bell
+  - колокол
+  - handbell
+  - ручной колокол
+  - golden bell
+  - золотой колокол
+  - brass bell
+  - латунный колокол
+  - ringing bell
+  - звонок
+  - church bell
+  - церковный колокол
+  - school bell
+  - школьный звонок
+  - alarm bell
+  - тревожный звонок
+  - notification bell
+  - колокольчик
+  - chime
+  - перезвон
+  - ding
+  - звон
+  - clapper
+  - язык колокола
+  - metal bell
+  - металлический колокол
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

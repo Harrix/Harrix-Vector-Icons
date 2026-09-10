@@ -3,8 +3,23 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - fridge
+  - холодильник
+  - refrigerator
+  - морозильник
+  - freezer
+  - двухдверный холодильник
+  - double door
+  - kitchen appliance
+  - кухонная техника
+  - appliance
+  - бытовая техника
+  - retro fridge
+  - серый холодильник
+  - top freezer
+  - верхняя морозилка
+  - home appliance
+  - домашняя техника
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

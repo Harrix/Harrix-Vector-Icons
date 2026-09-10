@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - railway
+  - железная дорога
+  - railroad
+  - рельсовая дорога
+  - train track
+  - железнодорожный путь
+  - rail track
+  - рельсовый путь
+  - tracks
+  - рельсы
+  - rails
+  - шпалы
+  - wooden sleepers
+  - деревянные шпалы
+  - railway line
+  - жд путь
+  - track
+  - путь
+  - transport
+  - транспорт
+  - infrastructure
+  - инфраструктура
+  - metal rails
+  - металлические рельсы
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

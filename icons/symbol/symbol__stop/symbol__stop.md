@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
   - stop
+  - стоп
+  - no entry
+  - нет входа
+  - prohibited
+  - запрещено
+  - forbidden
+  - запрет
+  - minus
+  - минус
+  - negative
+  - отрицательный
+  - remove
+  - удалить
+  - block
+  - блок
+  - blocked
+  - заблокировано
+  - restriction
+  - ограничение
+  - do not enter
+  - не входить
+  - cancel
+  - отмена
+  - ban
+  - запретить
+  - prohibition sign
+  - знак запрета
+  - red circle
+  - красный круг
+  - horizontal bar
+  - горизонтальная полоса
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

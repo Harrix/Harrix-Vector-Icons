@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - nature
 tags:
-  - nature
   - mountain
+  - гора
+  - peak
+  - пик
+  - summit
+  - вершина
+  - alp
+  - альпы
+  - cliff
+  - скала
+  - rock
+  - камень
+  - snow
+  - снег
+  - snowy peak
+  - снежная вершина
+  - ridge
+  - хребет
+  - landscape
+  - пейзаж
+  - geometric
+  - геометрический
+  - flat
+  - плоский
+  - triangle
+  - треугольник
+  - minimal
+  - минимализм
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,7 +4,39 @@ categories:
   - symbol
 tags:
   - symbol
+  - символ
   - prohibition
+  - запрет
+  - forbidden
+  - запрещено
+  - ban
+  - запрещать
+  - no
+  - нет
+  - stop
+  - стоп
+  - restriction
+  - ограничение
+  - forbidden sign
+  - знак запрета
+  - no sign
+  - знак нет
+  - prohibited
+  - запрещенный
+  - blocked
+  - заблокировано
+  - red circle
+  - красный круг
+  - diagonal line
+  - диагональная линия
+  - slash
+  - перечеркивание
+  - crossed out
+  - зачеркнуто
+  - warning sign
+  - предупреждающий знак
+  - forbid
+  - արգելիչ
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

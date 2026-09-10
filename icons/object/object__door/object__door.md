@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - door
+  - дверь
+  - wooden door
+  - деревянная дверь
+  - interior door
+  - межкомнатная дверь
+  - closed door
+  - закрытая дверь
+  - door panel
+  - дверное полотно
+  - door frame
+  - дверная рама
+  - door handle
+  - дверная ручка
+  - entrance
+  - вход
+  - doorway
+  - дверной проем
+  - home door
+  - домашняя дверь
+  - room door
+  - дверь комнаты
+  - brown door
+  - коричневая дверь
+  - panel door
+  - филенчатая дверь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - screwdriver
+  - отвертка
   - simple
+  - простой
+  - tool
+  - инструмент
+  - hand tool
+  - ручной инструмент
+  - flathead
+  - плоская отвертка
+  - slotted
+  - шлицевая
+  - repair
+  - ремонт
+  - hardware
+  - инструмент для ремонта
+  - utility
+  - приспособление
+  - handle
+  - рукоятка
+  - metal shaft
+  - металлический стержень
+  - silhouette
+  - силуэт
+  - icon
+  - значок
+  - outline
+  - контур
+  - blue
+  - синий
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - alarm
+  - будильник
+  - alarm clock
+  - alarm bell
+  - clock
+  - часы
+  - time
+  - время
+  - wake up
+  - подъем
+  - morning
+  - утро
+  - ringing
+  - звонок
+  - analog clock
+  - аналоговые часы
+  - retro clock
+  - ретро часы
+  - vintage clock
+  - винтажные часы
+  - blue clock
+  - синий будильник
+  - round clock
+  - круглые часы
+  - table clock
+  - настольные часы
+  - bedside clock
+  - прикроватный будильник
+  - timer
+  - таймер
+  - schedule
+  - расписание
+  - deadline
+  - дедлайн
+  - reminder
+  - напоминание
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

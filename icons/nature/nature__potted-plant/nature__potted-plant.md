@@ -3,9 +3,54 @@ date: 2020-07-19
 categories:
   - nature
 tags:
-  - nature
-  - potted
   - plant
+  - растение
+  - potted
+  - горшечное
+  - potted plant
+  - растение в горшке
+  - flower pot
+  - цветочный горшок
+  - pot
+  - горшок
+  - planter
+  - кашпо
+  - houseplant
+  - комнатное растение
+  - indoor plant
+  - домашнее растение
+  - greenery
+  - зелень
+  - foliage
+  - листва
+  - leaves
+  - листья
+  - herb
+  - трава
+  - basil
+  - базилик
+  - mint
+  - мята
+  - seedling
+  - саженец
+  - sprout
+  - росток
+  - garden
+  - сад
+  - gardening
+  - садоводство
+  - botanical
+  - ботанический
+  - green plant
+  - зеленое растение
+  - terracotta pot
+  - терракотовый горшок
+  - ceramic pot
+  - керамический горшок
+  - leafy plant
+  - лиственное растение
+  - container plant
+  - контейнерное растение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

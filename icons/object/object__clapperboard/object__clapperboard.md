@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - clapperboard
+  - хлопушка
+  - film slate
+  - кинохлопушка
+  - movie slate
+  - кинематограф
+  - cinema
+  - кино
+  - film
+  - фильм
+  - movie
+  - съемка
+  - filming
+  - video
+  - видео
+  - director board
+  - режиссерская хлопушка
+  - production
+  - продакшн
+  - shooting
+  - slate
+  - хлопушка кино
+  - movie production
+  - кинопроизводство
+  - recording
+  - запись
+  - media
+  - медиа
+  - studio
+  - студия
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

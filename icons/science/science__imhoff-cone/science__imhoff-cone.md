@@ -3,9 +3,40 @@ date: 2020-07-19
 categories:
   - science
 tags:
-  - science
   - imhoff
+  - имхофф
   - cone
+  - конус
+  - conical tube
+  - коническая пробирка
+  - centrifuge tube
+  - центрифужная пробирка
+  - test tube
+  - пробирка
+  - graduated tube
+  - градуированная пробирка
+  - measuring tube
+  - измерительная пробирка
+  - lab tube
+  - лабораторная пробирка
+  - sample tube
+  - пробирка образец
+  - sedimentation cone
+  - седиментационный конус
+  - measuring scale
+  - мерная шкала
+  - graduation marks
+  - деления шкалы
+  - laboratory
+  - лаборатория
+  - lab equipment
+  - лабораторное оборудование
+  - chemistry
+  - химия
+  - analysis
+  - анализ
+  - liquid sample
+  - образец жидкости
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

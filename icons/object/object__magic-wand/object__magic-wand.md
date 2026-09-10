@@ -3,9 +3,48 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - magic
+  - магия
   - wand
+  - палочка
+  - magic wand
+  - волшебная палочка
+  - star
+  - звезда
+  - stars
+  - звезды
+  - sparkle
+  - искра
+  - sparkles
+  - искры
+  - glitter
+  - блеск
+  - fairy wand
+  - палочка феи
+  - wizard wand
+  - палочка волшебника
+  - magic stick
+  - магический жезл
+  - star trail
+  - след звезд
+  - shooting stars
+  - падающие звезды
+  - twinkle
+  - мерцание
+  - fantasy
+  - фэнтези
+  - spell
+  - заклинание
+  - enchantment
+  - чары
+  - magic dust
+  - волшебная пыль
+  - starburst
+  - звездочка
+  - cartoon
+  - мультяшный
+  - colorful
+  - цветной
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

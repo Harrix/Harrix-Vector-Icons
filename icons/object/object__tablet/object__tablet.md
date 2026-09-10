@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - tablet
+  - планшет
+  - clipboard
+  - клипборд
+  - writing board
+  - доска с зажимом
+  - checklist
+  - чеклист
+  - document
+  - документ
+  - paper
+  - бумага
+  - form
+  - форма
+  - list
+  - список
+  - notes
+  - заметки
+  - memo
+  - памятка
+  - record
+  - запись
+  - report
+  - отчет
+  - sheet
+  - лист
+  - office
+  - офис
+  - stationery
+  - канцелярия
+  - clip
+  - зажим
+  - blank form
+  - бланк
+  - document board
+  - планшет для бумаг
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

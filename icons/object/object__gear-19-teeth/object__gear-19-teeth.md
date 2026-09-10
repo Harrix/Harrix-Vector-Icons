@@ -3,10 +3,39 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - gear
-  - 19
+  - шестерня
   - teeth
+  - зубья
+  - cog
+  - зубчатое колесо
+  - cogwheel
+  - шестеренка
+  - gearwheel
+  - механизм
+  - mechanism
+  - settings
+  - настройки
+  - engineering
+  - инженерия
+  - machine part
+  - деталь машины
+  - mechanical
+  - механический
+  - industrial
+  - промышленный
+  - sprocket
+  - звездочка
+  - wheel
+  - колесо
+  - rotary
+  - вращение
+  - metal
+  - металл
+  - gray
+  - серый
+  - icon
+  - значок
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

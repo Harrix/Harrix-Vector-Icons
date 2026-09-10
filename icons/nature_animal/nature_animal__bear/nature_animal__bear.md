@@ -3,9 +3,42 @@ date: 2020-07-19
 categories:
   - nature_animal
 tags:
-  - nature
-  - animal
   - bear
+  - медведь
+  - animal
+  - животное
+  - nature
+  - природа
+  - bear face
+  - морда медведя
+  - brown bear
+  - бурый медведь
+  - head
+  - голова
+  - face
+  - морда
+  - wild animal
+  - дикое животное
+  - forest animal
+  - лесное животное
+  - mammal
+  - млекопитающее
+  - cartoon
+  - мультяшный
+  - cute
+  - милый
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - avatar
+  - аватар
+  - emoji
+  - эмодзи
+  - teddy bear
+  - плюшевый мишка
+  - bear head
+  - голова медведя
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

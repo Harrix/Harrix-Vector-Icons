@@ -3,9 +3,31 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
+  - playing card
+  - игральная карта
   - spades
-  - 09
+  - пики
+  - 9
+  - nine
+  - девять
+  - 9 spades
+  - nine of spades
+  - девятка пик
+  - карта пик
+  - card game
+  - карточная игра
+  - casino
+  - казино
+  - poker
+  - покер
+  - deck
+  - колода
+  - suit
+  - масть
+  - spade symbol
+  - символ пики
+  - black suit
+  - черная масть
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

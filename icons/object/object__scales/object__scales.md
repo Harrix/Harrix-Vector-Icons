@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - scales
+  - весы
+  - balance scale
+  - рычажные весы
+  - justice scale
+  - весы правосудия
+  - libra
+  - весы символ
+  - balanced
+  - равновесие
+  - weighing
+  - взвешивание
+  - measurement
+  - измерение
+  - law
+  - закон
+  - justice
+  - правосудие
+  - court
+  - суд
+  - equality
+  - равенство
+  - golden scale
+  - золотые весы
+  - pan balance
+  - чашечные весы
+  - balance
+  - баланс
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - battery
+  - батарея
   - 3r12
+  - flat battery
+  - lantern battery
+  - square battery
+  - battery pack
+  - power cell
+  - dry cell
+  - portable battery
+  - plus minus
+  - terminals
+  - electrical battery
+  - source of power
+  - yellow battery
+  - rectangular battery
+  - батарейка
+  - плоская батарея
+  - батарея для фонаря
+  - квадратная батарея
+  - батарейный блок
+  - элемент питания
+  - сухой элемент
+  - портативная батарея
+  - плюс минус
+  - клеммы
+  - электрическая батарея
+  - источник питания
+  - желтая батарея
+  - прямоугольная батарея
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

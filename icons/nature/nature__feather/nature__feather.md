@@ -4,7 +4,35 @@ categories:
   - nature
 tags:
   - nature
+  - природа
   - feather
+  - перо
+  - bird feather
+  - птичье перо
+  - plume
+  - плюмаж
+  - quill
+  - гусиное перо
+  - wing feather
+  - маховое перо
+  - single feather
+  - одно перо
+  - floating feather
+  - летящее перо
+  - soft feather
+  - мягкое перо
+  - black feather
+  - черное перо
+  - silhouette
+  - силуэт
+  - flat icon
+  - плоская иконка
+  - simple shape
+  - простая форма
+  - avian
+  - птичий
+  - decorative feather
+  - декоративное перо
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

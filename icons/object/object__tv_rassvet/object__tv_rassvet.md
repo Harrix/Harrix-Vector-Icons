@@ -3,8 +3,50 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - tv_rassvet
+  - tv
+  - телевизор
+  - retro tv
+  - ретро телевизор
+  - vintage tv
+  - винтажный телевизор
+  - old tv
+  - старый телевизор
+  - television
+  - телевидение
+  - screen
+  - экран
+  - display
+  - дисплей
+  - monitor
+  - монитор
+  - crt
+  - кинескоп
+  - tube tv
+  - ламповый телевизор
+  - analog tv
+  - аналоговый телевизор
+  - broadcast
+  - трансляция
+  - media
+  - медиа
+  - electronics
+  - электроника
+  - appliance
+  - прибор
+  - home appliance
+  - бытовая техника
+  - control panel
+  - панель управления
+  - dial
+  - регулятор
+  - knob
+  - ручка
+  - buttons
+  - кнопки
+  - speaker
+  - динамик
+  - antenna
+  - антенна
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

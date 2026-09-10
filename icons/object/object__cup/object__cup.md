@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - cup
+  - чашка
+  - teacup
+  - чайная чашка
+  - coffee cup
+  - кофейная чашка
+  - mug
+  - кружка
+  - saucer
+  - блюдце
+  - tea cup
+  - чашка чая
+  - coffee
+  - кофе
+  - tea
+  - чай
+  - ceramic
+  - керамика
+  - tableware
+  - посуда
+  - drinkware
+  - для напитков
+  - handle
+  - ручка
+  - brown cup
+  - коричневая чашка
+  - flat icon
+  - плоская иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

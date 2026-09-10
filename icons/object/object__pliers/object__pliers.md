@@ -3,8 +3,26 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pliers
+  - плоскогубцы
+  - needle nose pliers
+  - длинногубцы
+  - long nose pliers
+  - тонкогубцы
+  - tool
+  - инструмент
+  - hand tool
+  - ручной инструмент
+  - nippers
+  - кусачки
+  - repair
+  - ремонт
+  - workshop
+  - мастерская
+  - metal tool
+  - металлический инструмент
+  - blue handle
+  - синие ручки
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

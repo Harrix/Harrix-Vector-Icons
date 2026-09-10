@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - oar
+  - весло
+  - paddle
+  - лопасть
+  - shaft
+  - древко
+  - handle
+  - ручка
+  - boat paddle
+  - лодочное весло
+  - rowing
+  - гребля
+  - boating
+  - лодка
+  - canoe paddle
+  - весло каноэ
+  - kayak paddle
+  - весло каяка
+  - water sport
+  - водный спорт
+  - wooden paddle
+  - деревянное весло
+  - single blade
+  - однолопастное весло
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

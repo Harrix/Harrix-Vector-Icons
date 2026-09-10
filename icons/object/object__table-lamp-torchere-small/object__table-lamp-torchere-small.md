@@ -3,11 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - table
+  - стол
   - lamp
+  - лампа
   - torchere
+  - торшер
   - small
+  - маленький
+  - table lamp
+  - настольная лампа
+  - desk lamp
+  - лампа настольная
+  - bedside lamp
+  - прикроватная лампа
+  - light fixture
+  - светильник
+  - lampshade
+  - абажур
+  - shade
+  - плафон
+  - home decor
+  - декор дома
+  - furniture
+  - мебель
+  - interior
+  - интерьер
+  - red shade
+  - красный абажур
+  - round base
+  - круглое основание
+  - striped base
+  - полосатое основание
+  - nightstand lamp
+  - лампа для тумбы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

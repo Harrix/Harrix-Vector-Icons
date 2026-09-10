@@ -3,10 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - paper
+  - бумага
   - boat
-  - front
+  - лодка
+  - paper boat
+  - бумажный кораблик
+  - origami
+  - оригами
+  - ship
+  - корабль
+  - paper ship
+  - бумажный корабль
+  - front view
+  - вид спереди
+  - folded paper
+  - сложенная бумага
+  - gray
+  - серый
+  - simple
+  - простой
+  - geometric
+  - геометрический
+  - minimal
+  - минималистичный
+  - toy boat
+  - игрушечный кораблик
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

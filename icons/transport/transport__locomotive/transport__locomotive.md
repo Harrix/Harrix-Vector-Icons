@@ -3,8 +3,48 @@ date: 2020-07-19
 categories:
   - transport
 tags:
-  - transport
   - locomotive
+  - локомотив
+  - transport
+  - транспорт
+  - train
+  - поезд
+  - steam train
+  - паровоз
+  - steam locomotive
+  - паровозик
+  - railway
+  - железная дорога
+  - railroad
+  - рельсовый
+  - engine
+  - двигатель
+  - vintage train
+  - ретро поезд
+  - old train
+  - старый поезд
+  - classic locomotive
+  - классический локомотив
+  - rail transport
+  - железнодорожный транспорт
+  - wagon
+  - вагон
+  - smokestack
+  - дымовая труба
+  - bell
+  - колокол
+  - wheel
+  - колесо
+  - spoked wheel
+  - спицевое колесо
+  - cab
+  - кабина
+  - side view
+  - вид сбоку
+  - flat design
+  - плоский дизайн
+  - silhouette
+  - силуэт
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

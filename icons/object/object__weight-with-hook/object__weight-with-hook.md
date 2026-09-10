@@ -3,10 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - weight
-  - with
+  - вес
   - hook
+  - крюк
+  - hanging weight
+  - подвесной груз
+  - counterweight
+  - противовес
+  - mass
+  - масса
+  - load
+  - груз
+  - hanging block
+  - подвесной блок
+  - metal weight
+  - металлический груз
+  - heavy object
+  - тяжелый предмет
+  - suspended
+  - подвешенный
+  - balance weight
+  - балансир
+  - гиря
+  - грузило
+  - hanger
+  - подвес
+  - yellow block
+  - желтый блок
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

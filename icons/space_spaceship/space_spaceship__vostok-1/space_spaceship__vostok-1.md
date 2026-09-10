@@ -4,9 +4,43 @@ categories:
   - space_spaceship
 tags:
   - space
+  - космос
   - spaceship
+  - космический корабль
   - vostok
-  - 1
+  - восток
+  - vostok 1
+  - восток 1
+  - satellite
+  - спутник
+  - spacecraft
+  - космический аппарат
+  - probe
+  - зонд
+  - orbital probe
+  - орбитальный зонд
+  - antenna
+  - антенна
+  - radio antenna
+  - радиоантенна
+  - spherical capsule
+  - сферическая капсула
+  - capsule
+  - капсула
+  - cosmic
+  - космический
+  - soviet
+  - советский
+  - ussr
+  - ссср
+  - historic spacecraft
+  - исторический корабль
+  - retro
+  - ретро
+  - orbiter
+  - орбитер
+  - sputnik
+  - спутник ссср
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

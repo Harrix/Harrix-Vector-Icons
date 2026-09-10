@@ -4,9 +4,60 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
+  - форма
   - 10
+  - ten
+  - десять
   - decagon
+  - декагон
+  - ten sided
+  - десятиугольник
+  - polygon
+  - многоугольник
+  - geometric
+  - геометрический
+  - geometry
+  - геометрия
+  - ring
+  - кольцо
+  - circle
+  - круг
+  - circular
+  - круговой
+  - round
+  - круглый
+  - outline
+  - контур
+  - green
+  - зеленый
+  - donut
+  - бублик
+  - annulus
+  - кольцевой
+  - nodes
+  - узлы
+  - connected
+  - соединенный
+  - symmetry
+  - симметрия
+  - radial
+  - радиальный
+  - radial symmetry
+  - радиальная симметрия
+  - diagram
+  - диаграмма
+  - molecule
+  - молекула
+  - molecular ring
+  - молекулярное кольцо
+  - atomic structure
+  - атомная структура
+  - chain
+  - цепь
+  - loop
+  - петля
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,10 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - playing
+  - игральная кость
   - dice
-  - 2
+  - кости
+  - die
+  - кубик
+  - two
+  - два
+  - number 2
+  - цифра 2
+  - two dots
+  - две точки
+  - game
+  - игра
+  - gaming
+  - азарт
+  - casino
+  - казино
+  - board game
+  - настольная игра
+  - gambling
+  - азартная игра
+  - dice face
+  - грань кубика
+  - square
+  - квадрат
+  - rounded square
+  - скругленный квадрат
+  - icon
+  - значок
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

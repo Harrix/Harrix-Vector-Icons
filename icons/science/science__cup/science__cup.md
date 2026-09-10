@@ -4,7 +4,41 @@ categories:
   - science
 tags:
   - science
+  - наука
   - cup
+  - чашка
+  - beaker
+  - мензурка
+  - measuring cup
+  - мерный стакан
+  - measuring jug
+  - мерный кувшин
+  - pitcher
+  - кувшин
+  - jug
+  - емкость
+  - container
+  - контейнер
+  - liquid
+  - жидкость
+  - volume
+  - объем
+  - measurement
+  - измерение
+  - scale
+  - шкала
+  - graduated
+  - градуированный
+  - lab
+  - лаборатория
+  - laboratory
+  - лабораторный
+  - chemistry
+  - химия
+  - mixing
+  - смешивание
+  - glassware
+  - лабораторная посуда
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

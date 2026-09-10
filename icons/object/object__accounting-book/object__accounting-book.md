@@ -3,9 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - accounting
+  - бухгалтерия
   - book
+  - книга
+  - ledger
+  - гроссбух
+  - notebook
+  - блокнот
+  - journal
+  - журнал
+  - manual
+  - руководство
+  - catalog
+  - каталог
+  - document
+  - документ
+  - text
+  - текст
+  - cover
+  - обложка
+  - hardcover
+  - твердая обложка
+  - publication
+  - издание
+  - register
+  - реестр
+  - record book
+  - учетная книга
+  - invoice book
+  - книга счетов
+  - financial record
+  - финансовый учет
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

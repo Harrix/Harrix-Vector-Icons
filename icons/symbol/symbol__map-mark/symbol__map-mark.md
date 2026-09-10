@@ -3,9 +3,41 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
   - map
+  - карта
   - mark
+  - метка
+  - location
+  - местоположение
+  - pin
+  - пин
+  - map pin
+  - метка карты
+  - location pin
+  - геометка
+  - marker
+  - маркер
+  - pointer
+  - указатель
+  - gps
+  - geo
+  - гео
+  - navigation
+  - навигация
+  - destination
+  - пункт назначения
+  - place
+  - место
+  - point
+  - точка
+  - waypoint
+  - маршрутная точка
+  - locator
+  - локатор
+  - address
+  - адрес
+  - position
+  - позиция
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - table
+  - table lamp
+  - настольная лампа
   - lamp
+  - лампа
+  - desk lamp
+  - рабочая лампа
+  - reading lamp
+  - лампа для чтения
+  - adjustable lamp
+  - регулируемая лампа
+  - anglepoise
+  - шарнирная лампа
+  - articulated arm
+  - шарнирный кронштейн
+  - task light
+  - рабочий свет
+  - light fixture
+  - светильник
+  - office lamp
+  - офисная лампа
+  - study lamp
+  - лампа для учебы
+  - electric lamp
+  - электрическая лампа
+  - shade
+  - абажур
+  - metal lamp
+  - металлическая лампа
+  - yellow lamp
+  - желтая лампа
+  - modern lamp
+  - современная лампа
+  - home lighting
+  - домашнее освещение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

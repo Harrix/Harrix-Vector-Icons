@@ -4,8 +4,33 @@ categories:
   - nature_leaf
 tags:
   - nature
+  - природа
   - leaf
+  - лист
   - maple
+  - клен
+  - maple leaf
+  - кленовый лист
+  - tree leaf
+  - лист дерева
+  - green leaf
+  - зеленый лист
+  - foliage
+  - листва
+  - autumn leaf
+  - осенний лист
+  - botanical
+  - ботанический
+  - plant
+  - растение
+  - vein
+  - прожилки
+  - flat
+  - плоский
+  - silhouette
+  - силуэт
+  - canadian maple
+  - канадский клен
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,33 @@ date: 2020-08-02
 categories:
   - object
 tags:
-  - object
+  - watering can
+  - лейка
   - watering
+  - полив
   - can
+  - gardening
+  - садоводство
+  - garden tool
+  - садовый инструмент
+  - watering pot
+  - садовая лейка
+  - spout
+  - носик
+  - handle
+  - ручка
+  - container
+  - емкость
+  - blue
+  - синий
+  - flat
+  - плоский
+  - icon
+  - значок
+  - garden
+  - сад
+  - plant care
+  - уход за растениями
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,40 @@ date: 2020-11-29
 categories:
   - object
 tags:
-  - object
   - led
+  - светодиод
+  - diode
+  - диод
+  - light emitting diode
+  - излучающий диод
+  - indicator light
+  - индикатор
+  - lamp
+  - лампа
+  - bulb
+  - лампочка
+  - electronic component
+  - электронный компонент
+  - red led
+  - красный светодиод
+  - red diode
+  - красный диод
+  - through hole
+  - сквозной монтаж
+  - 2 pin
+  - 2 контакта
+  - pins
+  - выводы
+  - terminals
+  - контакты
+  - component
+  - компонент
+  - electronics
+  - электроника
+  - light
+  - свет
+  - signal light
+  - сигнальная лампа
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

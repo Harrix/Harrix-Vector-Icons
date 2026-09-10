@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - bag
+  - сумка
+  - sack
+  - мешок
+  - money bag
+  - мешок денег
+  - pouch
+  - кошель
+  - drawstring bag
+  - мешок шнурок
+  - cloth bag
+  - тканевый мешок
+  - burlap sack
+  - джутовый мешок
+  - storage bag
+  - мешок хранения
+  - full sack
+  - полный мешок
+  - tied bag
+  - завязанный мешок
+  - package
+  - упаковка
+  - parcel sack
+  - мешок посылка
+  - goods bag
+  - мешок товаров
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

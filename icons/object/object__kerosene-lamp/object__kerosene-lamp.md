@@ -3,9 +3,48 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - kerosene
+  - керосин
   - lamp
+  - лампа
+  - kerosene lamp
+  - керосиновая лампа
+  - oil lamp
+  - масляная лампа
+  - lantern
+  - фонарь
+  - vintage lamp
+  - винтажная лампа
+  - antique lamp
+  - старинная лампа
+  - retro lamp
+  - ретро лампа
+  - hurricane lamp
+  - керосиновый фонарь
+  - flame
+  - пламя
+  - wick
+  - фитиль
+  - glass chimney
+  - стеклянная колба
+  - glass shade
+  - стеклянный плафон
+  - brass lamp
+  - латунная лампа
+  - ornate lamp
+  - декоративная лампа
+  - classic lighting
+  - классическое освещение
+  - antique lantern
+  - старинный фонарь
+  - table lamp
+  - настольная лампа
+  - old lamp
+  - старая лампа
+  - victorian lamp
+  - викторианская лампа
+  - illumination
+  - освещение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - box
+  - коробка
+  - open box
+  - открытая коробка
+  - cardboard box
+  - картонная коробка
+  - package
+  - упаковка
+  - parcel
+  - посылка
+  - carton
+  - картон
+  - container
+  - контейнер
+  - shipping box
+  - коробка доставки
+  - moving box
+  - коробка для переезда
+  - storage box
+  - коробка для хранения
+  - unpacking
+  - распаковка
+  - delivery
+  - доставка
+  - packaging
+  - упаковка товара
+  - brown box
+  - коричневая коробка
+  - box icon
+  - иконка коробки
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

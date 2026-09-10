@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - lego
+  - лего
+  - building block
+  - строительный блок
+  - toy brick
+  - кирпичик
+  - plastic brick
+  - пластиковый кирпич
+  - brick
+  - кирпич
+  - block
+  - блок
+  - construction toy
+  - конструктор
+  - toy
+  - игрушка
+  - rectangular block
+  - прямоугольный блок
+  - studded brick
+  - кирпич с шипами
+  - studs
+  - шипы
+  - red brick
+  - красный кирпич
+  - eight stud
+  - 8 шипов
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

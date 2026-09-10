@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - kettlebell
+  - гиря
+  - weight
+  - вес
+  - gym
+  - зал
+  - fitness
+  - фитнес
+  - workout
+  - тренировка
+  - strength
+  - сила
+  - weightlifting
+  - тяжелая атлетика
+  - crossfit
+  - кроссфит
+  - exercise
+  - упражнение
+  - training
+  - тренинг
+  - heavy
+  - тяжелый
+  - 16 kg
+  - 16 кг
+  - sports equipment
+  - спортивный инвентарь
+  - handle
+  - ручка
+  - iron weight
+  - железная гиря
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

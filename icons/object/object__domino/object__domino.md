@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - domino
+  - домино
+  - tile
+  - костяшка
+  - domino tile
+  - плитка домино
+  - game piece
+  - игральная фишка
+  - board game
+  - настольная игра
+  - dots
+  - точки
+  - pips
+  - очки
+  - six
+  - шесть
+  - one
+  - один
+  - 6 1
+  - 6-1
+  - rectangular tile
+  - прямоугольная плитка
+  - game icon
+  - игровая иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,10 +3,49 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - tear
-  - false
   - calendar
+  - календарь
+  - tear
+  - отрывной
+  - date
+  - дата
+  - day
+  - день
+  - daily calendar
+  - настольный календарь
+  - flip calendar
+  - перекидной календарь
+  - page
+  - страница
+  - sheet
+  - лист
+  - paper
+  - бумага
+  - number
+  - число
+  - 28
+  - twenty eight
+  - двадцать восемь
+  - month
+  - месяц
+  - schedule
+  - расписание
+  - appointment
+  - встреча
+  - deadline
+  - срок
+  - event
+  - событие
+  - planner
+  - планировщик
+  - reminder
+  - напоминание
+  - organizer
+  - органайзер
+  - office
+  - офис
+  - stationery
+  - канцелярия
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

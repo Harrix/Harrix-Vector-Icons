@@ -3,9 +3,28 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - cutting
+  - резка
   - pliers
+  - плоскогубцы
+  - кусачки
+  - nippers
+  - wire cutter
+  - бокорезы
+  - diagonal cutter
+  - ручной инструмент
+  - hand tool
+  - tool
+  - инструмент
+  - cutter
+  - кусачки для проволоки
+  - metal cutter
+  - щипцы
+  - pincers
+  - grip
+  - зажим
+  - blue pliers
+  - синие плоскогубцы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

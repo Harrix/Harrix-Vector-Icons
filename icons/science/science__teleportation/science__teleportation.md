@@ -4,7 +4,51 @@ categories:
   - science
 tags:
   - science
+  - наука
   - teleportation
+  - телепортация
+  - capsule
+  - капсула
+  - pill
+  - таблетка
+  - medicine
+  - медицина
+  - medical
+  - медицинский
+  - drug
+  - препарат
+  - pharmacy
+  - фармация
+  - pharmaceutical
+  - фармацевтика
+  - antibiotic
+  - антибиотик
+  - tablet
+  - пилюля
+  - half capsule
+  - половина капсулы
+  - split pill
+  - разделенная таблетка
+  - medication
+  - лекарство
+  - dose
+  - доза
+  - treatment
+  - лечение
+  - healthcare
+  - здравоохранение
+  - binary
+  - двоичный
+  - digital
+  - цифровой
+  - data transfer
+  - передача данных
+  - scan
+  - сканирование
+  - beam
+  - луч
+  - abstract
+  - абстракция
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

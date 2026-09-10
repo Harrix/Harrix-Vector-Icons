@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - drone
+  - дрон
+  - quadcopter
+  - квадрокоптер
+  - uav
+  - бпла
+  - copter
+  - коптер
+  - aircraft
+  - летательный аппарат
+  - flying robot
+  - летающий робот
+  - propeller
+  - пропеллер
+  - rotor
+  - ротор
+  - quadcopter drone
+  - дрон квадрокоптер
+  - aerial device
+  - воздушное устройство
+  - remote control
+  - дистанционное управление
+  - camera drone
+  - дрон с камерой
+  - multirotor
+  - мультикоптер
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

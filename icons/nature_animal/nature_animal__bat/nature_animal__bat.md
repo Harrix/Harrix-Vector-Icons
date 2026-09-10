@@ -4,8 +4,39 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - bat
+  - летучая мышь
+  - flying bat
+  - bat wings
+  - wings
+  - крылья
+  - flying
+  - полет
+  - night
+  - ночь
+  - nocturnal
+  - ночной
+  - mammal
+  - млекопитающее
+  - wildlife
+  - дикая природа
+  - dark
+  - темный
+  - halloween
+  - хэллоуин
+  - vampire bat
+  - вампировая летучая мышь
+  - silhouette
+  - силуэт
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - logo
+  - логотип
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

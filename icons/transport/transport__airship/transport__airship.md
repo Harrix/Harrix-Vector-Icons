@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - transport
 tags:
-  - transport
   - airship
+  - дирижабль
+  - zeppelin
+  - цеппелин
+  - blimp
+  - блимп
+  - aerostat
+  - аэростат
+  - aircraft
+  - самолет
+  - flying
+  - полет
+  - flight
+  - воздушный
+  - air vehicle
+  - воздушный транспорт
+  - balloon
+  - воздушный шар
+  - retro
+  - ретро
+  - vintage
+  - винтаж
+  - passenger cabin
+  - пассажирская кабина
+  - flying ship
+  - летающий корабль
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

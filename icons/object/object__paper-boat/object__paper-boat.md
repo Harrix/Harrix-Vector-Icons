@@ -3,9 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - paper
+  - бумага
   - boat
+  - лодка
+  - paper boat
+  - бумажная лодка
+  - origami
+  - оригами
+  - ship
+  - кораблик
+  - paper ship
+  - бумажный кораблик
+  - folded paper
+  - сложенная бумага
+  - toy boat
+  - игрушечная лодка
+  - sailboat
+  - парусник
+  - gray
+  - серый
+  - geometric
+  - геометрический
+  - polygonal
+  - полигональный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

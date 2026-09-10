@@ -4,8 +4,34 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - ant
+  - муравей
+  - insect
+  - насекомое
+  - bug
+  - жук
+  - arthropod
+  - членистоногое
+  - formicidae
+  - six legs
+  - шесть лап
+  - antennae
+  - усики
+  - brown ant
+  - коричневый муравей
+  - worker ant
+  - рабочий муравей
+  - flat icon
+  - плоская иконка
+  - cartoon
+  - мультяшный
+  - top view
+  - вид сверху
+  - entomology
+  - энтомология
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - microwave
   - oven
+  - микроволновка
+  - микроволновая печь
+  - печь
+  - microwave oven
+  - kitchen appliance
+  - кухонная техника
+  - appliance
+  - бытовая техника
+  - cooking
+  - готовка
+  - heating
+  - разогрев
+  - food warmer
+  - нагрев еды
+  - home appliance
+  - домашняя техника
+  - electronic device
+  - электроприбор
+  - control panel
+  - панель управления
+  - timer knob
+  - ручка таймера
+  - door
+  - дверца
+  - kitchen
+  - кухня
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

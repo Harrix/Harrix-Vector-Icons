@@ -3,10 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - paper
+  - бумага
   - airplane
-  - top
+  - самолет
+  - paper airplane
+  - бумажный самолетик
+  - paper plane
+  - бумажный самолет
+  - origami
+  - оригами
+  - top view
+  - вид сверху
+  - pointed
+  - заостренный
+  - triangle
+  - треугольный
+  - fold
+  - складка
+  - grey
+  - серый
+  - simple
+  - простой
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

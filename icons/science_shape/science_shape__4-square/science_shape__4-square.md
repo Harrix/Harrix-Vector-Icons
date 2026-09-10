@@ -4,9 +4,46 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
-  - 4
+  - форма
   - square
+  - квадрат
+  - 4
+  - four
+  - четыре
+  - geometry
+  - геометрия
+  - geometric
+  - геометрический
+  - quadrilateral
+  - четырехугольник
+  - vertex
+  - вершина
+  - corner
+  - угол
+  - node
+  - узел
+  - point
+  - точка
+  - connected
+  - соединенный
+  - connection
+  - соединение
+  - outline
+  - контур
+  - frame
+  - рамка
+  - diagram
+  - схема
+  - polygon
+  - многоугольник
+  - green node
+  - зеленый узел
+  - square outline
+  - контур квадрата
+  - geometric shape
+  - геометрическая фигура
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

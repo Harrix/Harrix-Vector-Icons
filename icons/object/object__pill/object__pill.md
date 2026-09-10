@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pill
+  - таблетка
+  - tablet
+  - пилюля
+  - medicine
+  - лекарство
+  - medication
+  - медикамент
+  - drug
+  - препарат
+  - capsule
+  - капсула
+  - round pill
+  - круглая таблетка
+  - medicine tablet
+  - таблетка лекарство
+  - pharmacy
+  - аптека
+  - medical
+  - медицинский
+  - gray pill
+  - серая таблетка
+  - button tablet
+  - таблетка кнопка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

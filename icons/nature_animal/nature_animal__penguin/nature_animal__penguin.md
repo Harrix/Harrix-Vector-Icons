@@ -4,8 +4,41 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - penguin
+  - пингвин
+  - penguin face
+  - лицо пингвина
+  - bird
+  - птица
+  - seabird
+  - морская птица
+  - antarctica
+  - антарктида
+  - arctic animal
+  - полярное животное
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - beak
+  - клюв
+  - head
+  - голова
+  - face
+  - лицо
+  - avatar
+  - аватар
+  - emoji
+  - эмодзи
+  - black white
+  - черно-белый
+  - yellow beak
+  - желтый клюв
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

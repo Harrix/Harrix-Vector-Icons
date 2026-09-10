@@ -3,9 +3,34 @@ date: 2021-04-11
 categories:
   - object
 tags:
-  - object
   - medal
+  - медаль
   - iii
+  - 3
+  - third place
+  - третье место
+  - bronze medal
+  - бронзовая медаль
+  - award
+  - награда
+  - prize
+  - приз
+  - winner
+  - победитель
+  - ranking
+  - рейтинг
+  - podium
+  - пьедестал
+  - achievement
+  - достижение
+  - competition
+  - соревнование
+  - sports medal
+  - спортивная медаль
+  - ribbon
+  - лента
+  - bronze
+  - бронза
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - bottle
+  - бутылка
+  - plastic bottle
+  - пластиковая бутылка
+  - water bottle
+  - бутылка воды
+  - drink bottle
+  - бутылка напитка
+  - beverage
+  - напиток
+  - water
+  - вода
+  - soda bottle
+  - бутылка газировки
+  - soft drink
+  - безалкогольный напиток
+  - pet bottle
+  - пэт бутылка
+  - cap
+  - крышка
+  - label
+  - этикетка
+  - container
+  - контейнер
+  - packaging
+  - упаковка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,11 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - cup
-  - of
+  - чашка
   - coffee
+  - кофе
   - top
+  - вид сверху
+  - coffee cup
+  - чашка кофе
+  - mug
+  - кружка
+  - hot drink
+  - горячий напиток
+  - beverage
+  - напиток
+  - espresso
+  - эспрессо
+  - cappuccino
+  - капучино
+  - latte
+  - латте
+  - tea cup
+  - чайная чашка
+  - saucer
+  - блюдце
+  - foam
+  - пенка
+  - flat design
+  - плоский дизайн
+  - round icon
+  - круглая иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

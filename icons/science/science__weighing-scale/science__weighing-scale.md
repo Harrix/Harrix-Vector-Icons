@@ -4,8 +4,41 @@ categories:
   - science
 tags:
   - science
+  - наука
   - weighing
+  - взвешивание
   - scale
+  - шкала
+  - spring scale
+  - пружинные весы
+  - newton meter
+  - ньютонометр
+  - force meter
+  - измеритель силы
+  - dynamometer
+  - динамометр
+  - spring balance
+  - пружинный динамометр
+  - physics
+  - физика
+  - measurement
+  - измерение
+  - force
+  - сила
+  - newton
+  - ньютон
+  - hook
+  - крючок
+  - spring
+  - пружина
+  - ruler
+  - линейка
+  - gauge
+  - измерительный прибор
+  - lab equipment
+  - лабораторный прибор
+  - measuring device
+  - измерительное устройство
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

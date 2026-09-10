@@ -3,8 +3,26 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - match
+  - спичка
+  - matchstick
+  - деревянная спичка
+  - wooden match
+  - спичечная палочка
+  - палочка
+  - stick
+  - коричневая головка
+  - match head
+  - зажигать
+  - ignite
+  - огонь
+  - fire
+  - горение
+  - burning
+  - поджигать
+  - lighting
+  - wood
+  - дерево
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

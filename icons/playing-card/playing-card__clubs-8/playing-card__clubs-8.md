@@ -3,9 +3,38 @@ date: 2020-08-02
 categories:
   - playing-card
 tags:
-  - playing-card
   - clubs
+  - трефы
   - 8
+  - восемь
+  - eight
+  - восьмерка
+  - восьмёрка
+  - playing card
+  - игральная карта
+  - card
+  - карта
+  - club suit
+  - масть треф
+  - clubs eight
+  - 8 clubs
+  - eight clubs
+  - восемь треф
+  - карточная масть
+  - deck
+  - колода
+  - poker
+  - покер
+  - casino
+  - казино
+  - gambling
+  - азартная игра
+  - game
+  - игра
+  - black suit
+  - черная масть
+  - face value
+  - номинал карты
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

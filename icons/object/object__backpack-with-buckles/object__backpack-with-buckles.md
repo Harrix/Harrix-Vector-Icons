@@ -3,10 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - backpack
-  - with
+  - рюкзак
   - buckles
+  - пряжки
+  - bag
+  - сумка
+  - satchel
+  - ранец
+  - rucksack
+  - рюкзак походный
+  - travel backpack
+  - дорожный рюкзак
+  - school backpack
+  - школьный рюкзак
+  - hiking backpack
+  - походный рюкзак
+  - camping bag
+  - туристическая сумка
+  - luggage
+  - багаж
+  - knapsack
+  - вещмешок
+  - zipper
+  - молния
+  - pocket
+  - карман
+  - flap
+  - клапан
+  - strap
+  - ремень
+  - leather
+  - кожаный
+  - brown
+  - коричневый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

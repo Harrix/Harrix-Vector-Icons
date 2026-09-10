@@ -3,9 +3,54 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - cassette
+  - кассета
   - tape
+  - лента
+  - audio cassette
+  - аудиокассета
+  - cassette tape
+  - кассетная лента
+  - music cassette
+  - музыкальная кассета
+  - magnetic tape
+  - магнитная лента
+  - analog audio
+  - аналоговое аудио
+  - retro
+  - ретро
+  - vintage
+  - винтаж
+  - old school
+  - олдскул
+  - recording
+  - запись
+  - playback
+  - воспроизведение
+  - sound
+  - звук
+  - music
+  - музыка
+  - stereo
+  - стерео
+  - compact cassette
+  - компакт кассета
+  - tape recorder
+  - кассетный магнитофон
+  - reel
+  - катушка
+  - spool
+  - бобина
+  - media
+  - носитель
+  - audio media
+  - аудионоситель
+  - mixtape
+  - микстейп
+  - 80s
+  - 80-е
+  - 90s
+  - 90-е
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

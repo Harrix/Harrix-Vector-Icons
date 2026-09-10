@@ -3,9 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - shopping
-  - cart_small
+  - покупки
+  - cart
+  - корзина
+  - shopping cart
+  - корзина покупок
+  - cart small
+  - маленькая корзина
+  - trolley
+  - тележка
+  - store cart
+  - магазинная тележка
+  - supermarket cart
+  - тележка супермаркета
+  - basket
+  - корзина для покупок
+  - retail
+  - розничная торговля
+  - ecommerce
+  - электронная коммерция
+  - buy
+  - купить
+  - purchase
+  - покупка
+  - checkout
+  - оформление заказа
+  - market
+  - магазин
+  - grocery
+  - продукты
+  - empty cart
+  - пустая корзина
+  - cart icon
+  - иконка корзины
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

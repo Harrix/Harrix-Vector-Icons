@@ -3,8 +3,28 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pen
+  - ручка
+  - ballpoint pen
+  - шариковая ручка
+  - blue pen
+  - синяя ручка
+  - ink pen
+  - чернильная ручка
+  - writing tool
+  - пишущий инструмент
+  - stationery
+  - канцелярия
+  - office supply
+  - офисные принадлежности
+  - school supply
+  - школьные принадлежности
+  - plastic pen
+  - пластиковая ручка
+  - simple pen
+  - простая ручка
+  - vertical pen
+  - ручка вертикально
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

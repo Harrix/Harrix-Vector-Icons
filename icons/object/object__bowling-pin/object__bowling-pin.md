@@ -3,9 +3,30 @@ date: 2021-06-19
 categories:
   - object
 tags:
-  - object
   - bowling
+  - боулинг
   - pin
+  - кегля
+  - bowling pin
+  - боулинг кегля
+  - skittle
+  - сбитая кегля
+  - tenpin
+  - боулинг спорт
+  - sports equipment
+  - спортивный инвентарь
+  - game
+  - игра
+  - strike
+  - страйк
+  - lane
+  - дорожка
+  - white pin
+  - белая кегля
+  - red stripe
+  - красная полоса
+  - standing pin
+  - стоящая кегля
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

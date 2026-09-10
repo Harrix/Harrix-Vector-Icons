@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - battery
+  - батарея
   - aa
+  - аа
+  - aa battery
+  - батарейка aa
+  - battery cell
+  - элемент питания
+  - power cell
+  - гальванический элемент
+  - electric battery
+  - электрическая батарея
+  - alkaline battery
+  - щелочная батарейка
+  - portable battery
+  - портативная батарея
+  - cylindrical battery
+  - цилиндрическая батарейка
+  - energy
+  - энергия
+  - power
+  - питание
+  - charge
+  - заряд
+  - accumulator
+  - аккумулятор
+  - single battery
+  - одна батарейка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

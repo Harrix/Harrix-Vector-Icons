@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - backpack
+  - рюкзак
+  - bag
+  - сумка
+  - school bag
+  - школьная сумка
+  - travel bag
+  - дорожная сумка
+  - knapsack
+  - ранец
+  - rucksack
+  - заплечный мешок
+  - luggage
+  - багаж
+  - zipper
+  - молния
+  - handle
+  - ручка
+  - yellow
+  - желтый
+  - flat
+  - плоский
+  - icon
+  - значок
+  - travel
+  - путешествие
+  - camping
+  - кемпинг
+  - hiking
+  - поход
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

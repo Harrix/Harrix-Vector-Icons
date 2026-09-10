@@ -3,8 +3,24 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - broom
+  - метла
+  - besom
+  - веник
+  - sweeping broom
+  - подметальная метла
+  - cleaning tool
+  - инструмент уборки
+  - household item
+  - предмет быта
+  - wooden handle
+  - деревянная ручка
+  - bristles
+  - прутья
+  - straw broom
+  - соломенная метла
+  - witch broom
+  - ведьмина метла
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

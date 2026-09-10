@@ -3,9 +3,48 @@ date: 2020-09-13
 categories:
   - space
 tags:
-  - space
   - earth
+  - земля
   - america
+  - америка
+  - globe
+  - глобус
+  - planet
+  - планета
+  - world
+  - мир
+  - north america
+  - северная америка
+  - south america
+  - южная америка
+  - americas
+  - америки
+  - western hemisphere
+  - западное полушарие
+  - atlantic ocean
+  - атлантический океан
+  - pacific ocean
+  - тихий океан
+  - north america map
+  - карта северной америки
+  - south america map
+  - карта южной америки
+  - world map
+  - карта мира
+  - planet earth
+  - планета земля
+  - blue planet
+  - голубая планета
+  - continents
+  - континенты
+  - ocean
+  - океан
+  - cartoon earth
+  - мультяшная земля
+  - flat globe
+  - плоский глобус
+  - round planet
+  - круглая планета
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

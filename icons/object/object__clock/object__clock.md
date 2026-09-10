@@ -3,8 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - clock
+  - часы
+  - wall clock
+  - настенные часы
+  - analog clock
+  - аналоговые часы
+  - clock face
+  - циферблат
+  - watch face
+  - шкала времени
+  - time
+  - время
+  - hour hand
+  - часовая стрелка
+  - minute hand
+  - минутная стрелка
+  - second hand
+  - секундная стрелка
+  - round clock
+  - круглые часы
+  - dial
+  - диск
+  - timepiece
+  - хронометр
+  - hour
+  - час
+  - minute
+  - минута
+  - second
+  - секунда
+  - timer
+  - таймер
+  - alarm clock
+  - будильник
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

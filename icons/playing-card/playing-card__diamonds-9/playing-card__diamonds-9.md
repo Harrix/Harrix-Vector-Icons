@@ -3,9 +3,29 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
   - diamonds
+  - бубны
   - 9
+  - nine
+  - девять
+  - nine diamonds
+  - девятка бубен
+  - diamond suit
+  - масть бубны
+  - playing card
+  - игральная карта
+  - card game
+  - карточная игра
+  - poker
+  - покер
+  - casino
+  - казино
+  - deck
+  - колода
+  - red card
+  - красная карта
+  - gambling
+  - азартная игра
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

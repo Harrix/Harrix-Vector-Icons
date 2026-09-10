@@ -3,8 +3,36 @@ date: 2020-08-04
 categories:
   - object
 tags:
-  - object
   - knife
+  - нож
+  - kitchen knife
+  - кухонный нож
+  - chef knife
+  - поварской нож
+  - blade
+  - лезвие
+  - cutlery
+  - столовый прибор
+  - cooking
+  - готовка
+  - kitchen
+  - кухня
+  - sharp
+  - острый
+  - steel blade
+  - стальное лезвие
+  - handle
+  - рукоятка
+  - utensil
+  - кухонная утварь
+  - cut
+  - резать
+  - slice
+  - нарезка
+  - chef
+  - повар
+  - cooking tool
+  - кухонный инструмент
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,8 +4,47 @@ categories:
   - science
 tags:
   - science
+  - наука
   - graduated
+  - градуированный
   - cylinder
+  - цилиндр
+  - beaker
+  - стакан
+  - measuring cup
+  - мерный стакан
+  - laboratory beaker
+  - лабораторный стакан
+  - measuring vessel
+  - мерный сосуд
+  - lab glassware
+  - лабораторная посуда
+  - glass container
+  - стеклянная емкость
+  - liquid
+  - жидкость
+  - solution
+  - раствор
+  - chemical
+  - химический
+  - chemistry
+  - химия
+  - laboratory
+  - лаборатория
+  - measurement
+  - измерение
+  - scale marks
+  - деления
+  - graduation marks
+  - мерная шкала
+  - volume
+  - объем
+  - experiment
+  - эксперимент
+  - test tube
+  - пробирка
+  - flask
+  - колба
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

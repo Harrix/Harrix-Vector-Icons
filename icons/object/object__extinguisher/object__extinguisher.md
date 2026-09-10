@@ -3,8 +3,46 @@ date: 2020-07-30
 categories:
   - object
 tags:
-  - object
   - extinguisher
+  - огнетушитель
+  - fire extinguisher
+  - пожарный огнетушитель
+  - fire safety
+  - пожарная безопасность
+  - fire protection
+  - противопожарная защита
+  - emergency
+  - аварийный
+  - safety equipment
+  - средство безопасности
+  - red cylinder
+  - красный баллон
+  - sprayer
+  - распылитель
+  - nozzle
+  - сопло
+  - handle
+  - ручка
+  - lever
+  - рычаг
+  - foam extinguisher
+  - пенный огнетушитель
+  - co2 extinguisher
+  - углекислотный огнетушитель
+  - flame label
+  - значок огня
+  - fire icon
+  - иконка огня
+  - suppression
+  - тушение
+  - rescue
+  - спасение
+  - hazard
+  - опасность
+  - prevention
+  - профилактика
+  - first response
+  - первая помощь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

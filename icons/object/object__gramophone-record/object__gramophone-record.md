@@ -3,9 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - gramophone
+  - граммофон
   - record
+  - запись
+  - vinyl
+  - винил
+  - vinyl record
+  - виниловая пластинка
+  - lp
+  - лп
+  - album
+  - альбом
+  - music
+  - музыка
+  - disc
+  - диск
+  - phonograph
+  - фонограф
+  - turntable
+  - проигрыватель
+  - retro
+  - ретро
+  - audio
+  - аудио
+  - recording
+  - запись звука
+  - black disc
+  - черный диск
+  - grooves
+  - бороздки
+  - round
+  - круглый
+  - music record
+  - музыкальная пластинка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,8 +4,42 @@ categories:
   - science
 tags:
   - science
+  - наука
   - measuring
+  - измерение
   - cylinder
+  - цилиндр
+  - graduated cylinder
+  - мерный цилиндр
+  - measuring cylinder
+  - измерительный цилиндр
+  - laboratory
+  - лаборатория
+  - lab glassware
+  - лабораторная посуда
+  - glassware
+  - стеклянная посуда
+  - chemistry
+  - химия
+  - chemical
+  - химический
+  - experiment
+  - эксперимент
+  - measurement
+  - scale
+  - шкала
+  - graduation marks
+  - деления
+  - liquid
+  - жидкость
+  - container
+  - емкость
+  - flask
+  - колба
+  - volumetric flask
+  - мерная колба
+  - lab equipment
+  - лабораторное оборудование
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - axe
+  - топор
+  - hatchet
+  - топорик
+  - ax
+  - рубящий инструмент
+  - tool
+  - инструмент
+  - woodcutter
+  - дровосек
+  - lumberjack
+  - лесоруб
+  - chopping
+  - рубка
+  - cutting
+  - резка
+  - blade
+  - лезвие
+  - handle
+  - рукоятка
+  - camping axe
+  - походный топор
+  - survival axe
+  - туристический топор
+  - hand tool
+  - ручной инструмент
+  - steel blade
+  - стальное лезвие
+  - orange handle
+  - оранжевая рукоятка
+  - work tool
+  - рабочий инструмент
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

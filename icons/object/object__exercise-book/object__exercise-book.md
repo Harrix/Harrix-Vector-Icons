@@ -3,9 +3,44 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - exercise
   - book
+  - упражнение
+  - книга
+  - text
+  - текст
+  - document
+  - документ
+  - page
+  - страница
+  - article
+  - статья
+  - notes
+  - заметки
+  - worksheet
+  - рабочий лист
+  - notebook
+  - тетрадь
+  - manual
+  - руководство
+  - guide
+  - справочник
+  - open book
+  - открытая книга
+  - reading
+  - чтение
+  - study
+  - учеба
+  - education
+  - образование
+  - lines
+  - строки
+  - paragraph
+  - абзац
+  - print
+  - печать
+  - paper
+  - бумага
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,9 +4,53 @@ categories:
   - science
 tags:
   - science
+  - наука
   - narrow
+  - узкий
   - graduated
+  - градуированный
   - cylinder
+  - цилиндр
+  - graduated cylinder
+  - мерный цилиндр
+  - measuring cylinder
+  - измерительный цилиндр
+  - lab cylinder
+  - лабораторный цилиндр
+  - measuring glass
+  - мерный стакан
+  - laboratory glassware
+  - лабораторная посуда
+  - glassware
+  - стеклянная посуда
+  - chemistry
+  - химия
+  - laboratory
+  - лаборатория
+  - experiment
+  - эксперимент
+  - measurement
+  - измерение
+  - volume
+  - объем
+  - liquid
+  - жидкость
+  - solution
+  - раствор
+  - reagent
+  - реактив
+  - scale
+  - шкала
+  - graduation marks
+  - деления
+  - milliliter
+  - миллилитр
+  - filled
+  - наполненный
+  - flat design
+  - плоский дизайн
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

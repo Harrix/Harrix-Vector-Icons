@@ -4,9 +4,43 @@ categories:
   - space_spaceship
 tags:
   - space
+  - космос
   - spaceship
+  - космический корабль
   - apollo
+  - аполлон
   - 11
+  - луна
+  - moon
+  - lunar module
+  - лунный модуль
+  - command module
+  - командный модуль
+  - spacecraft
+  - космический аппарат
+  - capsule
+  - капсула
+  - lander
+  - посадочный модуль
+  - rocket
+  - ракета
+  - nasa
+  - стыковка
+  - docking
+  - orbital
+  - орбитальный
+  - mission
+  - миссия
+  - saturn v
+  - сатурн-5
+  - moon landing
+  - высадка на луну
+  - astronautics
+  - космонавтика
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

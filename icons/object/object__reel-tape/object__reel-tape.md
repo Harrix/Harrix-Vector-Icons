@@ -3,9 +3,46 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - reel
+  - катушка
   - tape
+  - лента
+  - tape reel
+  - катушка ленты
+  - magnetic tape
+  - магнитная лента
+  - audio tape
+  - аудиолента
+  - recording tape
+  - лента записи
+  - bobbin
+  - бобина
+  - spool
+  - шпуля
+  - film reel
+  - кинокатушка
+  - analog
+  - аналоговый
+  - retro
+  - ретро
+  - vintage
+  - винтаж
+  - round
+  - круглый
+  - circular
+  - диск
+  - recording
+  - запись
+  - archive
+  - архив
+  - media
+  - носитель
+  - storage
+  - хранение
+  - studio
+  - студия
+  - audio
+  - аудио
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

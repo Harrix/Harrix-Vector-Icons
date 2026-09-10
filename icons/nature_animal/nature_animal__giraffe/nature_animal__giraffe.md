@@ -4,8 +4,43 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - giraffe
+  - жираф
+  - giraffe head
+  - голова жирафа
+  - face
+  - лицо
+  - head
+  - голова
+  - muzzle
+  - морда
+  - neck
+  - шея
+  - ears
+  - уши
+  - horns
+  - рожки
+  - ossicones
+  - оссиконы
+  - wildlife
+  - дикая природа
+  - safari
+  - сафари
+  - africa
+  - африка
+  - zoo
+  - зоопарк
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - cute
+  - милый
+  - front view
+  - вид спереди
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

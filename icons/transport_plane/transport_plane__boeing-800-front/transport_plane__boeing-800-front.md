@@ -4,10 +4,48 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - boeing
+  - боинг
   - 800
   - front
+  - спереди
+  - airplane
+  - аэроплан
+  - jet
+  - реактивный
+  - airliner
+  - авиалайнер
+  - passenger plane
+  - пассажирский самолет
+  - commercial aircraft
+  - пассажирский лайнер
+  - aircraft
+  - воздушное судно
+  - nose view
+  - вид спереди
+  - frontal view
+  - фронтальный вид
+  - head on
+  - анфас
+  - wings
+  - крылья
+  - winglet
+  - винглет
+  - engines
+  - двигатели
+  - landing gear
+  - шасси
+  - cockpit
+  - кабина пилота
+  - fuselage
+  - фюзеляж
+  - twin engine
+  - два двигателя
+  - jetliner
+  - реактивный лайнер
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

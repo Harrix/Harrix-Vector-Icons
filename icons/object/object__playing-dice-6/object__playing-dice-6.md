@@ -3,10 +3,35 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - playing
   - dice
-  - 6
+  - кости
+  - die
+  - игральная кость
+  - playing dice
+  - кубик
+  - кубик игральный
+  - six
+  - шесть
+  - six dots
+  - шесть точек
+  - six pips
+  - шесть граней
+  - pips
+  - точки
+  - casino
+  - казино
+  - game
+  - игра
+  - board game
+  - настольная игра
+  - gambling
+  - азарт
+  - luck
+  - удача
+  - cube
+  - куб
+  - square icon
+  - квадратная иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

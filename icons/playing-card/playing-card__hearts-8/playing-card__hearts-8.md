@@ -3,9 +3,35 @@ date: 2020-08-02
 categories:
   - playing-card
 tags:
-  - playing-card
+  - playing card
+  - игральная карта
   - hearts
+  - червы
   - 8
+  - восемь
+  - eight
+  - 8 hearts
+  - восемь червей
+  - heart suit
+  - масть черви
+  - card game
+  - карточная игра
+  - deck
+  - колода
+  - casino
+  - казино
+  - poker
+  - покер
+  - gambling
+  - азартная игра
+  - red card
+  - красная карта
+  - heart symbol
+  - символ сердца
+  - heart pip
+  - знак червы
+  - face up
+  - рубашкой вверх
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

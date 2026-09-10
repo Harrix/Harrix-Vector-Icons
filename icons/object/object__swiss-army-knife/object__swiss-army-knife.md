@@ -3,10 +3,41 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - swiss
   - army
   - knife
+  - швейцарский
+  - армейский
+  - нож
+  - swiss knife
+  - швейцарский нож
+  - pocket knife
+  - карманный нож
+  - multitool
+  - мультитул
+  - utility knife
+  - универсальный нож
+  - folding knife
+  - складной нож
+  - blade
+  - лезвие
+  - scissors
+  - ножницы
+  - corkscrew
+  - штопор
+  - bottle opener
+  - открывалка
+  - can opener
+  - консервный нож
+  - tool
+  - инструмент
+  - camping knife
+  - походный нож
+  - survival knife
+  - нож выживания
+  - edc
+  - compact tool
+  - компактный инструмент
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

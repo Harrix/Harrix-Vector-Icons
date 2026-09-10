@@ -3,9 +3,40 @@ date: 2021-06-05
 categories:
   - space
 tags:
-  - space
   - satellite
+  - спутник
   - dish
+  - тарелка
+  - space
+  - космос
+  - satellite dish
+  - спутниковая тарелка
+  - antenna
+  - антенна
+  - parabolic antenna
+  - параболическая антенна
+  - radio telescope
+  - радиотелескоп
+  - radar
+  - радар
+  - receiver
+  - приемник
+  - signal
+  - сигнал
+  - communication
+  - связь
+  - transmission
+  - передача
+  - broadcast
+  - вещание
+  - ground station
+  - наземная станция
+  - observatory
+  - обсерватория
+  - receiver dish
+  - приемная тарелка
+  - satcom
+  - спутниковая связь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

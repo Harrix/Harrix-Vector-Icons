@@ -3,9 +3,37 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
+  - playing card
+  - игральная карта
   - diamonds
+  - бубны
   - 10
+  - десятка
+  - ten
+  - десятка бубен
+  - ten diamonds
+  - diamond suit
+  - масть бубны
+  - card game
+  - карточная игра
+  - casino
+  - казино
+  - poker
+  - покер
+  - gambling
+  - азартная игра
+  - deck
+  - колода
+  - red card
+  - красная карта
+  - card face
+  - лицевая сторона
+  - rectangle
+  - прямоугольник
+  - flat
+  - плоский
+  - minimal
+  - минимализм
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

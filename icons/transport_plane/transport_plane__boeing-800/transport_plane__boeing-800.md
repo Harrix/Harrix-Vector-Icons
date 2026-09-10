@@ -4,9 +4,46 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - boeing
+  - боинг
   - 800
+  - airplane
+  - aircraft
+  - jet
+  - jetliner
+  - passenger plane
+  - passenger aircraft
+  - commercial plane
+  - airliner
+  - civil aviation
+  - aviation
+  - flight
+  - flying
+  - takeoff
+  - landing gear
+  - wing
+  - tail
+  - fuselage
+  - windows
+  - side view
+  - самолёт
+  - авиалайнер
+  - пассажирский самолет
+  - пассажирский лайнер
+  - реактивный самолет
+  - гражданская авиация
+  - авиация
+  - полет
+  - взлет
+  - шасси
+  - крыло
+  - хвост
+  - фюзеляж
+  - иллюминаторы
+  - вид сбоку
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

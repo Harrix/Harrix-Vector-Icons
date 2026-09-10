@@ -4,8 +4,55 @@ categories:
   - science
 tags:
   - science
+  - наука
   - measuring
+  - измерение
   - flask
+  - колба
+  - measuring flask
+  - мерная колба
+  - laboratory flask
+  - лабораторная колба
+  - lab bottle
+  - лабораторная бутылка
+  - reagent bottle
+  - бутыль
+  - glass bottle
+  - стеклянная бутылка
+  - container
+  - контейнер
+  - vessel
+  - сосуд
+  - liquid
+  - жидкость
+  - solution
+  - раствор
+  - chemical
+  - химический
+  - chemistry
+  - химия
+  - laboratory
+  - лаборатория
+  - measurement
+  - измерение объема
+  - graduated
+  - градуированный
+  - scale
+  - шкала
+  - volume
+  - объем
+  - stopper
+  - пробка
+  - valve
+  - кран
+  - tap
+  - вентиль
+  - cock
+  - клапан
+  - lab equipment
+  - лабораторное оборудование
+  - glassware
+  - лабораторная посуда
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

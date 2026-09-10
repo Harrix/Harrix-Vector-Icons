@@ -3,10 +3,42 @@ date: 2020-07-19
 categories:
   - weapon
 tags:
-  - weapon
   - thompson
-  - submachine
+  - томпсон
+  - submachine gun
+  - пистолет пулемет
   - gun
+  - оружие
+  - firearm
+  - огнестрельное оружие
+  - tommy gun
+  - гангстерский автомат
+  - smg
+  - пп
+  - machine gun
+  - автомат
+  - ww2
+  - вторая мировая
+  - military
+  - военный
+  - drum magazine
+  - барабанный магазин
+  - wooden stock
+  - деревянный приклад
+  - rifle stock
+  - приклад
+  - barrel
+  - ствол
+  - trigger
+  - спусковой крючок
+  - retro weapon
+  - ретро оружие
+  - classic firearm
+  - классическое оружие
+  - gangster
+  - гангстер
+  - mafia
+  - мафия
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

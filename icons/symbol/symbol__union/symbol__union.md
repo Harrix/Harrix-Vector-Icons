@@ -3,8 +3,56 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
   - union
+  - объединение
+  - merge
+  - слияние
+  - branch
+  - ветвление
+  - connection
+  - соединение
+  - network
+  - сеть
+  - node
+  - узел
+  - nodes
+  - узлы
+  - linked
+  - связанный
+  - connector
+  - коннектор
+  - flowchart
+  - блок схема
+  - diagram
+  - диаграмма
+  - scheme
+  - схема
+  - fork
+  - разветвление
+  - split
+  - разделение
+  - join
+  - соединять
+  - junction
+  - развилка
+  - pipeline
+  - пайплайн
+  - git merge
+  - git слияние
+  - share
+  - поделиться
+  - route
+  - маршрут
+  - topology
+  - топология
+  - circuit
+  - схема цепи
+  - line icon
+  - линейная иконка
+  - outline
+  - контур
+  - abstract
+  - абстрактный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

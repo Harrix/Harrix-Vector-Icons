@@ -3,10 +3,44 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - light
+  - свет
   - switch
+  - выключатель
+  - light switch
+  - выключатель света
+  - wall switch
+  - настенный выключатель
+  - electric switch
+  - электрический выключатель
+  - toggle switch
+  - тумблер
+  - power switch
+  - выключатель питания
+  - button
+  - кнопка
+  - lever
+  - рычаг
+  - panel
+  - панель
+  - socket plate
+  - накладка
+  - retro
+  - ретро
+  - vintage
+  - винтаж
   - soviet
+  - советский
+  - ussr
+  - ссср
+  - household
+  - бытовой
+  - electricity
+  - электричество
+  - home
+  - дом
+  - wall plate
+  - настенная панель
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

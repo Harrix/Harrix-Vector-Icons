@@ -4,7 +4,35 @@ categories:
   - weapon
 tags:
   - weapon
+  - оружие
   - seax
+  - сакс
+  - knife
+  - нож
+  - dagger
+  - кинжал
+  - blade
+  - клинок
+  - short sword
+  - короткий меч
+  - combat knife
+  - боевой нож
+  - medieval knife
+  - средневековый нож
+  - viking knife
+  - нож викингов
+  - wooden handle
+  - деревянная рукоять
+  - pointed blade
+  - острое лезвие
+  - steel blade
+  - стальной клинок
+  - single edge
+  - однолезвийный
+  - historic weapon
+  - историческое оружие
+  - ancient knife
+  - древний нож
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

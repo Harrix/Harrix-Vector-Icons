@@ -3,8 +3,33 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - trash
+  - мусор
+  - trash can
+  - мусорный бак
+  - garbage bin
+  - бак для мусора
+  - waste bin
+  - урна
+  - trash bin
+  - контейнер
+  - litter bin
+  - мусорка
+  - wooden bin
+  - деревянная урна
+  - outdoor bin
+  - уличная урна
+  - park bin
+  - парковая урна
+  - recycling bin
+  - контейнер отходов
+  - wooden trash
+  - деревянный бак
+  - bin
+  - бак
+  - garbage
+  - waste
+  - отходы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

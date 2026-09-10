@@ -3,9 +3,31 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - tape
   - measure
+  - рулетка
+  - измерение
+  - measuring tape
+  - tape measure
+  - measurer
+  - ruler
+  - линейка
+  - строительная рулетка
+  - measuring tool
+  - инструмент
+  - строительный инструмент
+  - length
+  - длина
+  - distance
+  - расстояние
+  - metric
+  - метрическая
+  - retractable
+  - выдвижная
+  - yellow tape
+  - желтая рулетка
+  - measurement
+  - замер
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,8 +4,49 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - dog
+  - собака
+  - puppy
+  - щенок
+  - pet
+  - домашнее животное
+  - canine
+  - пес
+  - hound
+  - гончая
+  - beagle
+  - бигль
+  - dachshund
+  - такса
+  - dog face
+  - морда собаки
+  - dog head
+  - голова собаки
+  - muzzle
+  - морда
+  - snout
+  - рыло
+  - nose
+  - нос
+  - ears
+  - уши
+  - floppy ears
+  - висячие уши
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - avatar
+  - аватар
+  - portrait
+  - портрет
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

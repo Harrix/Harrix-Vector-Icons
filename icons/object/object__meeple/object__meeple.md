@@ -3,8 +3,38 @@ date: 2021-06-19
 categories:
   - object
 tags:
-  - object
   - meeple
+  - мипл
+  - board game
+  - настольная игра
+  - game piece
+  - игровая фишка
+  - player token
+  - жетон игрока
+  - pawn
+  - пешка
+  - figurine
+  - фигурка
+  - person token
+  - человечек
+  - human figure
+  - фигура человека
+  - game marker
+  - игровой маркер
+  - token
+  - жетон
+  - piece
+  - фишка
+  - silhouette
+  - силуэт
+  - flat icon
+  - плоская иконка
+  - simple shape
+  - простая форма
+  - avatar
+  - аватар
+  - player
+  - игрок
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

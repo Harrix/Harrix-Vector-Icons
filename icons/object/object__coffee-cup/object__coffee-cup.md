@@ -3,9 +3,40 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - coffee
+  - кофе
   - cup
+  - чашка
+  - coffee cup
+  - кофейная чашка
+  - paper cup
+  - бумажный стакан
+  - to go cup
+  - стакан навынос
+  - takeaway coffee
+  - кофе навынос
+  - travel mug
+  - дорожная кружка
+  - disposable cup
+  - одноразовый стакан
+  - hot drink
+  - горячий напиток
+  - lid
+  - крышка
+  - sleeve
+  - манжета
+  - beverage
+  - напиток
+  - cafe
+  - кафе
+  - latte
+  - латте
+  - americano
+  - американо
+  - tea cup
+  - чайный стакан
+  - takeout
+  - навынос
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

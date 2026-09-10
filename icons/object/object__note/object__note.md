@@ -3,8 +3,33 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - note
+  - нота
+  - music note
+  - музыкальная нота
+  - eighth note
+  - восьмая нота
+  - quaver
+  - музыка
+  - music
+  - melody
+  - мелодия
+  - song
+  - песня
+  - tune
+  - мотив
+  - musical symbol
+  - музыкальный символ
+  - notation
+  - нотация
+  - sheet music
+  - нотный знак
+  - double note
+  - двойная нота
+  - audio
+  - аудио
+  - sound
+  - звук
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,10 +3,36 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
   - ace
-  - of
+  - туз
   - diamonds
+  - бубны
+  - ace of diamonds
+  - туз бубен
+  - playing card
+  - игральная карта
+  - card
+  - карта
+  - diamond suit
+  - бубновая масть
+  - diamond
+  - ромб
+  - casino
+  - казино
+  - poker
+  - покер
+  - blackjack
+  - блэкджек
+  - solitaire
+  - пасьянс
+  - deck
+  - колода
+  - gambling
+  - азарт
+  - red card
+  - красная карта
+  - card game
+  - карточная игра
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

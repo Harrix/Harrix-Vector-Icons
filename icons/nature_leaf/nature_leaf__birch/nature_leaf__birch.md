@@ -4,8 +4,33 @@ categories:
   - nature_leaf
 tags:
   - nature
+  - природа
   - leaf
+  - лист
   - birch
+  - береза
+  - birch leaf
+  - лист березы
+  - green leaf
+  - зеленый лист
+  - tree leaf
+  - лист дерева
+  - foliage
+  - листва
+  - botanical
+  - ботанический
+  - plant
+  - растение
+  - serrated leaf
+  - зубчатый лист
+  - vein
+  - прожилка
+  - flat icon
+  - плоская иконка
+  - eco
+  - эко
+  - natural
+  - натуральный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

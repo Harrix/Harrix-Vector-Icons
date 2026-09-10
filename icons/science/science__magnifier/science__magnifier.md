@@ -4,7 +4,33 @@ categories:
   - science
 tags:
   - science
+  - наука
   - magnifier
+  - лупа
+  - magnifying glass
+  - увеличительное стекло
+  - lens
+  - линза
+  - search
+  - поиск
+  - zoom
+  - увеличение
+  - inspection
+  - осмотр
+  - examination
+  - исследование
+  - detective
+  - детектив
+  - investigation
+  - расследование
+  - look
+  - смотреть
+  - glass
+  - стекло
+  - handle
+  - ручка
+  - optics
+  - оптика
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

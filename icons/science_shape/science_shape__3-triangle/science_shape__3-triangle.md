@@ -4,9 +4,43 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
-  - 3
+  - форма
   - triangle
+  - треугольник
+  - triangular
+  - треугольный
+  - geometry
+  - геометрия
+  - geometric
+  - геометрический
+  - polygon
+  - многоугольник
+  - three points
+  - три точки
+  - nodes
+  - узлы
+  - connection
+  - соединение
+  - linked
+  - связанный
+  - network
+  - сеть
+  - diagram
+  - диаграмма
+  - molecule
+  - молекула
+  - atom
+  - атом
+  - structure
+  - структура
+  - outline
+  - контур
+  - line icon
+  - линейная иконка
+  - green
+  - зеленый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

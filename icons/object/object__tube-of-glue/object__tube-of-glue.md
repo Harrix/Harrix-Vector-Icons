@@ -3,10 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - tube
-  - of
   - glue
+  - клей
+  - glue tube
+  - тюбик клея
+  - adhesive
+  - клеящий
+  - paste
+  - паста
+  - sealant
+  - герметик
+  - craft glue
+  - клей для рукоделия
+  - super glue
+  - суперклей
+  - tube
+  - тюбик
+  - squeeze tube
+  - мягкий тюбик
+  - cap
+  - крышка
+  - applicator
+  - аппликатор
+  - stationery
+  - канцелярия
+  - office supply
+  - офисные принадлежности
+  - school supply
+  - школьные принадлежности
+  - repair
+  - ремонт
+  - craft
+  - поделки
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

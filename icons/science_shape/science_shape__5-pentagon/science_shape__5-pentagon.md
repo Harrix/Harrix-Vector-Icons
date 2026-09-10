@@ -4,9 +4,44 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
+  - форма
   - 5
+  - five
+  - пять
   - pentagon
+  - пентагон
+  - polygon
+  - многоугольник
+  - geometric
+  - геометрический
+  - geometry
+  - геометрия
+  - five sided
+  - пятиугольник
+  - pentagonal
+  - пятиугольный
+  - outline
+  - контур
+  - diagram
+  - диаграмма
+  - network
+  - сеть
+  - connection
+  - соединение
+  - linked nodes
+  - связанные узлы
+  - nodes
+  - узлы
+  - molecule
+  - молекула
+  - chemical structure
+  - химическая структура
+  - ring structure
+  - кольцевая структура
+  - green
+  - зеленый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,45 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - victory
+  - победа
   - podium
+  - подиум
+  - winners podium
+  - пьедестал
+  - award podium
+  - наградной пьедестал
+  - ranking
+  - рейтинг
+  - rank
+  - ранг
+  - first place
+  - первое место
+  - second place
+  - второе место
+  - third place
+  - третье место
+  - winner
+  - победитель
+  - champion
+  - чемпион
+  - competition
+  - соревнование
+  - contest
+  - конкурс
+  - placement
+  - призовое место
+  - top three
+  - топ 3
+  - 1st place
+  - 2nd place
+  - 3rd place
+  - number one
+  - номер один
+  - leaderboard
+  - таблица лидеров
+  - award stand
+  - тумба победителей
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

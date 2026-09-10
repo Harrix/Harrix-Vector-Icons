@@ -3,9 +3,51 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - shopping
+  - покупки
   - cart
+  - тележка
+  - shopping cart
+  - корзина
+  - grocery cart
+  - продуктовая тележка
+  - supermarket cart
+  - тележка супермаркета
+  - store cart
+  - магазинная тележка
+  - trolley
+  - retail
+  - розничная торговля
+  - market
+  - рынок
+  - supermarket
+  - супермаркет
+  - store
+  - магазин
+  - basket cart
+  - тележка для покупок
+  - checkout
+  - касса
+  - purchase
+  - покупка
+  - buy
+  - купить
+  - sale
+  - распродажа
+  - empty cart
+  - пустая тележка
+  - push cart
+  - ручная тележка
+  - wheel
+  - колесо
+  - handle
+  - ручка
+  - wireframe
+  - каркас
+  - outline
+  - контур
+  - line icon
+  - линейная иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

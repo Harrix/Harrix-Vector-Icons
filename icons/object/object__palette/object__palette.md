@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - palette
+  - палитра
+  - paint palette
+  - палитра красок
+  - artist palette
+  - палитра художника
+  - paint board
+  - доска для красок
+  - painting
+  - живопись
+  - art
+  - искусство
+  - artist tool
+  - инструмент художника
+  - paint
+  - краска
+  - paints
+  - краски
+  - color palette
+  - цветовая палитра
+  - colors
+  - цвета
+  - drawing
+  - рисование
+  - creative
+  - творчество
+  - brush palette
+  - палитра для кисти
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

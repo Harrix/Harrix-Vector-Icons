@@ -4,7 +4,37 @@ categories:
   - science
 tags:
   - science
+  - наука
   - beaker
+  - стакан
+  - laboratory
+  - лаборатория
+  - lab glass
+  - лабораторный стакан
+  - measuring cup
+  - мерный стакан
+  - graduated beaker
+  - градуированный стакан
+  - liquid
+  - жидкость
+  - solution
+  - раствор
+  - chemical
+  - химический
+  - experiment
+  - эксперимент
+  - measurement
+  - измерение
+  - scale
+  - шкала
+  - glassware
+  - лабораторная посуда
+  - container
+  - контейнер
+  - vessel
+  - сосуд
+  - chemistry
+  - химия
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

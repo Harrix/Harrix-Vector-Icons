@@ -4,9 +4,40 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
+  - форма
   - 7
+  - seven
+  - семь
   - heptagon
+  - семиугольник
+  - polygon
+  - многоугольник
+  - seven sided
+  - семь сторон
+  - geometric shape
+  - геометрическая фигура
+  - geometry
+  - геометрия
+  - diagram
+  - диаграмма
+  - ring
+  - кольцо
+  - circular nodes
+  - круглые узлы
+  - connected circles
+  - соединенные круги
+  - network
+  - сеть
+  - molecule
+  - молекула
+  - chemical structure
+  - химическая структура
+  - hexagonal ring
+  - кольцевая структура
+  - outline
+  - контур
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

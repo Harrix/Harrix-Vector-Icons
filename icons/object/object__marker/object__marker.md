@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - marker
+  - маркер
+  - pen
+  - ручка
+  - felt tip
+  - фломастер
+  - highlighter
+  - текстовыделитель
+  - red marker
+  - красный маркер
+  - red pen
+  - красная ручка
+  - office supply
+  - канцелярия
+  - stationery
+  - письменные принадлежности
+  - writing tool
+  - пишущий инструмент
+  - ink pen
+  - чернильная ручка
+  - marker pen
+  - маркерная ручка
+  - tip
+  - наконечник
+  - capless
+  - без колпачка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

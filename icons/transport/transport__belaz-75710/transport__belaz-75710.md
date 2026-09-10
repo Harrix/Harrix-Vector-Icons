@@ -3,9 +3,37 @@ date: 2020-07-19
 categories:
   - transport
 tags:
-  - transport
   - belaz
+  - белаз
   - 75710
+  - самосвал
+  - dump truck
+  - карьерный самосвал
+  - mining truck
+  - haul truck
+  - heavy truck
+  - грузовик
+  - truck
+  - карьерный грузовик
+  - off-road truck
+  - гигантский самосвал
+  - ultra class truck
+  - mining vehicle
+  - горный транспорт
+  - industrial vehicle
+  - промышленная техника
+  - construction truck
+  - строительный самосвал
+  - yellow truck
+  - желтый грузовик
+  - big truck
+  - большой грузовик
+  - ore truck
+  - рудовоз
+  - open pit
+  - карьер
+  - heavy equipment
+  - тяжелая техника
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

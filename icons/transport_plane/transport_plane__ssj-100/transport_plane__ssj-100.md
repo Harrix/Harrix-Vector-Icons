@@ -4,9 +4,48 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - ssj
   - 100
+  - airplane
+  - aeroplane
+  - jet
+  - airliner
+  - passenger plane
+  - passenger jet
+  - aircraft
+  - civil aviation
+  - commercial aircraft
+  - narrow body
+  - side view
+  - jet engine
+  - wings
+  - tail
+  - landing gear
+  - windows
+  - fuselage
+  - лайнер
+  - пассажирский самолет
+  - пассажирский jet
+  - реактивный самолет
+  - самолет пассажирский
+  - воздушное судно
+  - гражданская авиация
+  - коммерческий самолет
+  - узкофюзеляжный
+  - вид сбоку
+  - реактивный двигатель
+  - крылья
+  - хвост
+  - шасси
+  - иллюминаторы
+  - фюзеляж
+  - superjet
+  - sukhoi superjet
+  - суперджет
+  - сухой superjet
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

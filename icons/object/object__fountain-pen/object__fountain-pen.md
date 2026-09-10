@@ -3,9 +3,28 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - fountain
   - pen
+  - перьевая ручка
+  - ручка
+  - fountain pen
+  - ink pen
+  - письменная ручка
+  - чернильная ручка
+  - nib
+  - перо
+  - gold nib
+  - золотое перо
+  - luxury pen
+  - элегантная ручка
+  - stationery
+  - канцелярия
+  - writing
+  - письмо
+  - signature
+  - подпись
+  - classic pen
+  - классическая ручка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

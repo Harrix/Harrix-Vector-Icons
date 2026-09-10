@@ -3,10 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - playing
   - dice
-  - 4
+  - кости
+  - playing
+  - игральный
+  - four
+  - четыре
+  - die
+  - кубик
+  - game
+  - игра
+  - gaming
+  - азарт
+  - board game
+  - настольная игра
+  - dice face
+  - грань кубика
+  - four dots
+  - четыре точки
+  - square
+  - квадрат
+  - rounded square
+  - скругленный квадрат
+  - pips
+  - точки
+  - gambling
+  - азартная игра
+  - casino
+  - казино
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

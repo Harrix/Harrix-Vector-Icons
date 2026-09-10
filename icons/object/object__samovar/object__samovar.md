@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - samovar
+  - самовар
+  - tea urn
+  - чайник
+  - teapot
+  - заварник
+  - russian tea
+  - русский чай
+  - water boiler
+  - водонагреватель
+  - kettle
+  - чайный котел
+  - tap
+  - кран
+  - spout
+  - носик
+  - traditional
+  - традиционный
+  - vintage
+  - винтаж
+  - ornament
+  - орнамент
+  - decorative
+  - декоративный
+  - metal
+  - металл
+  - golden
+  - золотой
+  - boiling
+  - кипяток
+  - tea maker
+  - прибор для чая
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

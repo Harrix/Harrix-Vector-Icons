@@ -3,9 +3,45 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
   - power
+  - питание
   - button
+  - кнопка
+  - power button
+  - кнопка питания
+  - power icon
+  - иконка питания
+  - on off
+  - вкл выкл
+  - switch
+  - переключатель
+  - shutdown
+  - выключение
+  - start
+  - запуск
+  - standby
+  - режим ожидания
+  - toggle
+  - тумблер
+  - restart
+  - перезагрузка
+  - circle
+  - круг
+  - round
+  - круглый
+  - ui
+  - interface
+  - интерфейс
+  - control
+  - управление
+  - electric
+  - электрический
+  - energy
+  - энергия
+  - off
+  - выкл
+  - on
+  - вкл
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

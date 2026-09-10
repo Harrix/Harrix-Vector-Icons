@@ -4,7 +4,47 @@ categories:
   - science
 tags:
   - science
+  - наука
   - globe
+  - глобус
+  - earth globe
+  - земной шар
+  - world globe
+  - мир
+  - planet
+  - планета
+  - earth
+  - земля
+  - school globe
+  - школьный глобус
+  - geography
+  - география
+  - classroom
+  - класс
+  - education
+  - образование
+  - stand
+  - подставка
+  - sphere
+  - сфера
+  - orb
+  - шар
+  - meridian
+  - меридиан
+  - longitude
+  - долгота
+  - latitude
+  - широта
+  - axis
+  - ось
+  - rotating
+  - вращение
+  - wireframe
+  - каркас
+  - outline
+  - контур
+  - line icon
+  - линейная иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

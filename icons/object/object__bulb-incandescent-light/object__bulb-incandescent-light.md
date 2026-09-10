@@ -3,10 +3,35 @@ date: 2021-05-26
 categories:
   - object
 tags:
-  - object
   - bulb
+  - лампа
   - incandescent
+  - накаливания
   - light
+  - свет
+  - light bulb
+  - лампочка
+  - electric bulb
+  - электролампа
+  - filament
+  - нить накала
+  - idea
+  - идея
+  - lamp
+  - лампа накаливания
+  - glass bulb
+  - yellow bulb
+  - lighting
+  - освещение
+  - energy
+  - электричество
+  - illumination
+  - свечение
+  - classic bulb
+  - edison bulb
+  - винтовой цоколь
+  - filament bulb
+  - retro bulb
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

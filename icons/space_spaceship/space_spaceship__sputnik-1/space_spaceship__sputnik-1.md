@@ -4,9 +4,46 @@ categories:
   - space_spaceship
 tags:
   - space
+  - космос
   - spaceship
+  - космический корабль
   - sputnik
-  - 1
+  - спутник
+  - satellite
+  - спутник земли
+  - artificial satellite
+  - искусственный спутник
+  - satellite antenna
+  - антенна
+  - radio antenna
+  - радиоантенна
+  - orbital satellite
+  - орбитальный спутник
+  - space probe
+  - космический зонд
+  - probe
+  - зонд
+  - beep
+  - сигнал
+  - retro
+  - ретро
+  - soviet
+  - советский
+  - ussr
+  - ссср
+  - historic
+  - исторический
+  - orbiter
+  - орбитер
+  - cosmonautics
+  - космонавтика
+  - antenna
+  - long antenna
+  - длинная антенна
+  - metal sphere
+  - металлический шар
+  - round satellite
+  - круглый спутник
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

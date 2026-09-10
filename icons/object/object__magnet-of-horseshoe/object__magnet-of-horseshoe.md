@@ -3,10 +3,27 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - magnet
-  - of
+  - магнит
   - horseshoe
+  - подкова
+  - horseshoe magnet
+  - подковообразный магнит
+  - u magnet
+  - u-shaped magnet
+  - магнит подкова
+  - magnetic
+  - магнитный
+  - attraction
+  - притяжение
+  - physics
+  - физика
+  - red blue
+  - красно-синий
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

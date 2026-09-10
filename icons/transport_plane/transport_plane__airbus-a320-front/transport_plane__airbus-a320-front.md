@@ -4,10 +4,40 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - airbus
+  - аэробус
   - a320
   - front
+  - спереди
+  - aircraft
+  - воздушное судно
+  - airliner
+  - авиалайнер
+  - jet
+  - реактивный самолет
+  - passenger plane
+  - пассажирский самолет
+  - commercial aircraft
+  - коммерческий самолет
+  - civil aviation
+  - гражданская авиация
+  - airplane nose
+  - нос самолета
+  - head-on
+  - вид спереди
+  - frontal view
+  - лобовой вид
+  - landing gear
+  - шасси
+  - wings
+  - крылья
+  - twin engine
+  - два двигателя
+  - jetliner
+  - лайнер
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

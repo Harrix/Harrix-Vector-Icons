@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - package
+  - пакет
+  - bag
+  - сумка
+  - shopping bag
+  - пакет для покупок
+  - paper bag
+  - бумажный пакет
+  - gift bag
+  - подарочный пакет
+  - carrier bag
+  - переносной пакет
+  - tote bag
+  - сумка шоппер
+  - handle
+  - ручка
+  - shopping
+  - покупки
+  - retail
+  - розница
+  - store bag
+  - магазинный пакет
+  - brown bag
+  - коричневый пакет
+  - kraft bag
+  - крафт пакет
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

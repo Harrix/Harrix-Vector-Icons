@@ -3,11 +3,46 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - exercise
-  - book
+  - exercise book
+  - тетрадь
   - spiral
+  - спираль
   - bound
+  - переплет
+  - notebook
+  - блокнот
+  - copybook
+  - записная книжка
+  - spiral notebook
+  - тетрадь на спирали
+  - notepad
+  - записник
+  - journal
+  - ежедневник
+  - planner
+  - планер
+  - workbook
+  - рабочая тетрадь
+  - school notebook
+  - школьная тетрадь
+  - blue notebook
+  - синяя тетрадь
+  - cover
+  - обложка
+  - paper
+  - бумага
+  - stationery
+  - канцелярия
+  - office supply
+  - офисные принадлежности
+  - study
+  - учеба
+  - education
+  - образование
+  - notes
+  - заметки
+  - writing
+  - письмо
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

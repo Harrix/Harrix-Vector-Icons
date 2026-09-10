@@ -3,10 +3,30 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
   - ace
-  - of
+  - туз
   - hearts
+  - червы
+  - heart suit
+  - масть черви
+  - ace of hearts
+  - туз червей
+  - playing card
+  - игральная карта
+  - card
+  - карта
+  - poker
+  - покер
+  - casino
+  - казино
+  - deck
+  - колода
+  - red heart
+  - красное сердце
+  - heart symbol
+  - символ сердца
+  - card game
+  - карточная игра
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

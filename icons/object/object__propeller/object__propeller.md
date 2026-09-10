@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - propeller
+  - пропеллер
+  - airplane propeller
+  - авиационный пропеллер
+  - aircraft propeller
+  - воздушный винт
+  - fan blade
+  - лопасть
+  - three blade
+  - три лопасти
+  - rotor
+  - ротор
+  - screw
+  - винт
+  - marine propeller
+  - гребной винт
+  - ship propeller
+  - судовой винт
+  - spinner
+  - ступица
+  - blade
+  - крыльчатка
+  - aviation
+  - авиация
+  - rotation
+  - вращение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

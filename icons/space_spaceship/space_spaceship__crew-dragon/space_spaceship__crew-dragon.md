@@ -4,9 +4,57 @@ categories:
   - space_spaceship
 tags:
   - space
+  - космос
   - spaceship
+  - космический корабль
   - crew
+  - экипаж
   - dragon
+  - дракон
+  - capsule
+  - капсула
+  - space capsule
+  - космическая капсула
+  - crew capsule
+  - капсула экипажа
+  - rocket
+  - ракета
+  - spacecraft
+  - космический аппарат
+  - orbital
+  - орбитальный
+  - reentry
+  - возвращаемый аппарат
+  - landing pod
+  - посадочная капсула
+  - shuttle
+  - шаттл
+  - nasa
+  - spacex
+  - spacex dragon
+  - корабль dragon
+  - dragon capsule
+  - капсула dragon
+  - crew dragon
+  - пилотируемый корабль
+  - pod
+  - модуль
+  - vehicle
+  - аппарат
+  - transport
+  - транспорт
+  - conical
+  - конический
+  - gray
+  - серый
+  - front view
+  - вид спереди
+  - icon
+  - иконка
+  - flat
+  - плоский
+  - minimal
+  - минималистичный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

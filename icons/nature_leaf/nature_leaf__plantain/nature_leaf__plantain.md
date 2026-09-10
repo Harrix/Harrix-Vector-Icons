@@ -4,8 +4,39 @@ categories:
   - nature_leaf
 tags:
   - nature
+  - природа
   - leaf
+  - лист
   - plantain
+  - подорожник
+  - plantain leaf
+  - лист подорожника
+  - green leaf
+  - зеленый лист
+  - herb
+  - трава
+  - herbal
+  - травяной
+  - botanical
+  - ботанический
+  - vein
+  - прожилка
+  - leaf veins
+  - прожилки листа
+  - foliage
+  - листва
+  - garden plant
+  - садовое растение
+  - medicinal plant
+  - лекарственное растение
+  - broad leaf
+  - широкий лист
+  - simple leaf
+  - простой лист
+  - flat icon
+  - плоская иконка
+  - green
+  - зеленый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

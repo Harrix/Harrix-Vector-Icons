@@ -4,8 +4,35 @@ categories:
   - science
 tags:
   - science
+  - наука
   - converging
+  - сходящийся
   - lens
+  - линза
+  - magnifying glass
+  - увеличительное стекло
+  - лупа
+  - magnifier
+  - увеличение
+  - optics
+  - оптика
+  - optical lens
+  - оптическая линза
+  - convex lens
+  - выпуклая линза
+  - glass
+  - стекло
+  - handle
+  - ручка
+  - zoom
+  - focus
+  - фокус
+  - inspection
+  - исследование
+  - laboratory
+  - лаборатория
+  - search
+  - поиск
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

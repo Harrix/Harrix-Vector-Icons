@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - anchor
+  - якорь
+  - ship anchor
+  - морской якорь
+  - boat anchor
+  - судовой якорь
+  - nautical
+  - морской
+  - maritime
+  - судоходный
+  - navy
+  - флот
+  - harbor
+  - гавань
+  - port
+  - порт
+  - sea
+  - море
+  - ocean
+  - океан
+  - mooring
+  - швартовка
+  - fishing
+  - рыбалка
+  - hook
+  - крюк
+  - metal anchor
+  - металлический якорь
+  - anchor icon
+  - иконка якоря
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

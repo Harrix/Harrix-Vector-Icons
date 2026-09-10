@@ -3,11 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - propeller
-  - two
-  - bladed
+  - пропеллер
+  - two bladed
+  - двухлопастный
+  - blade
+  - лопасть
+  - rotor
+  - ротор
+  - drone
+  - дрон
+  - quadcopter
+  - квадрокоптер
+  - uav
+  - бпла
+  - aircraft propeller
+  - воздушный винт
+  - drone propeller
+  - винт дрона
+  - fan blade
+  - лопасть вентилятора
+  - helicopter rotor
+  - вертолетный ротор
   - dji
+  - двигатель винт
+  - spinner
+  - ступица
+  - hub
+  - ось propeller
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

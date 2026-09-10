@@ -3,10 +3,31 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - propeller
-  - two
-  - bladed
+  - пропеллер
+  - two bladed
+  - двухлопастный
+  - blade
+  - лопасть
+  - airplane propeller
+  - воздушный винт
+  - aircraft propeller
+  - авиационный винт
+  - screw propeller
+  - гребной винт
+  - rotor
+  - ротор
+  - fan blade
+  - лопасть вентилятора
+  - spinner
+  - ступица
+  - hub
+  - винт
+  - авиация
+  - aircraft
+  - airplane
+  - engine propeller
+  - двигательный винт
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

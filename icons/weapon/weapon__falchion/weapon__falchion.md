@@ -4,7 +4,49 @@ categories:
   - weapon
 tags:
   - weapon
+  - оружие
   - falchion
+  - фальчион
+  - sword
+  - меч
+  - blade
+  - клинок
+  - saber
+  - сабля
+  - cutlass
+  - тесак
+  - scimitar
+  - ятаган
+  - broadsword
+  - палаш
+  - long blade
+  - длинный клинок
+  - medieval sword
+  - средневековый меч
+  - curved guard
+  - изогнутая гарда
+  - guard
+  - гарда
+  - hilt
+  - рукоять
+  - pommel
+  - навершие
+  - steel blade
+  - стальной клинок
+  - combat sword
+  - боевой меч
+  - melee weapon
+  - оружие ближнего боя
+  - fantasy sword
+  - фэнтези меч
+  - pirate sword
+  - пиратский меч
+  - icon
+  - иконка
+  - flat design
+  - плоский дизайн
+  - silhouette
+  - силуэт
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

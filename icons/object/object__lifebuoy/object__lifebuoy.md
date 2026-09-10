@@ -3,8 +3,35 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - lifebuoy
+  - спасательный круг
+  - life ring
+  - спасательный буй
+  - buoy
+  - буй
+  - ring buoy
+  - круг безопасности
+  - float
+  - поплавок
+  - flotation ring
+  - спасательное средство
+  - rescue ring
+  - морской
+  - marine
+  - nautical
+  - морской стиль
+  - boat safety
+  - безопасность на воде
+  - emergency
+  - аварийный
+  - orange ring
+  - оранжевый круг
+  - water rescue
+  - спасение на воде
+  - pool float
+  - круг для бассейна
+  - sea rescue
+  - морское спасение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

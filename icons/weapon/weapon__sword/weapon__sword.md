@@ -4,7 +4,39 @@ categories:
   - weapon
 tags:
   - weapon
+  - оружие
   - sword
+  - меч
+  - blade
+  - клинок
+  - longsword
+  - длинный меч
+  - broadsword
+  - палец
+  - medieval sword
+  - средневековый меч
+  - knight sword
+  - рыцарский меч
+  - steel blade
+  - стальной клинок
+  - crossguard
+  - гарда
+  - hilt
+  - рукоять
+  - pommel
+  - навершие
+  - straight sword
+  - прямой меч
+  - double edged
+  - обоюдоострый
+  - fantasy sword
+  - фэнтези меч
+  - silver sword
+  - серебряный меч
+  - icon sword
+  - меч иконка
+  - vertical sword
+  - вертикальный меч
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

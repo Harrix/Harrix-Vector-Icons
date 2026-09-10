@@ -4,7 +4,39 @@ categories:
   - nature
 tags:
   - nature
+  - природа
   - mushroom
+  - гриб
+  - toadstool
+  - поганка
+  - fungus
+  - грибок
+  - forest mushroom
+  - лесной гриб
+  - brown mushroom
+  - коричневый гриб
+  - mushroom cap
+  - шляпка гриба
+  - stem
+  - ножка гриба
+  - boletus
+  - боровик
+  - cep
+  - белый гриб
+  - edible mushroom
+  - съедобный гриб
+  - wild mushroom
+  - дикий гриб
+  - forest
+  - лес
+  - autumn
+  - осень
+  - icon
+  - иконка
+  - flat
+  - плоский
+  - cartoon
+  - мультяшный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - envelope
+  - конверт
+  - mail
+  - почта
+  - letter
+  - письмо
+  - email
+  - электронная почта
+  - message
+  - сообщение
+  - inbox
+  - входящие
+  - post
+  - почта письмо
+  - mailer
+  - почтовый
+  - closed envelope
+  - закрытый конверт
+  - yellow envelope
+  - желтый конверт
+  - mail icon
+  - иконка почты
+  - letter icon
+  - иконка письма
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

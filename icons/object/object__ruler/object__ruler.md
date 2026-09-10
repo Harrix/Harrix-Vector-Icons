@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - ruler
+  - линейка
+  - measuring tool
+  - измерительный инструмент
+  - measure
+  - измерение
+  - scale
+  - шкала
+  - straightedge
+  - рейсшина
+  - centimeter
+  - сантиметр
+  - inch
+  - дюйм
+  - measurement
+  - замер
+  - metric
+  - метрический
+  - yellow ruler
+  - желтая линейка
+  - school supply
+  - школьная принадлежность
+  - stationery
+  - канцелярия
+  - markings
+  - деления
+  - graduation marks
+  - метки шкалы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

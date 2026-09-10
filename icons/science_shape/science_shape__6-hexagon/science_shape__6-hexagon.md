@@ -4,9 +4,46 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
-  - 6
+  - форма
   - hexagon
+  - шестиугольник
+  - 6
+  - six
+  - шесть
+  - molecule
+  - молекула
+  - benzene
+  - бензол
+  - chemical ring
+  - химическое кольцо
+  - atom
+  - атом
+  - atoms
+  - атомы
+  - molecular structure
+  - молекулярная структура
+  - connection
+  - соединение
+  - linked nodes
+  - связанные узлы
+  - node
+  - узел
+  - diagram
+  - диаграмма
+  - geometric
+  - геометрический
+  - polygon
+  - многоугольник
+  - ring structure
+  - кольцевая структура
+  - chemical structure
+  - химическая структура
+  - network
+  - сеть
+  - outline
+  - контур
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,41 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
   - cancel
+  - отмена
+  - cross
+  - крест
+  - x
+  - икс
+  - close
+  - закрыть
+  - delete
+  - удалить
+  - remove
+  - убрать
+  - no
+  - нет
+  - wrong
+  - ошибка
+  - error
+  - stop
+  - стоп
+  - forbidden
+  - запрещено
+  - reject
+  - отклонить
+  - times
+  - умножение
+  - red circle
+  - красный круг
+  - round icon
+  - круглая иконка
+  - cross mark
+  - знак крест
+  - close button
+  - кнопка закрыть
+  - x mark
+  - знак x
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

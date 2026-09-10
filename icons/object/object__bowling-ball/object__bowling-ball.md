@@ -3,9 +3,36 @@ date: 2021-06-19
 categories:
   - object
 tags:
-  - object
   - bowling
+  - боулинг
   - ball
+  - мяч
+  - bowling ball
+  - шар для боулинга
+  - sports ball
+  - спортивный мяч
+  - blue ball
+  - синий шар
+  - finger holes
+  - отверстия для пальцев
+  - three holes
+  - три отверстия
+  - round
+  - круглый
+  - sphere
+  - сфера
+  - skittle ball
+  - шар для кеглей
+  - game
+  - игра
+  - sport
+  - спорт
+  - leisure
+  - досуг
+  - equipment
+  - снаряжение
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

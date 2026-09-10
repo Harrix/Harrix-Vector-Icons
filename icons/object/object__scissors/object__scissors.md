@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - scissors
+  - ножницы
+  - shears
+  - ножницы для бумаги
+  - cutting tool
+  - режущий инструмент
+  - office scissors
+  - канцелярские ножницы
+  - paper scissors
+  - парикмахерские ножницы
+  - stationery
+  - канцелярия
+  - blade
+  - лезвие
+  - handle
+  - ручка
+  - open scissors
+  - открытые ножницы
+  - cut
+  - резать
+  - snip
+  - подрезать
+  - tool
+  - инструмент
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

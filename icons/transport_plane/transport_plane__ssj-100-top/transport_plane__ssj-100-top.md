@@ -4,10 +4,41 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - ssj
+  - ссж
   - 100
   - top
+  - вид сверху
+  - top view
+  - airplane
+  - аэроплан
+  - jet
+  - реактивный
+  - airliner
+  - авиалайнер
+  - passenger plane
+  - пассажирский самолет
+  - aircraft
+  - воздушное судно
+  - fuselage
+  - фюзеляж
+  - wings
+  - крылья
+  - tail
+  - хвост
+  - engines
+  - двигатели
+  - jetliner
+  - реактивный самолет
+  - civil aviation
+  - гражданская авиация
+  - flight
+  - полет
+  - aviation
+  - авиация
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

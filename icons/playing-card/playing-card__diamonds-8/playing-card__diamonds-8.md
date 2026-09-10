@@ -3,9 +3,35 @@ date: 2020-08-02
 categories:
   - playing-card
 tags:
-  - playing-card
   - diamonds
+  - бубны
   - 8
+  - eight
+  - восемь
+  - eight of diamonds
+  - восемь бубен
+  - diamond suit
+  - масть бубны
+  - playing card
+  - игральная карта
+  - card game
+  - карточная игра
+  - deck
+  - колода
+  - casino
+  - казино
+  - gambling
+  - азарт
+  - poker
+  - покер
+  - bridge
+  - бридж
+  - solitaire
+  - пасьянс
+  - red card
+  - красная карта
+  - diamond symbol
+  - символ бубны
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

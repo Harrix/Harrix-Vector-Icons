@@ -3,10 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - playing
   - dice
-  - 1
+  - кости
+  - die
+  - игральная кость
+  - one
+  - один
+  - single pip
+  - одна точка
+  - dot
+  - точка
+  - spot
+  - пятно
+  - pip
+  - очко
+  - face one
+  - грань один
+  - game
+  - игра
+  - gaming
+  - гейминг
+  - gambling
+  - азарт
+  - casino
+  - казино
+  - board game
+  - настольная игра
+  - cube
+  - куб
+  - square
+  - квадрат
+  - rounded square
+  - скругленный квадрат
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

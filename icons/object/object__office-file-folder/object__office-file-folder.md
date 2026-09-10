@@ -3,10 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - office
+  - офис
   - file
+  - файл
   - folder
+  - папка
+  - binder
+  - папка регистратор
+  - ring binder
+  - скоросшиватель
+  - archivator
+  - архиватор
+  - document binder
+  - папка для документов
+  - lever arch
+  - папка архивная
+  - file binder
+  - регистратор
+  - office binder
+  - офисная папка
+  - blue binder
+  - синяя папка
+  - standing folder
+  - вертикальная папка
+  - archive folder
+  - архивная папка
+  - file storage
+  - хранение файлов
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

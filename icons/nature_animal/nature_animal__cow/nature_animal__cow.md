@@ -3,9 +3,38 @@ date: 2020-07-19
 categories:
   - nature_animal
 tags:
-  - nature
-  - animal
   - cow
+  - корова
+  - nature
+  - природа
+  - animal
+  - животное
+  - bull
+  - бык
+  - ox
+  - вол
+  - cattle
+  - крупный рогатый скот
+  - horns
+  - рога
+  - cow head
+  - голова коровы
+  - bull head
+  - голова быка
+  - muzzle
+  - морда
+  - farm animal
+  - фермерское животное
+  - livestock
+  - скот
+  - grazing animal
+  - пасущееся животное
+  - face
+  - лицо
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

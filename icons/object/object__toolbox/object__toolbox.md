@@ -3,8 +3,39 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - toolbox
+  - ящик для инструментов
+  - tool box
+  - tool case
+  - ящик
+  - кейс для инструментов
+  - storage box
+  - контейнер для инструментов
+  - equipment box
+  - ящик мастера
+  - repair box
+  - органайзер для инструментов
+  - portable box
+  - переносной ящик
+  - handle
+  - ручка
+  - latch
+  - защелка
+  - plastic box
+  - пластиковый ящик
+  - hardware box
+  - ящик для ремонта
+  - utility box
+  - инструменты
+  - tools
+  - construction
+  - строительство
+  - repair
+  - ремонт
+  - maintenance
+  - обслуживание
+  - workshop
+  - мастерская
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

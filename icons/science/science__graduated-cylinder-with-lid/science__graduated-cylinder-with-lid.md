@@ -3,11 +3,34 @@ date: 2020-07-19
 categories:
   - science
 tags:
-  - science
-  - graduated
+  - graduated cylinder
+  - мерный цилиндр
   - cylinder
-  - with
+  - цилиндр
   - lid
+  - крышка
+  - stopper
+  - пробка
+  - measuring cylinder
+  - измерительный цилиндр
+  - laboratory glassware
+  - лабораторная посуда
+  - lab container
+  - лабораторная емкость
+  - chemistry
+  - химия
+  - science lab
+  - научная лаборатория
+  - glass bottle
+  - стеклянная бутылка
+  - measurement scale
+  - шкала измерения
+  - liquid container
+  - емкость для жидкости
+  - flat design
+  - плоский дизайн
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

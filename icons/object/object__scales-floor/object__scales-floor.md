@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - scales
+  - весы
   - floor
+  - напольные
+  - bathroom scale
+  - весы напольные
+  - digital scale
+  - электронные весы
+  - weight scale
+  - измерение веса
+  - weight
+  - вес
+  - kilogram
+  - килограмм
+  - kg
+  - display
+  - дисплей
+  - lcd
+  - screen
+  - экран
+  - measurement
+  - измерение
+  - weighing
+  - взвешивание
+  - body weight
+  - масса тела
+  - scale machine
+  - бытовые весы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

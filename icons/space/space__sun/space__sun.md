@@ -4,7 +4,34 @@ categories:
   - space
 tags:
   - space
+  - космос
   - sun
+  - солнце
+  - sunburst
+  - солнечные лучи
+  - sun rays
+  - лучи
+  - solar
+  - солнечный
+  - starburst
+  - сияние
+  - glow
+  - яркое солнце
+  - sunshine
+  - солнечный свет
+  - radiant
+  - круг
+  - round sun
+  - weather
+  - погода
+  - summer
+  - лето
+  - daylight
+  - дневной свет
+  - astronomy
+  - астрономия
+  - celestial
+  - небесный
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

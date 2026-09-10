@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
   - ok
+  - ок
+  - check
+  - галочка
+  - check mark
+  - знак галочки
+  - tick
+  - тик
+  - tick mark
+  - отметка
+  - checklist
+  - подтверждение
+  - approved
+  - подтверждено
+  - accept
+  - принято
+  - correct
+  - верно
+  - done
+  - готово
+  - success
+  - успех
+  - yes
+  - да
+  - valid
+  - валидно
+  - verify
+  - проверено
+  - confirm
+  - подтвердить
+  - green check
+  - зеленая галочка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - wheel
+  - колесо
+  - wagon wheel
+  - колесо телеги
+  - cart wheel
+  - колесо повозки
+  - wooden wheel
+  - деревянное колесо
+  - spoked wheel
+  - спицевое колесо
+  - spokes
+  - спицы
+  - rim
+  - обод
+  - hub
+  - ступица
+  - carriage wheel
+  - колесо экипажа
+  - old wheel
+  - старое колесо
+  - vintage wheel
+  - винтажное колесо
+  - round
+  - круг
+  - circular
+  - круглый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

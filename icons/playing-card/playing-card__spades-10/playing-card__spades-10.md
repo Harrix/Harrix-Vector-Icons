@@ -3,9 +3,31 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
+  - playing card
+  - card
   - spades
+  - пики
   - 10
+  - ten
+  - десятка
+  - ten of spades
+  - десятка пик
+  - spade suit
+  - масть пики
+  - deck
+  - колода
+  - casino
+  - казино
+  - gambling
+  - азарт
+  - poker
+  - покер
+  - black card
+  - черная карта
+  - card game
+  - карточная игра
+  - game icon
+  - игровая иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

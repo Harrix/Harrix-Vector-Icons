@@ -3,8 +3,31 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pills
+  - таблетки
+  - pill
+  - tablet
+  - таблетка
+  - blister pack
+  - блистер
+  - medicine
+  - медицина
+  - medication
+  - лекарство
+  - drug
+  - препарат
+  - pharmacy
+  - аптека
+  - pharmaceutical
+  - фармацевтика
+  - packaging
+  - упаковка
+  - round pills
+  - круглые таблетки
+  - medical blister
+  - блистер таблеток
+  - medicine pack
+  - упаковка таблеток
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

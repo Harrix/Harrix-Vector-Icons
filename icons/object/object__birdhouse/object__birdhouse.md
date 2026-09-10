@@ -3,8 +3,34 @@ date: 2021-01-24
 categories:
   - object
 tags:
-  - object
   - birdhouse
+  - скворечник
+  - bird house
+  - домик для птиц
+  - nest box
+  - гнездовой домик
+  - bird nest box
+  - кормушка
+  - wooden house
+  - деревянный домик
+  - wooden
+  - деревянный
+  - roof
+  - крыша
+  - hole
+  - отверстие
+  - entrance
+  - вход
+  - perch
+  - жердочка
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - simple
+  - простой
+  - house for birds
+  - птичий домик
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,44 @@ date: 2020-07-19
 categories:
   - science
 tags:
+  - communicating vessels
+  - сообщающиеся сосуды
   - science
-  - communicating
-  - vessels
+  - наука
+  - tube
+  - трубка
+  - glass tube
+  - стеклянная трубка
+  - u-tube
+  - u-образная трубка
+  - measuring tube
+  - измерительная трубка
+  - graduated tube
+  - градуированная трубка
+  - scale
+  - шкала
+  - measurement
+  - измерение
+  - liquid level
+  - уровень жидкости
+  - fluid
+  - жидкость
+  - laboratory
+  - лаборатория
+  - lab equipment
+  - лабораторное оборудование
+  - physics
+  - физика
+  - experiment
+  - эксперимент
+  - scientific instrument
+  - научный прибор
+  - gauge
+  - мерная шкала
+  - cylinder
+  - цилиндр
+  - vertical tube
+  - вертикальная трубка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

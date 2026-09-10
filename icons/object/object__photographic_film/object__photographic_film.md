@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - photographic_film
+  - photographic film
+  - фотопленка
+  - film strip
+  - пленка
+  - movie film
+  - кинопленка
+  - camera film
+  - фотоплёнка
+  - negative film
+  - негатив
+  - celluloid
+  - целлулоид
+  - frame strip
+  - кадр пленки
+  - film frame
+  - кинокадр
+  - cinema
+  - кино
+  - movie
+  - фильм
+  - video
+  - видео
+  - media
+  - медиа
+  - strip
+  - лента
+  - reel film
+  - рулон пленки
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,10 +4,38 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - ssj
   - 100
   - front
+  - спереди
+  - airplane
+  - aircraft
+  - jet
+  - airliner
+  - passenger plane
+  - civil aviation
+  - commercial jet
+  - narrow body
+  - twin engine
+  - landing gear
+  - nose view
+  - head on
+  - aviation
+  - лайнер
+  - пассажирский самолет
+  - авиалайнер
+  - реактивный самолет
+  - гражданская авиация
+  - коммерческий самолет
+  - узкофюзеляжный
+  - двухдвигательный
+  - шасси
+  - вид спереди
+  - анфас
+  - авиация
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,33 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
+  - playing card
+  - игральная карта
   - hearts
+  - червы
+  - heart suit
+  - масть черви
+  - nine
+  - девять
   - 9
+  - card game
+  - карточная игра
+  - deck
+  - колода
+  - red card
+  - красная карта
+  - nine of hearts
+  - девятка червей
+  - poker card
+  - карта покера
+  - casino card
+  - карта казино
+  - heart symbol
+  - символ сердца
+  - card face
+  - лицо карты
+  - pip card
+  - числовая карта
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

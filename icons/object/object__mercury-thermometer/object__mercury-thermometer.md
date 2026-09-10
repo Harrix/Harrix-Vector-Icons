@@ -3,9 +3,30 @@ date: 2021-03-28
 categories:
   - object
 tags:
-  - object
-  - mercury
   - thermometer
+  - термометр
+  - mercury
+  - ртуть
+  - medical thermometer
+  - медицинский термометр
+  - glass thermometer
+  - стеклянный термометр
+  - fever thermometer
+  - градусник
+  - temperature
+  - температура
+  - celsius
+  - цельсий
+  - clinical thermometer
+  - клинический термометр
+  - temperature scale
+  - шкала температуры
+  - measurement
+  - измерение
+  - lab thermometer
+  - лабораторный термометр
+  - analog thermometer
+  - аналоговый термометр
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

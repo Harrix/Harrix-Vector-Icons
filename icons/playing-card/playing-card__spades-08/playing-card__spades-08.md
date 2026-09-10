@@ -3,9 +3,29 @@ date: 2020-08-02
 categories:
   - playing-card
 tags:
-  - playing-card
   - spades
-  - 08
+  - пики
+  - 8
+  - eight
+  - восемь
+  - playing card
+  - игральная карта
+  - card
+  - карта
+  - eight of spades
+  - восьмерка пик
+  - spade suit
+  - масть пики
+  - poker card
+  - покерная карта
+  - casino
+  - казино
+  - deck
+  - колода
+  - black suit
+  - черная масть
+  - card game
+  - карточная игра
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,8 +4,40 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - hippopotamus
+  - бегемот
+  - hippo
+  - морда бегемота
+  - hippo face
+  - animal face
+  - голова животного
+  - head
+  - морда
+  - face
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - purple
+  - фиолетовый
+  - muzzle
+  - морда животного
+  - snout
+  - нос
+  - ears
+  - уши
+  - eyes
+  - глаза
+  - wildlife
+  - дикое животное
+  - safari
+  - африка
+  - африканское животное
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

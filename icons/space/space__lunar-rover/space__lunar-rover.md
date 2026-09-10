@@ -4,8 +4,41 @@ categories:
   - space
 tags:
   - space
+  - космос
   - lunar
+  - лунный
   - rover
+  - ровер
+  - moon rover
+  - луноход
+  - planetary rover
+  - планетарный ровер
+  - robot vehicle
+  - роботизированная машина
+  - exploration vehicle
+  - исследовательский аппарат
+  - antenna
+  - антенна
+  - dish antenna
+  - тарелка антенны
+  - satellite dish
+  - спутниковая антенна
+  - wheels
+  - колеса
+  - robot
+  - робот
+  - probe
+  - зонд
+  - spacecraft
+  - космический аппарат
+  - mars rover
+  - марсоход
+  - moon vehicle
+  - лунная машина
+  - remote control
+  - дистанционное управление
+  - autonomous rover
+  - автономный ровер
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

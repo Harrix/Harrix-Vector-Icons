@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - box
+  - коробка
   - front
+  - спереди
+  - open box
+  - открытая коробка
+  - cardboard
+  - картон
+  - carton
+  - короб
+  - package
+  - упаковка
+  - parcel
+  - посылка
+  - container
+  - контейнер
+  - storage box
+  - ящик
+  - brown box
+  - коричневая коробка
+  - empty box
+  - пустая коробка
+  - shipping box
+  - коробка доставки
+  - packing
+  - упаковочный
+  - mockup
+  - макет
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

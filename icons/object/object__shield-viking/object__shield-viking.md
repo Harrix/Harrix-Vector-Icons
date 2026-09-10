@@ -3,9 +3,39 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - shield
+  - щит
   - viking
+  - викинг
+  - round shield
+  - круглый щит
+  - wooden shield
+  - деревянный щит
+  - battle shield
+  - боевой щит
+  - warrior shield
+  - щит воина
+  - norse
+  - скандинавский
+  - medieval
+  - средневековый
+  - armor
+  - броня
+  - defense
+  - защита
+  - wood
+  - дерево
+  - wooden
+  - деревянный
+  - round
+  - круглый
+  - weapon
+  - оружие
+  - barrier
+  - преграда
+  - buckler
+  - баклер
+  - scandinavian
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,29 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - text
+  - текст
   - separator
+  - разделитель
+  - highlighter
+  - маркер
+  - marker
+  - highlight pen
+  - текстовыделитель
+  - felt tip
+  - фломастер
+  - pen
+  - ручка
+  - office tool
+  - офисный инструмент
+  - stationery
+  - канцелярия
+  - green
+  - зеленый
+  - green marker
+  - зеленый маркер
+  - school supply
+  - школьные принадлежности
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

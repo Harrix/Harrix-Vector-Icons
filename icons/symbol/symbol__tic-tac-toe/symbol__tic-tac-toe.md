@@ -3,10 +3,45 @@ date: 2020-07-19
 categories:
   - symbol
 tags:
-  - symbol
-  - tic
-  - tac
-  - toe
+  - tic tac toe
+  - крестики нолики
+  - noughts and crosses
+  - крестики и нолики
+  - xo
+  - x o
+  - игра xo
+  - game board
+  - игровое поле
+  - grid
+  - сетка
+  - board game
+  - настольная игра
+  - cross
+  - крест
+  - x mark
+  - икс
+  - o mark
+  - нолик
+  - circle
+  - круг
+  - win
+  - победа
+  - strategy game
+  - стратегическая игра
+  - puzzle game
+  - логическая игра
+  - line game
+  - линия
+  - three in a row
+  - три в ряд
+  - checker grid
+  - клетки
+  - match game
+  - игра
+  - cross mark
+  - знак x
+  - round mark
+  - знак o
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

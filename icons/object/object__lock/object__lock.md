@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - lock
+  - замок
+  - padlock
+  - висячий замок
+  - closed lock
+  - закрытый замок
+  - security
+  - безопасность
+  - protection
+  - защита
+  - secure
+  - защищенный
+  - locked
+  - заперто
+  - keyhole
+  - замочная скважина
+  - metal lock
+  - металлический замок
+  - hardware
+  - скобяное изделие
+  - privacy
+  - приватность
+  - access
+  - доступ
+  - unlock
+  - разблокировка
+  - safety
+  - безопасность данных
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

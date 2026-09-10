@@ -3,9 +3,31 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
+  - playing card
+  - игральная карта
   - clubs
+  - трефы
+  - club suit
+  - масть треф
+  - ten
+  - десятка
   - 10
+  - ten of clubs
+  - десятка треф
+  - card deck
+  - колода карт
+  - deck card
+  - карточная масть
+  - casino card
+  - казино карта
+  - poker card
+  - покерная карта
+  - black suit
+  - черная масть
+  - card game
+  - карточная игра
+  - gambling
+  - азартная игра
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

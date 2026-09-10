@@ -4,10 +4,45 @@ categories:
   - transport_plane
 tags:
   - transport
+  - транспорт
   - plane
+  - самолет
   - airbus
+  - аэробус
   - a320
   - top
+  - вид сверху
+  - top view
+  - airplane
+  - aeroplane
+  - авиалайнер
+  - airliner
+  - passenger plane
+  - пассажирский самолет
+  - jet
+  - реактивный самолет
+  - aircraft
+  - воздушное судно
+  - civil aviation
+  - гражданская авиация
+  - commercial aircraft
+  - пассажирский авиалайнер
+  - twin engine
+  - двухдвигательный
+  - narrow body
+  - узкофюзеляжный
+  - wings
+  - крылья
+  - fuselage
+  - фюзеляж
+  - tail
+  - хвост
+  - engines
+  - двигатели
+  - overhead
+  - сверху
+  - silhouette
+  - силуэт
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

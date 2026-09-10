@@ -3,10 +3,42 @@ date: 2020-07-19
 categories:
   - science
 tags:
-  - science
   - atom
-  - of
+  - атом
   - lithium
+  - литий
+  - lithium atom
+  - атом лития
+  - atomic model
+  - модель атома
+  - bohr model
+  - модель бора
+  - electron
+  - электрон
+  - nucleus
+  - ядро
+  - orbit
+  - орбита
+  - electron shell
+  - электронная оболочка
+  - molecule
+  - молекула
+  - chemistry
+  - химия
+  - physics
+  - физика
+  - structure
+  - структура
+  - element
+  - элемент
+  - chemical element
+  - химический элемент
+  - particle
+  - частица
+  - circular
+  - круглый
+  - flat icon
+  - плоская иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,10 +3,35 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - playing
   - dice
-  - 5
+  - кости
+  - игральная кость
+  - die
+  - cube
+  - кубик
+  - five
+  - пять
+  - number 5
+  - цифра 5
+  - pip
+  - точка
+  - dots
+  - точки
+  - gaming
+  - игра
+  - gambling
+  - азарт
+  - casino
+  - казино
+  - board game
+  - настольная игра
+  - luck
+  - удача
+  - roll
+  - бросок
+  - d6
+  - five pips
+  - пять точек
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,10 +3,38 @@ date: 2020-07-19
 categories:
   - nature_animal_track
 tags:
-  - nature
-  - animal
-  - track
   - bear
+  - медведь
+  - animal
+  - животное
+  - nature
+  - природа
+  - track
+  - след
+  - paw
+  - лапа
+  - paw print
+  - отпечаток лапы
+  - footprint
+  - след лапы
+  - animal track
+  - след животного
+  - bear track
+  - след медведя
+  - wildlife
+  - дикая природа
+  - forest
+  - лес
+  - claw mark
+  - след когтей
+  - print
+  - отпечаток
+  - trail
+  - тропа
+  - icon
+  - иконка
+  - silhouette
+  - силуэт
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

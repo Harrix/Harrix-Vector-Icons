@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - threads
+  - нити
+  - spool
+  - катушка
+  - thread spool
+  - катушка ниток
+  - sewing thread
+  - швейная нить
+  - yarn
+  - пряжа
+  - bobbin
+  - шпулька
+  - roll
+  - рулон
+  - fiber
+  - волокно
+  - textile
+  - текстиль
+  - craft
+  - рукоделие
+  - tailoring
+  - шитье
+  - sewing
+  - нить
+  - string
+  - шнур
+  - cone spool
+  - конусная катушка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

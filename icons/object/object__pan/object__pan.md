@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pan
+  - сковорода
+  - pot
+  - кастрюля
+  - cooking pot
+  - кухонная кастрюля
+  - saucepan
+  - сотейник
+  - stock pot
+  - суповая кастрюля
+  - cookware
+  - посуда
+  - kitchenware
+  - кухонная утварь
+  - lid
+  - крышка
+  - handle
+  - ручка
+  - boiling
+  - варка
+  - stew pot
+  - горшок
+  - metal pot
+  - металлическая кастрюля
+  - soup pot
+  - кастрюля для супа
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

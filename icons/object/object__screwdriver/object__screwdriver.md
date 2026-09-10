@@ -3,8 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - screwdriver
+  - отвертка
+  - flat screwdriver
+  - плоская отвертка
+  - slotted screwdriver
+  - шлицевая отвертка
+  - tool
+  - инструмент
+  - hand tool
+  - ручной инструмент
+  - repair
+  - ремонт
+  - fix
+  - починка
+  - maintenance
+  - обслуживание
+  - hardware
+  - крепеж
+  - workshop
+  - мастерская
+  - green handle
+  - зеленая ручка
+  - metal shaft
+  - металлический стержень
+  - flat head
+  - плоский шлиц
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

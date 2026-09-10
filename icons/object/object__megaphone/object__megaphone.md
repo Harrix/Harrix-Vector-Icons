@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - megaphone
+  - мегафон
+  - bullhorn
+  - рупор
+  - loudspeaker
+  - громкоговоритель
+  - speaker
+  - динамик
+  - announcement
+  - объявление
+  - broadcast
+  - трансляция
+  - amplifier
+  - усилитель
+  - sound
+  - звук
+  - audio
+  - аудио
+  - voice
+  - голос
+  - alert
+  - оповещение
+  - promotion
+  - реклама
+  - protest
+  - протест
+  - handheld
+  - ручной
+  - communication
+  - коммуникация
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,9 +3,48 @@ date: 2021-04-11
 categories:
   - object
 tags:
-  - object
   - medal
-  - i
+  - медаль
+  - gold medal
+  - золотая медаль
+  - award
+  - награда
+  - winner
+  - победитель
+  - first place
+  - первое место
+  - number one
+  - номер один
+  - champion
+  - чемпион
+  - prize
+  - приз
+  - achievement
+  - достижение
+  - victory
+  - победа
+  - ribbon
+  - лента
+  - blue ribbon
+  - синяя лента
+  - gold
+  - золото
+  - trophy
+  - трофей
+  - badge
+  - значок
+  - award medal
+  - наградная медаль
+  - medallion
+  - медальон
+  - ranking
+  - рейтинг
+  - best
+  - лучший
+  - success
+  - успех
+  - first
+  - первый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

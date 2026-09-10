@@ -4,8 +4,41 @@ categories:
   - science_shape
 tags:
   - science
+  - наука
   - shape
+  - форма
   - circle
+  - круг
+  - ring
+  - кольцо
+  - concentric
+  - концентрический
+  - concentric circles
+  - концентрические круги
+  - target
+  - цель
+  - bullseye
+  - яблочко
+  - dot
+  - точка
+  - center
+  - центр
+  - core
+  - ядро
+  - orbital
+  - орбиталь
+  - atom
+  - атом
+  - atomic
+  - атомный
+  - nucleus
+  - ядро атома
+  - outline
+  - контур
+  - round
+  - круглый
+  - geometric
+  - геометрический
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

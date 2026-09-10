@@ -3,9 +3,33 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
   - clubs
+  - трефы
   - 9
+  - nine
+  - девять
+  - card
+  - карта
+  - playing card
+  - игральная карта
+  - nine of clubs
+  - девятка треф
+  - club suit
+  - масть треф
+  - deck
+  - колода
+  - poker
+  - покер
+  - casino
+  - казино
+  - gambling
+  - азарт
+  - black card
+  - черная карта
+  - card game
+  - карточная игра
+  - club symbol
+  - символ трефы
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

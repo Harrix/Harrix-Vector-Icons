@@ -3,9 +3,31 @@ date: 2021-06-19
 categories:
   - object
 tags:
-  - object
   - ship
+  - корабль
   - wheel
+  - колесо
+  - ship wheel
+  - штурвал
+  - helm
+  - руль
+  - steering wheel
+  - морской
+  - nautical
+  - maritime
+  - navy
+  - лодка
+  - boat
+  - captain
+  - капитан
+  - pirate
+  - пират
+  - wooden wheel
+  - деревянный штурвал
+  - navigation
+  - навигация
+  - rudder
+  - морской руль
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

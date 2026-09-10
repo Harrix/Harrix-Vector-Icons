@@ -3,9 +3,39 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - clock
+  - часы
   - krasnoyarsk
+  - красноярск
+  - clock face
+  - циферблат
+  - watch face
+  - аналоговые часы
+  - analog clock
+  - hour hand
+  - часовая стрелка
+  - minute hand
+  - минутная стрелка
+  - dial
+  - шкала
+  - time
+  - время
+  - round clock
+  - круглые часы
+  - vintage clock
+  - винтажные часы
+  - mechanical clock
+  - механические часы
+  - wall clock
+  - настенные часы
+  - roman numerals
+  - римские цифры
+  - numbers
+  - цифры
+  - hour markers
+  - деления
+  - timepiece
+  - хронометр
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

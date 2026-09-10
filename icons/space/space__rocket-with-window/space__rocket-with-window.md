@@ -4,9 +4,43 @@ categories:
   - space
 tags:
   - space
+  - космос
   - rocket
-  - with
+  - ракета
   - window
+  - окно
+  - spaceship
+  - космический корабль
+  - spacecraft
+  - космический аппарат
+  - shuttle
+  - шаттл
+  - launcher
+  - носитель
+  - launch vehicle
+  - ракета носитель
+  - missile
+  - снаряд
+  - porthole
+  - иллюминатор
+  - cabin window
+  - окно кабины
+  - fin
+  - крыло
+  - tail fin
+  - стабилизатор
+  - nose cone
+  - носовой обтекатель
+  - thruster
+  - двигатель
+  - booster
+  - ускоритель
+  - flat
+  - плоский
+  - cartoon
+  - мультяшный
+  - gray rocket
+  - серая ракета
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

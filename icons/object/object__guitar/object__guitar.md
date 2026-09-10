@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - guitar
+  - гитара
+  - acoustic guitar
+  - акустическая гитара
+  - classical guitar
+  - классическая гитара
+  - string instrument
+  - струнный инструмент
+  - musical instrument
+  - музыкальный инструмент
+  - instrument
+  - инструмент
+  - fretted instrument
+  - щипковый инструмент
+  - six string
+  - шестиструнная
+  - wooden guitar
+  - деревянная гитара
+  - fretboard
+  - гриф
+  - strings
+  - струны
+  - music
+  - музыка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

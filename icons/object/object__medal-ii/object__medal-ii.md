@@ -3,9 +3,34 @@ date: 2021-04-11
 categories:
   - object
 tags:
-  - object
   - medal
+  - медаль
   - ii
+  - 2
+  - second place
+  - второе место
+  - silver medal
+  - серебряная медаль
+  - award
+  - награда
+  - prize
+  - приз
+  - winner
+  - победитель
+  - achievement
+  - достижение
+  - competition
+  - соревнование
+  - ranking
+  - рейтинг
+  - round medal
+  - круглая медаль
+  - ribbon
+  - лента
+  - blue ribbon
+  - синяя лента
+  - sport award
+  - спортивная награда
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

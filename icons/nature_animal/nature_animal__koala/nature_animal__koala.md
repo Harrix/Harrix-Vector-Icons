@@ -3,9 +3,50 @@ date: 2021-10-03
 categories:
   - nature_animal
 tags:
-  - nature
-  - animal
   - koala
+  - коала
+  - nature
+  - природа
+  - animal
+  - животное
+  - marsupial
+  - сумчатое
+  - bear
+  - медведь
+  - bear face
+  - морда медведя
+  - face
+  - лицо
+  - head
+  - голова
+  - animal face
+  - морда животного
+  - cute
+  - милый
+  - gray
+  - серый
+  - ears
+  - уши
+  - big nose
+  - большой нос
+  - snout
+  - мордочка
+  - australia
+  - австралия
+  - australian animal
+  - австралийское животное
+  - wildlife
+  - дикая природа
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - avatar
+  - аватар
+  - emoji
+  - эмодзи
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

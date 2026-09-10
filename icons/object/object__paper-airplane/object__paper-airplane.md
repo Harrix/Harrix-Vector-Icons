@@ -3,9 +3,32 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - paper
+  - бумага
   - airplane
+  - самолет
+  - paper airplane
+  - бумажный самолетик
+  - paper plane
+  - бумажный самолет
+  - origami
+  - оригами
+  - glider
+  - планер
+  - toy plane
+  - игрушечный самолет
+  - fly
+  - полет
+  - send
+  - отправить
+  - message
+  - сообщение
+  - mail
+  - почта
+  - arrow
+  - стрелка
+  - folded paper
+  - сложенная бумага
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,26 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - spring
+  - пружина
+  - coil
+  - катушка
+  - helix
+  - спираль
+  - metal spring
+  - витая пружина
+  - coiled wire
+  - пружинная спираль
+  - zigzag
+  - зигзаг
+  - elastic
+  - упругость
+  - suspension spring
+  - амортизационная пружина
+  - mattress spring
+  - пружина матраса
+  - compression spring
+  - пружина сжатия
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

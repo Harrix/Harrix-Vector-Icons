@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - button
+  - кнопка
+  - sewing button
+  - пуговица
+  - red button
+  - красная пуговица
+  - round button
+  - круглая пуговица
+  - four holes
+  - четыре отверстия
+  - hole button
+  - пуговица с дырками
+  - clothing fastener
+  - застежка для одежды
+  - sewing
+  - шитье
+  - tailoring
+  - портновское дело
+  - needlework
+  - рукоделие
+  - garment
+  - одежда
+  - apparel
+  - наряд
+  - textile
+  - текстиль
+  - fashion
+  - мода
+  - craft
+  - ремесло
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

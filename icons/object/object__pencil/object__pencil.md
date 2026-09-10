@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pencil
+  - карандаш
+  - green pencil
+  - зеленый карандаш
+  - wooden pencil
+  - деревянный карандаш
+  - writing tool
+  - пишущий инструмент
+  - stationery
+  - канцелярия
+  - school supply
+  - школьные принадлежности
+  - draw
+  - рисовать
+  - sketch
+  - эскиз
+  - sharpened
+  - заточенный
+  - pointed
+  - заостренный
+  - vertical pencil
+  - вертикальный карандаш
+  - colored pencil
+  - цветной карандаш
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

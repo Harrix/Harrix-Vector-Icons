@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - basketball
+  - баскетбол
+  - basketball ball
+  - баскетбольный мяч
+  - ball
+  - мяч
+  - sport
+  - спорт
+  - orange ball
+  - оранжевый мяч
+  - game ball
+  - игровой мяч
+  - team sport
+  - командный спорт
+  - round
+  - круглый
+  - circle
+  - круг
+  - sports equipment
+  - спортивный инвентарь
+  - league
+  - лига
+  - court game
+  - игра на площадке
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

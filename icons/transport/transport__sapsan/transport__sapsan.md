@@ -3,8 +3,46 @@ date: 2020-07-19
 categories:
   - transport
 tags:
-  - transport
   - sapsan
+  - сапсан
+  - transport
+  - транспорт
+  - train
+  - поезд
+  - railway
+  - железная дорога
+  - rail
+  - рельс
+  - high speed train
+  - скоростной поезд
+  - bullet train
+  - пулевидный поезд
+  - express train
+  - экспресс поезд
+  - electric train
+  - электропоезд
+  - passenger train
+  - пассажирский поезд
+  - locomotive
+  - локомотив
+  - wagon
+  - вагон
+  - carriage
+  - состав
+  - side view
+  - вид сбоку
+  - flat
+  - плоский
+  - modern train
+  - современный поезд
+  - streamlined
+  - обтекаемый
+  - commuter train
+  - пригородный поезд
+  - intercity
+  - междугородний
+  - public transport
+  - общественный транспорт
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

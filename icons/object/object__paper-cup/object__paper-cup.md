@@ -3,9 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - paper
+  - paper cup
+  - бумажный стакан
   - cup
+  - стакан
+  - paper
+  - бумага
+  - disposable cup
+  - одноразовый стакан
+  - takeaway cup
+  - стакан навынос
+  - drink cup
+  - стакан для напитка
+  - beverage cup
+  - стакан для кофе
+  - empty cup
+  - пустой стакан
+  - container
+  - контейнер
+  - wrapper
+  - обертка
+  - origami
+  - оригами
+  - folded paper
+  - сложенная бумага
+  - polygonal cup
+  - граненый стакан
+  - geometric
+  - геометрический
+  - minimal
+  - минималистичный
+  - gray
+  - серый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

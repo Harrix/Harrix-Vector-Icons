@@ -3,10 +3,44 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - table
+  - table lamp
+  - настольная лампа
   - lamp
+  - лампа
   - led
+  - светодиод
+  - desk lamp
+  - лампа настольная
+  - reading lamp
+  - лампа для чтения
+  - office lamp
+  - офисная лампа
+  - flexible lamp
+  - гибкая лампа
+  - adjustable lamp
+  - регулируемая лампа
+  - gooseneck lamp
+  - лампа гусиная шея
+  - modern lamp
+  - современная лампа
+  - light
+  - свет
+  - lighting
+  - освещение
+  - workspace light
+  - рабочее освещение
+  - home lamp
+  - домашняя лампа
+  - electric lamp
+  - электрическая лампа
+  - minimal lamp
+  - минималистичная лампа
+  - arched lamp
+  - изогнутая лампа
+  - base
+  - основание
+  - switch
+  - выключатель
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

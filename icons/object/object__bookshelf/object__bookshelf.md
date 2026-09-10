@@ -3,8 +3,51 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - bookshelf
+  - книжная полка
+  - bookcase
+  - книжный шкаф
+  - shelf
+  - полка
+  - books
+  - книги
+  - book stack
+  - стопка книг
+  - library
+  - библиотека
+  - book collection
+  - коллекция книг
+  - book row
+  - ряд книг
+  - stacked books
+  - сложенные книги
+  - reading
+  - чтение
+  - literature
+  - литература
+  - education
+  - образование
+  - study
+  - учеба
+  - home library
+  - домашняя библиотека
+  - office shelf
+  - офисная полка
+  - furniture
+  - мебель
+  - storage
+  - хранение
+  - book spines
+  - корешки книг
+  - shelving
+  - стеллаж
+  - book shelf
+  - flat
+  - плоский
+  - colorful
+  - цветной
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

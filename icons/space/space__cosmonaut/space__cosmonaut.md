@@ -4,7 +4,30 @@ categories:
   - space
 tags:
   - space
+  - космос
   - cosmonaut
+  - космонавт
+  - astronaut
+  - астронавт
+  - spacesuit
+  - скафандр
+  - space suit
+  - helmet
+  - шлем
+  - visor
+  - забрало
+  - space helmet
+  - spacewalk
+  - выход в космос
+  - spaceman
+  - человек в скафандре
+  - suit
+  - костюм
+  - orbiter
+  - орбитальный
+  - nasa
+  - cosmic
+  - космический
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

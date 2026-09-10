@@ -3,9 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - drone
+  - дрон
   - aero
+  - аэро
+  - quadcopter
+  - квадрокоптер
+  - uav
+  - бпла
+  - flying drone
+  - летающий дрон
+  - propeller
+  - пропеллер
+  - rotor
+  - ротор
+  - rotor guard
+  - защита ротора
+  - drone frame
+  - рама дрона
+  - aircraft
+  - летательный аппарат
+  - copter
+  - коптер
+  - multirotor
+  - мультиротор
+  - surveillance drone
+  - дрон наблюдения
+  - delivery drone
+  - дрон доставки
+  - technology
+  - технология
+  - flying device
+  - летающее устройство
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

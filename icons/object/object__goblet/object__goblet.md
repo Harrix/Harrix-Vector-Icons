@@ -3,8 +3,43 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - goblet
+  - кубок
+  - trophy
+  - трофей
+  - cup
+  - чаша
+  - award
+  - награда
+  - prize
+  - приз
+  - winner cup
+  - кубок победителя
+  - champion
+  - чемпион
+  - victory
+  - победа
+  - gold trophy
+  - золотой трофей
+  - gold cup
+  - золотой кубок
+  - tournament cup
+  - турнирный кубок
+  - winner
+  - победитель
+  - achievement
+  - достижение
+  - first place
+  - первое место
+  - championship
+  - чемпионат
+  - sports award
+  - спортивная награда
+  - trophy cup
+  - кубок трофей
+  - handle cup
+  - кубок с ручками
+  - golden cup
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

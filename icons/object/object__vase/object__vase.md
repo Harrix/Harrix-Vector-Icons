@@ -3,8 +3,32 @@ date: 2021-06-19
 categories:
   - object
 tags:
-  - object
   - vase
+  - ваза
+  - flower vase
+  - ваза для цветов
+  - decorative vase
+  - декоративная ваза
+  - ceramic vase
+  - керамическая ваза
+  - pottery
+  - керамика
+  - urn
+  - урна
+  - jug
+  - кувшин
+  - narrow neck
+  - узкое горло
+  - striped
+  - полосатый
+  - swirl
+  - завиток
+  - wavy lines
+  - волнистые линии
+  - red vase
+  - красная ваза
+  - home decor
+  - декор интерьера
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

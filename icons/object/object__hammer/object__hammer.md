@@ -3,8 +3,28 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - hammer
+  - молоток
+  - tool
+  - инструмент
+  - hand tool
+  - ручной инструмент
+  - carpenter
+  - плотницкий
+  - construction
+  - строительство
+  - repair
+  - ремонт
+  - workshop
+  - мастерская
+  - metal head
+  - металлическая головка
+  - wooden handle
+  - деревянная ручка
+  - claw hammer
+  - гвоздодер
+  - mallet
+  - киянка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

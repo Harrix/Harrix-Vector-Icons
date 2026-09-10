@@ -3,9 +3,36 @@ date: 2020-07-19
 categories:
   - nature_animal
 tags:
-  - nature
-  - animal
   - mouse
+  - мышь
+  - animal
+  - животное
+  - nature
+  - природа
+  - rat
+  - крыса
+  - rodent
+  - грызун
+  - small mammal
+  - млекопитающее
+  - gray mouse
+  - серая мышь
+  - long tail
+  - длинный хвост
+  - whiskers
+  - усы
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - icon
+  - значок
+  - pet
+  - питомец
+  - lab mouse
+  - лабораторная мышь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,8 +4,39 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - panda
+  - панда
+  - bear
+  - медведь
+  - panda face
+  - морда панды
+  - bear face
+  - морда медведя
+  - head
+  - голова
+  - face
+  - лицо
+  - mammal
+  - млекопитающее
+  - wildlife
+  - дикая природа
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - avatar
+  - аватар
+  - black white
+  - черно белый
+  - zoo
+  - зоопарк
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,10 +3,42 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - table
+  - table lamp
+  - настольная лампа
   - lamp
+  - лампа
+  - desk lamp
+  - настольный светильник
+  - banker lamp
+  - лампа банкира
+  - green lamp
+  - зеленая лампа
+  - reading lamp
+  - лампа для чтения
+  - vintage lamp
+  - винтажная лампа
+  - retro lamp
+  - ретро лампа
+  - antique lamp
+  - антикварная лампа
+  - classic lamp
+  - классическая лампа
+  - traditional lamp
+  - традиционная лампа
+  - shade
+  - абажур
+  - green shade
+  - зеленый абажур
+  - wooden base
+  - деревянное основание
+  - home lighting
+  - домашнее освещение
+  - office lamp
+  - офисная лампа
+  - bankers lamp
+  - банковская лампа
   - soviet
+  - советский
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

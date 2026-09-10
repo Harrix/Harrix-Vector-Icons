@@ -3,9 +3,44 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - touch
+  - касание
   - memory
+  - память
+  - massager
+  - массажер
+  - facial massager
+  - массажер для лица
+  - beauty device
+  - бьюти девайс
+  - skincare device
+  - прибор для ухода
+  - roller
+  - ролик
+  - massage tool
+  - массажный инструмент
+  - vibration massager
+  - вибромассажер
+  - electric massager
+  - электрический массажер
+  - handheld device
+  - ручной прибор
+  - spa tool
+  - спа инструмент
+  - cosmetic device
+  - косметический прибор
+  - face care
+  - уход за лицом
+  - skin care
+  - уход за кожей
+  - beauty gadget
+  - бьюти гаджет
+  - portable massager
+  - портативный массажер
+  - massage wand
+  - массажная палочка
+  - appliance
+  - прибор
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

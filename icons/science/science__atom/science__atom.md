@@ -4,7 +4,49 @@ categories:
   - science
 tags:
   - science
+  - наука
   - atom
+  - атом
+  - atomic
+  - атомный
+  - atomic model
+  - модель атома
+  - electron
+  - электрон
+  - electrons
+  - электроны
+  - nucleus
+  - ядро
+  - orbit
+  - орбита
+  - orbital
+  - орбиталь
+  - physics
+  - физика
+  - chemistry
+  - химия
+  - molecule
+  - молекула
+  - particle
+  - частица
+  - energy
+  - энергия
+  - scientific
+  - научный
+  - laboratory
+  - лаборатория
+  - research
+  - исследование
+  - education
+  - образование
+  - school
+  - школа
+  - quantum
+  - квантовый
+  - neutron
+  - нейтрон
+  - proton
+  - протон
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - nail
+  - гвоздь
+  - metal nail
+  - металлический гвоздь
+  - steel nail
+  - стальной гвоздь
+  - iron nail
+  - железный гвоздь
+  - fastener
+  - крепеж
+  - hardware
+  - метизы
+  - construction nail
+  - строительный гвоздь
+  - carpentry
+  - плотницкий
+  - tool
+  - инструмент
+  - pointed
+  - острый
+  - gray
+  - серый
+  - simple icon
+  - простая иконка
+  - silhouette
+  - силуэт
+  - long nail
+  - длинный гвоздь
+  - headed nail
+  - шляпка гвоздя
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

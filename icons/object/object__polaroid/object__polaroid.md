@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - polaroid
+  - полароид
+  - photo frame
+  - фоторамка
+  - instant photo
+  - мгновенное фото
+  - instant camera
+  - мгновенная камера
+  - photo print
+  - фотопечать
+  - snapshot
+  - снимок
+  - picture
+  - картинка
+  - photograph
+  - фотография
+  - photo card
+  - фотокарточка
+  - blank photo
+  - пустое фото
+  - empty frame
+  - пустая рамка
+  - square photo
+  - квадратное фото
+  - vintage photo
+  - винтажное фото
+  - film print
+  - фотоснимок
+  - retro frame
+  - ретро рамка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

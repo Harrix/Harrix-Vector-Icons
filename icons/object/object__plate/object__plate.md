@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - plate
+  - тарелка
+  - bowl
+  - миска
+  - hot bowl
+  - горячая миска
+  - steam
+  - пар
+  - steaming
+  - горячий
+  - soup bowl
+  - миска супа
+  - soup
+  - суп
+  - food
+  - еда
+  - dish
+  - блюдо
+  - serving bowl
+  - сервировочная миска
+  - ceramic bowl
+  - керамическая миска
+  - tableware
+  - посуда
+  - kitchenware
+  - кухонная посуда
+  - hot food
+  - горячая еда
+  - meal
+  - прием пищи
+  - cooking
+  - готовка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

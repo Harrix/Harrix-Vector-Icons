@@ -3,10 +3,34 @@ date: 2020-07-19
 categories:
   - playing-card
 tags:
-  - playing-card
   - ace
-  - of
+  - туз
   - clubs
+  - трефы
+  - ace of clubs
+  - туз треф
+  - club suit
+  - масть треф
+  - playing card
+  - игральная карта
+  - card game
+  - карточная игра
+  - poker
+  - покер
+  - black suit
+  - черная масть
+  - deck
+  - колода
+  - casino
+  - казино
+  - gambling
+  - азартная игра
+  - card symbol
+  - карточный символ
+  - club symbol
+  - символ треф
+  - card face
+  - лицевая карта
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

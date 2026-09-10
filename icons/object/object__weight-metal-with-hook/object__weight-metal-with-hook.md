@@ -3,11 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - weight
+  - вес
   - metal
-  - with
+  - металл
   - hook
+  - крюк
+  - weight plate
+  - гиря
+  - hanging weight
+  - подвесной груз
+  - mass
+  - масса
+  - heavy
+  - тяжелый
+  - load
+  - груз
+  - counterweight
+  - противовес
+  - 100
+  - 100 кг
+  - kilogram
+  - килограмм
+  - scale weight
+  - весы
+  - iron
+  - железо
+  - steel
+  - сталь
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

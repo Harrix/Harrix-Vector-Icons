@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - transport
 tags:
-  - transport
   - balloon
+  - воздушный шар
+  - hot air balloon
+  - аэростат
+  - air balloon
+  - монгольфьер
+  - basket
+  - корзина
+  - flight
+  - полет
+  - flying
+  - полетный
+  - aviation
+  - авиация
+  - air travel
+  - воздушный транспорт
+  - red white
+  - красно-белый
+  - striped
+  - полосатый
+  - travel
+  - путешествие
+  - tourism
+  - туризм
+  - sky
+  - небо
+  - floating
+  - парящий
+  - flat
+  - плоский
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

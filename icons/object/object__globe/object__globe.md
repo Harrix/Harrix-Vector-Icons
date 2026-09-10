@@ -3,8 +3,34 @@ date: 2020-09-15
 categories:
   - object
 tags:
-  - object
   - globe
+  - глобус
+  - earth
+  - земля
+  - world
+  - мир
+  - planet
+  - планета
+  - world globe
+  - earth globe
+  - school globe
+  - geography
+  - география
+  - map
+  - карта
+  - world map
+  - stand globe
+  - desktop globe
+  - asia
+  - азия
+  - europe
+  - европа
+  - africa
+  - африка
+  - india
+  - индия
+  - cartography
+  - картография
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

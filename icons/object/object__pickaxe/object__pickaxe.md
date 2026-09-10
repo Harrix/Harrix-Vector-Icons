@@ -3,8 +3,30 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - pickaxe
+  - кирка
+  - pick
+  - киркомотыга
+  - mining tool
+  - инструмент шахтера
+  - tool
+  - инструмент
+  - mine
+  - шахта
+  - mining
+  - добыча
+  - excavation
+  - раскопки
+  - hammer pick
+  - мотыга
+  - wooden handle
+  - деревянная рукоять
+  - metal head
+  - металлический наконечник
+  - hand tool
+  - ручной инструмент
+  - axe pick
+  - горный инструмент
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

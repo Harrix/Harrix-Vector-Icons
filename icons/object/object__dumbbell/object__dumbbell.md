@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - dumbbell
+  - гантель
+  - barbell
+  - штанга
+  - weight
+  - вес
+  - gym
+  - зал
+  - fitness
+  - фитнес
+  - workout
+  - тренировка
+  - exercise
+  - упражнение
+  - strength
+  - сила
+  - weightlifting
+  - тяжелая атлетика
+  - bodybuilding
+  - бодибилдинг
+  - lifting
+  - подъем
+  - free weight
+  - свободный вес
+  - sports equipment
+  - спортивный инвентарь
+  - metal dumbbell
+  - металлическая гантель
+  - heavy weight
+  - большой вес
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -4,7 +4,33 @@ categories:
   - science
 tags:
   - science
+  - наука
   - tube
+  - трубка
+  - test tube
+  - пробирка
+  - lab tube
+  - лабораторная пробирка
+  - glass tube
+  - стеклянная трубка
+  - vial
+  - виала
+  - sample
+  - образец
+  - liquid
+  - жидкость
+  - chemical
+  - химический
+  - laboratory
+  - лаборатория
+  - experiment
+  - эксперимент
+  - reagent
+  - реагент
+  - specimen
+  - проба
+  - cork
+  - пробка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

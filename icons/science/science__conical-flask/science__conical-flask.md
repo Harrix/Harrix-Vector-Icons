@@ -4,8 +4,51 @@ categories:
   - science
 tags:
   - science
+  - наука
   - conical
+  - коническая
   - flask
+  - колба
+  - lab flask
+  - лабораторная колба
+  - erlenmeyer flask
+  - колба эрленмейера
+  - chemistry
+  - химия
+  - laboratory
+  - лаборатория
+  - experiment
+  - эксперимент
+  - chemical
+  - химический
+  - glassware
+  - лабораторная посуда
+  - beaker
+  - мензурка
+  - reagent
+  - реагент
+  - solution
+  - раствор
+  - liquid
+  - жидкость
+  - measurement
+  - измерение
+  - graduated
+  - градуированная
+  - lab equipment
+  - лабораторное оборудование
+  - chemist
+  - химик
+  - research
+  - исследование
+  - sample
+  - образец
+  - red liquid
+  - красная жидкость
+  - flat design
+  - плоский дизайн
+  - icon
+  - иконка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

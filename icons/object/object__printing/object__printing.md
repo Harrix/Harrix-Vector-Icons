@@ -3,8 +3,56 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - printing
+  - печать
+  - printer
+  - принтер
+  - print
+  - печать документов
+  - print badge
+  - печать значок
+  - print label
+  - этикетка
+  - barcode
+  - штрихкод
+  - scanner
+  - сканер
+  - scan
+  - сканирование
+  - ticket
+  - билет
+  - label
+  - наклейка
+  - stamp
+  - штамп
+  - seal
+  - печать штамп
+  - emblem
+  - эмблема
+  - badge
+  - значок
+  - round badge
+  - круглый значок
+  - certificate
+  - сертификат
+  - security seal
+  - защитная печать
+  - guilloche
+  - гильош
+  - ornament
+  - орнамент
+  - circular
+  - круглый
+  - geometric
+  - геометрический
+  - abstract
+  - абстрактный
+  - technology
+  - технология
+  - interface
+  - интерфейс
+  - symbol
+  - символ
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - transport
 tags:
-  - transport
   - bus
+  - автобус
+  - city bus
+  - городской автобус
+  - public transport
+  - общественный транспорт
+  - transit bus
+  - рейсовый автобус
+  - passenger bus
+  - пассажирский автобус
+  - long bus
+  - длинный автобус
+  - articulated bus
+  - сочлененный автобус
+  - bendy bus
+  - гармошка
+  - double bus
+  - двухсекционный автобус
+  - vehicle
+  - транспорт
+  - wheels
+  - колеса
+  - side view
+  - вид сбоку
+  - flat
+  - плоский
+  - blue bus
+  - синий автобус
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

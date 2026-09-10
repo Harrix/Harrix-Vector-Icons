@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - elevator
+  - лифт
+  - lift
+  - подъемник
+  - elevator doors
+  - двери лифта
+  - elevator panel
+  - панель лифта
+  - lift doors
+  - двери подъемника
+  - up arrow
+  - стрелка вверх
+  - down arrow
+  - стрелка вниз
+  - up button
+  - кнопка вверх
+  - down button
+  - кнопка вниз
+  - call button
+  - кнопка вызова
+  - floor indicator
+  - индикатор этажа
+  - elevator shaft
+  - шахта лифта
+  - building interior
+  - интерьер здания
+  - hallway
+  - коридор
+  - entrance
+  - вход
+  - closed doors
+  - закрытые двери
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

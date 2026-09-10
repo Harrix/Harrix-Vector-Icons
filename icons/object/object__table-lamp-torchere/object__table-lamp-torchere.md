@@ -3,10 +3,42 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - table
+  - стол
   - lamp
+  - лампа
   - torchere
+  - торшер
+  - table lamp
+  - настольная лампа
+  - desk lamp
+  - лампа настольная
+  - light
+  - свет
+  - lighting
+  - освещение
+  - lampshade
+  - абажур
+  - shade
+  - плафон
+  - home decor
+  - декор дома
+  - furniture
+  - мебель
+  - interior
+  - интерьер
+  - bedside lamp
+  - прикроватная лампа
+  - nightstand lamp
+  - ночная лампа
+  - electric lamp
+  - электрическая лампа
+  - gold shade
+  - золотой абажур
+  - ceramic base
+  - керамическое основание
+  - vase lamp
+  - лампа ваза
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

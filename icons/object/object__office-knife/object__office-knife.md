@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
   - office
+  - офис
   - knife
+  - нож
+  - utility knife
+  - канцелярский нож
+  - box cutter
+  - нож для коробок
+  - paper cutter
+  - резак
+  - blade
+  - лезвие
+  - retractable knife
+  - выдвижной нож
+  - snap off blade
+  - сегментное лезвие
+  - cutter
+  - нож резак
+  - stationery knife
+  - офисный нож
+  - yellow cutter
+  - желтый нож
+  - tool
+  - инструмент
+  - sharp blade
+  - острое лезвие
+  - craft knife
+  - макетный нож
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

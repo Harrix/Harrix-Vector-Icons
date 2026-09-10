@@ -4,8 +4,41 @@ categories:
   - nature_animal
 tags:
   - nature
+  - природа
   - animal
+  - животное
   - monkey
+  - обезьяна
+  - ape
+  - примат
+  - chimp
+  - шимпанзе
+  - chimpanzee
+  - морда обезьяны
+  - monkey face
+  - head
+  - голова
+  - face
+  - морда
+  - muzzle
+  - уши
+  - ears
+  - cute
+  - милый
+  - cartoon
+  - мультяшный
+  - flat
+  - плоский
+  - brown
+  - коричневый
+  - smile
+  - улыбка
+  - zoo
+  - зоопарк
+  - jungle
+  - джунгли
+  - wildlife
+  - дикая природа
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

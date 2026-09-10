@@ -3,8 +3,34 @@ date: 2020-07-19
 categories:
   - object
 tags:
-  - object
-  - line_of_triangle
+  - triangle ruler
+  - треугольная линейка
+  - set square
+  - угольник
+  - drafting triangle
+  - чертежный угольник
+  - ruler
+  - линейка
+  - measuring tool
+  - измерительный инструмент
+  - geometry
+  - геометрия
+  - triangle
+  - треугольник
+  - right triangle
+  - прямоугольный треугольник
+  - scale
+  - шкала
+  - measurement
+  - измерение
+  - drafting
+  - черчение
+  - tool
+  - инструмент
+  - yellow ruler
+  - желтая линейка
+  - angle ruler
+  - угловая линейка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
