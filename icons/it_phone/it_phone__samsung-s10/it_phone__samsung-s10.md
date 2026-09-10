@@ -3,10 +3,38 @@ date: 2020-07-19
 categories:
   - it_phone
 tags:
-  - it
   - phone
+  - телефон
   - samsung
+  - самсунг
   - s10
+  - смартфон
+  - smartphone
+  - mobile
+  - мобильный
+  - android
+  - андроид
+  - galaxy
+  - галакси
+  - galaxy s10
+  - samsung galaxy
+  - front view
+  - вид спереди
+  - mobile phone
+  - сотовый телефон
+  - cell phone
+  - сенсорный экран
+  - touchscreen
+  - dual camera
+  - двойная камера
+  - front camera
+  - фронтальная камера
+  - punch hole
+  - отверстие в экране
+  - bezel
+  - рамка
+  - device
+  - устройство
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

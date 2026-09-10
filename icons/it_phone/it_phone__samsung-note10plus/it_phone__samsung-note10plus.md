@@ -3,10 +3,47 @@ date: 2020-07-19
 categories:
   - it_phone
 tags:
-  - it
   - phone
+  - телефон
   - samsung
+  - самсунг
   - note10plus
+  - galaxy note 10
+  - galaxy note10
+  - смартфон
+  - smartphone
+  - mobile phone
+  - мобильный телефон
+  - cell phone
+  - сотовый телефон
+  - android phone
+  - андроид телефон
+  - touchscreen
+  - сенсорный экран
+  - display
+  - дисплей
+  - screen
+  - экран
+  - front view
+  - вид спереди
+  - bezel
+  - рамка
+  - camera hole
+  - отверстие камеры
+  - front camera
+  - фронтальная камера
+  - device
+  - устройство
+  - handset
+  - трубка
+  - modern phone
+  - современный телефон
+  - black phone
+  - черный телефон
+  - blank screen
+  - пустой экран
+  - mockup
+  - макет
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

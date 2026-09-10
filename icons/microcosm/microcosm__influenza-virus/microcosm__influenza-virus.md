@@ -3,9 +3,65 @@ date: 2020-07-19
 categories:
   - microcosm
 tags:
-  - microcosm
   - influenza
+  - грипп
   - virus
+  - вирус
+  - viral
+  - вирусный
+  - virion
+  - вирион
+  - pathogen
+  - патоген
+  - microbe
+  - микроб
+  - germ
+  - зародыш
+  - infection
+  - инфекция
+  - infectious
+  - заразный
+  - disease
+  - болезнь
+  - flu
+  - flu virus
+  - вирус гриппа
+  - virus cell
+  - клетка вируса
+  - viral particle
+  - вирусная частица
+  - coronavirus
+  - коронавирус
+  - bacteria
+  - бактерия
+  - microorganism
+  - микроорганизм
+  - cell
+  - клетка
+  - spike
+  - шип
+  - spiky
+  - шипастый
+  - round
+  - круглый
+  - circular
+  - круговой
+  - abstract
+  - абстрактный
+  - flat
+  - плоский
+  - icon
+  - иконка
+  - symbol
+  - символ
+  - medical
+  - медицинский
+  - biology
+  - биология
+  - microscopic
+  - микроскопический
+  - organism
+  - организм
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

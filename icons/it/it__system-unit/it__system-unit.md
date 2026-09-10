@@ -3,9 +3,52 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - system
+  - система
   - unit
+  - блок
+  - server
+  - сервер
+  - computer
+  - компьютер
+  - pc
+  - персональный компьютер
+  - tower
+  - башня
+  - computer tower
+  - системный блок
+  - server tower
+  - серверная башня
+  - workstation
+  - рабочая станция
+  - desktop case
+  - корпус пк
+  - cpu case
+  - корпус компьютера
+  - hardware
+  - оборудование
+  - machine
+  - машина
+  - device
+  - устройство
+  - electronics
+  - электроника
+  - data center
+  - дата центр
+  - hosting
+  - хостинг
+  - network server
+  - сетевой сервер
+  - rack server
+  - стоечный сервер
+  - led indicator
+  - индикатор
+  - front panel
+  - передняя панель
+  - vent grille
+  - вентиляционная решетка
+  - metal case
+  - металлический корпус
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

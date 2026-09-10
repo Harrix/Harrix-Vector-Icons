@@ -3,11 +3,52 @@ date: 2020-07-19
 categories:
   - it_phone
 tags:
-  - it
   - phone
+  - телефон
   - oneplus
+  - ванплас
   - 7
+  - семь
   - pro
+  - про
+  - smartphone
+  - смартфон
+  - mobile
+  - мобильный
+  - mobile phone
+  - мобильный телефон
+  - cell phone
+  - сотовый телефон
+  - android phone
+  - андроид телефон
+  - oneplus 7
+  - ванплас 7
+  - oneplus 7 pro
+  - ванплас 7 про
+  - device
+  - устройство
+  - gadget
+  - гаджет
+  - touchscreen
+  - сенсорный экран
+  - screen
+  - экран
+  - display
+  - дисплей
+  - bezel less
+  - безрамочный
+  - full screen
+  - полный экран
+  - front view
+  - вид спереди
+  - mockup
+  - макет
+  - blank screen
+  - пустой экран
+  - black phone
+  - черный телефон
+  - slim phone
+  - тонкий смартфон
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

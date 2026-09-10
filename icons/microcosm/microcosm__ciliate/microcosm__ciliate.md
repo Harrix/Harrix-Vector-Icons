@@ -3,8 +3,38 @@ date: 2020-07-19
 categories:
   - microcosm
 tags:
-  - microcosm
   - ciliate
+  - инфузория
+  - protozoa
+  - простейшее
+  - paramecium
+  - парамеция
+  - single cell
+  - одноклеточный
+  - microorganism
+  - микроорганизм
+  - microscopic
+  - микроскопический
+  - cell
+  - клетка
+  - cilia
+  - реснички
+  - biology
+  - биология
+  - amoeba
+  - амеба
+  - germ
+  - микроб
+  - bacterium
+  - бактерия
+  - plankton
+  - планктон
+  - pond organism
+  - прудовый организм
+  - blob
+  - капля
+  - abstract cell
+  - абстрактная клетка
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -3,8 +3,36 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - trash
+  - мусор
+  - trash can
+  - мусорная корзина
+  - bin
+  - корзина
+  - garbage
+  - отходы
+  - delete
+  - удалить
+  - remove
+  - удаление
+  - discard
+  - выбросить
+  - recycle bin
+  - корзина удаления
+  - waste basket
+  - урна
+  - dustbin
+  - контейнер
+  - full trash
+  - полная корзина
+  - closed bin
+  - закрытая корзина
+  - icon
+  - иконка
+  - flat
+  - плоский
+  - grey
+  - серый
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

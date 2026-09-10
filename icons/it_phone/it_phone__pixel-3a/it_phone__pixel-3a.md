@@ -3,10 +3,37 @@ date: 2020-07-19
 categories:
   - it_phone
 tags:
-  - it
   - phone
+  - телефон
   - pixel
+  - пиксель
   - 3a
+  - смартфон
+  - smartphone
+  - mobile
+  - мобильный
+  - mobile phone
+  - мобильный телефон
+  - cell phone
+  - сотовый телефон
+  - android
+  - андроид
+  - google pixel
+  - гугл пиксель
+  - device
+  - устройство
+  - screen
+  - экран
+  - display
+  - дисплей
+  - touchscreen
+  - сенсорный экран
+  - handset
+  - трубка
+  - black phone
+  - черный телефон
+  - front view
+  - вид спереди
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

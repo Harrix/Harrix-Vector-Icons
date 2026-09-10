@@ -3,9 +3,56 @@ date: 2020-07-19
 categories:
   - medicine
 tags:
-  - medicine
   - medical
+  - медицинский
   - mask
+  - маска
+  - medicine
+  - медицина
+  - face mask
+  - маска для лица
+  - surgical mask
+  - хирургическая маска
+  - medical mask
+  - медицинская маска
+  - protective mask
+  - защитная маска
+  - disposable mask
+  - одноразовая маска
+  - respirator
+  - респиратор
+  - mouth cover
+  - повязка
+  - healthcare
+  - здравоохранение
+  - hospital
+  - больница
+  - clinic
+  - клиника
+  - protection
+  - защита
+  - safety
+  - безопасность
+  - hygiene
+  - гигиена
+  - antivirus
+  - антивирус
+  - prevention
+  - профилактика
+  - doctor
+  - врач
+  - nurse
+  - медсестра
+  - pandemic
+  - пандемия
+  - quarantine
+  - карантин
+  - covid
+  - ковид
+  - virus
+  - вирус
+  - infection
+  - инфекция
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

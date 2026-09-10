@@ -3,8 +3,49 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - table
+  - таблица
+  - data table
+  - таблица данных
+  - spreadsheet
+  - электронная таблица
+  - grid
+  - сетка
+  - rows
+  - строки
+  - columns
+  - столбцы
+  - cells
+  - ячейки
+  - database
+  - база данных
+  - dataset
+  - набор данных
+  - data grid
+  - сетка данных
+  - analytics
+  - аналитика
+  - report
+  - отчет
+  - dashboard
+  - панель
+  - interface
+  - интерфейс
+  - ui
+  - sorting
+  - сортировка
+  - layout
+  - макет
+  - structured data
+  - структурированные данные
+  - matrix
+  - матрица
+  - list
+  - список
+  - blue
+  - синий
+  - flat
+  - плоский
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

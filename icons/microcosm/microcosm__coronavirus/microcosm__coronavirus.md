@@ -3,8 +3,58 @@ date: 2020-07-19
 categories:
   - microcosm
 tags:
-  - microcosm
   - coronavirus
+  - коронавирус
+  - virus
+  - вирус
+  - viral
+  - вирусный
+  - pathogen
+  - патоген
+  - microbe
+  - микроб
+  - germ
+  - infection
+  - инфекция
+  - infectious
+  - инфекционный
+  - disease
+  - болезнь
+  - cell
+  - клетка
+  - particle
+  - частица
+  - virion
+  - вирион
+  - spike
+  - шип
+  - spiky
+  - шипастый
+  - crown virus
+  - коронный вирус
+  - corona
+  - корона
+  - sars cov 2
+  - covid
+  - ковид
+  - covid 19
+  - ковид 19
+  - epidemic
+  - эпидемия
+  - pandemic
+  - пандемия
+  - round virus
+  - круглый вирус
+  - cell structure
+  - структура клетки
+  - microscopic
+  - микроскопический
+  - biology
+  - биология
+  - medical
+  - медицинский
+  - healthcare
+  - здравоохранение
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

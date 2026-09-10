@@ -3,9 +3,34 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - trash
+  - мусор
   - full
+  - полный
+  - trash can
+  - мусорное ведро
+  - garbage bin
+  - корзина
+  - waste bin
+  - урна
+  - delete
+  - удалить
+  - remove
+  - удаление
+  - discard
+  - выбросить
+  - paper
+  - бумага
+  - document
+  - документ
+  - file delete
+  - удаление файла
+  - full bin
+  - полная корзина
+  - recycle bin
+  - корзина для мусора
+  - bin icon
+  - иконка корзины
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

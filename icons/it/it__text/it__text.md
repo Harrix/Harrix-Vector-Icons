@@ -3,8 +3,42 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - text
+  - текст
+  - html
+  - хтмл
+  - web page
+  - веб страница
+  - document
+  - документ
+  - file
+  - файл
+  - code file
+  - файл кода
+  - source code
+  - исходный код
+  - markup
+  - разметка
+  - website
+  - вебсайт
+  - browser page
+  - страница браузера
+  - page layout
+  - макет страницы
+  - template
+  - шаблон
+  - article
+  - статья
+  - content
+  - контент
+  - header
+  - заголовок
+  - lines
+  - строки
+  - sheet
+  - лист
+  - html file
+  - html документ
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

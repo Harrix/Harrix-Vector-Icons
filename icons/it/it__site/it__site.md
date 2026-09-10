@@ -3,8 +3,49 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - site
+  - сайт
+  - website
+  - веб сайт
+  - web page
+  - веб страница
+  - landing page
+  - лендинг
+  - homepage
+  - главная страница
+  - browser
+  - браузер
+  - web browser
+  - окно браузера
+  - browser window
+  - интерфейс
+  - ui
+  - макет
+  - layout
+  - шаблон
+  - template
+  - carousel
+  - карусель
+  - slider
+  - слайдер
+  - slideshow
+  - слайдшоу
+  - banner
+  - баннер
+  - hero banner
+  - главный баннер
+  - navigation
+  - навигация
+  - arrow
+  - стрелка
+  - responsive
+  - адаптивный
+  - web design
+  - веб дизайн
+  - landing
+  - главная
+  - online page
+  - интернет страница
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

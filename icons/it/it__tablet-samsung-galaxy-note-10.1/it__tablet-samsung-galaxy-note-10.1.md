@@ -3,12 +3,39 @@ date: 2020-07-19
 categories:
   - it
 tags:
-  - it
   - tablet
+  - планшет
   - samsung
+  - самсунг
   - galaxy
+  - галакси
   - note
+  - ноут
   - 10.1
+  - android tablet
+  - планшет android
+  - touchscreen
+  - сенсорный экран
+  - device
+  - устройство
+  - screen
+  - экран
+  - display
+  - дисплей
+  - mobile device
+  - мобильное устройство
+  - portable
+  - портативный
+  - gadget
+  - гаджет
+  - electronics
+  - электроника
+  - black tablet
+  - черный планшет
+  - tab
+  - таблет
+  - galaxy note
+  - галакси ноут
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

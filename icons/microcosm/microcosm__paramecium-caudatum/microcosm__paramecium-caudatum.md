@@ -3,9 +3,41 @@ date: 2020-07-19
 categories:
   - microcosm
 tags:
-  - microcosm
   - paramecium
+  - парамеция
   - caudatum
+  - paramecium caudatum
+  - парамеция хвостатая
+  - ciliate
+  - инфузория
+  - ciliates
+  - инфузории
+  - protozoa
+  - простейшие
+  - unicellular
+  - одноклеточный
+  - microorganism
+  - микроорганизм
+  - single cell
+  - одна клетка
+  - cell
+  - клетка
+  - organism
+  - организм
+  - biology
+  - биология
+  - microscopic
+  - микроскопический
+  - microscope
+  - микроскоп
+  - cilia
+  - реснички
+  - slipper animalcule
+  - туфелька
+  - paramecium bursaria
+  - парамециум
+  - protist
+  - протист
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

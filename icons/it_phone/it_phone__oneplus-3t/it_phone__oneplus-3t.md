@@ -3,10 +3,43 @@ date: 2020-07-19
 categories:
   - it_phone
 tags:
-  - it
   - phone
+  - телефон
   - oneplus
+  - ванплас
   - 3t
+  - смартфон
+  - smartphone
+  - mobile
+  - мобильный
+  - mobile phone
+  - мобильный телефон
+  - cell phone
+  - сотовый телефон
+  - android
+  - андроид
+  - touchscreen
+  - сенсорный экран
+  - screen
+  - экран
+  - display
+  - дисплей
+  - device
+  - устройство
+  - gadget
+  - гаджет
+  - handset
+  - трубка
+  - front view
+  - вид спереди
+  - black phone
+  - черный телефон
+  - button
+  - кнопка
+  - home button
+  - кнопка домой
+  - modern phone
+  - современный телефон
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
