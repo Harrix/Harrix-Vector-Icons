@@ -73,3 +73,5 @@ lang: en
 - ![object__bunker-door_black](img/object__bunker-door_black.svg)
 - ![object__bunker-door_gray](img/object__bunker-door_gray.svg)
 - ![object__bunker-door_white](img/object__bunker-door_white.svg)
+- ![object__bunker-door_03](img/object__bunker-door_03.svg)
+- ![object__bunker-door_04](img/object__bunker-door_04.svg)
