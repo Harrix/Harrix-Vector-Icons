@@ -23,7 +23,7 @@ tags:
   - неверно
   - incorrect
   - incorrecto
-  - no
+  - false
   - нет
   - minus
   - минус

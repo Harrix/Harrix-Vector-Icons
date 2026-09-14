@@ -15,7 +15,7 @@ tags:
   - удалить
   - remove
   - убрать
-  - no
+  - false
   - нет
   - wrong
   - ошибка

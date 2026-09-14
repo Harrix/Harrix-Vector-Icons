@@ -25,7 +25,7 @@ tags:
   - готово
   - success
   - успех
-  - yes
+  - true
   - да
   - valid
   - валидно

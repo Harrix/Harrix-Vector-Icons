@@ -38,9 +38,9 @@ tags:
   - электрический
   - energy
   - энергия
-  - off
+  - false
   - выкл
-  - on
+  - true
   - вкл
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
